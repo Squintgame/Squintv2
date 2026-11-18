@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Squint crop picker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #F7F6F2;
+    --surface: #FFFFFF;
+    --ink: #1C1D1F;
+    --muted: #6B6C70;
+    --line: #DEDCD5;
+    --accent: #16756C;
+    --accent-ink: #FFFFFF;
+    --warn: #B5531F;
+    --font: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141516;
+      --surface: #1E2022;
+      --ink: #ECEBE7;
+      --muted: #9A9B9F;
+      --line: #33363A;
+      --accent: #3FB3A6;
+      --accent-ink: #0D1A18;
+      --warn: #E8925A;
+      color-scheme: dark;
+    }
+  }
+  *, *::before, *::after { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 15px; line-height: 1.45; }
+  button, input, select { font: inherit; color: inherit; }
+  :focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+  header { display: flex; align-items: baseline; gap: 14px; padding: 16px 24px; border-bottom: 1px solid var(--line); }
+  header h1 { margin: 0; font-size: 1.4rem; font-weight: 800; letter-spacing: -0.02em; }
+  header p { margin: 0; color: var(--muted); }
+
+  .layout { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 20px; padding: 20px 24px 40px; align-items: start; }
+  @media (max-width: 920px) { .layout { grid-template-columns: 1fr; } }
+
+  /* Stage */
+  .stage-wrap {
+    position: relative; min-height: 70vh; display: grid; place-items: center;
+    background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px;
+  }
+  .stage-wrap.dragover { border-color: var(--accent); border-style: dashed; }
+  #stage { display: block; max-width: 100%; max-height: 80vh; width: auto; height: auto; touch-action: none; border-radius: 6px; }
+  .empty { text-align: center; max-width: 340px; }
+  .empty h2 { font-size: 1.3rem; margin: 0 0 6px; }
+  .empty p { color: var(--muted); margin: 0 0 16px; }
+
+  /* Panel */
+  .panel { display: grid; gap: 18px; }
+  .card { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 16px; }
+  .card h2 { font-size: 1rem; margin: 0 0 10px; }
+  .tabs { display: grid; grid-template-columns: repeat(7, 1fr); gap: 5px; }
+  .tab {
+    position: relative; padding: 8px 0; border: 1px solid var(--line); border-radius: 10px;
+    background: var(--bg); cursor: pointer; font-weight: 600; font-size: 0.9rem;
+  }
+  .tab[aria-pressed="true"] { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+  .tab.warn::after {
+    content: ""; position: absolute; top: 4px; right: 4px; width: 6px; height: 6px; border-radius: 50%; background: var(--warn);
+  }
+  .info { margin: 10px 0 0; }
+  .warning { margin: 6px 0 0; color: var(--warn); }
+  .help { margin: 10px 0 0; color: var(--muted); font-size: 0.88rem; }
+
+  #preview { display: block; width: 100%; aspect-ratio: 1 / 1; border-radius: 14px; border: 5px solid var(--ink); background: var(--bg); }
+  .row { display: flex; gap: 8px; margin-top: 10px; }
+  .btn { border: 0; border-radius: 12px; padding: 10px 14px; font-weight: 600; cursor: pointer; }
+  .btn.primary { background: var(--accent); color: var(--accent-ink); }
+  .btn.ghost { background: transparent; border: 1px solid var(--line); }
+  .btn.ghost:hover { border-color: var(--muted); }
+  .btn:disabled { opacity: 0.45; cursor: not-allowed; }
+  .row .btn { flex: 1; }
+
+  label.field { display: grid; gap: 4px; margin-bottom: 10px; font-size: 0.9rem; color: var(--muted); }
+  label.field input, label.field select {
+    padding: 9px 11px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--ink);
+  }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .status { min-height: 1.45em; margin: 10px 0 0; color: var(--muted); }
+  .file-btn { position: relative; overflow: hidden; display: inline-block; }
+  .file-btn input { position: absolute; inset: 0; opacity: 0; cursor: pointer; }
+  .wide { width: 100%; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Squint crop picker</h1>
+  <p>Frame six zoom levels and the full reveal, then export them as one puzzle.</p>
+</header>
+
+<div class="layout">
+  <div class="stage-wrap" id="stageWrap">
+    <div class="empty" id="empty">
+      <h2>Open a photo to start</h2>
+      <p>Drop an image here, or choose one from your computer. Nothing is uploaded; it all stays in this browser tab.</p>
+      <span class="btn primary file-btn">Choose photo<input type="file" id="fileInput" accept="image/*"></span>
+    </div>
+    <canvas id="stage" tabindex="0" hidden aria-label="Photo with zoom boxes. Arrow keys move the selected box, plus and minus resize it, keys 1 to 7 select a level."></canvas>
+  </div>
+
+  <div class="panel">
+    <section class="card">
+      <h2>Zoom levels</h2>
+      <div class="tabs" id="tabs"></div>
+      <p class="info" id="info">Open a photo to place the boxes.</p>
+      <p class="warning" id="warning" hidden></p>
+      <p class="help">Drag inside the highlighted box to move it; the smaller levels move with it. Drag its corner dot, scroll, or press + and − to resize. Click a larger box to select it, or press 1–7.</p>
+    </section>
+
+    <section class="card">
+      <h2>Preview</h2>
+      <canvas id="preview" width="720" height="720"></canvas>
+      <div class="row">
+        <button class="btn ghost" id="prevBtn" disabled>Back</button>
+        <button class="btn ghost" id="nextBtn" disabled>Zoom out</button>
+        <button class="btn primary" id="playBtn" disabled>Play all</button>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Puzzle details</h2>
+      <div class="two">
+        <label class="field">Puzzle ID<input id="pid" placeholder="e.g. 14"></label>
+        <label class="field">Answer<input id="answer" placeholder="e.g. Pineapple"></label>
+      </div>
+      <label class="field">Hint (shown after 3 misses)<input id="hint" placeholder="e.g. It grows out of the middle of a spiky plant."></label>
+      <label class="field">Photo source URL<input id="source" placeholder="https://"></label>
+      <label class="field">License<input id="license" placeholder="e.g. CC0, Unsplash License"></label>
+      <div class="two">
+        <label class="field">Image size
+          <select id="outSize">
+            <option value="600">600 px</option>
+            <option value="800" selected>800 px</option>
+            <option value="1200">1200 px</option>
+          </select>
+        </label>
+        <label class="field">Format
+          <select id="format">
+            <option value="image/jpeg" selected>JPEG</option>
+            <option value="image/webp">WebP</option>
+          </select>
+        </label>
+      </div>
+      <button class="btn primary wide" id="exportBtn" disabled>Download puzzle (.zip)</button>
+      <div class="row">
+        <span class="btn ghost file-btn" style="flex:1;text-align:center">Load a record file<input type="file" id="importInput" accept=".json,application/json"></span>
+      </div>
+      <p class="status" id="status" role="status" aria-live="polite"></p>
+    </section>
+  </div>
+</div>
+
+<script>
+/* =========================================================
+   SETUP
+   ========================================================= */
+const $ = id => document.getElementById(id);
+const LEVEL_NAMES = ["1", "2", "3", "4", "5", "6", "Full"];
+const DEFAULT_SCALES = [9, 6, 4, 2.6, 1.7, 1.2]; // starting sizes, same as the game prototype
+const MIN_RATIO = 1.15;  // each box must be at least 15% bigger than the one inside it
+const BOX_ACCENT = "#2EC4B6";
+
+const stage = $("stage"), ctx = stage.getContext("2d");
+const preview = $("preview"), pctx = preview.getContext("2d");
+
+let img = null, W = 0, H = 0, fileName = "";
+let rects = [];         // 7 boxes in original-photo pixels: {x, y, s}; index 6 is the full reveal
+let sel = 0;            // selected box
+let animating = false, animToken = 0;
+
+const clamp = (v, lo, hi) => Math.min(hi, Math.max(lo, v));
+const inside = (p, r) => p.x >= r.x && p.x <= r.x + r.s && p.y >= r.y && p.y <= r.y + r.s;
+
+let statusTimer;
+function say(text) {
+  $("status").textContent = text;
+  clearTimeout(statusTimer);
+  statusTimer = setTimeout(() => ($("status").textContent = ""), 5000);
+}
+
+/* Level tabs */
+$("tabs").innerHTML = LEVEL_NAMES.map((n, i) =>
+  `<button class="tab" data-i="${i}" aria-pressed="false" aria-label="${i < 6 ? "Level " + n : "Full picture"}">${n}</button>`
+).join("");
+$("tabs").addEventListener("click", e => {
+  const b = e.target.closest(".tab");
+  if (b && img) { stopAnim(); sel = +b.dataset.i; render(); }
+});
+
+/* =========================================================
+   LOADING A PHOTO
+   ========================================================= */
+function loadFile(file) {
+  if (!file || !file.type.startsWith("image/")) { say("That file isn't an image. Choose a JPEG, PNG or WebP."); return; }
+  const im = new Image();
+  im.onload = () => {
+    img = im; W = im.naturalWidth; H = im.naturalHeight; fileName = file.name;
+    resetBoxes();
+    const k = Math.min(1, 1600 / Math.max(W, H));
+    stage.width = Math.round(W * k); stage.height = Math.round(H * k);
+    $("empty").hidden = true; stage.hidden = false;
+    ["prevBtn", "nextBtn", "playBtn", "exportBtn"].forEach(id => ($(id).disabled = false));
+    sel = 0; render(); stage.focus();
+    if (Math.min(W, H) < +$("outSize").value) say(`This photo is only ${Math.min(W, H)} px on its short side, so every level will be enlarged.`);
+  };
+  im.onerror = () => say("That image couldn't be opened. Try another file.");
+  im.src = URL.createObjectURL(file);
+}
+
+function resetBoxes() {
+  const S = Math.min(W, H), cx = W / 2, cy = H / 2;
+  rects = DEFAULT_SCALES.map(k => ({ x: cx - S / k / 2, y: cy - S / k / 2, s: S / k }));
+  rects.push({ x: (W - S) / 2, y: (H - S) / 2, s: S });
+}
+
+$("fileInput").addEventListener("change", e => loadFile(e.target.files[0]));
+const wrap = $("stageWrap");
+wrap.addEventListener("dragover", e => { e.preventDefault(); wrap.classList.add("dragover"); });
+wrap.addEventListener("dragleave", () => wrap.classList.remove("dragover"));
+wrap.addEventListener("drop", e => {
+  e.preventDefault(); wrap.classList.remove("dragover");
+  if (e.dataTransfer.files[0]) loadFile(e.dataTransfer.files[0]);
+});
+
+/* =========================================================
+   BOX RULES: every box sits inside the next one up
+   ========================================================= */
+function boundsOf(i) {
+  if (i === 6) return { x0: 0, y0: 0, x1: W, y1: H, maxS: Math.min(W, H) };
+  const p = rects[i + 1];
+  return { x0: p.x, y0: p.y, x1: p.x + p.s, y1: p.y + p.s, maxS: p.s / MIN_RATIO };
+}
+
+function fixRect(i) {
+  const r = rects[i], b = boundsOf(i), c = i > 0 ? rects[i - 1] : null;
+  const minS = c ? c.s * MIN_RATIO : Math.max(12, Math.min(W, H) / 60);
+  r.s = clamp(r.s, minS, b.maxS);
+  const loX = Math.max(b.x0, c ? c.x + c.s - r.s : b.x0);
+  const hiX = Math.min(b.x1 - r.s, c ? c.x : b.x1 - r.s);
+  const loY = Math.max(b.y0, c ? c.y + c.s - r.s : b.y0);
+  const hiY = Math.min(b.y1 - r.s, c ? c.y : b.y1 - r.s);
+  r.x = clamp(r.x, loX, hiX);
+  r.y = clamp(r.y, loY, hiY);
+}
+
+function moveGroup(dx, dy) {
+  const r = rects[sel], b = boundsOf(sel);
+  const ax = clamp(r.x + dx, b.x0, b.x1 - r.s) - r.x;
+  const ay = clamp(r.y + dy, b.y0, b.y1 - r.s) - r.y;
+  for (let i = 0; i <= sel; i++) { rects[i].x += ax; rects[i].y += ay; }
+}
+
+function resizeAround(factor) {
+  const r = rects[sel], cx = r.x + r.s / 2, cy = r.y + r.s / 2;
+  r.s *= factor; r.x = cx - r.s / 2; r.y = cy - r.s / 2;
+  fixRect(sel);
+}
+
+/* =========================================================
+   MOUSE, TOUCH, KEYBOARD
+   ========================================================= */
+function toImg(e) {
+  const b = stage.getBoundingClientRect();
+  return { x: (e.clientX - b.left) / b.width * W, y: (e.clientY - b.top) / b.height * H };
+}
+const cssPerImgPx = () => stage.getBoundingClientRect().width / W;
+function nearHandle(p) {
+  const r = rects[sel];
+  return Math.hypot(p.x - (r.x + r.s), p.y - (r.y + r.s)) <= 16 / cssPerImgPx();
+}
+
+let drag = null;
+stage.addEventListener("pointerdown", e => {
+  if (!img) return;
+  stopAnim();
+  const p = toImg(e);
+  if (nearHandle(p)) drag = { mode: "resize" };
+  else if (inside(p, rects[sel])) drag = { mode: "move", last: p };
+  else {
+    const i = rects.findIndex(r => inside(p, r));
+    if (i < 0) return;
+    sel = i; drag = { mode: "move", last: p };
+  }
+  stage.setPointerCapture(e.pointerId);
+  e.preventDefault();
+  render();
+});
+
+stage.addEventListener("pointermove", e => {
+  if (!img) return;
+  const p = toImg(e);
+  if (!drag) {
+    stage.style.cursor = nearHandle(p) ? "nwse-resize" : inside(p, rects[sel]) ? "move" : rects.some(r => inside(p, r)) ? "pointer" : "default";
+    return;
+  }
+  if (drag.mode === "move") { moveGroup(p.x - drag.last.x, p.y - drag.last.y); drag.last = p; }
+  else { const r = rects[sel]; r.s = Math.max(p.x - r.x, p.y - r.y); fixRect(sel); }
+  render();
+});
+
+stage.addEventListener("pointerup", () => (drag = null));
+stage.addEventListener("pointercancel", () => (drag = null));
+
+stage.addEventListener("wheel", e => {
+  if (!img) return;
+  e.preventDefault(); stopAnim();
+  resizeAround(e.deltaY < 0 ? 1.04 : 1 / 1.04);
+  render();
+}, { passive: false });
+
+stage.addEventListener("keydown", e => {
+  if (!img) return;
+  const step = Math.max(1, Math.round(Math.min(W, H) / 400)) * (e.shiftKey ? 10 : 1);
+  const moves = { ArrowLeft: [-step, 0], ArrowRight: [step, 0], ArrowUp: [0, -step], ArrowDown: [0, step] };
+  if (moves[e.key]) { moveGroup(...moves[e.key]); }
+  else if (e.key === "+" || e.key === "=") { resizeAround(1.03); }
+  else if (e.key === "-" || e.key === "_") { resizeAround(1 / 1.03); }
+  else if (/^[1-7]$/.test(e.key)) { sel = +e.key - 1; }
+  else return;
+  e.preventDefault(); stopAnim(); render();
+});
+
+/* =========================================================
+   DRAWING
+   ========================================================= */
+function drawStage() {
+  const v = stage.width / W;
+  const f = stage.width / Math.max(1, stage.getBoundingClientRect().width); // keeps lines the same on-screen thickness
+  ctx.clearRect(0, 0, stage.width, stage.height);
+  ctx.drawImage(img, 0, 0, stage.width, stage.height);
+
+  const full = rects[6];
+  ctx.fillStyle = "rgba(0,0,0,0.55)";
+  ctx.beginPath();
+  ctx.rect(0, 0, stage.width, stage.height);
+  ctx.rect(full.x * v, full.y * v, full.s * v, full.s * v);
+  ctx.fill("evenodd");
+
+  ctx.font = `600 ${12 * f}px "Bricolage Grotesque", system-ui, sans-serif`;
+  ctx.textBaseline = "top";
+  rects.forEach((r, i) => {
+    const x = r.x * v, y = r.y * v, s = r.s * v, on = i === sel;
+    ctx.lineWidth = (on ? 5 : 3) * f; ctx.strokeStyle = "rgba(0,0,0,0.45)"; ctx.strokeRect(x, y, s, s);
+    ctx.lineWidth = (on ? 2.5 : 1.25) * f; ctx.strokeStyle = on ? BOX_ACCENT : "rgba(255,255,255,0.85)"; ctx.strokeRect(x, y, s, s);
+    const label = LEVEL_NAMES[i], tw = ctx.measureText(label).width;
+    ctx.fillStyle = on ? BOX_ACCENT : "rgba(0,0,0,0.6)";
+    ctx.fillRect(x + 3 * f, y + 3 * f, tw + 8 * f, 17 * f);
+    ctx.fillStyle = on ? "#0D1A18" : "#FFFFFF";
+    ctx.fillText(label, x + 7 * f, y + 5.5 * f);
+  });
+
+  const r = rects[sel];
+  ctx.beginPath();
+  ctx.arc((r.x + r.s) * v, (r.y + r.s) * v, 7 * f, 0, Math.PI * 2);
+  ctx.fillStyle = BOX_ACCENT; ctx.fill();
+  ctx.lineWidth = 2 * f; ctx.strokeStyle = "#FFFFFF"; ctx.stroke();
+}
+
+function drawCrop(r) {
+  pctx.imageSmoothingQuality = "high";
+  pctx.clearRect(0, 0, preview.width, preview.height);
+  pctx.drawImage(img, r.x, r.y, r.s, r.s, 0, 0, preview.width, preview.height);
+}
+
+function updatePanel() {
+  const out = +$("outSize").value;
+  document.querySelectorAll(".tab").forEach((b, i) => {
+    b.setAttribute("aria-pressed", String(i === sel));
+    b.classList.toggle("warn", !!img && rects[i].s < out);
+  });
+  if (!img) return;
+  const r = rects[sel], px = Math.round(r.s);
+  $("info").textContent = sel < 6
+    ? `Level ${sel + 1}: a ${px} px square of the original photo.`
+    : `Full picture: a ${px} px square, shown when the game ends.`;
+  const warn = $("warning");
+  warn.hidden = r.s >= out;
+  warn.textContent = `This box will be enlarged ${(out / r.s).toFixed(1)}× on export and may look soft. Use a larger box or a higher-resolution photo.`;
+}
+
+function render() {
+  if (!img) return;
+  drawStage();
+  if (!animating) drawCrop(rects[sel]);
+  updatePanel();
+}
+window.addEventListener("resize", render);
+$("outSize").addEventListener("change", updatePanel);
+
+/* =========================================================
+   ZOOM-OUT MATH (the game uses the same numbers)
+   Show the bigger image at scale k with transform-origin (ox, oy),
+   and it frames exactly what the smaller image showed. Animate k -> 1.
+   ========================================================= */
+function zoomInfo(c, p) {
+  const k = p.s / c.s;
+  return { k, ox: k * (c.x - p.x) / (k - 1), oy: k * (c.y - p.y) / (k - 1) }; // ox, oy: pixels from p's corner
+}
+function frameAt(c, p, t) {
+  const { k, ox, oy } = zoomInfo(c, p);
+  const s = k + (1 - k) * t;
+  return { x: p.x + ox * (1 - 1 / s), y: p.y + oy * (1 - 1 / s), s: p.s / s };
+}
+const easeOut = t => 1 - Math.pow(1 - t, 3);
+
+function animateStep(from, duration, token) {
+  return new Promise(resolve => {
+    const start = performance.now();
+    function frame(now) {
+      if (token !== animToken) return resolve(false);
+      const t = Math.min(1, (now - start) / duration);
+      drawCrop(frameAt(rects[from], rects[from + 1], easeOut(t)));
+      if (t < 1) requestAnimationFrame(frame); else resolve(true);
+    }
+    requestAnimationFrame(frame);
+  });
+}
+const wait = ms => new Promise(r => setTimeout(r, ms));
+function stopAnim() { animToken++; animating = false; }
+
+$("nextBtn").addEventListener("click", async () => {
+  if (!img || sel >= 6) return;
+  stopAnim();
+  const token = animToken; animating = true;
+  const ok = await animateStep(sel, sel === 5 ? 1400 : 700, token);
+  if (ok) { animating = false; sel++; render(); }
+});
+$("prevBtn").addEventListener("click", () => {
+  if (!img || sel <= 0) return;
+  stopAnim(); sel--; render();
+});
+$("playBtn").addEventListener("click", async () => {
+  if (!img) return;
+  stopAnim();
+  const token = animToken;
+  sel = 0; render(); animating = true;
+  for (let i = 0; i < 6; i++) {
+    await wait(800);
+    if (token !== animToken) return;
+    if (!(await animateStep(i, i === 5 ? 1400 : 700, token))) return;
+    sel = i + 1; drawStage(); updatePanel();
+  }
+  animating = false;
+});
+
+/* =========================================================
+   EXPORT: six level images + full picture + puzzle.json, zipped
+   ========================================================= */
+function randomName() {
+  const a = new Uint8Array(6); crypto.getRandomValues(a);
+  return Array.from(a, b => b.toString(16).padStart(2, "0")).join("");
+}
+
+$("exportBtn").addEventListener("click", async () => {
+  if (!img) return;
+  stopAnim(); render();
+  const out = +$("outSize").value, mime = $("format").value;
+  const rawId = $("pid").value.trim();
+  const id = rawId.replace(/[^\w-]+/g, "-") || "untitled";
+  const folder = `squint-puzzle-${id}`;
+  const R = rects.map(r => ({ x: Math.round(r.x), y: Math.round(r.y), s: Math.round(r.s) }));
+
+  const c = document.createElement("canvas");
+  c.width = c.height = out;
+  const cx = c.getContext("2d");
+  cx.imageSmoothingQuality = "high";
+
+  const files = [], levels = [];
+  for (let i = 0; i < 7; i++) {
+    const r = R[i];
+    cx.clearRect(0, 0, out, out);
+    cx.drawImage(img, r.x, r.y, r.s, r.s, 0, 0, out, out);
+    const blob = await new Promise(res => c.toBlob(res, mime, 0.86));
+    const ext = blob.type === "image/webp" ? "webp" : blob.type === "image/png" ? "png" : "jpg";
+    const name = `${randomName()}.${ext}`;
+    files.push({ name: `${folder}/${name}`, data: new Uint8Array(await blob.arrayBuffer()) });
+
+    const entry = { level: i < 6 ? i + 1 : "full", file: name, rect: { x: r.x, y: r.y, size: r.s } };
+    if (i > 0) {
+      const z = zoomInfo(R[i - 1], r);
+      entry.zoomFromPrevious = {
+        scale: +z.k.toFixed(4),
+        originX: +(z.ox / r.s * 100).toFixed(3),
+        originY: +(z.oy / r.s * 100).toFixed(3)
+      };
+    }
+    levels.push(entry);
+  }
+
+  const answer = $("answer").value.trim();
+  if (!answer) say("Heads up: no answer was entered, so this puzzle can't be solved yet.");
+
+  // Private record: everything, including the plain answer, source and license. Keep it OUT of the website.
+  const record = {
+    id: rawId, answer, hint: $("hint").value.trim(),
+    source: $("source").value.trim(), license: $("license").value.trim(),
+    photo: { name: fileName, width: W, height: H },
+    outputSize: out,
+    levels
+  };
+  // What the website loads: images, boxes, hint, and the answer obscured (not encrypted).
+  const game = {
+    a: obscure(answer),
+    hint: record.hint,
+    levels: levels.map(l => ({ file: l.file, rect: l.rect }))
+  };
+  const enc = new TextEncoder();
+  files.push({ name: `${folder}/game.json`, data: enc.encode(JSON.stringify(game, null, 2)) });
+  files.push({ name: `${folder}-record.json`, data: enc.encode(JSON.stringify(record, null, 2)) });
+
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(makeZip(files));
+  a.download = `${folder}.zip`;
+  document.body.appendChild(a); a.click(); a.remove();
+  if (answer) say(`Downloaded ${folder}.zip. Copy the ${folder} folder into puzzles/, and file the record somewhere private.`);
+});
+
+/* Reversed base64: keeps the answer out of plain sight in the site files. Not real security. */
+function obscure(text) {
+  const bytes = new TextEncoder().encode(text);
+  return btoa(String.fromCharCode(...bytes)).split("").reverse().join("");
+}
+
+/* Re-open saved boxes from a puzzle.json (with the same photo loaded) */
+$("importInput").addEventListener("change", async e => {
+  const file = e.target.files[0];
+  e.target.value = "";
+  if (!file) return;
+  if (!img) { say("Open the matching photo first, then load its record file."); return; }
+  try {
+    const data = JSON.parse(await file.text());
+    if (!data.photo || data.photo.width !== W || data.photo.height !== H) {
+      say(`Those boxes belong to a ${data.photo?.width}×${data.photo?.height} photo; this one is ${W}×${H}.`); return;
+    }
+    if (!Array.isArray(data.levels) || data.levels.length !== 7) { say("That file doesn't contain 7 zoom levels."); return; }
+    rects = data.levels.map(l => ({ x: l.rect.x, y: l.rect.y, s: l.rect.size }));
+    $("pid").value = data.id || ""; $("answer").value = data.answer || ""; $("hint").value = data.hint || "";
+    $("source").value = data.source || ""; $("license").value = data.license || "";
+    stopAnim(); sel = 0; render();
+    say("Boxes loaded. Adjust anything and export again.");
+  } catch {
+    say("That file couldn't be read as a puzzle record.");
+  }
+});
+
+/* =========================================================
+   MINIMAL ZIP WRITER (no compression; images are already compressed)
+   ========================================================= */
+const CRC_TABLE = (() => {
+  const t = new Uint32Array(256);
+  for (let n = 0; n < 256; n++) {
+    let c = n;
+    for (let k = 0; k < 8; k++) c = c & 1 ? 0xEDB88320 ^ (c >>> 1) : c >>> 1;
+    t[n] = c >>> 0;
+  }
+  return t;
+})();
+function crc32(bytes) {
+  let c = 0xFFFFFFFF;
+  for (let i = 0; i < bytes.length; i++) c = CRC_TABLE[(c ^ bytes[i]) & 0xFF] ^ (c >>> 8);
+  return (c ^ 0xFFFFFFFF) >>> 0;
+}
+function makeZip(files) {
+  const enc = new TextEncoder(), parts = [], central = [];
+  const d = new Date();
+  const time = (d.getHours() << 11) | (d.getMinutes() << 5) | Math.floor(d.getSeconds() / 2);
+  const date = ((d.getFullYear() - 1980) << 9) | ((d.getMonth() + 1) << 5) | d.getDate();
+  let offset = 0;
+  for (const f of files) {
+    const name = enc.encode(f.name), data = f.data, crc = crc32(data);
+    const lh = new DataView(new ArrayBuffer(30));
+    lh.setUint32(0, 0x04034b50, true); lh.setUint16(4, 20, true); lh.setUint16(6, 0, true); lh.setUint16(8, 0, true);
+    lh.setUint16(10, time, true); lh.setUint16(12, date, true); lh.setUint32(14, crc, true);
+    lh.setUint32(18, data.length, true); lh.setUint32(22, data.length, true);
+    lh.setUint16(26, name.length, true); lh.setUint16(28, 0, true);
+    parts.push(lh, name, data);
+
+    const ch = new DataView(new ArrayBuffer(46));
+    ch.setUint32(0, 0x02014b50, true); ch.setUint16(4, 20, true); ch.setUint16(6, 20, true);
+    ch.setUint16(8, 0, true); ch.setUint16(10, 0, true); ch.setUint16(12, time, true); ch.setUint16(14, date, true);
+    ch.setUint32(16, crc, true); ch.setUint32(20, data.length, true); ch.setUint32(24, data.length, true);
+    ch.setUint16(28, name.length, true); ch.setUint16(30, 0, true); ch.setUint16(32, 0, true);
+    ch.setUint16(34, 0, true); ch.setUint16(36, 0, true); ch.setUint32(38, 0, true); ch.setUint32(42, offset, true);
+    central.push(ch, name);
+    offset += 30 + name.length + data.length;
+  }
+  const cdSize = central.reduce((n, p) => n + p.byteLength, 0);
+  const end = new DataView(new ArrayBuffer(22));
+  end.setUint32(0, 0x06054b50, true); end.setUint16(4, 0, true); end.setUint16(6, 0, true);
+  end.setUint16(8, files.length, true); end.setUint16(10, files.length, true);
+  end.setUint32(12, cdSize, true); end.setUint32(16, offset, true); end.setUint16(20, 0, true);
+  return new Blob([...parts, ...central, end], { type: "application/zip" });
+}
+
+updatePanel();
+</script>
+</body>
+</html>

@@ -1,0 +1,62 @@
+{
+  "a": "=kHdyVmYpxEIm9GIlVHdhR3U",
+  "hint": "",
+  "levels": [
+    {
+      "file": "cf22696b7499.jpg",
+      "rect": {
+        "x": 994,
+        "y": 188,
+        "size": 93
+      }
+    },
+    {
+      "file": "8651ccc6a2e5.jpg",
+      "rect": {
+        "x": 909,
+        "y": 163,
+        "size": 204
+      }
+    },
+    {
+      "file": "05ad5ce9aa23.jpg",
+      "rect": {
+        "x": 816,
+        "y": 71,
+        "size": 384
+      }
+    },
+    {
+      "file": "ec5a2ef4f2ca.jpg",
+      "rect": {
+        "x": 675,
+        "y": 59,
+        "size": 618
+      }
+    },
+    {
+      "file": "bc151ceee505.jpg",
+      "rect": {
+        "x": 583,
+        "y": 59,
+        "size": 789
+      }
+    },
+    {
+      "file": "25685fb3664d.jpg",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2172
+      }
+    },
+    {
+      "file": "2dfea6c830ac.jpg",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2498
+      }
+    }
+  ]
+}
