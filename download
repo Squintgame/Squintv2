@@ -1,4 +1,0 @@
-# Puzzle records hold plain answers, sources and licenses. Keep them private.
-records/
-*-record.json
-.DS_Store
