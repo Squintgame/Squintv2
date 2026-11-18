@@ -1,0 +1,67 @@
+{
+  "a": "==QZsRHd1h2cgU2YhB3U",
+  "hint": "No hint today",
+  "accept": [
+    "rocket",
+    "space ship",
+    "rocket ship"
+  ],
+  "levels": [
+    {
+      "file": "95da9f169a96.jpg",
+      "rect": {
+        "x": 1203,
+        "y": 1036,
+        "size": 91
+      }
+    },
+    {
+      "file": "4e0cf3e16394.jpg",
+      "rect": {
+        "x": 1163,
+        "y": 1036,
+        "size": 186
+      }
+    },
+    {
+      "file": "d09399b8cbad.jpg",
+      "rect": {
+        "x": 1163,
+        "y": 872,
+        "size": 349
+      }
+    },
+    {
+      "file": "78973b1be110.jpg",
+      "rect": {
+        "x": 1110,
+        "y": 726,
+        "size": 559
+      }
+    },
+    {
+      "file": "6b41403eae80.jpg",
+      "rect": {
+        "x": 1019,
+        "y": 649,
+        "size": 809
+      }
+    },
+    {
+      "file": "89d4742859eb.jpg",
+      "rect": {
+        "x": 734,
+        "y": 328,
+        "size": 1348
+      }
+    },
+    {
+      "file": "12d67a1c6a11.jpg",
+      "rect": {
+        "x": 536,
+        "y": 0,
+        "size": 1929
+      }
+    }
+  ]
+}
