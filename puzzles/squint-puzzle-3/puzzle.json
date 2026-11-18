@@ -1,0 +1,107 @@
+{
+  "id": "3",
+  "answer": "Orangutan",
+  "source": "",
+  "license": "",
+  "photo": {
+    "name": "Orangutan.jpg",
+    "width": 3338,
+    "height": 5122
+  },
+  "outputSize": 800,
+  "levels": [
+    {
+      "level": 1,
+      "file": "f1e9e5a11f94.jpg",
+      "rect": {
+        "x": 1523,
+        "y": 2179,
+        "size": 91
+      }
+    },
+    {
+      "level": 2,
+      "file": "265c91d77f8e.jpg",
+      "rect": {
+        "x": 1256,
+        "y": 2092,
+        "size": 361
+      },
+      "zoomFromPrevious": {
+        "scale": 3.967,
+        "originX": 98.889,
+        "originY": 32.222
+      }
+    },
+    {
+      "level": 3,
+      "file": "858593e46258.jpg",
+      "rect": {
+        "x": 1256,
+        "y": 1922,
+        "size": 531
+      },
+      "zoomFromPrevious": {
+        "scale": 1.4709,
+        "originX": 0,
+        "originY": 100
+      }
+    },
+    {
+      "level": 4,
+      "file": "54175a187269.jpg",
+      "rect": {
+        "x": 1131,
+        "y": 1786,
+        "size": 960
+      },
+      "zoomFromPrevious": {
+        "scale": 1.8079,
+        "originX": 29.138,
+        "originY": 31.702
+      }
+    },
+    {
+      "level": 5,
+      "file": "502394cca6c8.jpg",
+      "rect": {
+        "x": 127,
+        "y": 1693,
+        "size": 1964
+      },
+      "zoomFromPrevious": {
+        "scale": 2.0458,
+        "originX": 100,
+        "originY": 9.263
+      }
+    },
+    {
+      "level": 6,
+      "file": "3934475c220f.jpg",
+      "rect": {
+        "x": 114,
+        "y": 1693,
+        "size": 2258
+      },
+      "zoomFromPrevious": {
+        "scale": 1.1497,
+        "originX": 4.422,
+        "originY": 0
+      }
+    },
+    {
+      "level": "full",
+      "file": "f0fd3058755d.jpg",
+      "rect": {
+        "x": 0,
+        "y": 1653,
+        "size": 3338
+      },
+      "zoomFromPrevious": {
+        "scale": 1.4783,
+        "originX": 10.556,
+        "originY": 3.704
+      }
+    }
+  ]
+}
