@@ -1,0 +1,2201 @@
+{
+ "same": [
+  [
+   "Airplane",
+   "Plane",
+   "Aeroplane"
+  ],
+  [
+   "Hippopotamus",
+   "Hippo"
+  ],
+  [
+   "Rhinoceros",
+   "Rhino"
+  ],
+  [
+   "Orca",
+   "Killer whale"
+  ],
+  [
+   "Cougar",
+   "Puma",
+   "Mountain lion"
+  ],
+  [
+   "Couch",
+   "Sofa"
+  ],
+  [
+   "Donut",
+   "Doughnut"
+  ],
+  [
+   "Firefly",
+   "Lightning bug"
+  ],
+  [
+   "Aurora borealis",
+   "Northern lights"
+  ],
+  [
+   "Uluru",
+   "Ayers Rock"
+  ],
+  [
+   "Big Ben",
+   "Elizabeth Tower"
+  ],
+  [
+   "Easter Island statues",
+   "Moai"
+  ],
+  [
+   "Golden Pavilion",
+   "Kinkaku-ji"
+  ],
+  [
+   "Willis Tower",
+   "Sears Tower"
+  ],
+  [
+   "Starfish",
+   "Sea star"
+  ],
+  [
+   "Pufferfish",
+   "Blowfish"
+  ],
+  [
+   "Dragon fruit",
+   "Pitaya"
+  ],
+  [
+   "Kiwi",
+   "Kiwifruit"
+  ],
+  [
+   "Garbage can",
+   "Trash can",
+   "Wastebasket"
+  ],
+  [
+   "Squirt gun",
+   "Water gun"
+  ],
+  [
+   "Graduation cap",
+   "Mortarboard"
+  ],
+  [
+   "Smartphone",
+   "Cell phone",
+   "Mobile phone"
+  ],
+  [
+   "Television",
+   "TV"
+  ],
+  [
+   "Refrigerator",
+   "Fridge"
+  ],
+  [
+   "Light bulb",
+   "Lightbulb"
+  ],
+  [
+   "Bubble tea",
+   "Boba"
+  ],
+  [
+   "Soda",
+   "Soft drink"
+  ],
+  [
+   "French fries",
+   "Fries"
+  ],
+  [
+   "Potato chips",
+   "Crisps"
+  ],
+  [
+   "Eggplant",
+   "Aubergine"
+  ],
+  [
+   "Zucchini",
+   "Courgette"
+  ],
+  [
+   "Cilantro",
+   "Coriander"
+  ],
+  [
+   "Chickpea",
+   "Garbanzo bean"
+  ],
+  [
+   "Bell pepper",
+   "Capsicum"
+  ],
+  [
+   "Scallion",
+   "Spring onion"
+  ],
+  [
+   "Beet",
+   "Beetroot"
+  ],
+  [
+   "Corn",
+   "Maize",
+   "Corn on the cob"
+  ],
+  [
+   "Shrimp",
+   "Prawn"
+  ],
+  [
+   "Crayfish",
+   "Crawfish"
+  ],
+  [
+   "Tangerine",
+   "Mandarin orange"
+  ],
+  [
+   "Cantaloupe",
+   "Muskmelon"
+  ],
+  [
+   "Starfruit",
+   "Carambola"
+  ],
+  [
+   "Macaroni and cheese",
+   "Mac and cheese"
+  ],
+  [
+   "Hot dog",
+   "Frankfurter"
+  ],
+  [
+   "Gyro",
+   "Shawarma",
+   "Doner kebab"
+  ],
+  [
+   "Gyoza",
+   "Potsticker"
+  ],
+  [
+   "Pancake",
+   "Hotcake"
+  ],
+  [
+   "Popsicle",
+   "Ice pop"
+  ],
+  [
+   "Cotton candy",
+   "Candy floss"
+  ],
+  [
+   "Hot chocolate",
+   "Hot cocoa"
+  ],
+  [
+   "Hamburger",
+   "Burger"
+  ],
+  [
+   "Truck",
+   "Lorry"
+  ],
+  [
+   "Sweater",
+   "Jumper"
+  ],
+  [
+   "Pants",
+   "Trousers"
+  ],
+  [
+   "Sneakers",
+   "Trainers"
+  ],
+  [
+   "Glasses",
+   "Eyeglasses"
+  ],
+  [
+   "Necktie",
+   "Tie"
+  ],
+  [
+   "Rubber boots",
+   "Rain boots"
+  ],
+  [
+   "Overalls",
+   "Dungarees"
+  ],
+  [
+   "Clothes hanger",
+   "Coat hanger"
+  ],
+  [
+   "Nightstand",
+   "Bedside table"
+  ],
+  [
+   "Wardrobe",
+   "Armoire"
+  ],
+  [
+   "Bucket",
+   "Pail"
+  ],
+  [
+   "Power outlet",
+   "Electrical outlet"
+  ],
+  [
+   "Remote control",
+   "Remote"
+  ],
+  [
+   "Video camera",
+   "Camcorder"
+  ],
+  [
+   "Record player",
+   "Turntable",
+   "Phonograph"
+  ],
+  [
+   "Vinyl record",
+   "Record"
+  ],
+  [
+   "USB drive",
+   "Flash drive"
+  ],
+  [
+   "CD",
+   "Compact disc"
+  ],
+  [
+   "Polaroid camera",
+   "Instant camera"
+  ],
+  [
+   "Controller",
+   "Game controller"
+  ],
+  [
+   "Headphones",
+   "Headset"
+  ],
+  [
+   "Earbuds",
+   "Earphones"
+  ],
+  [
+   "Drone",
+   "Quadcopter"
+  ],
+  [
+   "Telephone",
+   "Phone"
+  ],
+  [
+   "Desktop computer",
+   "Computer"
+  ],
+  [
+   "Measuring tape",
+   "Tape measure"
+  ],
+  [
+   "Level",
+   "Spirit level"
+  ],
+  [
+   "Thumbtack",
+   "Pushpin"
+  ],
+  [
+   "Chalkboard",
+   "Blackboard"
+  ],
+  [
+   "Hourglass",
+   "Sand timer"
+  ],
+  [
+   "Wristwatch",
+   "Watch"
+  ],
+  [
+   "Building blocks",
+   "Toy blocks"
+  ],
+  [
+   "Seesaw",
+   "Teeter-totter"
+  ],
+  [
+   "Merry-go-round",
+   "Carousel"
+  ],
+  [
+   "Teddy bear",
+   "Stuffed animal",
+   "Plush toy"
+  ],
+  [
+   "Jack-o'-lantern",
+   "Carved pumpkin"
+  ],
+  [
+   "Christmas ornament",
+   "Bauble"
+  ],
+  [
+   "Gift box",
+   "Present"
+  ],
+  [
+   "Firework",
+   "Fireworks"
+  ],
+  [
+   "Playing cards",
+   "Deck of cards"
+  ],
+  [
+   "Inline skates",
+   "Rollerblades"
+  ],
+  [
+   "Flippers",
+   "Swim fins"
+  ],
+  [
+   "Shuttlecock",
+   "Birdie"
+  ],
+  [
+   "Barbell",
+   "Weightlifting barbell"
+  ],
+  [
+   "Motorcycle",
+   "Motorbike"
+  ],
+  [
+   "Bicycle",
+   "Bike"
+  ],
+  [
+   "Car",
+   "Automobile"
+  ],
+  [
+   "Taxi",
+   "Cab"
+  ],
+  [
+   "Tram",
+   "Streetcar",
+   "Trolley"
+  ],
+  [
+   "ATV",
+   "Quad bike"
+  ],
+  [
+   "RV",
+   "Motorhome",
+   "Camper van"
+  ],
+  [
+   "Sled",
+   "Sledge"
+  ],
+  [
+   "Blimp",
+   "Airship",
+   "Zeppelin"
+  ],
+  [
+   "Mailbox",
+   "Postbox",
+   "Letterbox"
+  ],
+  [
+   "Megaphone",
+   "Bullhorn"
+  ],
+  [
+   "Dollar bill",
+   "Banknote"
+  ],
+  [
+   "Column",
+   "Pillar"
+  ],
+  [
+   "Knight's armor",
+   "Suit of armor"
+  ],
+  [
+   "Gravestone",
+   "Tombstone",
+   "Headstone"
+  ],
+  [
+   "Spider web",
+   "Cobweb"
+  ],
+  [
+   "Tsunami",
+   "Tidal wave"
+  ],
+  [
+   "Tornado",
+   "Twister"
+  ],
+  [
+   "Hurricane",
+   "Typhoon",
+   "Cyclone"
+  ],
+  [
+   "Hail",
+   "Hailstone"
+  ],
+  [
+   "Sand dune",
+   "Dune"
+  ],
+  [
+   "Shooting star",
+   "Meteor"
+  ],
+  [
+   "North Star",
+   "Polaris"
+  ],
+  [
+   "UFO",
+   "Flying saucer"
+  ],
+  [
+   "Pine cone",
+   "Pinecone"
+  ],
+  [
+   "Bunny",
+   "Rabbit"
+  ],
+  [
+   "Seagull",
+   "Gull"
+  ],
+  [
+   "Budgie",
+   "Parakeet"
+  ],
+  [
+   "Groundhog",
+   "Woodchuck"
+  ],
+  [
+   "Caribou",
+   "Reindeer"
+  ],
+  [
+   "Buffalo",
+   "Bison"
+  ],
+  [
+   "Tyrannosaurus rex",
+   "T-rex"
+  ],
+  [
+   "Statue of Liberty",
+   "Lady Liberty"
+  ],
+  [
+   "Great Pyramid of Giza",
+   "Pyramids of Giza"
+  ],
+  [
+   "Western Wall",
+   "Wailing Wall"
+  ],
+  [
+   "Terracotta Army",
+   "Terracotta Warriors"
+  ],
+  [
+   "Palace of Westminster",
+   "Houses of Parliament"
+  ],
+  [
+   "Blue Mosque",
+   "Sultan Ahmed Mosque"
+  ],
+  [
+   "Michelangelo's David",
+   "Statue of David"
+  ],
+  [
+   "The Starry Night",
+   "Starry Night"
+  ],
+  [
+   "The Great Wave off Kanagawa",
+   "The Great Wave"
+  ],
+  [
+   "Mona Lisa",
+   "La Gioconda"
+  ],
+  [
+   "Colosseum",
+   "Coliseum"
+  ],
+  [
+   "Louvre Pyramid",
+   "Louvre Museum"
+  ],
+  [
+   "Fiddle",
+   "Violin"
+  ],
+  [
+   "Shovel",
+   "Spade"
+  ],
+  [
+   "Sunrise",
+   "Sunset"
+  ],
+  [
+   "Stalactite",
+   "Stalagmite"
+  ]
+ ],
+ "kinds": {
+  "Bear": [
+   "Black bear",
+   "Brown bear",
+   "Grizzly bear",
+   "Polar bear"
+  ],
+  "Whale": [
+   "Blue whale",
+   "Humpback whale",
+   "Sperm whale",
+   "Beluga whale",
+   "Orca",
+   "Gray whale"
+  ],
+  "Shark": [
+   "Great white shark",
+   "Hammerhead shark",
+   "Whale shark",
+   "Tiger shark"
+  ],
+  "Fox": [
+   "Arctic fox",
+   "Fennec fox",
+   "Red fox"
+  ],
+  "Wolf": [
+   "Gray wolf",
+   "Arctic wolf"
+  ],
+  "Owl": [
+   "Barn owl",
+   "Snowy owl",
+   "Great horned owl"
+  ],
+  "Eagle": [
+   "Bald eagle",
+   "Golden eagle",
+   "Harpy eagle"
+  ],
+  "Hawk": [
+   "Red-tailed hawk"
+  ],
+  "Falcon": [
+   "Peregrine falcon"
+  ],
+  "Penguin": [
+   "Emperor penguin"
+  ],
+  "Parrot": [
+   "Macaw",
+   "African grey parrot",
+   "Cockatoo",
+   "Cockatiel",
+   "Budgie",
+   "Lovebird",
+   "Kakapo",
+   "Kea"
+  ],
+  "Macaw": [
+   "Scarlet macaw"
+  ],
+  "Duck": [
+   "Mallard",
+   "Wood duck",
+   "Duckling"
+  ],
+  "Goose": [
+   "Canada goose",
+   "Snow goose"
+  ],
+  "Swan": [
+   "Black swan"
+  ],
+  "Crane": [
+   "Whooping crane"
+  ],
+  "Chicken": [
+   "Hen",
+   "Rooster",
+   "Chick"
+  ],
+  "Seal": [
+   "Harbor seal",
+   "Leopard seal",
+   "Elephant seal"
+  ],
+  "Dolphin": [
+   "Bottlenose dolphin"
+  ],
+  "Monkey": [
+   "Baboon",
+   "Capuchin monkey",
+   "Howler monkey",
+   "Mandrill",
+   "Marmoset",
+   "Proboscis monkey",
+   "Snow monkey",
+   "Spider monkey",
+   "Squirrel monkey"
+  ],
+  "Lemur": [
+   "Ring-tailed lemur"
+  ],
+  "Cat": [
+   "Siamese cat",
+   "Persian cat",
+   "Maine Coon",
+   "Sphynx cat",
+   "Tabby cat",
+   "Bengal cat",
+   "Calico cat",
+   "Ragdoll cat",
+   "British shorthair",
+   "Scottish fold",
+   "Black cat",
+   "Kitten"
+  ],
+  "Dog": [
+   "Beagle",
+   "Bloodhound",
+   "Border collie",
+   "Bulldog",
+   "Chihuahua",
+   "Corgi",
+   "Dachshund",
+   "Dalmatian",
+   "German shepherd",
+   "Golden retriever",
+   "Great Dane",
+   "Greyhound",
+   "Husky",
+   "Labrador retriever",
+   "Pomeranian",
+   "Poodle",
+   "Pug",
+   "Rottweiler",
+   "Saint Bernard",
+   "Sheepdog",
+   "Shih Tzu",
+   "Afghan hound",
+   "Alaskan malamute",
+   "Akita",
+   "Australian shepherd",
+   "Basset hound",
+   "Bernese mountain dog",
+   "Bichon frise",
+   "Boston terrier",
+   "Bull terrier",
+   "Cavalier King Charles spaniel",
+   "Chow chow",
+   "Cocker spaniel",
+   "Collie",
+   "Doberman",
+   "French bulldog",
+   "Irish setter",
+   "Jack Russell terrier",
+   "Maltese",
+   "Newfoundland dog",
+   "Pit bull",
+   "Samoyed",
+   "Schnauzer",
+   "Scottish terrier",
+   "Shar-pei",
+   "Shiba Inu",
+   "Weimaraner",
+   "Whippet",
+   "Yorkshire terrier",
+   "Puppy"
+  ],
+  "Bulldog": [
+   "French bulldog"
+  ],
+  "Horse": [
+   "Pony",
+   "Shetland pony",
+   "Clydesdale",
+   "Mustang",
+   "Stallion",
+   "Foal",
+   "Appaloosa",
+   "Arabian horse",
+   "Palomino"
+  ],
+  "Pony": [
+   "Shetland pony"
+  ],
+  "Tiger": [
+   "White tiger"
+  ],
+  "Lion": [
+   "Lioness",
+   "Lion cub"
+  ],
+  "Panther": [
+   "Black panther"
+  ],
+  "Cow": [
+   "Bull",
+   "Calf",
+   "Highland cow"
+  ],
+  "Sheep": [
+   "Lamb",
+   "Ram",
+   "Bighorn sheep"
+  ],
+  "Goat": [
+   "Mountain goat"
+  ],
+  "Pig": [
+   "Piglet",
+   "Hog"
+  ],
+  "Rabbit": [],
+  "Camel": [
+   "Bactrian camel",
+   "Dromedary"
+  ],
+  "Bat": [
+   "Fruit bat",
+   "Vampire bat"
+  ],
+  "Squirrel": [
+   "Flying squirrel"
+  ],
+  "Mammoth": [
+   "Woolly mammoth"
+  ],
+  "Turtle": [
+   "Sea turtle",
+   "Box turtle",
+   "Snapping turtle",
+   "Tortoise"
+  ],
+  "Tortoise": [
+   "Galápagos tortoise"
+  ],
+  "Snake": [
+   "Anaconda",
+   "Boa constrictor",
+   "Cobra",
+   "Python",
+   "Rattlesnake",
+   "Viper",
+   "Garter snake",
+   "Coral snake",
+   "Corn snake",
+   "Sea snake",
+   "Black mamba"
+  ],
+  "Cobra": [
+   "King cobra"
+  ],
+  "Lizard": [
+   "Gecko",
+   "Iguana",
+   "Chameleon",
+   "Komodo dragon",
+   "Monitor lizard",
+   "Bearded dragon",
+   "Frilled lizard",
+   "Gila monster",
+   "Skink",
+   "Thorny devil"
+  ],
+  "Gecko": [
+   "Leopard gecko"
+  ],
+  "Frog": [
+   "Tree frog",
+   "Poison dart frog",
+   "Bullfrog",
+   "Glass frog"
+  ],
+  "Tree frog": [
+   "Red-eyed tree frog"
+  ],
+  "Toad": [
+   "Cane toad"
+  ],
+  "Eel": [
+   "Electric eel",
+   "Moray eel"
+  ],
+  "Crab": [
+   "Hermit crab",
+   "King crab"
+  ],
+  "Squid": [
+   "Giant squid"
+  ],
+  "Clam": [
+   "Giant clam"
+  ],
+  "Bee": [
+   "Honeybee",
+   "Bumblebee",
+   "Queen bee"
+  ],
+  "Ant": [
+   "Fire ant",
+   "Leafcutter ant"
+  ],
+  "Beetle": [
+   "Dung beetle",
+   "Stag beetle",
+   "Hercules beetle",
+   "Rhinoceros beetle"
+  ],
+  "Butterfly": [
+   "Monarch butterfly",
+   "Swallowtail butterfly"
+  ],
+  "Spider": [
+   "Tarantula",
+   "Black widow",
+   "Wolf spider",
+   "Jumping spider"
+  ],
+  "Fly": [
+   "Housefly",
+   "Fruit fly",
+   "Horsefly"
+  ],
+  "Praying mantis": [
+   "Orchid mantis"
+  ],
+  "Worm": [
+   "Earthworm",
+   "Mealworm"
+  ],
+  "Rose": [
+   "Rosebud"
+  ],
+  "Cactus": [
+   "Saguaro cactus",
+   "Prickly pear"
+  ],
+  "Mushroom": [
+   "Shiitake mushroom",
+   "Portobello mushroom"
+  ],
+  "Clover": [
+   "Four-leaf clover"
+  ],
+  "Car": [
+   "Sports car",
+   "Race car",
+   "Convertible",
+   "Police car",
+   "Electric car",
+   "Vintage car",
+   "Muscle car",
+   "Sedan",
+   "SUV",
+   "Station wagon",
+   "Lowrider"
+  ],
+  "Race car": [
+   "Formula One car"
+  ],
+  "Truck": [
+   "Pickup truck",
+   "Fire truck",
+   "Dump truck",
+   "Garbage truck",
+   "Delivery truck",
+   "Tow truck",
+   "Semi truck",
+   "Ice cream truck",
+   "Mail truck",
+   "Monster truck",
+   "Tanker truck",
+   "Crane truck"
+  ],
+  "Bus": [
+   "School bus",
+   "Double-decker bus"
+  ],
+  "Train": [
+   "Steam train",
+   "Freight train",
+   "Bullet train",
+   "Subway train",
+   "Locomotive",
+   "Maglev train"
+  ],
+  "Boat": [
+   "Sailboat",
+   "Rowboat",
+   "Speedboat",
+   "Fishing boat",
+   "Paddle boat",
+   "Lifeboat",
+   "Houseboat"
+  ],
+  "Ship": [
+   "Cargo ship",
+   "Cruise ship",
+   "Pirate ship",
+   "Viking ship",
+   "Battleship",
+   "Aircraft carrier",
+   "Galleon",
+   "Steamboat"
+  ],
+  "Airplane": [
+   "Jet",
+   "Jumbo jet",
+   "Fighter jet",
+   "Biplane",
+   "Seaplane",
+   "Cargo plane",
+   "Concorde"
+  ],
+  "Bicycle": [
+   "Mountain bike",
+   "BMX bike",
+   "Tandem bicycle",
+   "Penny-farthing"
+  ],
+  "Motorcycle": [
+   "Dirt bike"
+  ],
+  "Rocket": [
+   "Saturn V rocket"
+  ],
+  "Sled": [
+   "Dog sled",
+   "Toboggan"
+  ],
+  "House": [
+   "Cottage",
+   "Mansion",
+   "Cabin",
+   "Log cabin",
+   "Farmhouse",
+   "Treehouse"
+  ],
+  "Tower": [
+   "Clock tower",
+   "Water tower",
+   "Bell tower",
+   "Watchtower"
+  ],
+  "Bridge": [
+   "Suspension bridge",
+   "Covered bridge",
+   "Drawbridge"
+  ],
+  "Guitar": [
+   "Electric guitar",
+   "Bass guitar"
+  ],
+  "Drum": [
+   "Bass drum",
+   "Snare drum",
+   "Bongo drums",
+   "Conga drum",
+   "Djembe",
+   "Steel drum",
+   "Timpani",
+   "Drum kit",
+   "Tabla"
+  ],
+  "Piano": [
+   "Grand piano",
+   "Upright piano"
+  ],
+  "Bell": [
+   "Handbell",
+   "Cowbell"
+  ],
+  "Clock": [
+   "Alarm clock",
+   "Wall clock",
+   "Grandfather clock",
+   "Cuckoo clock",
+   "Digital clock"
+  ],
+  "Watch": [
+   "Pocket watch",
+   "Smartwatch"
+  ],
+  "Lamp": [
+   "Desk lamp",
+   "Floor lamp",
+   "Lava lamp",
+   "Bedside lamp"
+  ],
+  "Chair": [
+   "Armchair",
+   "Rocking chair",
+   "Lawn chair",
+   "High chair",
+   "Recliner",
+   "Bean bag chair"
+  ],
+  "Table": [
+   "Coffee table",
+   "Dining table",
+   "Picnic table"
+  ],
+  "Bed": [
+   "Bunk bed"
+  ],
+  "Hat": [
+   "Top hat",
+   "Cowboy hat",
+   "Fedora",
+   "Bowler hat",
+   "Straw hat",
+   "Sun hat",
+   "Party hat",
+   "Witch hat",
+   "Chef's hat",
+   "Sombrero",
+   "Bucket hat",
+   "Flat cap",
+   "Beret",
+   "Beanie"
+  ],
+  "Shoe": [
+   "Sneakers",
+   "High heels",
+   "Loafers",
+   "Ballet shoes",
+   "Clogs",
+   "Wooden shoes"
+  ],
+  "Boots": [
+   "Cowboy boots",
+   "Rubber boots",
+   "Hiking boots",
+   "Snow boots"
+  ],
+  "Glasses": [
+   "Reading glasses"
+  ],
+  "Knife": [
+   "Bread knife",
+   "Pocket knife"
+  ],
+  "Cup": [
+   "Coffee mug",
+   "Teacup",
+   "Paper cup",
+   "Mug"
+  ],
+  "Camera": [
+   "Polaroid camera",
+   "Film camera",
+   "Digital camera",
+   "Security camera"
+  ],
+  "Telephone": [
+   "Smartphone",
+   "Rotary phone",
+   "Flip phone",
+   "Payphone"
+  ],
+  "Computer": [
+   "Laptop"
+  ],
+  "Saw": [
+   "Hand saw",
+   "Hacksaw",
+   "Chainsaw",
+   "Bow saw"
+  ],
+  "Hammer": [
+   "Sledgehammer"
+  ],
+  "Axe": [
+   "Hatchet"
+  ],
+  "Ring": [
+   "Wedding ring"
+  ],
+  "Necklace": [
+   "Locket",
+   "Pendant"
+  ],
+  "Bracelet": [
+   "Charm bracelet",
+   "Friendship bracelet"
+  ],
+  "Dress": [
+   "Wedding dress"
+  ],
+  "Coat": [
+   "Winter coat",
+   "Raincoat",
+   "Trench coat",
+   "Parka"
+  ],
+  "Jacket": [
+   "Leather jacket",
+   "Denim jacket",
+   "Puffer jacket"
+  ],
+  "Shirt": [
+   "T-shirt",
+   "Polo shirt"
+  ],
+  "Bag": [
+   "Handbag",
+   "Tote bag",
+   "Duffel bag",
+   "Paper bag",
+   "Plastic bag"
+  ],
+  "Moon": [
+   "Full moon",
+   "Crescent moon"
+  ],
+  "Galaxy": [
+   "Milky Way",
+   "Andromeda Galaxy"
+  ],
+  "Nebula": [
+   "Orion Nebula"
+  ],
+  "Comet": [
+   "Halley's Comet"
+  ],
+  "Eclipse": [
+   "Solar eclipse",
+   "Lunar eclipse"
+  ],
+  "Telescope": [
+   "Hubble Space Telescope",
+   "Radio telescope"
+  ],
+  "Coffee": [
+   "Espresso",
+   "Cappuccino",
+   "Latte",
+   "Mocha",
+   "Iced coffee"
+  ],
+  "Tea": [
+   "Green tea",
+   "Iced tea",
+   "Chai",
+   "Matcha"
+  ],
+  "Cocktail": [
+   "Margarita",
+   "Mojito",
+   "Piña colada"
+  ],
+  "Wine": [
+   "Mulled wine"
+  ],
+  "Soda": [
+   "Cola",
+   "Root beer",
+   "Ginger ale"
+  ],
+  "Bread": [
+   "Baguette",
+   "Sourdough",
+   "Rye bread",
+   "Ciabatta",
+   "Focaccia",
+   "Brioche",
+   "Challah",
+   "Pumpernickel",
+   "Garlic bread"
+  ],
+  "Cheese": [
+   "Cheddar",
+   "Brie",
+   "Mozzarella",
+   "Parmesan",
+   "Swiss cheese",
+   "Gouda",
+   "Feta",
+   "Camembert",
+   "Blue cheese",
+   "Ricotta",
+   "Goat cheese",
+   "Cottage cheese",
+   "Cream cheese"
+  ],
+  "Cake": [
+   "Birthday cake",
+   "Wedding cake",
+   "Carrot cake",
+   "Red velvet cake",
+   "Angel food cake",
+   "Black Forest cake",
+   "Lava cake",
+   "Tres leches cake",
+   "Fruitcake"
+  ],
+  "Pie": [
+   "Apple pie",
+   "Pumpkin pie",
+   "Key lime pie",
+   "Pecan pie",
+   "Cherry pie"
+  ],
+  "Egg": [
+   "Fried egg",
+   "Hard-boiled egg",
+   "Scrambled eggs",
+   "Deviled egg"
+  ],
+  "Sandwich": [
+   "Club sandwich",
+   "BLT",
+   "Grilled cheese",
+   "Hoagie",
+   "Banh mi"
+  ],
+  "Salad": [
+   "Caesar salad",
+   "Potato salad"
+  ],
+  "Soup": [
+   "Miso soup",
+   "Minestrone",
+   "Clam chowder",
+   "Gazpacho",
+   "Borscht",
+   "Tom yum"
+  ],
+  "Chocolate": [
+   "Chocolate bar",
+   "Chocolate truffle"
+  ],
+  "Ice cream": [
+   "Gelato",
+   "Soft serve",
+   "Ice cream cone"
+  ],
+  "Sushi": [
+   "Sushi roll",
+   "Nigiri"
+  ],
+  "Dumpling": [
+   "Gyoza",
+   "Wonton"
+  ],
+  "Noodles": [
+   "Ramen",
+   "Udon",
+   "Lo mein",
+   "Chow mein"
+  ],
+  "Pasta": [
+   "Spaghetti",
+   "Lasagna",
+   "Ravioli",
+   "Gnocchi"
+  ],
+  "Orange": [
+   "Blood orange",
+   "Clementine"
+  ],
+  "Melon": [
+   "Cantaloupe",
+   "Honeydew",
+   "Watermelon"
+  ],
+  "Onion": [
+   "Red onion"
+  ],
+  "Squash": [
+   "Butternut squash"
+  ],
+  "Tomato": [
+   "Cherry tomato"
+  ],
+  "Cookie": [
+   "Chocolate chip cookie",
+   "Fortune cookie"
+  ],
+  "Candy": [
+   "Candy cane",
+   "Lollipop",
+   "Gummy bear",
+   "Jelly bean",
+   "Hard candy",
+   "Candy corn",
+   "Rock candy",
+   "Gumdrop",
+   "Taffy",
+   "Candy bar"
+  ],
+  "Medal": [
+   "Gold medal"
+  ]
+ },
+ "broad": {
+  "Bird": [
+   "Owl",
+   "Eagle",
+   "Hawk",
+   "Falcon",
+   "Penguin",
+   "Parrot",
+   "Duck",
+   "Goose",
+   "Swan",
+   "Crane",
+   "Chicken",
+   "Albatross",
+   "Blackbird",
+   "Blue jay",
+   "Bluebird",
+   "Canary",
+   "Cardinal",
+   "Cassowary",
+   "Condor",
+   "Cormorant",
+   "Crow",
+   "Cuckoo",
+   "Dodo",
+   "Dove",
+   "Egret",
+   "Emu",
+   "Finch",
+   "Flamingo",
+   "Goldfinch",
+   "Heron",
+   "Hornbill",
+   "Hummingbird",
+   "Ibis",
+   "Kingfisher",
+   "Kiwi bird",
+   "Kookaburra",
+   "Lyrebird",
+   "Magpie",
+   "Nightingale",
+   "Oriole",
+   "Osprey",
+   "Ostrich",
+   "Partridge",
+   "Peacock",
+   "Pelican",
+   "Pheasant",
+   "Pigeon",
+   "Puffin",
+   "Quail",
+   "Raven",
+   "Roadrunner",
+   "Robin",
+   "Seagull",
+   "Sparrow",
+   "Starling",
+   "Stork",
+   "Swallow",
+   "Toucan",
+   "Turkey",
+   "Vulture",
+   "Woodpecker",
+   "Wren",
+   "Arctic tern",
+   "Blue-footed booby",
+   "Chickadee",
+   "Grouse",
+   "Guinea fowl",
+   "Hoopoe",
+   "Kestrel",
+   "Loon",
+   "Mockingbird",
+   "Nuthatch",
+   "Ptarmigan",
+   "Rhea",
+   "Sandpiper",
+   "Secretary bird",
+   "Shoebill",
+   "Spoonbill",
+   "Tern",
+   "Thrush",
+   "Turkey vulture",
+   "Weaver bird",
+   "Gannet",
+   "Quetzal",
+   "Bird of paradise"
+  ],
+  "Fish": [
+   "Shark",
+   "Eel",
+   "Angelfish",
+   "Anglerfish",
+   "Barracuda",
+   "Betta fish",
+   "Blue tang",
+   "Carp",
+   "Catfish",
+   "Clownfish",
+   "Cod",
+   "Flounder",
+   "Goldfish",
+   "Guppy",
+   "Halibut",
+   "Herring",
+   "Koi",
+   "Lionfish",
+   "Mackerel",
+   "Marlin",
+   "Piranha",
+   "Pufferfish",
+   "Salmon",
+   "Sardine",
+   "Swordfish",
+   "Tilapia",
+   "Trout",
+   "Tuna",
+   "Anchovy",
+   "Grouper",
+   "Haddock",
+   "Mahi-mahi",
+   "Minnow",
+   "Parrotfish",
+   "Perch",
+   "Pike",
+   "Snapper",
+   "Sole",
+   "Sturgeon",
+   "Ocean sunfish",
+   "Triggerfish",
+   "Blobfish",
+   "Flying fish",
+   "Sailfish",
+   "Mudskipper"
+  ],
+  "Insect": [
+   "Bee",
+   "Ant",
+   "Beetle",
+   "Butterfly",
+   "Fly",
+   "Praying mantis",
+   "Caterpillar",
+   "Cicada",
+   "Cockroach",
+   "Cricket",
+   "Dragonfly",
+   "Firefly",
+   "Flea",
+   "Grasshopper",
+   "Hornet",
+   "Ladybug",
+   "Locust",
+   "Mosquito",
+   "Moth",
+   "Stick insect",
+   "Termite",
+   "Wasp",
+   "Aphid",
+   "Bed bug",
+   "Damselfly",
+   "Earwig",
+   "Gnat",
+   "Katydid",
+   "Louse",
+   "Mayfly"
+  ],
+  "Dinosaur": [
+   "Tyrannosaurus rex",
+   "Triceratops",
+   "Stegosaurus",
+   "Velociraptor",
+   "Brachiosaurus",
+   "Diplodocus",
+   "Ankylosaurus",
+   "Spinosaurus",
+   "Pterodactyl"
+  ],
+  "Flower": [
+   "Rose",
+   "Daisy",
+   "Tulip",
+   "Sunflower",
+   "Orchid",
+   "Lily",
+   "Lotus flower",
+   "Water lily",
+   "Daffodil",
+   "Carnation",
+   "Dandelion",
+   "Hibiscus",
+   "Lavender",
+   "Lilac",
+   "Magnolia",
+   "Marigold",
+   "Pansy",
+   "Peony",
+   "Poppy",
+   "Violet",
+   "Wildflower",
+   "Azalea",
+   "Bluebell",
+   "Buttercup",
+   "Chrysanthemum",
+   "Dahlia",
+   "Edelweiss",
+   "Forget-me-not",
+   "Foxglove",
+   "Geranium",
+   "Hyacinth",
+   "Iris",
+   "Jasmine",
+   "Lily of the valley",
+   "Lupine",
+   "Morning glory",
+   "Petunia",
+   "Snapdragon",
+   "Snowdrop",
+   "Zinnia",
+   "Cherry blossom",
+   "Gardenia",
+   "Hydrangea",
+   "Poinsettia",
+   "Wisteria",
+   "Bougainvillea"
+  ],
+  "Tree": [
+   "Pine tree",
+   "Oak tree",
+   "Palm tree",
+   "Maple tree",
+   "Birch tree",
+   "Cypress tree",
+   "Fir tree",
+   "Spruce tree",
+   "Aspen tree",
+   "Apple tree",
+   "Lemon tree",
+   "Olive tree",
+   "Banana tree",
+   "Redwood tree",
+   "Sequoia",
+   "Baobab tree",
+   "Bonsai tree",
+   "Weeping willow",
+   "Joshua tree",
+   "Christmas tree",
+   "Eucalyptus",
+   "Mangrove"
+  ],
+  "Ball": [
+   "Soccer ball",
+   "Basketball",
+   "Tennis ball",
+   "Baseball",
+   "Golf ball",
+   "Volleyball",
+   "Beach ball",
+   "Bowling ball",
+   "Rugby ball",
+   "Football",
+   "Ping pong ball",
+   "Medicine ball"
+  ],
+  "Mountain": [
+   "Mount Everest",
+   "Mount Fuji",
+   "Mount Kilimanjaro",
+   "Matterhorn",
+   "Table Mountain",
+   "Sugarloaf Mountain",
+   "Rainbow Mountain",
+   "El Capitan",
+   "Half Dome",
+   "Mount Etna",
+   "Mount Vesuvius",
+   "Rocky Mountains"
+  ],
+  "Volcano": [
+   "Mount Vesuvius",
+   "Mount Etna",
+   "Mount Fuji"
+  ],
+  "Waterfall": [
+   "Niagara Falls",
+   "Victoria Falls",
+   "Iguazu Falls",
+   "Angel Falls",
+   "Yosemite Falls"
+  ],
+  "Castle": [
+   "Neuschwanstein Castle",
+   "Edinburgh Castle",
+   "Windsor Castle",
+   "Himeji Castle",
+   "Prague Castle",
+   "Blarney Castle",
+   "Tower of London"
+  ],
+  "Statue": [
+   "Statue of Liberty",
+   "Christ the Redeemer",
+   "Michelangelo's David",
+   "The Thinker",
+   "Venus de Milo",
+   "Easter Island statues",
+   "Little Mermaid statue",
+   "Statue of Unity",
+   "Great Sphinx of Giza",
+   "Leshan Giant Buddha",
+   "Tian Tan Buddha",
+   "Great Buddha of Kamakura",
+   "Merlion"
+  ],
+  "Bridge": [
+   "Golden Gate Bridge",
+   "Brooklyn Bridge",
+   "Tower Bridge",
+   "Sydney Harbour Bridge",
+   "Charles Bridge",
+   "Rialto Bridge",
+   "Ponte Vecchio",
+   "London Bridge",
+   "Chapel Bridge"
+  ],
+  "Tower": [
+   "Eiffel Tower",
+   "CN Tower",
+   "Tokyo Tower",
+   "Tokyo Skytree",
+   "Space Needle",
+   "Leaning Tower of Pisa",
+   "Oriental Pearl Tower",
+   "Big Ben",
+   "Belém Tower"
+  ],
+  "Skyscraper": [
+   "Burj Khalifa",
+   "Empire State Building",
+   "Chrysler Building",
+   "Petronas Towers",
+   "Willis Tower",
+   "One World Trade Center",
+   "The Shard",
+   "The Gherkin",
+   "Flatiron Building"
+  ],
+  "Pyramid": [
+   "Pyramids of Giza",
+   "Louvre Pyramid",
+   "Chichen Itza"
+  ],
+  "Church": [
+   "Chapel",
+   "Cathedral",
+   "Sagrada Familia",
+   "Notre-Dame de Paris",
+   "St. Peter's Basilica",
+   "Saint Basil's Cathedral",
+   "Westminster Abbey",
+   "Cologne Cathedral",
+   "Milan Cathedral",
+   "Florence Cathedral",
+   "St. Paul's Cathedral",
+   "St. Mark's Basilica",
+   "Sacré-Cœur",
+   "Hallgrímskirkja"
+  ],
+  "Planet": [
+   "Mercury",
+   "Venus",
+   "Earth",
+   "Mars",
+   "Jupiter",
+   "Saturn",
+   "Uranus",
+   "Neptune",
+   "Pluto"
+  ],
+  "Ape": [
+   "Chimpanzee",
+   "Gorilla",
+   "Orangutan",
+   "Bonobo",
+   "Gibbon"
+  ],
+  "Berry": [
+   "Strawberry",
+   "Blueberry",
+   "Raspberry",
+   "Blackberry",
+   "Cranberry",
+   "Gooseberry",
+   "Elderberry",
+   "Huckleberry",
+   "Mulberry",
+   "Acai berry",
+   "Blackcurrant",
+   "Red currant"
+  ],
+  "Pepper": [
+   "Bell pepper",
+   "Chili pepper",
+   "Jalapeño"
+  ],
+  "Nut": [
+   "Almond",
+   "Cashew",
+   "Chestnut",
+   "Hazelnut",
+   "Pecan",
+   "Pistachio",
+   "Walnut",
+   "Macadamia nut",
+   "Peanut",
+   "Brazil nut",
+   "Pine nut"
+  ],
+  "Gem": [
+   "Diamond",
+   "Ruby",
+   "Sapphire",
+   "Emerald",
+   "Amethyst",
+   "Opal",
+   "Topaz",
+   "Jade",
+   "Turquoise",
+   "Garnet",
+   "Pearl"
+  ],
+  "Crocodilian": [
+   "Crocodile",
+   "Alligator",
+   "Caiman",
+   "Gharial"
+  ],
+  "Deer family": [
+   "Deer",
+   "Elk",
+   "Moose",
+   "Reindeer",
+   "Caribou"
+  ],
+  "Big cat": [
+   "Lion",
+   "Tiger",
+   "Leopard",
+   "Jaguar",
+   "Cheetah",
+   "Panther",
+   "Cougar",
+   "Snow leopard"
+  ],
+  "Citrus": [
+   "Orange",
+   "Lemon",
+   "Lime",
+   "Grapefruit",
+   "Tangerine",
+   "Pomelo",
+   "Yuzu",
+   "Kumquat"
+  ]
+ },
+ "close": [
+  [
+   "Stalactite",
+   "Stalagmite"
+  ],
+  [
+   "Alligator",
+   "Crocodile"
+  ],
+  [
+   "Frog",
+   "Toad"
+  ],
+  [
+   "Moth",
+   "Butterfly"
+  ],
+  [
+   "Wasp",
+   "Hornet",
+   "Bee"
+  ],
+  [
+   "Rabbit",
+   "Hare",
+   "Jackrabbit"
+  ],
+  [
+   "Seal",
+   "Sea lion",
+   "Walrus"
+  ],
+  [
+   "Dolphin",
+   "Porpoise"
+  ],
+  [
+   "Octopus",
+   "Squid",
+   "Cuttlefish"
+  ],
+  [
+   "Lobster",
+   "Crayfish",
+   "Shrimp",
+   "Krill"
+  ],
+  [
+   "Stingray",
+   "Manta ray"
+  ],
+  [
+   "Leopard",
+   "Jaguar",
+   "Cheetah"
+  ],
+  [
+   "Llama",
+   "Alpaca"
+  ],
+  [
+   "Mouse",
+   "Rat"
+  ],
+  [
+   "Hedgehog",
+   "Porcupine"
+  ],
+  [
+   "Raven",
+   "Crow"
+  ],
+  [
+   "Mammoth",
+   "Elephant"
+  ],
+  [
+   "Mule",
+   "Donkey"
+  ],
+  [
+   "Moose",
+   "Elk",
+   "Deer"
+  ],
+  [
+   "Turtle",
+   "Tortoise"
+  ],
+  [
+   "Pumpkin",
+   "Squash",
+   "Gourd"
+  ],
+  [
+   "Sweet potato",
+   "Yam"
+  ],
+  [
+   "Lemon",
+   "Lime"
+  ],
+  [
+   "Muffin",
+   "Cupcake"
+  ],
+  [
+   "Pancake",
+   "Crêpe"
+  ],
+  [
+   "Gelato",
+   "Sorbet",
+   "Ice cream"
+  ],
+  [
+   "Sashimi",
+   "Sushi"
+  ],
+  [
+   "Tent",
+   "Teepee",
+   "Yurt"
+  ],
+  [
+   "Windmill",
+   "Wind turbine"
+  ],
+  [
+   "Lighthouse",
+   "Tower"
+  ],
+  [
+   "Violin",
+   "Viola",
+   "Cello",
+   "Double bass"
+  ],
+  [
+   "Trumpet",
+   "Bugle",
+   "Trombone",
+   "French horn"
+  ],
+  [
+   "Tuba",
+   "Sousaphone",
+   "Euphonium"
+  ],
+  [
+   "Flute",
+   "Piccolo",
+   "Recorder"
+  ],
+  [
+   "Saxophone",
+   "Clarinet",
+   "Oboe"
+  ],
+  [
+   "Xylophone",
+   "Marimba",
+   "Glockenspiel",
+   "Vibraphone"
+  ],
+  [
+   "Harp",
+   "Lyre"
+  ],
+  [
+   "Accordion",
+   "Concertina"
+  ],
+  [
+   "Piano",
+   "Keyboard",
+   "Harpsichord",
+   "Organ",
+   "Pipe organ"
+  ],
+  [
+   "Guitar",
+   "Ukulele",
+   "Banjo",
+   "Mandolin"
+  ],
+  [
+   "Canoe",
+   "Kayak"
+  ],
+  [
+   "Sailboat",
+   "Yacht",
+   "Catamaran"
+  ],
+  [
+   "Helicopter",
+   "Drone"
+  ],
+  [
+   "Scooter",
+   "Moped",
+   "Electric scooter"
+  ],
+  [
+   "Sleigh",
+   "Sled"
+  ],
+  [
+   "Bobsled",
+   "Toboggan"
+  ],
+  [
+   "Bus",
+   "Trolley"
+  ],
+  [
+   "Taj Mahal",
+   "Lotus Temple"
+  ],
+  [
+   "Big Ben",
+   "Palace of Westminster"
+  ],
+  [
+   "Tower Bridge",
+   "London Bridge"
+  ],
+  [
+   "Eiffel Tower",
+   "Tokyo Tower"
+  ],
+  [
+   "Great Sphinx of Giza",
+   "Pyramids of Giza"
+  ],
+  [
+   "Parthenon",
+   "Acropolis"
+  ],
+  [
+   "Colosseum",
+   "Roman Forum"
+  ],
+  [
+   "Sword",
+   "Dagger"
+  ],
+  [
+   "Crown",
+   "Tiara"
+  ],
+  [
+   "Sofa",
+   "Loveseat",
+   "Futon"
+  ],
+  [
+   "Mug",
+   "Teacup",
+   "Cup"
+  ],
+  [
+   "Couch",
+   "Armchair"
+  ],
+  [
+   "Sunglasses",
+   "Glasses",
+   "Goggles"
+  ],
+  [
+   "Mittens",
+   "Gloves"
+  ],
+  [
+   "Hoodie",
+   "Sweatshirt",
+   "Sweater",
+   "Cardigan"
+  ],
+  [
+   "Jeans",
+   "Pants"
+  ],
+  [
+   "Hat",
+   "Baseball cap"
+  ],
+  [
+   "Ladder",
+   "Stepladder"
+  ],
+  [
+   "Mallet",
+   "Hammer"
+  ],
+  [
+   "Asteroid",
+   "Meteorite",
+   "Comet"
+  ],
+  [
+   "Sun",
+   "Star"
+  ],
+  [
+   "Galaxy",
+   "Nebula"
+  ],
+  [
+   "Moon",
+   "Full moon"
+  ],
+  [
+   "Jupiter",
+   "Saturn"
+  ],
+  [
+   "Lake",
+   "Pond"
+  ],
+  [
+   "Cave",
+   "Ice cave"
+  ],
+  [
+   "Iceberg",
+   "Glacier"
+  ],
+  [
+   "Fog",
+   "Cloud"
+  ],
+  [
+   "Rock",
+   "Boulder",
+   "Pebble"
+  ],
+  [
+   "Diamond",
+   "Crystal",
+   "Quartz"
+  ]
+ ]
+}

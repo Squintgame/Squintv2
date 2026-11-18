@@ -135,6 +135,7 @@
         <label class="field">Puzzle ID<input id="pid" placeholder="e.g. 14"></label>
         <label class="field">Answer<input id="answer" placeholder="e.g. Pineapple"></label>
       </div>
+      <label class="field">Also accept (optional, separate with commas)<input id="accept" placeholder="e.g. Lady Liberty, Liberty statue"></label>
       <label class="field">Hint (shown after 3 misses)<input id="hint" placeholder="e.g. It grows out of the middle of a spiky plant."></label>
       <label class="field">Photo source URL<input id="source" placeholder="https://"></label>
       <label class="field">License<input id="license" placeholder="e.g. CC0, Unsplash License"></label>
@@ -504,7 +505,7 @@ $("exportBtn").addEventListener("click", async () => {
 
   // Private record: everything, including the plain answer, source and license. Keep it OUT of the website.
   const record = {
-    id: rawId, answer, hint: $("hint").value.trim(),
+    id: rawId, answer, hint: $("hint").value.trim(), accept: acceptList(),
     source: $("source").value.trim(), license: $("license").value.trim(),
     photo: { name: fileName, width: W, height: H },
     outputSize: out,
@@ -514,6 +515,7 @@ $("exportBtn").addEventListener("click", async () => {
   const game = {
     a: obscure(answer),
     hint: record.hint,
+    accept: record.accept,
     levels: levels.map(l => ({ file: l.file, rect: l.rect }))
   };
   const enc = new TextEncoder();
@@ -526,6 +528,10 @@ $("exportBtn").addEventListener("click", async () => {
   document.body.appendChild(a); a.click(); a.remove();
   if (answer) say(`Downloaded ${folder}.zip. Copy the ${folder} folder into puzzles/, and file the record somewhere private.`);
 });
+
+function acceptList() {
+  return $("accept").value.split(",").map(t => t.trim()).filter(Boolean);
+}
 
 /* Reversed base64: keeps the answer out of plain sight in the site files. Not real security. */
 function obscure(text) {
@@ -546,7 +552,7 @@ $("importInput").addEventListener("change", async e => {
     }
     if (!Array.isArray(data.levels) || data.levels.length !== 7) { say("That file doesn't contain 7 zoom levels."); return; }
     rects = data.levels.map(l => ({ x: l.rect.x, y: l.rect.y, s: l.rect.size }));
-    $("pid").value = data.id || ""; $("answer").value = data.answer || ""; $("hint").value = data.hint || "";
+    $("pid").value = data.id || ""; $("answer").value = data.answer || ""; $("hint").value = data.hint || ""; $("accept").value = (data.accept || []).join(", ");
     $("source").value = data.source || ""; $("license").value = data.license || "";
     stopAnim(); sel = 0; render();
     say("Boxes loaded. Adjust anything and export again.");

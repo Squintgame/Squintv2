@@ -4,7 +4,28 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Squint — a daily picture puzzle</title>
-<meta name="description" content="One picture. Six looks. A new zoomed-in puzzle every day.">
+<meta name="description" content="One picture. Six looks. Guess what it is before it zooms all the way out. A new puzzle every day.">
+<meta name="theme-color" content="#16756C">
+
+<!-- Icons -->
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="icon" href="favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+<!-- LINK PREVIEW: if your site's address is different, replace
+     https://squintgame.github.io/Squintv2/ in the three lines marked SITE below. -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Squint">
+<meta property="og:title" content="Squint — a daily picture puzzle">
+<meta property="og:description" content="One picture. Six looks. Can you tell what it is before it zooms all the way out?">
+<meta property="og:url" content="https://squintgame.github.io/Squintv2/"><!-- SITE -->
+<meta property="og:image" content="https://squintgame.github.io/Squintv2/og-image.png"><!-- SITE -->
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Squint: one picture, six looks.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://squintgame.github.io/Squintv2/og-image.png"><!-- SITE -->
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&display=swap" rel="stylesheet">
@@ -18,6 +39,7 @@
     --accent: #16756C;
     --accent-ink: #FFFFFF;
     --miss: #C4452F;
+    --close: #D19A1F;
     --hit: #2C8A55;
     --frame: #1C1D1F;
     --font: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
@@ -33,6 +55,7 @@
       --accent: #3FB3A6;
       --accent-ink: #0D1A18;
       --miss: #E06A52;
+      --close: #E8B84A;
       --hit: #4CC07F;
       --frame: #2E3134;
       color-scheme: dark;
@@ -62,14 +85,15 @@
     position: absolute; left: 50%; top: -0.06em; width: 0.3em; height: 0.3em; transform: translateX(-50%);
     border: 0.075em solid var(--accent); border-radius: 50%; background: var(--bg);
   }
-  .meta { display: flex; align-items: center; gap: 10px; color: var(--muted); }
+  .meta { display: flex; align-items: center; gap: 8px; color: var(--muted); }
+  .meta #num { margin-right: 4px; }
   .icon-btn {
     width: 40px; height: 40px; display: grid; place-items: center;
     border: 1px solid var(--line); border-radius: 12px; background: var(--surface); cursor: pointer;
+    font-weight: 800; font-size: 1.05rem;
   }
   .icon-btn:hover { border-color: var(--muted); }
 
-  /* The viewport: two stacked images take turns being in front */
   .frame {
     position: relative; aspect-ratio: 1 / 1; width: 100%;
     border: 6px solid var(--frame); border-radius: 22px; overflow: hidden; background: var(--line);
@@ -88,6 +112,7 @@
   .pips { list-style: none; display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; padding: 0; margin: 12px 0 0; }
   .pips li { height: 8px; border-radius: 4px; background: var(--line); }
   .pips li.miss { background: var(--miss); }
+  .pips li.close { background: var(--close); }
   .pips li.hit { background: var(--hit); }
   .pips li.now { background: var(--muted); opacity: 0.55; }
 
@@ -130,11 +155,12 @@
   .history li { display: flex; justify-content: space-between; padding: 10px 2px; border-bottom: 1px solid var(--line); }
   .history li:last-child { border-bottom: 0; }
   .history .tag { color: var(--miss); }
+  .history .close .tag { color: var(--close); }
   .history .skip .tag, .history .skip .word { color: var(--muted); }
   .history .hit .tag { color: var(--hit); }
 
   dialog {
-    width: min(400px, calc(100vw - 32px)); border: 0; border-radius: 20px; padding: 22px;
+    width: min(420px, calc(100vw - 32px)); border: 0; border-radius: 20px; padding: 22px;
     background: var(--surface); color: var(--ink);
   }
   dialog::backdrop { background: rgba(0,0,0,0.45); }
@@ -148,6 +174,20 @@
   .bar { background: var(--line); color: var(--ink); padding: 2px 8px; border-radius: 6px; text-align: right; min-width: 2em; font-size: 0.9rem; }
   .bar.today { background: var(--accent); color: var(--accent-ink); }
 
+  /* How to play */
+  .rules { margin: 14px 0 0; padding: 0; list-style: none; display: grid; gap: 12px; }
+  .rules li { display: grid; grid-template-columns: 28px 1fr; gap: 10px; align-items: start; }
+  .rules .n {
+    width: 28px; height: 28px; border-radius: 50%; background: var(--bg); border: 1px solid var(--line);
+    display: grid; place-items: center; font-weight: 800; font-size: 0.9rem;
+  }
+  .legend { display: grid; gap: 8px; margin: 18px 0 0; padding: 14px; background: var(--bg); border-radius: 14px; }
+  .legend div { display: flex; align-items: center; gap: 10px; }
+  .chip { width: 30px; height: 8px; border-radius: 4px; flex: none; }
+  .chip.hit { background: var(--hit); } .chip.close { background: var(--close); } .chip.miss { background: var(--miss); }
+  .help-foot { color: var(--muted); margin: 16px 0 18px; }
+  #helpGo { width: 100%; }
+
   @media (prefers-reduced-motion: reduce) { .frame.shake { animation: none; } }
 </style>
 </head>
@@ -157,6 +197,7 @@
     <h1 class="logo" aria-label="Squint"><span aria-hidden="true">Squ<span class="logo-i">ı<span class="lens"></span></span>nt</span></h1>
     <div class="meta">
       <span id="num"></span>
+      <button class="icon-btn" id="helpBtn" aria-label="How to play">?</button>
       <button class="icon-btn" id="statsBtn" aria-label="Your stats">
         <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><rect x="2" y="9" width="3" height="7" rx="1" fill="currentColor"/><rect x="7.5" y="4" width="3" height="12" rx="1" fill="currentColor"/><rect x="13" y="7" width="3" height="9" rx="1" fill="currentColor"/></svg>
       </button>
@@ -198,10 +239,32 @@
   </main>
 </div>
 
+<dialog id="help" aria-labelledby="helpTitle">
+  <div class="dialog-head">
+    <h2 id="helpTitle">How to play</h2>
+    <button class="icon-btn" data-close aria-label="Close">
+      <svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+  <ol class="rules">
+    <li><span class="n">1</span><span>Today's picture starts zoomed way in. Guess what it is.</span></li>
+    <li><span class="n">2</span><span>Every miss or skip zooms out a little. You have six tries.</span></li>
+    <li><span class="n">3</span><span>Start typing and pick your guess from the list.</span></li>
+    <li><span class="n">4</span><span>Stuck? A hint appears after three misses.</span></li>
+  </ol>
+  <div class="legend">
+    <div><span class="chip hit"></span><span><strong>Correct.</strong> Close-enough names count too.</span></div>
+    <div><span class="chip close"></span><span><strong>Close.</strong> Right idea, not quite it.</span></div>
+    <div><span class="chip miss"></span><span><strong>Not it.</strong></span></div>
+  </div>
+  <p class="help-foot">A new picture every day at midnight. Share your result and keep your streak going.</p>
+  <button class="btn primary" id="helpGo">Let's play</button>
+</dialog>
+
 <dialog id="stats" aria-labelledby="statsTitle">
   <div class="dialog-head">
     <h2 id="statsTitle">Your stats</h2>
-    <button class="icon-btn" id="closeStats" aria-label="Close">
+    <button class="icon-btn" data-close aria-label="Close">
       <svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
     </button>
   </div>
@@ -214,10 +277,10 @@
 /* =========================================================
    CONFIG
    ========================================================= */
-const SITE_URL = "squint.game";          // change to your real domain
+const SITE_URL = "squint.game";          // shown in share text; change to your real domain
 const LAUNCH = Date.UTC(2026, 10, 18);   // date of puzzle #1 (months are 0-based: 10 = November)
 const MAX_GUESSES = 6;
-const FULL = 6;                          // index of the full-picture image in each puzzle
+const FULL = 6;
 const VERDICTS = ["Eagle eye.", "Sharp.", "Nicely spotted.", "Solid.", "Got there.", "Phew. Just in time."];
 
 /* =========================================================
@@ -227,7 +290,7 @@ function dayIndexFor(d) {
   return Math.floor((Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) - LAUNCH) / 86400000);
 }
 const params = new URLSearchParams(location.search);
-const testMode = params.has("day");      // ?day=2 previews puzzle #2 without touching your stats
+const testMode = params.has("day");
 let dayIndex = testMode ? (parseInt(params.get("day"), 10) || 1) - 1 : dayIndexFor(new Date());
 if (dayIndex < 0) dayIndex = 0;
 const puzzleNum = dayIndex + 1;
@@ -236,7 +299,7 @@ const puzzleNum = dayIndex + 1;
    STATE
    ========================================================= */
 let ANSWERS = [];
-let puzzle = null;        // { answer, hint, levels, base }
+let puzzle = null;        // { answer, hint, accept, levels, base }
 let state = null;
 let revealDone = false;
 let stats = load("squint-stats", { played: 0, won: 0, streak: 0, maxStreak: 0, lastWon: null, dist: [0,0,0,0,0,0] });
@@ -256,14 +319,101 @@ const reduceMotion = matchMedia("(prefers-reduced-motion: reduce)");
 const wait = ms => new Promise(r => setTimeout(r, ms));
 $("num").textContent = `#${puzzleNum}`;
 
-/* The answer is stored reversed-base64 in game.json, so it isn't readable at a glance. */
 function unobscure(s) {
   const bin = atob(s.split("").reverse().join(""));
   return new TextDecoder().decode(Uint8Array.from(bin, c => c.charCodeAt(0)));
 }
 
 /* =========================================================
-   STARTUP: load answers, schedule, then today's puzzle
+   MATCHING TEXT TO THE ANSWER LIST
+   fold(): ignores case, accents, punctuation, a leading "the" and a plural ending,
+   so "sacre coeur", "the statue of liberty" and "sea turtles" all find their entry.
+   ========================================================= */
+function foldBasic(s) {
+  return s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+    .replace(/œ/g, "oe").replace(/æ/g, "ae").replace(/[’']/g, "").replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, " ").trim();
+}
+function fold(s) {
+  const w = foldBasic(s).replace(/^the /, "").split(" ");
+  let last = w[w.length - 1];
+  if (last.length > 3) {
+    if (last.endsWith("ies")) last = last.slice(0, -3) + "y";
+    else if (/(ches|shes|xes|sses|zes)$/.test(last)) last = last.slice(0, -2);
+    else if (last.endsWith("s") && !/(ss|us|is)$/.test(last)) last = last.slice(0, -1);
+  }
+  w[w.length - 1] = last;
+  return w.join(" ");
+}
+
+let byExact = new Map(), byFold = new Map(), searchIndex = [];
+function indexAnswers() {
+  byExact = new Map(); byFold = new Map();
+  for (const a of ANSWERS) {
+    byExact.set(a.toLowerCase(), a);
+    const k = fold(a);
+    if (!byFold.has(k)) byFold.set(k, a);
+  }
+  searchIndex = ANSWERS.map(a => ({ a, f: foldBasic(a) }));
+}
+function resolve(text) {
+  const t = text.trim();
+  return byExact.get(t.toLowerCase()) || byFold.get(fold(t)) || null;
+}
+
+/* =========================================================
+   "CLOSE ENOUGH" RULES (from similar.json)
+   same:  interchangeable names (Couch = Sofa)              -> correct
+   kinds: general name <-> specific kind (Owl ~ Barn owl)  -> correct
+   broad: very general word (Bird) or a loose family       -> close
+   close: commonly confused pairs (Alligator / Crocodile)  -> close
+   Two kinds of the same thing (Barn owl / Snowy owl)       -> close
+   ========================================================= */
+let SIM = buildSimilar({});
+
+function buildSimilar(data) {
+  const k = s => s.toLowerCase();
+  const canon = new Map();
+  (data.same || []).forEach(g => { const c = k(g[0]); g.forEach(n => canon.set(k(n), c)); });
+  const C = n => canon.get(k(n)) || k(n);
+  const acceptUp = new Map(), allUp = new Map();
+  const link = (m, child, parent) => {
+    const c = C(child), p = C(parent);
+    if (c === p) return;
+    if (!m.has(c)) m.set(c, new Set());
+    m.get(c).add(p);
+  };
+  for (const [head, members] of Object.entries(data.kinds || {})) members.forEach(m => { link(acceptUp, m, head); link(allUp, m, head); });
+  for (const [head, members] of Object.entries(data.broad || {})) members.forEach(m => link(allUp, m, head));
+  const closeOf = new Map();
+  (data.close || []).forEach((g, i) => g.forEach(n => {
+    const c = C(n);
+    if (!closeOf.has(c)) closeOf.set(c, new Set());
+    closeOf.get(c).add(i);
+  }));
+  const ancestors = (m, c) => {
+    const out = new Set(), stack = [c];
+    while (stack.length) for (const p of m.get(stack.pop()) || []) if (!out.has(p)) { out.add(p); stack.push(p); }
+    return out;
+  };
+  return { C, acceptAnc: c => ancestors(acceptUp, c), allAnc: c => ancestors(allUp, c), closeOf };
+}
+
+function judge(guess, answer, extraAccept = []) {
+  const g = SIM.C(guess), a = SIM.C(answer);
+  if (g === a) return "correct";
+  if (extraAccept.some(x => SIM.C(x) === g)) return "correct";
+  if (SIM.acceptAnc(a).has(g) || SIM.acceptAnc(g).has(a)) return "correct";
+  const gAll = SIM.allAnc(g), aAll = SIM.allAnc(a);
+  if (aAll.has(g) || gAll.has(a)) return "close";
+  for (const x of gAll) if (aAll.has(x)) return "close";
+  const gc = SIM.closeOf.get(g), ac = SIM.closeOf.get(a);
+  if (gc && ac) for (const i of gc) if (ac.has(i)) return "close";
+  return "wrong";
+}
+
+/* =========================================================
+   STARTUP
    ========================================================= */
 async function getJSON(url) {
   const res = await fetch(url, { cache: "no-cache" });
@@ -273,21 +423,27 @@ async function getJSON(url) {
 
 async function start() {
   try {
-    const [answers, schedule] = await Promise.all([getJSON("answers.json"), getJSON("puzzles/schedule.json")]);
+    const [answers, schedule, similar] = await Promise.all([
+      getJSON("answers.json"),
+      getJSON("puzzles/schedule.json"),
+      getJSON("similar.json").catch(() => ({}))   // optional: the game still works without it
+    ]);
+    SIM = buildSimilar(similar);
+
     const folder = schedule[dayIndex];
     if (!folder) {
       $("loading").textContent = "No puzzle is scheduled for today. Check back tomorrow.";
       return;
     }
     const g = await getJSON(`puzzles/${folder}/game.json`);
-    puzzle = { answer: unobscure(g.a), hint: g.hint || "", levels: g.levels, base: `puzzles/${folder}/` };
+    puzzle = { answer: unobscure(g.a), hint: g.hint || "", accept: g.accept || [], levels: g.levels, base: `puzzles/${folder}/` };
 
     ANSWERS = answers.slice();
-    if (!ANSWERS.some(a => a.toLowerCase() === puzzle.answer.toLowerCase())) {
-      console.warn(`"${puzzle.answer}" isn't in answers.json; adding it so the puzzle can be solved.`);
-      ANSWERS.push(puzzle.answer);
-      ANSWERS.sort();
+    for (const extra of [puzzle.answer, ...puzzle.accept]) {
+      if (!ANSWERS.some(a => a.toLowerCase() === extra.toLowerCase())) ANSWERS.push(extra);
     }
+    ANSWERS.sort((x, y) => x.localeCompare(y));
+    indexAnswers();
 
     state = load("squint-state", null);
     if (!state || state.puzzle !== puzzleNum || testMode) {
@@ -311,8 +467,6 @@ const currentLevel = () => (state.status === "playing" ? state.guesses.length : 
 
 /* =========================================================
    SMOOTH ZOOM-OUT BETWEEN SEPARATE IMAGES
-   The incoming (wider) image starts scaled up so it frames exactly what the
-   current image shows, then eases back to normal while the current one fades.
    ========================================================= */
 let front = $("imgA"), back = $("imgB");
 let shownLevel = null;
@@ -343,7 +497,7 @@ async function showLevel(target, animate) {
   try { await back.decode(); } catch {}
 
   if (animated) {
-    void back.offsetWidth; // apply the starting scale before animating
+    void back.offsetWidth;
     const dur = target === FULL ? 1400 : 700;
     back.style.transition = `transform ${dur}ms cubic-bezier(.2,.7,.2,1)`;
     back.style.transform = "scale(1)";
@@ -370,6 +524,8 @@ function preloadNext() {
 /* =========================================================
    RENDER
    ========================================================= */
+const resultOf = g => (g.correct ? "hit" : g.close ? "close" : g.skip ? "skip" : "miss");
+
 function render() {
   const n = state.guesses.length;
   const playing = state.status === "playing";
@@ -378,7 +534,9 @@ function render() {
 
   $("pips").innerHTML = Array.from({ length: MAX_GUESSES }, (_, i) => {
     const g = state.guesses[i];
-    const cls = g ? (g.correct ? "hit" : "miss") : (playing && i === n ? "now" : "");
+    let cls = "";
+    if (g) cls = resultOf(g) === "skip" ? "miss" : resultOf(g);
+    else if (playing && i === n) cls = "now";
     return `<li class="${cls}"></li>`;
   }).join("");
 
@@ -387,9 +545,9 @@ function render() {
   $("hint").innerHTML = `<strong>Hint:</strong> ${escapeHTML(puzzle.hint)}`;
 
   $("history").innerHTML = state.guesses.slice().reverse().map(g => {
-    const cls = g.correct ? "hit" : g.skip ? "skip" : "";
-    const tag = g.correct ? "Correct" : g.skip ? "Skipped" : "Not it";
-    return `<li class="${cls}"><span class="word">${g.skip ? "—" : escapeHTML(g.text)}</span><span class="tag">${tag}</span></li>`;
+    const r = resultOf(g);
+    const tag = { hit: "Correct", close: "Close", skip: "Skipped", miss: "Not it" }[r];
+    return `<li class="${r}"><span class="word">${g.skip ? "—" : escapeHTML(g.text)}</span><span class="tag">${tag}</span></li>`;
   }).join("");
 
   $("play").hidden = !playing;
@@ -412,10 +570,10 @@ function escapeHTML(s) {
    GAME ACTIONS
    ========================================================= */
 let msgTimer;
-function say(text) {
+function say(text, ms = 2600) {
   $("message").textContent = text;
   clearTimeout(msgTimer);
-  msgTimer = setTimeout(() => ($("message").textContent = ""), 2600);
+  msgTimer = setTimeout(() => ($("message").textContent = ""), ms);
 }
 
 function shake() {
@@ -437,18 +595,24 @@ function afterGuess(wasCorrect) {
 
 function submitGuess(raw) {
   if (!state || state.status !== "playing") return;
-  const text = raw.trim();
-  if (!text) return;
-  const match = ANSWERS.find(a => a.toLowerCase() === text.toLowerCase());
+  if (!raw.trim()) return;
+  const match = resolve(raw);
   if (!match) { say("Pick an answer from the list."); return; }
   if (state.guesses.some(g => g.text === match)) { say("You already guessed that."); return; }
 
-  const correct = match.toLowerCase() === puzzle.answer.toLowerCase();
-  state.guesses.push({ text: match, correct });
+  const verdict = judge(match, puzzle.answer, puzzle.accept);
+  const correct = verdict === "correct";
+  state.guesses.push({ text: match, correct, close: verdict === "close" });
   input.value = "";
   closeOptions();
-  if (correct) finish(true);
-  else if (state.guesses.length >= MAX_GUESSES) finish(false);
+
+  if (correct) {
+    finish(true);
+    if (match.toLowerCase() !== puzzle.answer.toLowerCase()) say(`Close enough! The exact answer is ${puzzle.answer}.`, 4000);
+  } else {
+    if (verdict === "close") say("Close! You're on the right track.");
+    if (state.guesses.length >= MAX_GUESSES) finish(false);
+  }
   afterGuess(correct);
 }
 
@@ -482,7 +646,8 @@ function shareText() {
   const won = state.status === "won";
   const row = Array.from({ length: MAX_GUESSES }, (_, i) => {
     const g = state.guesses[i];
-    return g ? (g.correct ? "🟩" : "🟥") : "⬜";
+    if (!g) return "⬜";
+    return g.correct ? "🟩" : g.close ? "🟨" : "🟥";
   }).join("");
   return `Squint #${puzzleNum} 🔍 ${won ? state.guesses.length : "X"}/${MAX_GUESSES}\n${row}\n${SITE_URL}`;
 }
@@ -500,7 +665,7 @@ async function copyResult() {
 }
 
 /* =========================================================
-   COUNTDOWN (local midnight)
+   COUNTDOWN
    ========================================================= */
 function tickCountdown() {
   const now = new Date();
@@ -512,29 +677,38 @@ function tickCountdown() {
 setInterval(() => { if (state && state.status !== "playing") tickCountdown(); }, 1000);
 
 /* =========================================================
-   AUTOCOMPLETE
+   AUTOCOMPLETE (ignores accents and punctuation; matches the start of any word)
    ========================================================= */
 let matches = [], active = -1;
 
 function updateOptions() {
-  const q = input.value.trim().toLowerCase();
+  const q = foldBasic(input.value);
   if (!q) { closeOptions(); return; }
   const guessed = new Set(state.guesses.map(g => g.text));
-  const pool = ANSWERS.filter(a => !guessed.has(a));
-  const starts = pool.filter(a => a.toLowerCase().startsWith(q));
-  const contains = pool.filter(a => !a.toLowerCase().startsWith(q) && a.toLowerCase().includes(q));
-  matches = [...starts, ...contains].slice(0, 6);
+  const starts = [], words = [], contains = [];
+  for (const { a, f } of searchIndex) {
+    if (guessed.has(a)) continue;
+    if (f.startsWith(q)) starts.push(a);
+    else if (f.includes(" " + q)) words.push(a);
+    else if (f.includes(q)) contains.push(a);
+  }
+  matches = [...starts, ...words, ...contains].slice(0, 6);
   active = matches.length ? 0 : -1;
-  drawOptions(q);
+  drawOptions();
 }
 
-function drawOptions(q) {
+function highlight(a) {
+  const typed = input.value.trim().toLowerCase();
+  const at = typed ? a.toLowerCase().indexOf(typed) : -1;
+  if (at < 0) return escapeHTML(a);
+  return escapeHTML(a.slice(0, at)) + "<mark>" + escapeHTML(a.slice(at, at + typed.length)) + "</mark>" + escapeHTML(a.slice(at + typed.length));
+}
+
+function drawOptions() {
   if (!matches.length) { closeOptions(); return; }
-  options.innerHTML = matches.map((a, i) => {
-    const at = a.toLowerCase().indexOf(q);
-    const label = escapeHTML(a.slice(0, at)) + "<mark>" + escapeHTML(a.slice(at, at + q.length)) + "</mark>" + escapeHTML(a.slice(at + q.length));
-    return `<li role="option" id="opt-${i}" aria-selected="${i === active}" data-value="${escapeHTML(a)}">${label}</li>`;
-  }).join("");
+  options.innerHTML = matches.map((a, i) =>
+    `<li role="option" id="opt-${i}" aria-selected="${i === active}" data-value="${escapeHTML(a)}">${highlight(a)}</li>`
+  ).join("");
   options.hidden = false;
   input.setAttribute("aria-expanded", "true");
   input.setAttribute("aria-activedescendant", active >= 0 ? `opt-${active}` : "");
@@ -548,9 +722,8 @@ function closeOptions() {
 
 input.addEventListener("input", updateOptions);
 input.addEventListener("keydown", e => {
-  const q = input.value.trim().toLowerCase();
-  if (e.key === "ArrowDown" && matches.length) { e.preventDefault(); active = (active + 1) % matches.length; drawOptions(q); }
-  else if (e.key === "ArrowUp" && matches.length) { e.preventDefault(); active = (active - 1 + matches.length) % matches.length; drawOptions(q); }
+  if (e.key === "ArrowDown" && matches.length) { e.preventDefault(); active = (active + 1) % matches.length; drawOptions(); }
+  else if (e.key === "ArrowUp" && matches.length) { e.preventDefault(); active = (active - 1 + matches.length) % matches.length; drawOptions(); }
   else if (e.key === "Enter") { e.preventDefault(); submitGuess(active >= 0 ? matches[active] : input.value); }
   else if (e.key === "Escape") closeOptions();
 });
@@ -567,8 +740,18 @@ $("skipBtn").addEventListener("click", skip);
 $("shareBtn").addEventListener("click", copyResult);
 
 /* =========================================================
-   STATS
+   DIALOGS: how to play, stats
    ========================================================= */
+function openHelp() { $("help").showModal(); }
+function closeHelp() {
+  $("help").close();
+  try { localStorage.setItem("squint-seen-help", "1"); } catch {}
+  if (!input.disabled) input.focus();
+}
+$("helpBtn").addEventListener("click", openHelp);
+$("helpGo").addEventListener("click", closeHelp);
+$("help").addEventListener("close", () => { try { localStorage.setItem("squint-seen-help", "1"); } catch {} });
+
 function openStats() {
   const pct = stats.played ? Math.round((stats.won / stats.played) * 100) : 0;
   $("statRow").innerHTML = [
@@ -582,8 +765,15 @@ function openStats() {
   $("stats").showModal();
 }
 $("statsBtn").addEventListener("click", openStats);
-$("closeStats").addEventListener("click", () => $("stats").close());
-$("stats").addEventListener("click", e => { if (e.target.id === "stats") $("stats").close(); });
+
+document.querySelectorAll("dialog").forEach(d => {
+  d.querySelectorAll("[data-close]").forEach(b => b.addEventListener("click", () => d.close()));
+  d.addEventListener("click", e => { if (e.target === d) d.close(); }); // click outside to close
+});
+
+let seenHelp = false;
+try { seenHelp = localStorage.getItem("squint-seen-help") === "1"; } catch {}
+if (!seenHelp) openHelp();
 
 start();
 </script>
