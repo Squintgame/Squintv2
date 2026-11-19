@@ -126,6 +126,7 @@
     position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
     user-select: none; -webkit-user-drag: none; will-change: transform, opacity;
   }
+  .replay { margin: -6px 0 12px; color: var(--muted); font-size: 0.9rem; text-align: center; }
   .frame .loading { position: absolute; inset: 0; display: grid; place-items: center; color: var(--muted); padding: 24px; text-align: center; }
   .frame.shake { animation: shake 0.35s ease; }
   @keyframes shake {
@@ -242,6 +243,7 @@
   </header>
 
   <main>
+    <p class="replay" id="replay" hidden></p>
     <div class="frame" id="frame" role="img" aria-label="Loading today's picture">
       <img id="imgA" alt="" draggable="false" style="z-index:2">
       <img id="imgB" alt="" draggable="false" style="z-index:1">
@@ -472,12 +474,24 @@ async function start() {
     ]);
     SIM = buildSimilar(similar);
 
-    const folder = schedule[dayIndex];
-    if (!folder) {
-      $("loading").textContent = "No puzzle is scheduled for today. Check back tomorrow.";
-      return;
+    // Today's scheduled puzzle, or a replay of a past one if nothing is queued (or it fails to load).
+    let folder = schedule[dayIndex];
+    let g = folder ? await getJSON(`puzzles/${folder}/game.json`).catch(err => { console.warn(err); return null; }) : null;
+    if (!g) {
+      for (const pick of replayOrder(schedule.length, dayIndex)) {
+        folder = schedule[pick];
+        g = await getJSON(`puzzles/${folder}/game.json`).catch(() => null);
+        if (g) {
+          $("replay").textContent = `From the archive: today is a replay of puzzle #${pick + 1}.`;
+          $("replay").hidden = false;
+          break;
+        }
+      }
+      if (!g) {
+        $("loading").textContent = "No puzzle is scheduled for today. Check back tomorrow.";
+        return;
+      }
     }
-    const g = await getJSON(`puzzles/${folder}/game.json`);
     puzzle = {
       answer: unobscure(g.a), hint: (g.hint || "").trim(), accept: g.accept || [],
       source: (g.source || "").trim(), photographer: (g.photographer || "").trim(),
@@ -508,6 +522,24 @@ async function start() {
       ? "The puzzle files can't load from a file opened directly. Run the folder through a local server, such as VS Code's Live Server."
       : "Today's puzzle didn't load. Refresh the page to try again.";
   }
+}
+
+/* Past puzzles to try for a replay, best first. Seeded by the day, so every player gets the same one.
+   Skips the most recent week once there are enough puzzles, and never the day's own (broken) slot.
+   If the first choice fails to load, the game tries the next one. */
+function replayOrder(count, day) {
+  if (count === 0) return [];
+  const pool = count > 14 ? count - 7 : count;
+  let x = Math.imul(day + 1, 2654435761) >>> 0;
+  x = (x ^ (x >>> 16)) >>> 0;
+  x = Math.imul(x, 2246822507) >>> 0;
+  x = (x ^ (x >>> 13)) >>> 0;              // keep it a positive whole number
+  const start = x % pool, order = [];
+  for (let k = 0; k < Math.min(pool, 10); k++) {
+    const i = (start + k) % pool;
+    if (i !== day) order.push(i);
+  }
+  return order;
 }
 
 const currentLevel = () => (state.status === "playing" ? state.guesses.length : FULL);
