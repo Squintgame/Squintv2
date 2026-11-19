@@ -1,0 +1,65 @@
+{
+  "a": "5V2au9WTg4WaoNWdwF2Q",
+  "hint": "Zoo climber",
+  "source": "https://www.pexels.com/photo/capuchin-monkey-on-tree-26935857/",
+  "photographer": "Sofi Franchella",
+  "accept": [],
+  "levels": [
+    {
+      "file": "00eecec5d050.jpg",
+      "rect": {
+        "x": 2193,
+        "y": 3311,
+        "size": 444
+      }
+    },
+    {
+      "file": "1218cb4a52d1.jpg",
+      "rect": {
+        "x": 2157,
+        "y": 3257,
+        "size": 594
+      }
+    },
+    {
+      "file": "3aeb1db5cfc7.jpg",
+      "rect": {
+        "x": 2010,
+        "y": 3081,
+        "size": 770
+      }
+    },
+    {
+      "file": "3f4b614c82d7.jpg",
+      "rect": {
+        "x": 2010,
+        "y": 2944,
+        "size": 1150
+      }
+    },
+    {
+      "file": "0dcddec21bc8.jpg",
+      "rect": {
+        "x": 2010,
+        "y": 2514,
+        "size": 1769
+      }
+    },
+    {
+      "file": "ab12de72e67f.jpg",
+      "rect": {
+        "x": 1843,
+        "y": 2358,
+        "size": 2035
+      }
+    },
+    {
+      "file": "03516dd12617.jpg",
+      "rect": {
+        "x": 0,
+        "y": 1000,
+        "size": 4000
+      }
+    }
+  ]
+}
