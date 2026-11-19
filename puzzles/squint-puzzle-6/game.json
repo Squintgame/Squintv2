@@ -1,0 +1,67 @@
+{
+  "a": "==QZsdWYFBCZsFmQ",
+  "hint": "No hint today",
+  "source": "https://www.pexels.com/photo/bald-eagle-perched-on-green-grass-near-water-15289236/",
+  "photographer": "Ron Bird",
+  "accept": [
+    "Eagle"
+  ],
+  "levels": [
+    {
+      "file": "f9b12161b53e.jpg",
+      "rect": {
+        "x": 587,
+        "y": 775,
+        "size": 199
+      }
+    },
+    {
+      "file": "a57807e66aaf.jpg",
+      "rect": {
+        "x": 537,
+        "y": 725,
+        "size": 333
+      }
+    },
+    {
+      "file": "d5e0432509da.jpg",
+      "rect": {
+        "x": 537,
+        "y": 694,
+        "size": 448
+      }
+    },
+    {
+      "file": "1e16a5484498.jpg",
+      "rect": {
+        "x": 537,
+        "y": 664,
+        "size": 621
+      }
+    },
+    {
+      "file": "d63b4288703b.jpg",
+      "rect": {
+        "x": 537,
+        "y": 625,
+        "size": 792
+      }
+    },
+    {
+      "file": "fc30bb799efc.jpg",
+      "rect": {
+        "x": 507,
+        "y": 392,
+        "size": 1212
+      }
+    },
+    {
+      "file": "a4fcfca693d9.jpg",
+      "rect": {
+        "x": 61,
+        "y": 0,
+        "size": 1791
+      }
+    }
+  ]
+}
