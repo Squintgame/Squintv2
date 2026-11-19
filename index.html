@@ -177,6 +177,9 @@
   .answer-line { margin: 6px 0 16px; color: var(--muted); }
   .result .btn { width: 100%; }
   .next { color: var(--muted); margin: 12px 0 0; font-variant-numeric: tabular-nums; }
+  .credit { color: var(--muted); margin: 10px 0 0; font-size: 0.85rem; }
+  .credit a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+  .credit a:hover { color: var(--ink); }
 
   .history { list-style: none; padding: 0; margin: 18px 0 0; }
   .history li { display: flex; justify-content: space-between; padding: 10px 2px; border-bottom: 1px solid var(--line); }
@@ -261,6 +264,7 @@
       <p class="answer-line" id="answerLine"></p>
       <button class="btn primary" id="shareBtn">Copy result</button>
       <p class="next">Next picture in <span id="countdown"></span></p>
+      <p class="credit" id="credit" hidden></p>
     </section>
 
     <ul class="history" id="history"></ul>
@@ -278,7 +282,7 @@
     <li><span class="n">1</span><span>Today's picture starts zoomed way in. Guess what it is.</span></li>
     <li><span class="n">2</span><span>Every miss or skip zooms out a little. You have six tries.</span></li>
     <li><span class="n">3</span><span>Start typing and pick your guess from the list.</span></li>
-    <li><span class="n">4</span><span>Stuck? A hint appears after three misses.</span></li>
+    <li><span class="n">4</span><span>Stuck? Some puzzles give a hint after three misses.</span></li>
   </ol>
   <div class="legend">
     <div><span class="chip hit"></span><span><strong>Correct.</strong> Close-enough names count too.</span></div>
@@ -465,7 +469,11 @@ async function start() {
       return;
     }
     const g = await getJSON(`puzzles/${folder}/game.json`);
-    puzzle = { answer: unobscure(g.a), hint: g.hint || "", accept: g.accept || [], levels: g.levels, base: `puzzles/${folder}/` };
+    puzzle = {
+      answer: unobscure(g.a), hint: (g.hint || "").trim(), accept: g.accept || [],
+      source: (g.source || "").trim(), photographer: (g.photographer || "").trim(),
+      levels: g.levels, base: `puzzles/${folder}/`
+    };
 
     ANSWERS = answers.slice();
     for (const extra of [puzzle.answer, ...puzzle.accept]) {
@@ -570,8 +578,9 @@ function render() {
   }).join("");
 
   const misses = state.guesses.filter(g => !g.correct).length;
-  $("hint").hidden = !(playing && misses >= 3 && puzzle.hint);
-  $("hint").innerHTML = `<strong>Hint:</strong> ${escapeHTML(puzzle.hint)}`;
+  const showHint = playing && misses >= 3 && puzzle.hint !== "";   // a blank hint never shows
+  $("hint").hidden = !showHint;
+  $("hint").innerHTML = showHint ? `<strong>Hint:</strong> ${escapeHTML(puzzle.hint)}` : "";
 
   $("history").innerHTML = state.guesses.slice().reverse().map(g => {
     const r = resultOf(g);
@@ -589,6 +598,19 @@ function render() {
       : `The answer was ${puzzle.answer}. We've all been there.`;
     tickCountdown();
   }
+  renderCredit(!playing && revealDone);
+}
+
+/* Photo credit: shown only once the puzzle is over. Uses whichever of the two fields exist. */
+function renderCredit(show) {
+  const el = $("credit");
+  const name = puzzle.photographer, url = /^https?:\/\//i.test(puzzle.source) ? puzzle.source : "";
+  if (!show || (!name && !url)) { el.hidden = true; el.innerHTML = ""; return; }
+  const link = text => `<a href="${escapeHTML(url)}" target="_blank" rel="noopener">${escapeHTML(text)}</a>`;
+  if (name && url) el.innerHTML = `Photo by ${escapeHTML(name)} · ${link("Source")}`;
+  else if (name) el.innerHTML = `Photo by ${escapeHTML(name)}`;
+  else el.innerHTML = link("Photo source");
+  el.hidden = false;
 }
 
 function escapeHTML(s) {
