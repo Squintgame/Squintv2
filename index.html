@@ -283,6 +283,7 @@
 const SITE_URL = "squint.game";          // shown in share text; change to your real domain
 const LAUNCH = Date.UTC(2026, 10, 18);   // date of puzzle #1 (months are 0-based: 10 = November)
 const MAX_GUESSES = 6;
+const MAX_SUGGESTIONS = 4;               // how many autocomplete suggestions to show at once
 const FULL = 6;
 const VERDICTS = ["Eagle eye.", "Sharp.", "Nicely spotted.", "Solid.", "Got there.", "Phew. Just in time."];
 
@@ -695,7 +696,7 @@ function updateOptions() {
     else if (f.includes(" " + q)) words.push(a);
     else if (f.includes(q)) contains.push(a);
   }
-  matches = [...starts, ...words, ...contains].slice(0, 6);
+  matches = [...starts, ...words, ...contains].slice(0, MAX_SUGGESTIONS);
   active = matches.length ? 0 : -1;
   drawOptions();
 }
