@@ -181,7 +181,7 @@
   .global { margin: 22px 0 0; padding: 16px; text-align: left; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; }
   .global h3 { margin: 0 0 4px; font-size: 1rem; }
   .global .sum { margin: 0 0 12px; color: var(--muted); }
-  .global .first { margin: 12px 0 0; color: var(--muted); }
+  .global .first { margin: 0 0 10px; color: var(--muted); }
   .global .first strong { color: var(--ink); }
   .global .bar { white-space: nowrap; }
   .credit a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
@@ -666,7 +666,7 @@ function renderGlobal(d) {
   const el = $("global");
   if (!d || !d.players) { el.hidden = true; return; }
   if (d.players < MIN_GLOBAL_PLAYERS) {
-    el.innerHTML = `<h3>Everyone today</h3><p class="sum" style="margin:0">You're one of the first players to finish. Check back later to see how everyone did.</p>`;
+    el.innerHTML = `<h3>Today's global results</h3><p class="sum" style="margin:0">You're one of the first players to finish. Check back later to see how everyone did.</p>`;
     el.hidden = false;
     return;
   }
@@ -677,13 +677,13 @@ function renderGlobal(d) {
     const share = d.solved ? Math.round((c / d.solved) * 100) : 0;
     return `<div class="dist-row"><span>${i + 1}</span><div><div class="bar ${i === mine ? "today" : ""}" style="width:${Math.max(10, (c / maxCount) * 100)}%">${share}%</div></div></div>`;
   }).join("");
-  // Only show a first guess that is a real answer, and only once a few people made it.
-  const top = (d.firstGuesses || []).find(f => f.count >= 2 && byExact.has(String(f.guess).toLowerCase()));
+  // Only show a first guess that is a real answer from the list.
+  const top = (d.firstGuesses || []).find(f => byExact.has(String(f.guess).toLowerCase()));
   el.innerHTML = `
-    <h3>Everyone today</h3>
+    <h3>Today's global results</h3>
+    ${top ? `<p class="first">Most common first guess: <strong>${escapeHTML(byExact.get(top.guess.toLowerCase()))}</strong> (${pct(top.count)}% of players)</p>` : ""}
     <p class="sum">${pct(d.solved)}% of ${d.players.toLocaleString()} players solved it. Of those who did, here's how many guesses it took:</p>
-    ${bars}
-    ${top ? `<p class="first">Most common first guess: <strong>${escapeHTML(byExact.get(top.guess.toLowerCase()))}</strong> (${pct(top.count)}% of players)</p>` : ""}`;
+    ${bars}`;
   el.hidden = false;
 }
 
