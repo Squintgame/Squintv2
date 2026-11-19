@@ -589,6 +589,225 @@
   [
    "Stalactite",
    "Stalagmite"
+  ],
+  [
+   "Rocket",
+   "Rocket ship"
+  ],
+  [
+   "Bookshelf",
+   "Bookcase"
+  ],
+  [
+   "Cupboard",
+   "Cabinet"
+  ],
+  [
+   "Crock pot",
+   "Slow cooker"
+  ],
+  [
+   "French press",
+   "Coffee press"
+  ],
+  [
+   "Silverware",
+   "Cutlery"
+  ],
+  [
+   "Tin foil",
+   "Aluminum foil"
+  ],
+  [
+   "Zipper bag",
+   "Sandwich bag",
+   "Food storage bag"
+  ],
+  [
+   "Smoke alarm",
+   "Smoke detector"
+  ],
+  [
+   "Fuse box",
+   "Breaker box"
+  ],
+  [
+   "Night light",
+   "Nightlight"
+  ],
+  [
+   "Houseplant",
+   "Potted plant"
+  ],
+  [
+   "Tumble dryer",
+   "Clothes dryer"
+  ],
+  [
+   "Hair straightener",
+   "Flat iron"
+  ],
+  [
+   "Fairy lights",
+   "String lights"
+  ],
+  [
+   "Tea towel",
+   "Dish towel",
+   "Kitchen towel"
+  ],
+  [
+   "Bin bag",
+   "Trash bag"
+  ],
+  [
+   "Tupperware",
+   "Food container"
+  ],
+  [
+   "Side table",
+   "End table"
+  ],
+  [
+   "Comforter",
+   "Duvet"
+  ],
+  [
+   "Fire engine",
+   "Fire truck"
+  ],
+  [
+   "Tractor trailer",
+   "Semi truck"
+  ],
+  [
+   "Steam locomotive",
+   "Steam train"
+  ],
+  [
+   "Ice cream van",
+   "Ice cream truck"
+  ],
+  [
+   "Paper plane",
+   "Paper airplane"
+  ],
+  [
+   "Matches",
+   "Matchstick"
+  ],
+  [
+   "DNA",
+   "Double helix"
+  ],
+  [
+   "Eye",
+   "Eyeball"
+  ],
+  [
+   "Skeleton",
+   "Skeleton model"
+  ],
+  [
+   "Aurora australis",
+   "Southern lights"
+  ],
+  [
+   "Yeti",
+   "Bigfoot"
+  ],
+  [
+   "Gingerbread man",
+   "Gingerbread cookie"
+  ],
+  [
+   "Bonsai",
+   "Bonsai tree"
+  ],
+  [
+   "Frog eggs",
+   "Frog spawn"
+  ],
+  [
+   "Snake skin",
+   "Shed snakeskin"
+  ],
+  [
+   "Turtle shell",
+   "Tortoise shell"
+  ],
+  [
+   "Betta fish",
+   "Siamese fighting fish"
+  ],
+  [
+   "Ocean sunfish",
+   "Mola mola"
+  ],
+  [
+   "Tide pool",
+   "Tidal pool",
+   "Rock pool"
+  ],
+  [
+   "Seabed",
+   "Ocean floor"
+  ],
+  [
+   "Shore",
+   "Coastline"
+  ],
+  [
+   "Creek",
+   "Stream"
+  ],
+  [
+   "Reef",
+   "Coral reef"
+  ],
+  [
+   "Lobster trap",
+   "Crab pot"
+  ],
+  [
+   "Snorkel",
+   "Snorkel mask"
+  ],
+  [
+   "Opossum",
+   "Possum"
+  ],
+  [
+   "Husky",
+   "Siberian husky"
+  ],
+  [
+   "Peacock",
+   "Peahen"
+  ],
+  [
+   "Wedding bouquet",
+   "Bouquet"
+  ],
+  [
+   "Christmas wreath",
+   "Wreath"
+  ],
+  [
+   "Moon",
+   "Moon surface"
+  ],
+  [
+   "Union Jack",
+   "British flag"
+  ],
+  [
+   "Japanese flag",
+   "Flag of Japan"
+  ],
+  [
+   "International Space Station",
+   "Space station"
   ]
  ],
  "kinds": {
@@ -596,7 +815,10 @@
    "Black bear",
    "Brown bear",
    "Grizzly bear",
-   "Polar bear"
+   "Polar bear",
+   "Bear cub",
+   "Polar bear cub",
+   "Sun bear"
   ],
   "Whale": [
    "Blue whale",
@@ -604,32 +826,46 @@
    "Sperm whale",
    "Beluga whale",
    "Orca",
-   "Gray whale"
+   "Gray whale",
+   "Whale tail"
   ],
   "Shark": [
    "Great white shark",
    "Hammerhead shark",
    "Whale shark",
-   "Tiger shark"
+   "Tiger shark",
+   "Mako shark",
+   "Nurse shark",
+   "Bull shark",
+   "Thresher shark",
+   "Basking shark",
+   "Reef shark",
+   "Goblin shark",
+   "Shark fin"
   ],
   "Fox": [
    "Arctic fox",
    "Fennec fox",
-   "Red fox"
+   "Red fox",
+   "Fox cub"
   ],
   "Wolf": [
    "Gray wolf",
-   "Arctic wolf"
+   "Arctic wolf",
+   "Wolf pup"
   ],
   "Owl": [
    "Barn owl",
    "Snowy owl",
-   "Great horned owl"
+   "Great horned owl",
+   "Burrowing owl",
+   "Owlet"
   ],
   "Eagle": [
    "Bald eagle",
    "Golden eagle",
-   "Harpy eagle"
+   "Harpy eagle",
+   "Eaglet"
   ],
   "Hawk": [
    "Red-tailed hawk"
@@ -638,7 +874,10 @@
    "Peregrine falcon"
   ],
   "Penguin": [
-   "Emperor penguin"
+   "Emperor penguin",
+   "King penguin",
+   "Gentoo penguin",
+   "Rockhopper penguin"
   ],
   "Parrot": [
    "Macaw",
@@ -647,26 +886,23 @@
    "Cockatiel",
    "Budgie",
    "Lovebird",
-   "Kakapo",
-   "Kea"
+   "Lorikeet"
   ],
   "Macaw": [
    "Scarlet macaw"
   ],
   "Duck": [
    "Mallard",
-   "Wood duck",
-   "Duckling"
+   "Duckling",
+   "Mandarin duck"
   ],
   "Goose": [
    "Canada goose",
-   "Snow goose"
+   "Gosling"
   ],
   "Swan": [
-   "Black swan"
-  ],
-  "Crane": [
-   "Whooping crane"
+   "Black swan",
+   "Cygnet"
   ],
   "Chicken": [
    "Hen",
@@ -676,10 +912,12 @@
   "Seal": [
    "Harbor seal",
    "Leopard seal",
-   "Elephant seal"
+   "Elephant seal",
+   "Harp seal"
   ],
   "Dolphin": [
-   "Bottlenose dolphin"
+   "Bottlenose dolphin",
+   "Pink river dolphin"
   ],
   "Monkey": [
    "Baboon",
@@ -690,7 +928,9 @@
    "Proboscis monkey",
    "Snow monkey",
    "Spider monkey",
-   "Squirrel monkey"
+   "Squirrel monkey",
+   "Japanese macaque",
+   "Macaque"
   ],
   "Lemur": [
    "Ring-tailed lemur"
@@ -701,13 +941,16 @@
    "Maine Coon",
    "Sphynx cat",
    "Tabby cat",
-   "Bengal cat",
    "Calico cat",
-   "Ragdoll cat",
-   "British shorthair",
-   "Scottish fold",
    "Black cat",
-   "Kitten"
+   "Kitten",
+   "Orange tabby",
+   "Tuxedo cat",
+   "Tortoiseshell cat",
+   "Russian blue",
+   "Savannah cat",
+   "Munchkin cat",
+   "Manx cat"
   ],
   "Dog": [
    "Beagle",
@@ -731,7 +974,6 @@
    "Saint Bernard",
    "Sheepdog",
    "Shih Tzu",
-   "Afghan hound",
    "Alaskan malamute",
    "Akita",
    "Australian shepherd",
@@ -746,7 +988,6 @@
    "Collie",
    "Doberman",
    "French bulldog",
-   "Irish setter",
    "Jack Russell terrier",
    "Maltese",
    "Newfoundland dog",
@@ -756,13 +997,28 @@
    "Scottish terrier",
    "Shar-pei",
    "Shiba Inu",
-   "Weimaraner",
    "Whippet",
    "Yorkshire terrier",
-   "Puppy"
+   "Puppy",
+   "Labradoodle",
+   "Goldendoodle",
+   "Cockapoo",
+   "Belgian Malinois",
+   "Cane Corso",
+   "English bulldog",
+   "Great Pyrenees",
+   "Irish wolfhound",
+   "Mastiff",
+   "Old English sheepdog",
+   "Pekingese",
+   "Shetland sheepdog",
+   "West Highland terrier",
+   "Australian cattle dog",
+   "Siberian husky"
   ],
   "Bulldog": [
-   "French bulldog"
+   "French bulldog",
+   "English bulldog"
   ],
   "Horse": [
    "Pony",
@@ -773,13 +1029,19 @@
    "Foal",
    "Appaloosa",
    "Arabian horse",
-   "Palomino"
+   "Palomino",
+   "Miniature horse",
+   "Thoroughbred"
   ],
   "Pony": [
    "Shetland pony"
   ],
   "Tiger": [
-   "White tiger"
+   "White tiger",
+   "Bengal tiger",
+   "Siberian tiger",
+   "Sumatran tiger",
+   "Tiger cub"
   ],
   "Lion": [
    "Lioness",
@@ -791,21 +1053,30 @@
   "Cow": [
    "Bull",
    "Calf",
-   "Highland cow"
+   "Highland cow",
+   "Holstein cow",
+   "Jersey cow",
+   "Longhorn cattle",
+   "Angus cattle"
   ],
   "Sheep": [
    "Lamb",
    "Ram",
-   "Bighorn sheep"
+   "Bighorn sheep",
+   "Merino sheep"
   ],
   "Goat": [
-   "Mountain goat"
+   "Mountain goat",
+   "Pygmy goat"
   ],
   "Pig": [
    "Piglet",
    "Hog"
   ],
-  "Rabbit": [],
+  "Rabbit": [
+   "Angora rabbit",
+   "Lop rabbit"
+  ],
   "Camel": [
    "Bactrian camel",
    "Dromedary"
@@ -824,10 +1095,12 @@
    "Sea turtle",
    "Box turtle",
    "Snapping turtle",
-   "Tortoise"
+   "Tortoise",
+   "Painted turtle"
   ],
   "Tortoise": [
-   "Galápagos tortoise"
+   "Galápagos tortoise",
+   "Giant tortoise"
   ],
   "Snake": [
    "Anaconda",
@@ -837,10 +1110,12 @@
    "Rattlesnake",
    "Viper",
    "Garter snake",
-   "Coral snake",
-   "Corn snake",
    "Sea snake",
-   "Black mamba"
+   "Black mamba",
+   "Mamba",
+   "Copperhead",
+   "Water snake",
+   "Tree snake"
   ],
   "Cobra": [
    "King cobra"
@@ -854,8 +1129,8 @@
    "Bearded dragon",
    "Frilled lizard",
    "Gila monster",
-   "Skink",
-   "Thorny devil"
+   "Horned lizard",
+   "Blue-tongued skink"
   ],
   "Gecko": [
    "Leopard gecko"
@@ -864,7 +1139,9 @@
    "Tree frog",
    "Poison dart frog",
    "Bullfrog",
-   "Glass frog"
+   "Pacman frog",
+   "Goliath frog",
+   "Froglet"
   ],
   "Tree frog": [
    "Red-eyed tree frog"
@@ -878,7 +1155,11 @@
   ],
   "Crab": [
    "Hermit crab",
-   "King crab"
+   "King crab",
+   "Blue crab",
+   "Coconut crab",
+   "Fiddler crab",
+   "Japanese spider crab"
   ],
   "Squid": [
    "Giant squid"
@@ -948,7 +1229,8 @@
    "Sedan",
    "SUV",
    "Station wagon",
-   "Lowrider"
+   "Lowrider",
+   "Hot rod"
   ],
   "Race car": [
    "Formula One car"
@@ -965,7 +1247,8 @@
    "Mail truck",
    "Monster truck",
    "Tanker truck",
-   "Crane truck"
+   "Crane truck",
+   "Food truck"
   ],
   "Bus": [
    "School bus",
@@ -1080,7 +1363,8 @@
    "Desk lamp",
    "Floor lamp",
    "Lava lamp",
-   "Bedside lamp"
+   "Bedside lamp",
+   "Table lamp"
   ],
   "Chair": [
    "Armchair",
@@ -1088,12 +1372,19 @@
    "Lawn chair",
    "High chair",
    "Recliner",
-   "Bean bag chair"
+   "Bean bag chair",
+   "Desk chair",
+   "Dining chair",
+   "Accent chair",
+   "Wooden chair"
   ],
   "Table": [
    "Coffee table",
    "Dining table",
-   "Picnic table"
+   "Picnic table",
+   "End table",
+   "Card table",
+   "Entryway table"
   ],
   "Bed": [
    "Bunk bed"
@@ -1133,7 +1424,11 @@
   ],
   "Knife": [
    "Bread knife",
-   "Pocket knife"
+   "Pocket knife",
+   "Chef's knife",
+   "Steak knife",
+   "Butter knife",
+   "Cheese knife"
   ],
   "Cup": [
    "Coffee mug",
@@ -1202,7 +1497,9 @@
    "Tote bag",
    "Duffel bag",
    "Paper bag",
-   "Plastic bag"
+   "Plastic bag",
+   "Lunch bag",
+   "Makeup bag"
   ],
   "Moon": [
    "Full moon",
@@ -1386,6 +1683,276 @@
   ],
   "Medal": [
    "Gold medal"
+  ],
+  "Lobster": [
+   "Spiny lobster"
+  ],
+  "Shrimp": [
+   "Brine shrimp",
+   "Cleaner shrimp"
+  ],
+  "Octopus": [
+   "Blue-ringed octopus",
+   "Dumbo octopus",
+   "Giant Pacific octopus"
+  ],
+  "Jellyfish": [
+   "Box jellyfish",
+   "Lion's mane jellyfish",
+   "Moon jellyfish"
+  ],
+  "Coral": [
+   "Brain coral",
+   "Staghorn coral",
+   "Soft coral"
+  ],
+  "Starfish": [
+   "Crown-of-thorns starfish"
+  ],
+  "Sea turtle": [
+   "Green sea turtle",
+   "Leatherback sea turtle",
+   "Loggerhead turtle",
+   "Hawksbill turtle"
+  ],
+  "Crocodile": [
+   "Saltwater crocodile",
+   "Nile crocodile"
+  ],
+  "Alligator": [
+   "American alligator"
+  ],
+  "Trout": [
+   "Rainbow trout",
+   "Brown trout",
+   "Brook trout"
+  ],
+  "Tuna": [
+   "Bluefin tuna",
+   "Yellowfin tuna"
+  ],
+  "Salmon": [
+   "Sockeye salmon"
+  ],
+  "Seashell": [
+   "Conch shell",
+   "Oyster shell"
+  ],
+  "Pelican": [
+   "Brown pelican"
+  ],
+  "Heron": [
+   "Great blue heron"
+  ],
+  "Lorikeet": [
+   "Rainbow lorikeet"
+  ],
+  "Peacock": [
+   "Peacock feather"
+  ],
+  "Elephant": [
+   "African elephant",
+   "Asian elephant",
+   "Elephant calf"
+  ],
+  "Rhinoceros": [
+   "Black rhinoceros",
+   "White rhinoceros",
+   "Indian rhinoceros"
+  ],
+  "Polar bear": [
+   "Polar bear cub"
+  ],
+  "Gorilla": [
+   "Lowland gorilla",
+   "Mountain gorilla"
+  ],
+  "Hippopotamus": [
+   "Pygmy hippopotamus"
+  ],
+  "Kangaroo": [
+   "Red kangaroo"
+  ],
+  "Deer": [
+   "Fawn",
+   "Red deer",
+   "White-tailed deer",
+   "Mule deer"
+  ],
+  "Loris": [
+   "Slow loris"
+  ],
+  "Sloth": [
+   "Three-toed sloth",
+   "Two-toed sloth"
+  ],
+  "Anteater": [
+   "Giant anteater"
+  ],
+  "Hyena": [
+   "Spotted hyena"
+  ],
+  "Tabby cat": [
+   "Orange tabby"
+  ],
+  "Python": [
+   "Ball python",
+   "Burmese python",
+   "Reticulated python"
+  ],
+  "Rattlesnake": [
+   "Diamondback rattlesnake",
+   "Sidewinder"
+  ],
+  "Mamba": [
+   "Black mamba",
+   "Green mamba"
+  ],
+  "Iguana": [
+   "Marine iguana"
+  ],
+  "Salamander": [
+   "Giant salamander",
+   "Axolotl"
+  ],
+  "Coin": [
+   "Penny",
+   "Nickel",
+   "Dime",
+   "Quarter",
+   "Euro coin",
+   "Gold coin"
+  ],
+  "Ticket": [
+   "Movie ticket",
+   "Concert ticket",
+   "Raffle ticket",
+   "Lottery ticket"
+  ],
+  "Tape": [
+   "Masking tape",
+   "Duct tape"
+  ],
+  "Candle": [
+   "Pillar candle",
+   "Scented candle",
+   "Birthday candle",
+   "Tea light"
+  ],
+  "Earth": [
+   "Earth from space"
+  ],
+  "Mirror": [
+   "Wall mirror",
+   "Hand mirror",
+   "Vanity mirror",
+   "Makeup mirror",
+   "Pocket mirror"
+  ],
+  "Spoon": [
+   "Tablespoon",
+   "Teaspoon",
+   "Serving spoon",
+   "Wooden spoon"
+  ],
+  "Bowl": [
+   "Cereal bowl",
+   "Soup bowl",
+   "Fruit bowl",
+   "Serving bowl",
+   "Mixing bowl",
+   "Salad bowl"
+  ],
+  "Frying pan": [
+   "Cast iron pan"
+  ],
+  "Pot": [
+   "Cooking pot",
+   "Stock pot"
+  ],
+  "Towel": [
+   "Bath towel",
+   "Hand towel",
+   "Beach towel"
+  ],
+  "Door": [
+   "Front door",
+   "Back door",
+   "Screen door",
+   "Garage door"
+  ],
+  "Window": [
+   "Window frame",
+   "Window screen",
+   "Window seat"
+  ],
+  "Key": [
+   "House key"
+  ],
+  "Blanket": [
+   "Throw blanket",
+   "Baby blanket"
+  ],
+  "Pillow": [
+   "Throw pillow",
+   "Sofa cushion"
+  ],
+  "Sink": [
+   "Kitchen sink"
+  ],
+  "Faucet": [
+   "Sink faucet",
+   "Bathtub faucet"
+  ],
+  "Scale": [
+   "Bathroom scale",
+   "Kitchen scale",
+   "Food scale"
+  ],
+  "Timer": [
+   "Kitchen timer",
+   "Oven timer"
+  ],
+  "Cabinet": [
+   "Kitchen cabinet",
+   "China cabinet",
+   "Medicine cabinet"
+  ],
+  "Shelf": [
+   "Wall shelf"
+  ],
+  "Flag": [
+   "American flag",
+   "Canadian flag",
+   "Union Jack",
+   "Japanese flag",
+   "Mexican flag",
+   "French flag",
+   "German flag",
+   "Italian flag",
+   "Brazilian flag",
+   "Indian flag",
+   "Chinese flag",
+   "South Korean flag",
+   "Australian flag",
+   "Irish flag",
+   "Swiss flag",
+   "Greek flag",
+   "Jamaican flag",
+   "Spanish flag",
+   "Swedish flag",
+   "Scottish flag",
+   "Texas flag",
+   "Olympic flag",
+   "Checkered flag",
+   "White flag",
+   "Pirate flag"
+  ],
+  "Skeleton": [
+   "Dinosaur skeleton"
+  ],
+  "Wreath": [
+   "Christmas wreath"
   ]
  },
  "broad": {
@@ -1426,10 +1993,8 @@
    "Kingfisher",
    "Kiwi bird",
    "Kookaburra",
-   "Lyrebird",
    "Magpie",
    "Nightingale",
-   "Oriole",
    "Osprey",
    "Ostrich",
    "Partridge",
@@ -1455,26 +2020,24 @@
    "Arctic tern",
    "Blue-footed booby",
    "Chickadee",
-   "Grouse",
    "Guinea fowl",
-   "Hoopoe",
    "Kestrel",
-   "Loon",
    "Mockingbird",
-   "Nuthatch",
-   "Ptarmigan",
-   "Rhea",
    "Sandpiper",
    "Secretary bird",
    "Shoebill",
    "Spoonbill",
-   "Tern",
-   "Thrush",
-   "Turkey vulture",
-   "Weaver bird",
-   "Gannet",
    "Quetzal",
-   "Bird of paradise"
+   "Bird of paradise",
+   "Burrowing owl",
+   "Blue tit",
+   "Lorikeet",
+   "Mandarin duck",
+   "Great blue heron",
+   "Brown pelican",
+   "King penguin",
+   "Gentoo penguin",
+   "Rockhopper penguin"
   ],
   "Fish": [
    "Shark",
@@ -1521,7 +2084,36 @@
    "Blobfish",
    "Flying fish",
    "Sailfish",
-   "Mudskipper"
+   "Mudskipper",
+   "Sea bass",
+   "Largemouth bass",
+   "Smallmouth bass",
+   "Striped bass",
+   "Boxfish",
+   "Butterflyfish",
+   "Coelacanth",
+   "Damselfish",
+   "Frogfish",
+   "Monkfish",
+   "Oarfish",
+   "Pollock",
+   "Porcupinefish",
+   "Stonefish",
+   "Surgeonfish",
+   "Viperfish",
+   "Yellowtail",
+   "Fangtooth",
+   "Sawfish",
+   "Skate",
+   "Red snapper",
+   "Bluegill",
+   "Neon tetra",
+   "Discus fish",
+   "Alligator gar",
+   "Zebrafish",
+   "Walleye",
+   "Archerfish",
+   "Lamprey"
   ],
   "Insect": [
    "Bee",
@@ -1765,14 +2357,17 @@
    "Saturn",
    "Uranus",
    "Neptune",
-   "Pluto"
+   "Pluto",
+   "Solar system"
   ],
   "Ape": [
    "Chimpanzee",
    "Gorilla",
    "Orangutan",
    "Bonobo",
-   "Gibbon"
+   "Gibbon",
+   "Lowland gorilla",
+   "Mountain gorilla"
   ],
   "Berry": [
    "Strawberry",
@@ -1822,8 +2417,7 @@
   "Crocodilian": [
    "Crocodile",
    "Alligator",
-   "Caiman",
-   "Gharial"
+   "Caiman"
   ],
   "Deer family": [
    "Deer",
@@ -1840,7 +2434,12 @@
    "Cheetah",
    "Panther",
    "Cougar",
-   "Snow leopard"
+   "Snow leopard",
+   "Bengal tiger",
+   "Siberian tiger",
+   "Sumatran tiger",
+   "White tiger",
+   "Clouded leopard"
   ],
   "Citrus": [
    "Orange",
@@ -1851,6 +2450,309 @@
    "Pomelo",
    "Yuzu",
    "Kumquat"
+  ],
+  "Spacecraft": [
+   "Space shuttle",
+   "Rocket",
+   "Rocket ship",
+   "Saturn V rocket",
+   "Space capsule",
+   "Lunar module",
+   "International Space Station",
+   "Satellite",
+   "Space probe",
+   "Voyager spacecraft",
+   "Lunar rover",
+   "Mars rover"
+  ],
+  "Chess piece": [
+   "Chess king",
+   "Chess queen",
+   "Chess knight",
+   "Chess rook",
+   "Chess bishop",
+   "Chess pawn"
+  ],
+  "Playing card": [
+   "Ace of spades",
+   "Joker card",
+   "Playing cards"
+  ],
+  "Mythical creature": [
+   "Dragon",
+   "Unicorn",
+   "Phoenix",
+   "Pegasus",
+   "Griffin",
+   "Centaur",
+   "Minotaur",
+   "Yeti",
+   "Bigfoot",
+   "Werewolf",
+   "Vampire",
+   "Zombie",
+   "Ghost",
+   "Alien",
+   "Fairy",
+   "Elf",
+   "Troll",
+   "Cyclops",
+   "Medusa",
+   "Genie",
+   "Mermaid",
+   "Merman",
+   "Kraken",
+   "Loch Ness Monster",
+   "Sea serpent"
+  ],
+  "Fabric": [
+   "Velvet",
+   "Denim",
+   "Lace",
+   "Burlap",
+   "Wool",
+   "Silk",
+   "Corduroy",
+   "Fur",
+   "Leather"
+  ],
+  "Paving": [
+   "Concrete",
+   "Asphalt",
+   "Gravel",
+   "Cobblestones",
+   "Cobblestone street",
+   "Brick path",
+   "Stepping stones"
+  ],
+  "Microbe": [
+   "Red blood cell",
+   "Bacteria",
+   "Virus",
+   "Neuron"
+  ],
+  "Christmas": [
+   "Christmas tree",
+   "Christmas lights",
+   "Christmas wreath",
+   "Christmas stocking",
+   "Christmas ornament",
+   "Advent calendar",
+   "Santa hat",
+   "Nativity scene",
+   "Gingerbread cookie",
+   "Candy cane",
+   "Reindeer antlers",
+   "Snow globe",
+   "Mistletoe",
+   "Poinsettia"
+  ],
+  "Easter": [
+   "Easter egg",
+   "Easter basket",
+   "Chocolate bunny"
+  ],
+  "Halloween": [
+   "Jack-o'-lantern",
+   "Halloween costume",
+   "Haunted house",
+   "Scarecrow",
+   "Candy corn"
+  ],
+  "Road sign": [
+   "Stop sign",
+   "Yield sign",
+   "Speed limit sign",
+   "Railroad crossing sign",
+   "Street sign",
+   "No entry sign",
+   "Exit sign",
+   "Traffic cone"
+  ],
+  "Ocean": [
+   "Pacific Ocean",
+   "Atlantic Ocean",
+   "Indian Ocean",
+   "Arctic Ocean",
+   "Southern Ocean"
+  ],
+  "Sea": [
+   "Red Sea",
+   "Caribbean Sea",
+   "Mediterranean Sea",
+   "Dead Sea"
+  ],
+  "River": [
+   "Amazon River",
+   "Nile River",
+   "Mississippi River"
+  ],
+  "Lake": [
+   "Lake Titicaca",
+   "Crater Lake",
+   "Lake Tahoe",
+   "Lake Louise",
+   "Lake Como",
+   "Loch Ness"
+  ],
+  "Jellyfish": [
+   "Comb jelly",
+   "Portuguese man o' war"
+  ],
+  "Starfish": [
+   "Brittle star",
+   "Feather star"
+  ],
+  "Seashell": [
+   "Sand dollar",
+   "Conch"
+  ],
+  "Baby bird": [
+   "Hatchling",
+   "Fledgling",
+   "Chick",
+   "Duckling",
+   "Owlet",
+   "Eaglet",
+   "Gosling",
+   "Cygnet"
+  ],
+  "Egg": [
+   "Bird egg",
+   "Ostrich egg",
+   "Easter egg",
+   "Dinosaur egg"
+  ],
+  "Fossil": [
+   "Dinosaur bone",
+   "Dinosaur skeleton",
+   "Ammonite",
+   "Trilobite"
+  ],
+  "Aquarium": [
+   "Fishbowl",
+   "Fish tank"
+  ],
+  "Float": [
+   "Pool noodle",
+   "Swim ring",
+   "Life buoy",
+   "Water wings"
+  ],
+  "Iceberg": [
+   "Ice floe",
+   "Sea ice"
+  ],
+  "Beach": [
+   "Shore",
+   "Coastline"
+  ],
+  "Weasel family": [
+   "Ferret",
+   "Stoat",
+   "Ermine",
+   "Weasel",
+   "Mink",
+   "Otter"
+  ],
+  "Cattle": [
+   "Cow",
+   "Bull",
+   "Ox",
+   "Bison",
+   "Buffalo",
+   "Water buffalo",
+   "Cape buffalo",
+   "Yak",
+   "Highland cow",
+   "Longhorn cattle"
+  ],
+  "Pig family": [
+   "Pig",
+   "Wild boar",
+   "Warthog",
+   "Hog"
+  ],
+  "Camelid": [
+   "Llama",
+   "Alpaca",
+   "Vicuña",
+   "Camel"
+  ],
+  "Shellfish": [
+   "Clam",
+   "Oyster",
+   "Mussel",
+   "Scallop",
+   "Abalone",
+   "Limpet"
+  ],
+  "Tableware": [
+   "Plate",
+   "Bowl",
+   "Cup",
+   "Mug",
+   "Saucer",
+   "Teacup"
+  ],
+  "Cookware": [
+   "Frying pan",
+   "Skillet",
+   "Saucepan",
+   "Pot",
+   "Wok",
+   "Griddle",
+   "Stock pot",
+   "Cooking pot",
+   "Cast iron pan",
+   "Roasting pan",
+   "Cake pan"
+  ],
+  "Bedding": [
+   "Comforter",
+   "Duvet",
+   "Quilt",
+   "Blanket",
+   "Bed sheet",
+   "Pillowcase",
+   "Throw blanket",
+   "Bedspread"
+  ],
+  "Cleaning tool": [
+   "Mop",
+   "Broom",
+   "Sponge",
+   "Feather duster",
+   "Scrub brush",
+   "Squeegee",
+   "Steam mop",
+   "Dust mop"
+  ],
+  "Kitchen appliance": [
+   "Toaster",
+   "Toaster oven",
+   "Microwave",
+   "Blender",
+   "Stand mixer",
+   "Food processor",
+   "Air fryer",
+   "Coffee maker",
+   "Kettle",
+   "Electric kettle",
+   "Rice cooker",
+   "Slow cooker",
+   "Pressure cooker",
+   "Juicer",
+   "Deep fryer"
+  ],
+  "Coffee gear": [
+   "Coffee maker",
+   "Coffee pot",
+   "French press",
+   "Espresso",
+   "Coffee grinder",
+   "Milk frother",
+   "Coffee mug"
   ]
  },
  "close": [
@@ -2196,6 +3098,296 @@
    "Diamond",
    "Crystal",
    "Quartz"
+  ],
+  [
+   "Space shuttle",
+   "Airplane",
+   "Jet"
+  ],
+  [
+   "Unicorn",
+   "Pegasus",
+   "Horse"
+  ],
+  [
+   "Werewolf",
+   "Wolf"
+  ],
+  [
+   "Vampire",
+   "Bat"
+  ],
+  [
+   "Kraken",
+   "Giant squid",
+   "Octopus"
+  ],
+  [
+   "Loch Ness Monster",
+   "Sea serpent"
+  ],
+  [
+   "Mermaid",
+   "Merman"
+  ],
+  [
+   "Dragon",
+   "Komodo dragon"
+  ],
+  [
+   "Griffin",
+   "Phoenix"
+  ],
+  [
+   "Northern lights",
+   "Southern lights"
+  ],
+  [
+   "Solar system",
+   "Planet"
+  ],
+  [
+   "Christmas lights",
+   "Fairy lights"
+  ],
+  [
+   "Toaster",
+   "Toaster oven"
+  ],
+  [
+   "Refrigerator",
+   "Freezer",
+   "Mini fridge"
+  ],
+  [
+   "Washing machine",
+   "Clothes dryer"
+  ],
+  [
+   "Coffee maker",
+   "Coffee pot"
+  ],
+  [
+   "Air vent",
+   "Duct"
+  ],
+  [
+   "Lighter",
+   "Matches"
+  ],
+  [
+   "Bobby pin",
+   "Hair clip"
+  ],
+  [
+   "Ticket",
+   "Boarding pass"
+  ],
+  [
+   "Penny",
+   "Coin"
+  ],
+  [
+   "Hot tub",
+   "Bathtub"
+  ],
+  [
+   "Snorkel",
+   "Scuba tank"
+  ],
+  [
+   "Scuba diver",
+   "Scuba tank"
+  ],
+  [
+   "Fish tank",
+   "Aquarium",
+   "Fishbowl"
+  ],
+  [
+   "Pool noodle",
+   "Swim ring",
+   "Life buoy"
+  ],
+  [
+   "Toy boat",
+   "Paper boat"
+  ],
+  [
+   "Mantis shrimp",
+   "Shrimp"
+  ],
+  [
+   "Horseshoe crab",
+   "Crab"
+  ],
+  [
+   "Sea foam",
+   "Wave"
+  ],
+  [
+   "Moon",
+   "Full moon",
+   "Crescent moon"
+  ],
+  [
+   "Shore",
+   "Beach"
+  ],
+  [
+   "Wild boar",
+   "Pig"
+  ],
+  [
+   "Water buffalo",
+   "Buffalo"
+  ],
+  [
+   "Cape buffalo",
+   "Buffalo"
+  ],
+  [
+   "Joey",
+   "Kangaroo",
+   "Koala"
+  ],
+  [
+   "Dingo",
+   "Dog"
+  ],
+  [
+   "Ermine",
+   "Stoat"
+  ],
+  [
+   "Newt",
+   "Salamander"
+  ],
+  [
+   "Tadpole",
+   "Frog"
+  ],
+  [
+   "Toad eggs",
+   "Frog eggs"
+  ],
+  [
+   "Snake skin",
+   "Snake"
+  ],
+  [
+   "Turtle shell",
+   "Turtle"
+  ],
+  [
+   "Atom",
+   "Molecule model"
+  ],
+  [
+   "Velvet",
+   "Silk"
+  ],
+  [
+   "Denim",
+   "Jeans"
+  ],
+  [
+   "Corduroy",
+   "Denim"
+  ],
+  [
+   "Rust",
+   "Copper"
+  ],
+  [
+   "Concrete",
+   "Asphalt",
+   "Gravel"
+  ],
+  [
+   "Stained glass",
+   "Mosaic"
+  ],
+  [
+   "Bonsai",
+   "Tree"
+  ],
+  [
+   "Terrarium",
+   "Fish tank"
+  ],
+  [
+   "Zen garden",
+   "Sand"
+  ],
+  [
+   "Cobblestones",
+   "Brick path"
+  ],
+  [
+   "Chain-link fence",
+   "Fence"
+  ],
+  [
+   "Barbed wire",
+   "Fence"
+  ],
+  [
+   "Fawn",
+   "Deer"
+  ],
+  [
+   "Elephant calf",
+   "Elephant"
+  ],
+  [
+   "Bear cub",
+   "Bear"
+  ],
+  [
+   "Gingerbread house",
+   "Gingerbread cookie"
+  ],
+  [
+   "Candy hearts",
+   "Candy"
+  ],
+  [
+   "Easter basket",
+   "Basket"
+  ],
+  [
+   "Cornucopia",
+   "Basket"
+  ],
+  [
+   "Diya",
+   "Candle"
+  ],
+  [
+   "Advent calendar",
+   "Calendar"
+  ],
+  [
+   "Euro coin",
+   "Gold coin"
+  ],
+  [
+   "Recycling symbol",
+   "Recycling bin"
+  ],
+  [
+   "Barber pole",
+   "Candy cane"
+  ],
+  [
+   "Megalodon",
+   "Shark",
+   "Great white shark"
+  ],
+  [
+   "Axolotl",
+   "Newt"
   ]
  ]
 }
