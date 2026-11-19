@@ -6,6 +6,12 @@
 <title>Squint — a daily picture puzzle</title>
 <meta name="description" content="One picture. Six looks. Guess what it is before it zooms all the way out. A new puzzle every day.">
 <meta name="theme-color" content="#16756C">
+<script>
+  try {
+    const t = localStorage.getItem("squint-theme");
+    if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t);
+  } catch (e) {}
+</script>
 
 <!-- Icons -->
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
@@ -42,11 +48,13 @@
     --close: #D19A1F;
     --hit: #2C8A55;
     --frame: #1C1D1F;
+    --logo-glass: #0FB5A2;
+    --logo-lens: #FFD84D;
     --font: "Bricolage Grotesque", "Avenir Next", "Segoe UI", system-ui, sans-serif;
     color-scheme: light;
   }
   @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-theme="light"]) {
       --bg: #141516;
       --surface: #1E2022;
       --ink: #ECEBE7;
@@ -58,8 +66,24 @@
       --close: #E8B84A;
       --hit: #4CC07F;
       --frame: #2E3134;
+      --logo-glass: #2BD4C0;
       color-scheme: dark;
     }
+  }
+  :root[data-theme="dark"] {
+    --bg: #141516;
+    --surface: #1E2022;
+    --ink: #ECEBE7;
+    --muted: #9A9B9F;
+    --line: #33363A;
+    --accent: #3FB3A6;
+    --accent-ink: #0D1A18;
+    --miss: #E06A52;
+    --close: #E8B84A;
+    --hit: #4CC07F;
+    --frame: #2E3134;
+    --logo-glass: #2BD4C0;
+    color-scheme: dark;
   }
 
   *, *::before, *::after { box-sizing: border-box; }
@@ -81,11 +105,11 @@
   }
   .logo { margin: 0; font-size: 2rem; font-weight: 800; letter-spacing: -0.03em; line-height: 1; }
   .logo-i { position: relative; display: inline-block; }
-  .lens {
-    position: absolute; left: 50%; top: -0.06em; width: 0.3em; height: 0.3em; transform: translateX(-50%);
-    border: 0.075em solid var(--accent); border-radius: 50%; background: var(--bg);
+  .logo .mag {
+    position: absolute; left: 50%; top: -0.27em; width: 0.56em; height: 0.56em;
+    transform: translateX(-38%); overflow: visible;
   }
-  .meta { display: flex; align-items: center; gap: 8px; color: var(--muted); }
+  .meta { display: flex; align-items: center; gap: 6px; color: var(--muted); }
   .meta #num { margin-right: 4px; }
   .icon-btn {
     width: 40px; height: 40px; display: grid; place-items: center;
@@ -197,10 +221,11 @@
 <body>
 <div class="wrap">
   <header class="top">
-    <h1 class="logo" aria-label="Squint"><span aria-hidden="true">Squ<span class="logo-i">ı<span class="lens"></span></span>nt</span></h1>
+    <h1 class="logo" aria-label="Squint"><span aria-hidden="true">Squ<span class="logo-i">ı<svg class="mag" viewBox="0 0 40 40"><circle cx="16" cy="16" r="10.5" fill="var(--logo-lens)" stroke="var(--logo-glass)" stroke-width="5.5"/><line x1="24" y1="24" x2="34" y2="34" stroke="var(--logo-glass)" stroke-width="6.5" stroke-linecap="round"/><circle cx="12.5" cy="12.5" r="2.6" fill="#FFFFFF"/></svg></span>nt</span></h1>
     <div class="meta">
       <span id="num"></span>
       <button class="icon-btn" id="helpBtn" aria-label="How to play">?</button>
+      <button class="icon-btn" id="themeBtn" aria-label="Switch to dark mode"></button>
       <button class="icon-btn" id="statsBtn" aria-label="Your stats">
         <svg width="18" height="18" viewBox="0 0 18 18" aria-hidden="true"><rect x="2" y="9" width="3" height="7" rx="1" fill="currentColor"/><rect x="7.5" y="4" width="3" height="12" rx="1" fill="currentColor"/><rect x="13" y="7" width="3" height="9" rx="1" fill="currentColor"/></svg>
       </button>
@@ -784,6 +809,32 @@ document.querySelectorAll("dialog").forEach(d => {
   d.querySelectorAll("[data-close]").forEach(b => b.addEventListener("click", () => d.close()));
   d.addEventListener("click", e => { if (e.target === d) d.close(); }); // click outside to close
 });
+
+/* =========================================================
+   LIGHT / DARK MODE
+   Follows the device setting until the player picks one; the choice is remembered.
+   ========================================================= */
+const MOON = '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z" fill="currentColor"/></svg>';
+const SUN = '<svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4.2" fill="currentColor" stroke="none"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M5.3 18.7l1.6-1.6M17.1 6.9l1.6-1.6"/></svg>';
+const systemDark = matchMedia("(prefers-color-scheme: dark)");
+
+function currentTheme() {
+  return document.documentElement.getAttribute("data-theme") || (systemDark.matches ? "dark" : "light");
+}
+function updateThemeButton() {
+  const dark = currentTheme() === "dark";
+  $("themeBtn").innerHTML = dark ? SUN : MOON;
+  $("themeBtn").setAttribute("aria-label", dark ? "Switch to light mode" : "Switch to dark mode");
+  document.querySelector('meta[name="theme-color"]').setAttribute("content", dark ? "#141516" : "#F7F6F2");
+}
+$("themeBtn").addEventListener("click", () => {
+  const next = currentTheme() === "dark" ? "light" : "dark";
+  document.documentElement.setAttribute("data-theme", next);
+  try { localStorage.setItem("squint-theme", next); } catch {}
+  updateThemeButton();
+});
+systemDark.addEventListener("change", updateThemeButton);
+updateThemeButton();
 
 let seenHelp = false;
 try { seenHelp = localStorage.getItem("squint-seen-help") === "1"; } catch {}
