@@ -1,0 +1,67 @@
+{
+  "a": "=4Wa1dmblBFIv9GduV2R",
+  "hint": "",
+  "source": "https://www.pexels.com/photo/gentoo-penguins-in-antarctica-20413999/",
+  "photographer": "Hugo Sykes",
+  "accept": [
+    "Penguin"
+  ],
+  "levels": [
+    {
+      "file": "ddff9fe5c18b.jpg",
+      "rect": {
+        "x": 3780,
+        "y": 6632,
+        "size": 323
+      }
+    },
+    {
+      "file": "bf3c6a24d070.jpg",
+      "rect": {
+        "x": 3732,
+        "y": 6583,
+        "size": 463
+      }
+    },
+    {
+      "file": "475db263cee1.jpg",
+      "rect": {
+        "x": 3674,
+        "y": 6583,
+        "size": 613
+      }
+    },
+    {
+      "file": "1e20415016a7.jpg",
+      "rect": {
+        "x": 3582,
+        "y": 6491,
+        "size": 704
+      }
+    },
+    {
+      "file": "fe9a42720341.jpg",
+      "rect": {
+        "x": 3476,
+        "y": 6386,
+        "size": 810
+      }
+    },
+    {
+      "file": "45f66ec13512.jpg",
+      "rect": {
+        "x": 1056,
+        "y": 3375,
+        "size": 5280
+      }
+    },
+    {
+      "file": "2a238528880e.jpg",
+      "rect": {
+        "x": 0,
+        "y": 2319,
+        "size": 6336
+      }
+    }
+  ]
+}

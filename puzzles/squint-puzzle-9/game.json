@@ -1,0 +1,69 @@
+{
+  "a": "=QXZltWYyFGU",
+  "hint": "",
+  "source": "https://www.pexels.com/photo/vibrant-green-parakeet-on-tree-branch-37127715/",
+  "photographer": "Mohit Khare",
+  "accept": [
+    "Budgie",
+    "Budgerigar",
+    "Parrot"
+  ],
+  "levels": [
+    {
+      "file": "91b6f3596a21.jpg",
+      "rect": {
+        "x": 1673,
+        "y": 900,
+        "size": 175
+      }
+    },
+    {
+      "file": "bcfc80d10c3b.jpg",
+      "rect": {
+        "x": 1625,
+        "y": 827,
+        "size": 248
+      }
+    },
+    {
+      "file": "74a059743d9f.jpg",
+      "rect": {
+        "x": 1625,
+        "y": 787,
+        "size": 306
+      }
+    },
+    {
+      "file": "f2e09078bfec.jpg",
+      "rect": {
+        "x": 1579,
+        "y": 741,
+        "size": 450
+      }
+    },
+    {
+      "file": "dd8c45ea459a.jpg",
+      "rect": {
+        "x": 1511,
+        "y": 673,
+        "size": 517
+      }
+    },
+    {
+      "file": "47e4baf1c9cd.jpg",
+      "rect": {
+        "x": 1434,
+        "y": 596,
+        "size": 737
+      }
+    },
+    {
+      "file": "5b6c7430a8f8.jpg",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3526
+      }
+    }
+  ]
+}

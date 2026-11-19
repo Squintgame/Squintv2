@@ -1,0 +1,70 @@
+{
+  "a": "yF2Z192Q",
+  "hint": "",
+  "source": "https://www.pexels.com/photo/cougar-resting-on-tree-branch-in-forest-setting-34522049/",
+  "photographer": "Jerson Martins",
+  "accept": [
+    "Mountain Lion",
+    "Puma",
+    "Panther",
+    "Catamount"
+  ],
+  "levels": [
+    {
+      "file": "8d2fa6e68610.jpg",
+      "rect": {
+        "x": 3207,
+        "y": 2292,
+        "size": 293
+      }
+    },
+    {
+      "file": "fbe829fd309a.jpg",
+      "rect": {
+        "x": 3105,
+        "y": 2152,
+        "size": 509
+      }
+    },
+    {
+      "file": "2726a7c0d6a4.jpg",
+      "rect": {
+        "x": 2991,
+        "y": 2038,
+        "size": 683
+      }
+    },
+    {
+      "file": "db0871a7462f.jpg",
+      "rect": {
+        "x": 2881,
+        "y": 1903,
+        "size": 882
+      }
+    },
+    {
+      "file": "4b5fe1567ab1.jpg",
+      "rect": {
+        "x": 2720,
+        "y": 1874,
+        "size": 1323
+      }
+    },
+    {
+      "file": "b031ec561cec.jpg",
+      "rect": {
+        "x": 2451,
+        "y": 1721,
+        "size": 2035
+      }
+    },
+    {
+      "file": "46f1bb8245a6.jpg",
+      "rect": {
+        "x": 1000,
+        "y": 0,
+        "size": 3833
+      }
+    }
+  ]
+}
