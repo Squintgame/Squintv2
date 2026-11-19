@@ -178,6 +178,12 @@
   .result .btn { width: 100%; }
   .next { color: var(--muted); margin: 12px 0 0; font-variant-numeric: tabular-nums; }
   .credit { color: var(--muted); margin: 10px 0 0; font-size: 0.85rem; }
+  .global { margin: 22px 0 0; padding: 16px; text-align: left; background: var(--surface); border: 1px solid var(--line); border-radius: 16px; }
+  .global h3 { margin: 0 0 4px; font-size: 1rem; }
+  .global .sum { margin: 0 0 12px; color: var(--muted); }
+  .global .first { margin: 12px 0 0; color: var(--muted); }
+  .global .first strong { color: var(--ink); }
+  .global .bar { white-space: nowrap; }
   .credit a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
   .credit a:hover { color: var(--ink); }
 
@@ -264,6 +270,7 @@
       <p class="answer-line" id="answerLine"></p>
       <button class="btn primary" id="shareBtn">Copy result</button>
       <p class="next">Next picture in <span id="countdown"></span></p>
+      <div class="global" id="global" hidden></div>
       <p class="credit" id="credit" hidden></p>
     </section>
 
@@ -313,6 +320,8 @@ const SITE_URL = "playsquint.com";       // shown at the end of the share text
 const LAUNCH = Date.UTC(2026, 10, 18);   // date of puzzle #1 (months are 0-based: 10 = November)
 const MAX_GUESSES = 6;
 const MAX_SUGGESTIONS = 4;               // how many autocomplete suggestions to show at once
+const STATS_API = "https://squint-stats.e27920001.workers.dev";  // global results server; set to "" to turn global results off
+const MIN_GLOBAL_PLAYERS = 3;            // below this, show a "you're one of the first" note instead of numbers
 const FULL = 6;
 const VERDICTS = ["Eagle eye.", "Sharp.", "Nicely spotted.", "Solid.", "Got there.", "Phew. Just in time."];
 
@@ -492,6 +501,7 @@ async function start() {
     revealDone = state.status !== "playing";
     [input, $("guessBtn"), $("skipBtn")].forEach(el => (el.disabled = false));
     render();
+    if (state.status !== "playing") reportResult().finally(loadGlobal);
   } catch (err) {
     console.error(err);
     $("loading").textContent = location.protocol === "file:"
@@ -601,6 +611,82 @@ function render() {
   renderCredit(!playing && revealDone);
 }
 
+/* =========================================================
+   GLOBAL RESULTS: how everyone did today
+   Each device sends its finished game once; then the result screen shows the totals.
+   ========================================================= */
+function clientId() {
+  try {
+    let id = localStorage.getItem("squint-client");
+    if (!id) {
+      id = (crypto.randomUUID ? crypto.randomUUID() : Date.now().toString(36) + Math.random().toString(36).slice(2, 12));
+      localStorage.setItem("squint-client", id);
+    }
+    return id;
+  } catch { return null; }
+}
+
+async function apiFetch(path, options = {}) {
+  const ctrl = new AbortController();
+  const timer = setTimeout(() => ctrl.abort(), 6000);
+  try { return await fetch(STATS_API + path, { ...options, signal: ctrl.signal }); }
+  finally { clearTimeout(timer); }
+}
+
+async function reportResult() {
+  if (!STATS_API || testMode || state.reported) return;
+  const id = clientId();
+  if (!id) return;
+  const first = state.guesses.find(g => !g.skip);
+  try {
+    const res = await apiFetch("/api/result", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      keepalive: true,
+      body: JSON.stringify({
+        puzzle: puzzleNum, client: id,
+        solved: state.status === "won",
+        guesses: state.guesses.length,
+        first: first ? first.text : null
+      })
+    });
+    if (res.ok) { state.reported = true; save("squint-state", state); }
+  } catch {}
+}
+
+async function loadGlobal() {
+  if (!STATS_API) return;
+  try {
+    const res = await apiFetch(`/api/stats?puzzle=${puzzleNum}`);
+    if (res.ok) renderGlobal(await res.json());
+  } catch {}
+}
+
+function renderGlobal(d) {
+  const el = $("global");
+  if (!d || !d.players) { el.hidden = true; return; }
+  if (d.players < MIN_GLOBAL_PLAYERS) {
+    el.innerHTML = `<h3>Everyone today</h3><p class="sum" style="margin:0">You're one of the first players to finish. Check back later to see how everyone did.</p>`;
+    el.hidden = false;
+    return;
+  }
+  const pct = n => Math.round((n / d.players) * 100);
+  const mine = state.status === "won" ? state.guesses.length - 1 : -1;
+  const maxCount = Math.max(1, ...d.dist);
+  const bars = d.dist.map((c, i) => {
+    const share = d.solved ? Math.round((c / d.solved) * 100) : 0;
+    return `<div class="dist-row"><span>${i + 1}</span><div><div class="bar ${i === mine ? "today" : ""}" style="width:${Math.max(10, (c / maxCount) * 100)}%">${share}%</div></div></div>`;
+  }).join("");
+  // Only show a first guess that is a real answer, and only once a few people made it.
+  const top = (d.firstGuesses || []).find(f => f.count >= 2 && byExact.has(String(f.guess).toLowerCase()));
+  el.innerHTML = `
+    <h3>Everyone today</h3>
+    <p class="sum">${pct(d.solved)}% of ${d.players.toLocaleString()} players solved it. Of those who did, here's how many guesses it took:</p>
+    ${bars}
+    ${top ? `<p class="first">Most common first guess: <strong>${escapeHTML(byExact.get(top.guess.toLowerCase()))}</strong> (${pct(top.count)}% of players)</p>` : ""}`;
+  el.hidden = false;
+}
+
 /* Photo credit: shown only once the puzzle is over. Uses whichever of the two fields exist. */
 function renderCredit(show) {
   const el = $("credit");
@@ -641,6 +727,7 @@ function afterGuess(wasCorrect) {
     goTo(currentLevel());
   } else {
     goTo(FULL).then(() => { revealDone = true; render(); });
+    reportResult().finally(loadGlobal);
   }
 }
 
@@ -864,6 +951,5 @@ if (!seenHelp) openHelp();
 
 start();
 </script>
-<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "56b23302b68e4435af89ac7e195f05a6"}'></script><!-- End Cloudflare Web Analytics -->
 </body>
 </html>
