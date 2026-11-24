@@ -340,7 +340,7 @@
   </div>
   <p class="help-foot">A new picture every day at midnight, plus a daily flag and a daily painting in their own tabs. In Paintings, naming another work by the right artist turns yellow and narrows the list to that artist.</p>
   <button class="btn primary" id="helpGo">Let's play</button>
-  <p class="version">Version 2026.11.24c</p>
+  <p class="version">Version 2026.11.24d</p>
 </dialog>
 
 <dialog id="archive" aria-labelledby="archiveTitle">
@@ -621,6 +621,7 @@ async function loadDaily() {
       answer: unobscure(g.a), hint: (g.hint || "").trim(), accept: g.accept || [],
       category: (g.category || "").trim(),
       source: (g.source || "").trim(), photographer: (g.photographer || "").trim(),
+      creditPrefix: (g.creditPrefix || "").trim() || undefined,   // e.g. "Image from" for museum images
       levels: g.levels, base: `${dir}/${folder}/`
     };
     if (art) return setupPaintings(answers.paintings, g);
