@@ -1,0 +1,67 @@
+{
+  "a": "=MnclRXYFByb0FGdvBFIlhGV",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:De_aardappeleters_-_s0005V1962_-_Van_Gogh_Museum.jpg",
+  "photographer": "Van Gogh Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f2d29949fb3e.webp",
+      "rect": {
+        "x": 2873,
+        "y": 813,
+        "size": 302
+      }
+    },
+    {
+      "file": "6aae0f6a917c.webp",
+      "rect": {
+        "x": 2798,
+        "y": 737,
+        "size": 452
+      }
+    },
+    {
+      "file": "bad1ce133873.webp",
+      "rect": {
+        "x": 2685,
+        "y": 624,
+        "size": 679
+      }
+    },
+    {
+      "file": "0ac3a66ec0b6.webp",
+      "rect": {
+        "x": 2502,
+        "y": 442,
+        "size": 1044
+      }
+    },
+    {
+      "file": "25b69a7aaf8a.webp",
+      "rect": {
+        "x": 2225,
+        "y": 165,
+        "size": 1597
+      }
+    },
+    {
+      "file": "7b493fd03928.webp",
+      "rect": {
+        "x": 1578,
+        "y": 0,
+        "size": 2262
+      }
+    },
+    {
+      "file": "b760215f22e9.webp",
+      "rect": {
+        "x": 0,
+        "y": -562,
+        "size": 3840
+      }
+    }
+  ]
+}

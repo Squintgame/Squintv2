@@ -1,0 +1,67 @@
+{
+  "a": "hNXaMBSYu9WT",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d0f0a3607b24.webp",
+      "rect": {
+        "x": 744,
+        "y": 3893,
+        "size": 427
+      }
+    },
+    {
+      "file": "87df10442c34.webp",
+      "rect": {
+        "x": 638,
+        "y": 3786,
+        "size": 640
+      }
+    },
+    {
+      "file": "6c53b04cb911.webp",
+      "rect": {
+        "x": 478,
+        "y": 3626,
+        "size": 960
+      }
+    },
+    {
+      "file": "c46e72421107.webp",
+      "rect": {
+        "x": 219,
+        "y": 3368,
+        "size": 1477
+      }
+    },
+    {
+      "file": "89c09cfa7df2.webp",
+      "rect": {
+        "x": 0,
+        "y": 2977,
+        "size": 2259
+      }
+    },
+    {
+      "file": "0a2db430e055.webp",
+      "rect": {
+        "x": 0,
+        "y": 2506,
+        "size": 3200
+      }
+    },
+    {
+      "file": "b2a59987ce92.webp",
+      "rect": {
+        "x": -941,
+        "y": 0,
+        "size": 5723
+      }
+    }
+  ]
+}

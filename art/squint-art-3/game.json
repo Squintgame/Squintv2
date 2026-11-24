@@ -1,0 +1,67 @@
+{
+  "a": "==wZulmcyFWRgwmchVGUgEGIoRXa3BCbyl2R",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg",
+  "photographer": "Mauritshuis",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f2abf7e13138.webp",
+      "rect": {
+        "x": 2862,
+        "y": 2440,
+        "size": 427
+      }
+    },
+    {
+      "file": "602eac0d0ae0.webp",
+      "rect": {
+        "x": 2755,
+        "y": 2333,
+        "size": 640
+      }
+    },
+    {
+      "file": "748ed88cc7b8.webp",
+      "rect": {
+        "x": 2595,
+        "y": 2173,
+        "size": 960
+      }
+    },
+    {
+      "file": "07240bfb28db.webp",
+      "rect": {
+        "x": 2337,
+        "y": 1915,
+        "size": 1477
+      }
+    },
+    {
+      "file": "9e990ff16397.webp",
+      "rect": {
+        "x": 1581,
+        "y": 1524,
+        "size": 2259
+      }
+    },
+    {
+      "file": "bb33a16a65b1.webp",
+      "rect": {
+        "x": 640,
+        "y": 1053,
+        "size": 3200
+      }
+    },
+    {
+      "file": "92fe701da857.webp",
+      "rect": {
+        "x": -354,
+        "y": 0,
+        "size": 4548
+      }
+    }
+  ]
+}

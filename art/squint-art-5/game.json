@@ -1,0 +1,67 @@
+{
+  "a": "oNGdhdFI0h2Zp5EIlhGV",
+  "ar": "0RmbhJnYtVmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg",
+  "photographer": "Rijksmuseum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "3cc8ea1fbb10.webp",
+      "rect": {
+        "x": 2162,
+        "y": 1817,
+        "size": 347
+      }
+    },
+    {
+      "file": "e58b57f1734b.webp",
+      "rect": {
+        "x": 2076,
+        "y": 1731,
+        "size": 521
+      }
+    },
+    {
+      "file": "35b848f9221e.webp",
+      "rect": {
+        "x": 1946,
+        "y": 1600,
+        "size": 781
+      }
+    },
+    {
+      "file": "283098835038.webp",
+      "rect": {
+        "x": 1735,
+        "y": 1390,
+        "size": 1202
+      }
+    },
+    {
+      "file": "08af123443bb.webp",
+      "rect": {
+        "x": 1417,
+        "y": 1072,
+        "size": 1838
+      }
+    },
+    {
+      "file": "5a31934c0f0e.webp",
+      "rect": {
+        "x": 1034,
+        "y": 521,
+        "size": 2603
+      }
+    },
+    {
+      "file": "3df65a3b37a2.webp",
+      "rect": {
+        "x": 0,
+        "y": -358,
+        "size": 3840
+      }
+    }
+  ]
+}

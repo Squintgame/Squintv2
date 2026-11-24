@@ -1,0 +1,67 @@
+{
+  "a": "=UGbw9WZQBSZoRHIn5WakFWZMBSe0JXZilGT",
+  "ar": "=gXavJ3YhxWZEBSZuh6wnVXR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "fbd17bb12824.webp",
+      "rect": {
+        "x": 588,
+        "y": 2418,
+        "size": 341
+      }
+    },
+    {
+      "file": "12519dd16db7.webp",
+      "rect": {
+        "x": 502,
+        "y": 2333,
+        "size": 512
+      }
+    },
+    {
+      "file": "f5acfd6cf78f.webp",
+      "rect": {
+        "x": 374,
+        "y": 2205,
+        "size": 768
+      }
+    },
+    {
+      "file": "0db6543dd6d7.webp",
+      "rect": {
+        "x": 168,
+        "y": 1890,
+        "size": 1182
+      }
+    },
+    {
+      "file": "f355dd850894.webp",
+      "rect": {
+        "x": 0,
+        "y": 1265,
+        "size": 1807
+      }
+    },
+    {
+      "file": "aca15b75ef87.webp",
+      "rect": {
+        "x": 0,
+        "y": 512,
+        "size": 2560
+      }
+    },
+    {
+      "file": "cef668996210.webp",
+      "rect": {
+        "x": 0,
+        "y": -384,
+        "size": 3840
+      }
+    }
+  ]
+}

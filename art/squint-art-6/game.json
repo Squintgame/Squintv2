@@ -1,0 +1,67 @@
+{
+  "a": "=MXYulmbl1EIzFGT",
+  "ar": "==gelVXc6F6wsVmVg82ZllGR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "fbdd71016f64.webp",
+      "rect": {
+        "x": 1600,
+        "y": 3094,
+        "size": 427
+      }
+    },
+    {
+      "file": "9ff0fa6e968e.webp",
+      "rect": {
+        "x": 1493,
+        "y": 2988,
+        "size": 640
+      }
+    },
+    {
+      "file": "d7d55113600d.webp",
+      "rect": {
+        "x": 1333,
+        "y": 2828,
+        "size": 960
+      }
+    },
+    {
+      "file": "df1ffcb5306f.webp",
+      "rect": {
+        "x": 1075,
+        "y": 2569,
+        "size": 1477
+      }
+    },
+    {
+      "file": "1638919af7d0.webp",
+      "rect": {
+        "x": 684,
+        "y": 2161,
+        "size": 2259
+      }
+    },
+    {
+      "file": "a522f84069f0.webp",
+      "rect": {
+        "x": 213,
+        "y": 1220,
+        "size": 3200
+      }
+    },
+    {
+      "file": "223187e2d0f3.webp",
+      "rect": {
+        "x": -290,
+        "y": 0,
+        "size": 4420
+      }
+    }
+  ]
+}

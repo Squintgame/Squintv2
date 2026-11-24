@@ -1,0 +1,67 @@
+{
+  "a": "==QZzlmcuV3Ugwibvl2czVmcw1WS",
+  "ar": "0Vmbv1EIlRWdhx2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg",
+  "photographer": "Musée Marmottan Monet",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "37ccda6ffe18.webp",
+      "rect": {
+        "x": 1748,
+        "y": 2083,
+        "size": 331
+      }
+    },
+    {
+      "file": "fcd0413478f2.webp",
+      "rect": {
+        "x": 1665,
+        "y": 2000,
+        "size": 496
+      }
+    },
+    {
+      "file": "dce62c8195e6.webp",
+      "rect": {
+        "x": 1541,
+        "y": 1876,
+        "size": 745
+      }
+    },
+    {
+      "file": "68ce1b66b0c4.webp",
+      "rect": {
+        "x": 1341,
+        "y": 1676,
+        "size": 1146
+      }
+    },
+    {
+      "file": "0a6fa8ae8d1e.webp",
+      "rect": {
+        "x": 1037,
+        "y": 1227,
+        "size": 1752
+      }
+    },
+    {
+      "file": "862fb4b03711.webp",
+      "rect": {
+        "x": 672,
+        "y": 496,
+        "size": 2482
+      }
+    },
+    {
+      "file": "173fd206fbae.webp",
+      "rect": {
+        "x": 0,
+        "y": -430,
+        "size": 3840
+      }
+    }
+  ]
+}

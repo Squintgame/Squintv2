@@ -1,0 +1,67 @@
+{
+  "a": "zVGdhJ3YvNFIm9GIoRXYlREIlhGV",
+  "ar": "==AZpZXYEBycpV3bM1yclVXcjFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Death_of_Socrates_MET_DP-13139-001.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c723b07d7b77.webp",
+      "rect": {
+        "x": 3026,
+        "y": 1056,
+        "size": 284
+      }
+    },
+    {
+      "file": "bd532c8a4975.webp",
+      "rect": {
+        "x": 2955,
+        "y": 985,
+        "size": 426
+      }
+    },
+    {
+      "file": "1e449117b738.webp",
+      "rect": {
+        "x": 2848,
+        "y": 878,
+        "size": 639
+      }
+    },
+    {
+      "file": "86e2436dfa57.webp",
+      "rect": {
+        "x": 2676,
+        "y": 706,
+        "size": 983
+      }
+    },
+    {
+      "file": "ac36e309b50a.webp",
+      "rect": {
+        "x": 2336,
+        "y": 446,
+        "size": 1504
+      }
+    },
+    {
+      "file": "89f8b44dfadc.webp",
+      "rect": {
+        "x": 1710,
+        "y": 133,
+        "size": 2130
+      }
+    },
+    {
+      "file": "1082cb2df383.webp",
+      "rect": {
+        "x": 0,
+        "y": -642,
+        "size": 3840
+      }
+    }
+  ]
+}

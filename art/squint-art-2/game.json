@@ -1,0 +1,67 @@
+{
+  "a": "==AdodWaOBSeyJXY0NFIlhGV",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+  "photographer": "Museum of Modern Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "4616af22a643.webp",
+      "rect": {
+        "x": 3085,
+        "y": 2088,
+        "size": 338
+      }
+    },
+    {
+      "file": "d707750d345d.webp",
+      "rect": {
+        "x": 3001,
+        "y": 2003,
+        "size": 507
+      }
+    },
+    {
+      "file": "f080ea771481.webp",
+      "rect": {
+        "x": 2874,
+        "y": 1877,
+        "size": 760
+      }
+    },
+    {
+      "file": "f641a6a72501.webp",
+      "rect": {
+        "x": 2670,
+        "y": 1672,
+        "size": 1170
+      }
+    },
+    {
+      "file": "8ec47c8dbdb2.webp",
+      "rect": {
+        "x": 2051,
+        "y": 1252,
+        "size": 1789
+      }
+    },
+    {
+      "file": "6f6d08456d6b.webp",
+      "rect": {
+        "x": 1306,
+        "y": 507,
+        "size": 2534
+      }
+    },
+    {
+      "file": "8545882dcb1b.webp",
+      "rect": {
+        "x": 0,
+        "y": -399,
+        "size": 3840
+      }
+    }
+  ]
+}
