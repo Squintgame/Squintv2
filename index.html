@@ -340,7 +340,7 @@
   </div>
   <p class="help-foot">A new picture every day at midnight, plus a daily flag and a daily painting in their own tabs. In Paintings, naming another work by the right artist turns yellow and narrows the list to that artist.</p>
   <button class="btn primary" id="helpGo">Let's play</button>
-  <p class="version">Version 2026.11.24d</p>
+  <p class="version">Version 2026.11.24e</p>
 </dialog>
 
 <dialog id="archive" aria-labelledby="archiveTitle">
@@ -590,10 +590,11 @@ async function loadDaily() {
     ]);
     SIM = buildSimilar(similar);
 
-    // Random: any past puzzle (never today's or a future one, so nothing is spoiled).
+    // Random: Daily only uses past puzzles, so nothing is spoiled.
+    // Paintings uses every painting in the schedule, including future days.
     if (randomMode) {
       const pastCount = Math.min(todayIndex, schedule.length);
-      const pool = pastCount > 0 ? pastCount : Math.min(1, schedule.length);
+      const pool = art ? schedule.length : pastCount > 0 ? pastCount : Math.min(1, schedule.length);
       if (!pool) { $("loading").textContent = "There are no past puzzles to play yet."; return false; }
       dayIndex = Math.floor(Math.random() * pool);
     }
