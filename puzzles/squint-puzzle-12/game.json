@@ -1,0 +1,66 @@
+{
+  "a": "sFGah1EIqFGV",
+  "hint": "",
+  "category": "Landmarks",
+  "source": "https://www.pexels.com/photo/taj-mahal-27374536/",
+  "photographer": "Ayush Dwivedi",
+  "accept": [],
+  "levels": [
+    {
+      "file": "c27c42f655ef.jpg",
+      "rect": {
+        "x": 1544,
+        "y": 1565,
+        "size": 204
+      }
+    },
+    {
+      "file": "7e44d814b08e.jpg",
+      "rect": {
+        "x": 1484,
+        "y": 1469,
+        "size": 300
+      }
+    },
+    {
+      "file": "d291c8b2982b.jpg",
+      "rect": {
+        "x": 1347,
+        "y": 1277,
+        "size": 545
+      }
+    },
+    {
+      "file": "5fb4f78549fe.jpg",
+      "rect": {
+        "x": 1183,
+        "y": 1113,
+        "size": 787
+      }
+    },
+    {
+      "file": "b1136f02ea64.jpg",
+      "rect": {
+        "x": 784,
+        "y": 794,
+        "size": 1338
+      }
+    },
+    {
+      "file": "0b658eeda434.jpg",
+      "rect": {
+        "x": 530,
+        "y": 513,
+        "size": 2007
+      }
+    },
+    {
+      "file": "626d5cc6bf9a.jpg",
+      "rect": {
+        "x": 504,
+        "y": 0,
+        "size": 3024
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "a": "oNXamlHbsVmS",
+  "hint": "",
+  "category": "Animals",
+  "source": "https://www.pexels.com/photo/mesmerizing-jellyfish-floating-in-ocean-depths-40303216/",
+  "photographer": "A rvin",
+  "accept": [],
+  "levels": [
+    {
+      "file": "a3de56a8024f.jpg",
+      "rect": {
+        "x": 2838,
+        "y": 2105,
+        "size": 274
+      }
+    },
+    {
+      "file": "a39e43e91c2e.jpg",
+      "rect": {
+        "x": 2769,
+        "y": 2036,
+        "size": 447
+      }
+    },
+    {
+      "file": "226af08ee1c8.jpg",
+      "rect": {
+        "x": 2619,
+        "y": 1886,
+        "size": 797
+      }
+    },
+    {
+      "file": "f1c0e26f96c3.jpg",
+      "rect": {
+        "x": 2419,
+        "y": 1886,
+        "size": 1117
+      }
+    },
+    {
+      "file": "067ea4b3b88d.jpg",
+      "rect": {
+        "x": 2110,
+        "y": 1769,
+        "size": 1633
+      }
+    },
+    {
+      "file": "5cc1d939defe.jpg",
+      "rect": {
+        "x": 1387,
+        "y": 959,
+        "size": 2589
+      }
+    },
+    {
+      "file": "42f8ed22abaa.jpg",
+      "rect": {
+        "x": 957,
+        "y": 0,
+        "size": 4160
+      }
+    }
+  ]
+}

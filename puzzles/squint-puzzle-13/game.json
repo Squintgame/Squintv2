@@ -1,0 +1,70 @@
+{
+  "a": "yV2ZpRFIsF2ZuVmQ",
+  "hint": "",
+  "category": "Animals",
+  "source": "https://www.pexels.com/photo/tiger-lying-on-puddle-of-water-3985635/",
+  "photographer": "Deep Rajwar",
+  "accept": [
+    "Siberian tiger",
+    "Sumatran tiger",
+    "Tiger cub"
+  ],
+  "levels": [
+    {
+      "file": "3b10ee812591.jpg",
+      "rect": {
+        "x": 1210,
+        "y": 1210,
+        "size": 62
+      }
+    },
+    {
+      "file": "d11b27f92688.jpg",
+      "rect": {
+        "x": 1157,
+        "y": 1150,
+        "size": 122
+      }
+    },
+    {
+      "file": "71d502e8b474.jpg",
+      "rect": {
+        "x": 1137,
+        "y": 1123,
+        "size": 153
+      }
+    },
+    {
+      "file": "2bc763494e0f.jpg",
+      "rect": {
+        "x": 1114,
+        "y": 1100,
+        "size": 193
+      }
+    },
+    {
+      "file": "3e18e57dea0b.jpg",
+      "rect": {
+        "x": 1085,
+        "y": 1071,
+        "size": 332
+      }
+    },
+    {
+      "file": "0852528f30f0.jpg",
+      "rect": {
+        "x": 1035,
+        "y": 1021,
+        "size": 525
+      }
+    },
+    {
+      "file": "10c360c83fae.jpg",
+      "rect": {
+        "x": 442,
+        "y": 0,
+        "size": 2117
+      }
+    }
+  ]
+}
