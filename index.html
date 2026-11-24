@@ -118,6 +118,13 @@
   }
   .icon-btn:hover { border-color: var(--muted); }
 
+  .tabs { display: flex; gap: 4px; margin: -4px 0 16px; padding: 4px; background: var(--surface); border: 1px solid var(--line); border-radius: 12px; }
+  .tabs a { flex: 1; text-align: center; padding: 8px; border-radius: 9px; text-decoration: none; color: var(--muted); font-weight: 600; }
+  .tabs a:hover { color: var(--ink); }
+  .tabs a[aria-current="page"] { background: var(--accent); color: var(--accent-ink); }
+  /* The space around a flag gets a faint diagonal pattern, so it never looks like part of the flag. */
+  .frame.flag-mode { background: repeating-linear-gradient(45deg, var(--line) 0 6px, var(--bg) 6px 14px); }
+  .frame.flag-mode img { inset: auto; object-fit: fill; will-change: auto; box-shadow: 0 0 0 1px rgba(0,0,0,0.12); }
   .frame {
     position: relative; aspect-ratio: 1 / 1; width: 100%;
     border: 6px solid var(--frame); border-radius: 22px; overflow: hidden; background: var(--line);
@@ -248,6 +255,11 @@
     </div>
   </header>
 
+  <nav class="tabs" aria-label="Game mode">
+    <a href="#" id="tabDaily">Daily</a>
+    <a href="#flags" id="tabFlags">Flags</a>
+  </nav>
+
   <main>
     <p class="replay" id="replay" hidden></p>
     <div class="frame" id="frame" role="img" aria-label="Loading today's picture">
@@ -301,11 +313,11 @@
     <li><span class="n">4</span><span>Stuck? Some puzzles give a hint after three misses.</span></li>
   </ol>
   <div class="legend">
-    <div><span class="chip hit"></span><span><strong>Correct.</strong> Close-enough names count too.</span></div>
+    <div><span class="chip hit"></span><span><strong>Correct.</strong> Other names for it count too.</span></div>
     <div><span class="chip close"></span><span><strong>Close.</strong> Right idea, not quite it.</span></div>
     <div><span class="chip miss"></span><span><strong>Not it.</strong></span></div>
   </div>
-  <p class="help-foot">A new picture every day at midnight. Share your result and keep your streak going.</p>
+  <p class="help-foot">A new picture every day at midnight, plus a daily flag in the Flags tab. Share your result and keep your streak going.</p>
   <button class="btn primary" id="helpGo">Let's play</button>
 </dialog>
 
@@ -327,6 +339,7 @@
    ========================================================= */
 const SITE_URL = "playsquint.com";       // shown at the end of the share text
 const LAUNCH = Date.UTC(2026, 10, 18);   // date of puzzle #1 (months are 0-based: 10 = November)
+const FLAGS_LAUNCH = Date.UTC(2026, 10, 24);   // date of Flags puzzle #1 (must match the Worker)
 const MAX_GUESSES = 6;
 const MAX_SUGGESTIONS = 4;               // how many autocomplete suggestions to show at once
 const STATS_API = "https://squint-stats.e27920001.workers.dev";  // global results server; set to "" to turn global results off
@@ -338,8 +351,15 @@ const VERDICTS = ["Eagle eye.", "Sharp.", "Nicely spotted.", "Solid.", "Got ther
    WHICH DAY IS IT
    ========================================================= */
 function dayIndexFor(d) {
-  return Math.floor((Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) - LAUNCH) / 86400000);
+  const launch = MODE === "flags" ? FLAGS_LAUNCH : LAUNCH;
+  return Math.floor((Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) - launch) / 86400000);
 }
+/* Two modes: the main daily puzzle, and the Flags tab (playsquint.com/#flags). */
+const MODE = location.hash === "#flags" ? "flags" : "daily";
+const KEY = MODE === "flags"
+  ? { state: "squint-flags-state", stats: "squint-flags-stats" }
+  : { state: "squint-state", stats: "squint-stats" };      // daily keeps its original keys, so nothing is lost
+
 const params = new URLSearchParams(location.search);
 const testMode = params.has("day");
 let dayIndex = testMode ? (parseInt(params.get("day"), 10) || 1) - 1 : dayIndexFor(new Date());
@@ -353,7 +373,7 @@ let ANSWERS = [];
 let puzzle = null;        // { answer, hint, accept, levels, base }
 let state = null;
 let revealDone = false;
-let stats = load("squint-stats", { played: 0, won: 0, streak: 0, maxStreak: 0, lastWon: null, dist: [0,0,0,0,0,0] });
+let stats = load(KEY.stats, { played: 0, won: 0, streak: 0, maxStreak: 0, lastWon: null, dist: [0,0,0,0,0,0] });
 
 function load(key, fallback) {
   try { const v = localStorage.getItem(key); return v ? JSON.parse(v) : fallback; }
@@ -479,6 +499,32 @@ async function getJSON(url) {
 
 async function start() {
   try {
+    const ready = MODE === "flags" ? await loadFlags() : await loadDaily();
+    if (!ready) return;
+    indexAnswers();
+
+    state = load(KEY.state, null);
+    if (!state || state.puzzle !== puzzleNum || testMode) {
+      state = { puzzle: puzzleNum, guesses: [], status: "playing" };
+    }
+
+    await showLevel(currentLevel(), false);
+    $("loading").hidden = true;
+    showCategory();
+    revealDone = state.status !== "playing";
+    [input, $("guessBtn"), $("skipBtn")].forEach(el => (el.disabled = false));
+    render();
+    if (state.status !== "playing") reportResult().finally(loadGlobal);
+  } catch (err) {
+    console.error(err);
+    $("loading").textContent = location.protocol === "file:"
+      ? "The puzzle files can't load from a file opened directly. Run the folder through a local server, such as VS Code's Live Server."
+      : "Today's puzzle didn't load. Refresh the page to try again.";
+  }
+}
+
+/* The main daily puzzle: today's scheduled puzzle, or a replay of a past one. */
+async function loadDaily() {
     const [answers, schedule, similar] = await Promise.all([
       getJSON("answers.json"),
       getJSON("puzzles/schedule.json"),
@@ -501,7 +547,7 @@ async function start() {
       }
       if (!g) {
         $("loading").textContent = "No puzzle is scheduled for today. Check back tomorrow.";
-        return;
+        return false;
       }
     }
     puzzle = {
@@ -516,26 +562,28 @@ async function start() {
       if (!ANSWERS.some(a => a.toLowerCase() === extra.toLowerCase())) ANSWERS.push(extra);
     }
     ANSWERS.sort((x, y) => x.localeCompare(y));
-    indexAnswers();
+    return true;
+}
 
-    state = load("squint-state", null);
-    if (!state || state.puzzle !== puzzleNum || testMode) {
-      state = { puzzle: puzzleNum, guesses: [], status: "playing" };
-    }
-
-    await showLevel(currentLevel(), false);
-    $("loading").hidden = true;
-    showCategory();
-    revealDone = state.status !== "playing";
-    [input, $("guessBtn"), $("skipBtn")].forEach(el => (el.disabled = false));
-    render();
-    if (state.status !== "playing") reportResult().finally(loadGlobal);
-  } catch (err) {
-    console.error(err);
-    $("loading").textContent = location.protocol === "file:"
-      ? "The puzzle files can't load from a file opened directly. Run the folder through a local server, such as VS Code's Live Server."
-      : "Today's puzzle didn't load. Refresh the page to try again.";
-  }
+/* Flags: one country a day, in a fixed shuffled order, drawn from flag-icons. No puzzle files needed. */
+async function loadFlags() {
+  const data = await getJSON("flags.json");
+  const countries = data.countries;
+  const n = data.order.length;
+  const code = data.order[((dayIndex % n) + n) % n];
+  const c = countries.find(x => x.code === code);
+  SIM = buildSimilar({
+    same: countries.filter(x => x.aliases.length).map(x => [x.name, ...x.aliases]),
+    close: data.lookalikes
+  });
+  ANSWERS = countries.flatMap(x => [x.name, ...x.aliases]).sort((x, y) => x.localeCompare(y));
+  puzzle = {
+    flag: true, answer: c.name, accept: [], category: "Flags",
+    hint: `This country is in ${c.continent}.`,
+    flagUrl: data.flagUrl.replace("{code}", c.code),
+    creditPrefix: "Flag artwork by", photographer: "flag-icons", source: "https://github.com/lipis/flag-icons"
+  };
+  return true;
 }
 
 /* Past puzzles to try for a replay, best first. Seeded by the day, so every player gets the same one.
@@ -580,6 +628,7 @@ function goTo(level) {
 }
 
 async function showLevel(target, animate) {
+  if (puzzle.flag) return showFlagLevel(target, animate);
   if (target === shownLevel) return;
   const animated = animate && shownLevel !== null && target > shownLevel && !reduceMotion.matches;
 
@@ -617,7 +666,76 @@ async function showLevel(target, animate) {
   preloadNext();
 }
 
+/* Flags are vector images, so one image is zoomed directly and stays sharp at every level. */
+const FLAG_SCALES = [8, 5.2, 3.4, 2.2, 1.5, 1.15];
+let flagFocus = { fx: 0.5, fy: 0.5 };
+
+async function showFlagLevel(target, animate) {
+  if (target === shownLevel) return;
+  const img = front;
+  const first = shownLevel === null;
+  if (first) {
+    frame.classList.add("flag-mode");
+    img.crossOrigin = "anonymous";          // lets the game read the colours to pick a starting spot
+    img.src = puzzle.flagUrl;
+    await img.decode();
+    flagFocus = pickFlagFocus(img);
+    back.style.opacity = "0"; img.style.opacity = "1"; img.style.transform = "none";
+  }
+  const animated = animate && !first && !reduceMotion.matches;
+  const dur = target === FULL ? 1400 : 700;
+  const ease = `${dur}ms cubic-bezier(.2,.7,.2,1)`;
+  img.style.transition = animated ? `left ${ease}, top ${ease}, width ${ease}, height ${ease}` : "none";
+  placeFlag(img, target >= FULL ? 1 : FLAG_SCALES[target]);
+  if (animated) await wait(dur);
+  shownLevel = target;
+}
+
+/* At zoom 1 the whole 4:3 flag fits the square frame. Zooming keeps the focus point fixed on screen. */
+function placeFlag(img, zoom) {
+  const { fx, fy } = flagFocus, w = 100 * zoom, h = 75 * zoom;
+  img.style.width = w + "%"; img.style.height = h + "%";
+  img.style.left = (fx * 100 - fx * w) + "%";
+  img.style.top = (12.5 + fy * 75 - fy * h) + "%";
+}
+
+/* Picks a starting spot where at least two colours meet, preferring spots with more detail
+   (a star, an emblem). The choice varies by day but is the same for every player. */
+function pickFlagFocus(img) {
+  const W = 320, H = 240, win = Math.round(W / FLAG_SCALES[0]);
+  try {
+    const cv = document.createElement("canvas"); cv.width = W; cv.height = H;
+    const cx = cv.getContext("2d");
+    cx.drawImage(img, 0, 0, W, H);
+    const px = cx.getImageData(0, 0, W, H).data;
+    const spots = [];
+    for (let gy = 0; gy <= 18; gy++) for (let gx = 0; gx <= 19; gx++) {
+      const fx = 0.12 + gx * 0.04, fy = 0.14 + gy * 0.04;
+      const x0 = Math.round(fx * W - win / 2), y0 = Math.round(fy * H - win / 2);
+      const counts = new Map(); let total = 0;
+      for (let y = y0; y < y0 + win; y += 2) for (let x = x0; x < x0 + win; x += 2) {
+        const i = (y * W + x) * 4;
+        const k = (px[i] >> 5) * 64 + (px[i + 1] >> 5) * 8 + (px[i + 2] >> 5);
+        counts.set(k, (counts.get(k) || 0) + 1); total++;
+      }
+      const shares = [...counts.values()].map(c => c / total).sort((a, b) => b - a);
+      const second = shares[1] || 0;
+      if (second < 0.08) continue;                       // a single colour tells the player nothing
+      const detail = shares.filter(v => v > 0.02).length;
+      spots.push({ fx, fy, score: Math.min(second, 0.3) * 10 + Math.min(detail, 4) });
+    }
+    if (!spots.length) return { fx: 0.5, fy: 0.5 };
+    spots.sort((a, b) => b.score - a.score || a.fy - b.fy || a.fx - b.fx);
+    const best = spots.slice(0, Math.max(3, Math.ceil(spots.length * 0.15)));
+    const pick = best[(Math.imul(dayIndex + 7, 2654435761) >>> 0) % best.length];
+    return { fx: pick.fx, fy: pick.fy };
+  } catch {
+    return { fx: 0.5, fy: 0.5 };
+  }
+}
+
 function preloadNext() {
+  if (puzzle.flag) return;
   if (state.status !== "playing") return;
   const next = state.guesses.length + 1;
   if (next <= FULL) new Image().src = puzzle.base + puzzle.levels[next].file;
@@ -699,20 +817,20 @@ async function reportResult() {
       headers: { "Content-Type": "application/json" },
       keepalive: true,
       body: JSON.stringify({
-        puzzle: puzzleNum, client: id,
+        puzzle: puzzleNum, mode: MODE, client: id,
         solved: state.status === "won",
         guesses: state.guesses.length,
         first: first ? first.text : null
       })
     });
-    if (res.ok) { state.reported = true; save("squint-state", state); }
+    if (res.ok) { state.reported = true; save(KEY.state, state); }
   } catch {}
 }
 
 async function loadGlobal() {
   if (!STATS_API) return;
   try {
-    const res = await apiFetch(`/api/stats?puzzle=${puzzleNum}`);
+    const res = await apiFetch(`/api/stats?puzzle=${puzzleNum}&mode=${MODE}`);
     if (res.ok) renderGlobal(await res.json());
   } catch {}
 }
@@ -748,8 +866,9 @@ function renderCredit(show) {
   const name = puzzle.photographer, url = /^https?:\/\//i.test(puzzle.source) ? puzzle.source : "";
   if (!show || (!name && !url)) { el.hidden = true; el.innerHTML = ""; return; }
   const link = text => `<a href="${escapeHTML(url)}" target="_blank" rel="noopener">${escapeHTML(text)}</a>`;
-  if (name && url) el.innerHTML = `Photo by ${escapeHTML(name)} · ${link("Source")}`;
-  else if (name) el.innerHTML = `Photo by ${escapeHTML(name)}`;
+  const prefix = puzzle.creditPrefix || "Photo by";
+  if (name && url) el.innerHTML = `${prefix} ${escapeHTML(name)} · ${link("Source")}`;
+  else if (name) el.innerHTML = `${prefix} ${escapeHTML(name)}`;
   else el.innerHTML = link("Photo source");
   el.hidden = false;
 }
@@ -775,7 +894,7 @@ function shake() {
 }
 
 function afterGuess(wasCorrect) {
-  save("squint-state", state);
+  save(KEY.state, state);
   render();
   if (state.status === "playing") {
     if (!wasCorrect) shake();
@@ -801,7 +920,7 @@ function submitGuess(raw) {
 
   if (correct) {
     finish(true);
-    if (match.toLowerCase() !== puzzle.answer.toLowerCase()) say(`Close enough! The exact answer is ${puzzle.answer}.`, 4000);
+    if (match.toLowerCase() !== puzzle.answer.toLowerCase()) say(`Correct! The answer is ${puzzle.answer}.`, 4000);
   } else {
     if (verdict === "close") say("Close! You're on the right track.");
     if (state.guesses.length >= MAX_GUESSES) finish(false);
@@ -829,7 +948,7 @@ function finish(won) {
   } else {
     stats.streak = 0;
   }
-  save("squint-stats", stats);
+  save(KEY.stats, stats);
 }
 
 /* =========================================================
@@ -842,7 +961,9 @@ function shareText() {
     if (!g) return "⬜";
     return g.correct ? "🟩" : g.close ? "🟨" : "🟥";
   }).join("");
-  return `Squint #${puzzleNum} 🔍 ${won ? state.guesses.length : "X"}/${MAX_GUESSES}\n${row}\n${SITE_URL}`;
+  const title = MODE === "flags" ? `Squint Flags #${puzzleNum} 🏳️` : `Squint #${puzzleNum} 🔍`;
+  const link = MODE === "flags" ? `${SITE_URL}/#flags` : SITE_URL;
+  return `${title} ${won ? state.guesses.length : "X"}/${MAX_GUESSES}\n${row}\n${link}`;
 }
 
 async function copyResult() {
@@ -1000,6 +1121,10 @@ $("themeBtn").addEventListener("click", () => {
 });
 systemDark.addEventListener("change", updateThemeButton);
 updateThemeButton();
+
+$(MODE === "flags" ? "tabFlags" : "tabDaily").setAttribute("aria-current", "page");
+window.addEventListener("hashchange", () => location.reload());
+if (MODE === "flags") document.title = "Squint Flags — a daily flag puzzle";
 
 let seenHelp = false;
 try { seenHelp = localStorage.getItem("squint-seen-help") === "1"; } catch {}
