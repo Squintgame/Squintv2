@@ -84,6 +84,12 @@
   .row .btn { flex: 1; }
 
   label.field { display: grid; gap: 4px; margin-bottom: 10px; font-size: 0.9rem; color: var(--muted); }
+  .suggest { margin: -2px 0 12px; padding: 10px 12px; border-radius: 10px; background: var(--bg); border: 1px solid var(--line); font-size: 0.86rem; display: grid; gap: 8px; }
+  .suggest p { margin: 0; }
+  .suggest-status { color: var(--muted); }
+  .suggest-warn { color: var(--warn); }
+  .suggest-auto strong { color: var(--ink); }
+  #acceptSuggest { padding: 8px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--card, var(--surface)); color: var(--ink); font: inherit; }
   label.field input, label.field select {
     padding: 9px 11px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--ink);
   }
@@ -131,14 +137,34 @@
 
     <section class="card">
       <h2>Puzzle details</h2>
+      <label class="field">Puzzle type
+        <select id="ptype">
+          <option value="daily">Daily puzzle</option>
+          <option value="art">Painting (Paintings tab)</option>
+          <option value="landmarks">Landmark (Landmarks tab)</option>
+        </select>
+      </label>
       <div class="two">
         <label class="field">Puzzle ID<input id="pid" placeholder="e.g. 14"></label>
-        <label class="field">Answer<input id="answer" placeholder="e.g. Pineapple"></label>
+        <label class="field">Answer<input id="answer" list="answerList" autocomplete="off" placeholder="e.g. Pineapple"></label>
       </div>
+      <div class="field-row" id="artistRow" hidden>
+        <label class="field"><span id="groupLabel">Artist (filled in automatically for paintings in the list)</span><input id="artist" list="artistList" autocomplete="off" placeholder="e.g. Vincent van Gogh"></label>
+      </div>
+      <label class="field">Category (optional, shown under the image as "Category: …")<input id="category" placeholder="e.g. animals, landmarks"></label>
       <label class="field">Also accept (optional, separate with commas)<input id="accept" placeholder="e.g. Lady Liberty, Liberty statue"></label>
-      <label class="field">Hint (shown after 3 misses)<input id="hint" placeholder="e.g. It grows out of the middle of a spiky plant."></label>
-      <label class="field">Photo source URL<input id="source" placeholder="https://"></label>
-      <label class="field">License<input id="license" placeholder="e.g. CC0, Unsplash License"></label>
+      <div class="suggest" id="suggest">
+        <p class="suggest-status" id="wordStatus">Loading word lists…</p>
+        <p class="suggest-warn" id="answerWarn" hidden></p>
+        <p class="suggest-auto" id="autoAccepted" hidden></p>
+        <select id="acceptSuggest" hidden aria-label="Add an accepted answer"></select>
+      </div>
+      <datalist id="answerList"></datalist>
+      <datalist id="paintingList"></datalist>
+      <datalist id="artistList"></datalist>
+      <label class="field">Hint (optional, shown after 3 misses)<input id="hint" placeholder="e.g. It grows out of the middle of a spiky plant."></label>
+      <label class="field">Photo source URL (shown to players after the puzzle)<input id="source" placeholder="https://"></label>
+      <label class="field">Photographer (shown to players after the puzzle)<input id="photographer" placeholder="e.g. Jane Smith"></label>
       <div class="two">
         <label class="field">Image size
           <select id="outSize">
@@ -470,7 +496,10 @@ $("exportBtn").addEventListener("click", async () => {
   const out = +$("outSize").value, mime = $("format").value;
   const rawId = $("pid").value.trim();
   const id = rawId.replace(/[^\w-]+/g, "-") || "untitled";
-  const folder = `squint-puzzle-${id}`;
+  const ptype = $("ptype").value, isArt = ptype !== "daily";   // a catalog puzzle: painting or landmark
+  const artist = $("artist").value.trim();
+  if (isArt && !artist) say(`Heads up: no ${ptype === "art" ? "artist" : "country"} was entered, so the right-${ptype === "art" ? "artist" : "country"} feature won't work for this puzzle.`);
+  const folder = ptype === "art" ? `squint-art-${id}` : ptype === "landmarks" ? `squint-landmark-${id}` : `squint-puzzle-${id}`;
   const R = rects.map(r => ({ x: Math.round(r.x), y: Math.round(r.y), s: Math.round(r.s) }));
 
   const c = document.createElement("canvas");
@@ -503,10 +532,10 @@ $("exportBtn").addEventListener("click", async () => {
   const answer = $("answer").value.trim();
   if (!answer) say("Heads up: no answer was entered, so this puzzle can't be solved yet.");
 
-  // Private record: everything, including the plain answer, source and license. Keep it OUT of the website.
+  // Private record: everything, including the plain answer. Keep it OUT of the website.
   const record = {
-    id: rawId, answer, hint: $("hint").value.trim(), accept: acceptList(),
-    source: $("source").value.trim(), license: $("license").value.trim(),
+    id: rawId, type: ptype, answer, artist: isArt ? artist : undefined, category: $("category").value.trim(), hint: $("hint").value.trim(), accept: acceptList(),
+    source: $("source").value.trim(), photographer: $("photographer").value.trim(),
     photo: { name: fileName, width: W, height: H },
     outputSize: out,
     levels
@@ -514,7 +543,11 @@ $("exportBtn").addEventListener("click", async () => {
   // What the website loads: images, boxes, hint, and the answer obscured (not encrypted).
   const game = {
     a: obscure(answer),
+    ar: isArt && artist ? obscure(artist) : undefined,
     hint: record.hint,
+    category: record.category,
+    source: record.source,
+    photographer: record.photographer,
     accept: record.accept,
     levels: levels.map(l => ({ file: l.file, rect: l.rect }))
   };
@@ -552,8 +585,9 @@ $("importInput").addEventListener("change", async e => {
     }
     if (!Array.isArray(data.levels) || data.levels.length !== 7) { say("That file doesn't contain 7 zoom levels."); return; }
     rects = data.levels.map(l => ({ x: l.rect.x, y: l.rect.y, s: l.rect.size }));
-    $("pid").value = data.id || ""; $("answer").value = data.answer || ""; $("hint").value = data.hint || ""; $("accept").value = (data.accept || []).join(", ");
-    $("source").value = data.source || ""; $("license").value = data.license || "";
+    $("ptype").value = ["art", "landmarks"].includes(data.type) ? data.type : "daily"; $("artist").value = data.artist || ""; applyType();
+    $("pid").value = data.id || ""; $("answer").value = data.answer || ""; $("hint").value = data.hint || ""; $("category").value = data.category || ""; $("accept").value = (data.accept || []).join(", "); updateSuggestions();
+    $("source").value = data.source || ""; $("photographer").value = data.photographer || "";
     stopAnim(); sel = 0; render();
     say("Boxes loaded. Adjust anything and export again.");
   } catch {
@@ -611,6 +645,211 @@ function makeZip(files) {
 }
 
 updatePanel();
+/* =========================================================
+   ANSWER HELP: autocomplete for the answer, and suggestions for "Also accept"
+   Uses the same answers.json and similar.json as the game.
+   ========================================================= */
+let ANSWERS = [], byExact = new Map(), byFold = new Map(), SIM = null;
+const ABBREVIATIONS = { mt: "mount", st: "saint", ft: "fort" };
+const foldBasic = s => s.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+  .replace(/œ/g, "oe").replace(/æ/g, "ae").replace(/[’']/g, "").replace(/&/g, " and ").replace(/[^a-z0-9]+/g, " ").trim();
+const expandWords = s => s.split(" ").map(w => ABBREVIATIONS[w] || w).join(" ");
+function fold(s) {
+  const w = expandWords(foldBasic(s).replace(/^the /, "")).split(" ");
+  let last = w[w.length - 1];
+  if (last.length > 3) {
+    if (last.endsWith("ies")) last = last.slice(0, -3) + "y";
+    else if (/(ches|shes|xes|sses|zes)$/.test(last)) last = last.slice(0, -2);
+    else if (last.endsWith("s") && !/(ss|us|is)$/.test(last)) last = last.slice(0, -1);
+  }
+  w[w.length - 1] = last;
+  return w.join("");
+}
+const resolveName = t => byExact.get(t.trim().toLowerCase()) || byFold.get(fold(t)) || null;
+
+function buildSimilar(data) {
+  const k = s => s.toLowerCase();
+  const canon = new Map();
+  (data.same || []).forEach(g => { const c = k(g[0]); g.forEach(n => canon.set(k(n), c)); });
+  const C = n => canon.get(k(n)) || k(n);
+  const acceptUp = new Map(), allUp = new Map();
+  const link = (m, child, parent) => { const c = C(child), p = C(parent); if (c === p) return; if (!m.has(c)) m.set(c, new Set()); m.get(c).add(p); };
+  for (const [h, ms] of Object.entries(data.kinds || {})) ms.forEach(m => { link(acceptUp, m, h); link(allUp, m, h); });
+  for (const [h, ms] of Object.entries(data.broad || {})) ms.forEach(m => link(allUp, m, h));
+  const closeOf = new Map();
+  (data.close || []).forEach((g, i) => g.forEach(n => { const c = C(n); if (!closeOf.has(c)) closeOf.set(c, new Set()); closeOf.get(c).add(i); }));
+  const anc = (m, c) => { const out = new Set(), st = [c]; while (st.length) for (const p of m.get(st.pop()) || []) if (!out.has(p)) { out.add(p); st.push(p); } return out; };
+  return { C, acceptAnc: c => anc(acceptUp, c), allAnc: c => anc(allUp, c), closeOf };
+}
+function judge(guess, answer) {   // same rules as the game
+  const g = SIM.C(guess), a = SIM.C(answer);
+  if (g === a) return "correct";
+  if (SIM.acceptAnc(a).has(g) || SIM.acceptAnc(g).has(a)) return "correct";
+  const gAll = SIM.allAnc(g), aAll = SIM.allAnc(a);
+  if (aAll.has(g) || gAll.has(a)) return "close";
+  for (const x of gAll) if (aAll.has(x)) return "close";
+  const gc = SIM.closeOf.get(g), ac = SIM.closeOf.get(a);
+  if (gc && ac) for (const i of gc) if (ac.has(i)) return "close";
+  return "wrong";
+}
+
+async function getList(name) {
+  // Works from your site, and from a downloaded copy (it falls back to the live site's lists).
+  for (const url of [name, "https://playsquint.com/" + name]) {
+    try { const r = await fetch(url, { cache: "no-cache" }); if (r.ok) return await r.json(); } catch {}
+  }
+  throw new Error("could not load " + name);
+}
+
+async function loadWordLists() {
+  try {
+    const [answers, similar, paintings, landmarks] = await Promise.all([
+      getList("answers.json"), getList("similar.json"),
+      getList("paintings.json").catch(() => ({ paintings: [] })), getList("landmarks.json").catch(() => ({ landmarks: [] }))
+    ]);
+    ANSWERS = answers; SIM = buildSimilar(similar);
+    CATALOGS.art.items = paintings.paintings || [];
+    CATALOGS.landmarks.items = landmarks.landmarks || [];
+    fillCatalogLists();
+    for (const a of ANSWERS) { byExact.set(a.toLowerCase(), a); const k = fold(a); if (!byFold.has(k)) byFold.set(k, a); }
+    $("answerList").innerHTML = ANSWERS.map(a => `<option value="${a.replace(/"/g, "&quot;")}">`).join("");
+    $("wordStatus").textContent = `Word lists loaded (${ANSWERS.length.toLocaleString()} answers). Type an answer to see suggestions.`;
+    updateSuggestions();
+  } catch {
+    $("wordStatus").textContent = "Couldn't load the word lists, so suggestions are off. Everything else works normally.";
+  }
+}
+
+const currentAccepts = () => $("accept").value.split(",").map(t => t.trim()).filter(Boolean);
+
+/* Catalog puzzle types: paintings (grouped by artist) and landmarks (grouped by country). */
+const CATALOGS = {
+  art: { items: [], name: p => p.title, groups: p => [p.artist], word: "artist", thing: "painting", file: "paintings.json",
+         label: "Artist (filled in automatically for paintings in the list)", placeholder: "e.g. The Starry Night", groupPlaceholder: "e.g. Vincent van Gogh",
+         about: p => `${p.title} by ${p.artist}${p.year ? ` (${p.year})` : ""}`, right: "Right artist" },
+  landmarks: { items: [], name: p => p.name, groups: p => p.countries, word: "country", thing: "landmark", file: "landmarks.json",
+         label: "Country (filled in automatically for landmarks in the list)", placeholder: "e.g. Eiffel Tower", groupPlaceholder: "e.g. France",
+         about: p => `${p.name}${p.city ? `, ${p.city}` : ""}, ${p.countries.join(" / ")}`, right: "Right country" }
+};
+const currentCatalog = () => CATALOGS[$("ptype").value] || null;
+const esc = v => String(v).replace(/&/g, "&amp;").replace(/"/g, "&quot;");
+
+function fillCatalogLists() {
+  const c = currentCatalog();
+  if (!c) return;
+  $("paintingList").innerHTML = c.items.map(p => `<option value="${esc(c.name(p))}" label="${esc(c.groups(p).join(" / "))}">`).join("");
+  $("artistList").innerHTML = [...new Set(c.items.flatMap(c.groups))].sort().map(a => `<option value="${esc(a)}">`).join("");
+}
+
+/* Daily puzzles get answer suggestions; catalog puzzles get the catalog and their artist or country. */
+function applyType() {
+  const c = currentCatalog();
+  $("artistRow").hidden = !c;
+  $("answer").setAttribute("list", c ? "paintingList" : "answerList");
+  $("answer").placeholder = c ? c.placeholder : "e.g. Pineapple";
+  if (c) { $("groupLabel").textContent = c.label; $("artist").placeholder = c.groupPlaceholder; fillCatalogLists(); }
+  updateSuggestions();
+}
+$("ptype").addEventListener("change", applyType);
+$("artist").addEventListener("input", () => { clearTimeout(suggestTimer); suggestTimer = setTimeout(updateSuggestions, 200); });
+
+function findCatalogItem(name) {
+  const c = currentCatalog(), k = fold(name);
+  return c.items.find(p => fold(c.name(p)) === k || (p.aliases || []).some(a => fold(a) === k)) || null;
+}
+
+function updateCatalogInfo() {
+  const c = currentCatalog();
+  const raw = $("answer").value.trim();
+  const warn = $("answerWarn"), auto = $("autoAccepted");
+  $("acceptSuggest").hidden = true; warn.hidden = auto.hidden = true;
+  if (!raw) return;
+  const p = findCatalogItem(raw);
+  if (!p) {
+    warn.textContent = `"${raw}" isn't in ${c.file} yet. Add it (with its ${c.word}) so players can find it in the list.`;
+    warn.hidden = false;
+    return;
+  }
+  if (c.name(p) !== raw) $("answer").value = c.name(p);          // use the catalog's exact name
+  const groups = c.groups(p);
+  if (!groups.some(g => g === $("artist").value.trim())) $("artist").value = groups[0];
+  const others = c.items.filter(x => x !== p && c.groups(x).some(g => groups.includes(g))).length;
+  auto.innerHTML = `<strong>In the catalog:</strong> ${esc(c.about(p))}. ` +
+    (others > 0
+      ? `Players who name another ${c.thing} from the same ${c.word} are told "${c.right}" and then choose from ${others + 1}.`
+      : `It's the only ${c.thing} from its ${c.word} in the catalog, so "${c.right}" can't happen. Add more to ${c.file} for that.`);
+  auto.hidden = false;
+}
+
+function updateSuggestions() {
+  if (currentCatalog()) { if (currentCatalog().items.length) updateCatalogInfo(); return; }
+  if (!SIM) return;
+  const raw = $("answer").value.trim();
+  const warn = $("answerWarn"), auto = $("autoAccepted"), sel = $("acceptSuggest");
+  warn.hidden = auto.hidden = sel.hidden = true;
+  if (!raw) return;
+  const answer = resolveName(raw);
+  if (!answer) {
+    warn.textContent = `"${raw}" isn't in answers.json yet. Add it there so players can find it in the list.`;
+    warn.hidden = false;
+    return;
+  }
+  if (answer.toLowerCase() !== raw.toLowerCase()) {
+    warn.textContent = `Tip: the list spells this "${answer}". Using that spelling keeps everything matched.`;
+    warn.hidden = false;
+  }
+  const correct = [], tiers = { likely: [], general: [], family: [] };
+  for (const g of ANSWERS) {
+    if (g === answer) continue;
+    const v = judge(g, answer);
+    if (v === "correct") correct.push(g);
+    else if (v === "close") tiers[closeTier(g, answer)].push(g);
+  }
+  auto.innerHTML = correct.length
+    ? `<strong>Already counted as correct:</strong> ${correct.slice(0, 15).join(", ")}${correct.length > 15 ? `, and ${correct.length - 15} more` : ""}`
+    : `<strong>No other answers count as correct yet.</strong> Add any here, or pick from the list below.`;
+  auto.hidden = false;
+
+  const already = new Set(currentAccepts().map(t => t.toLowerCase()));
+  const groups = [
+    ["Most likely mix-ups", tiers.likely],
+    ["General words", tiers.general],
+    ["Others in the same family", tiers.family]
+  ].map(([label, list]) => [label, list.filter(c => !already.has(c.toLowerCase()))]).filter(([, list]) => list.length);
+  const total = groups.reduce((n, [, l]) => n + l.length, 0);
+  if (total) {
+    const opt = c => `<option value="${c.replace(/"/g, "&quot;")}">${c}</option>`;
+    sel.innerHTML = `<option value="">Add an accepted answer (${total} close guesses)…</option>` +
+      groups.map(([label, list]) => `<optgroup label="${label}">${list.map(opt).join("")}</optgroup>`).join("");
+    sel.hidden = false;
+  }
+}
+
+/* Why a guess is close: a named mix-up or another kind of the same thing comes first,
+   then general words ("Bird"), then everything else in a broad family. */
+function closeTier(guess, answer) {
+  const g = SIM.C(guess), a = SIM.C(answer);
+  const gc = SIM.closeOf.get(g), ac = SIM.closeOf.get(a);
+  if (gc && ac) for (const i of gc) if (ac.has(i)) return "likely";
+  const ga = SIM.acceptAnc(g), aa = SIM.acceptAnc(a);
+  for (const x of ga) if (aa.has(x)) return "likely";
+  if (SIM.allAnc(a).has(g)) return "general";
+  return "family";
+}
+
+$("acceptSuggest").addEventListener("change", e => {
+  const pick = e.target.value;
+  if (!pick) return;
+  const list = currentAccepts();
+  if (!list.some(t => t.toLowerCase() === pick.toLowerCase())) list.push(pick);
+  $("accept").value = list.join(", ");
+  updateSuggestions();
+});
+let suggestTimer;
+$("answer").addEventListener("input", () => { clearTimeout(suggestTimer); suggestTimer = setTimeout(updateSuggestions, 200); });
+$("accept").addEventListener("change", updateSuggestions);
+loadWordLists();
+
 </script>
 </body>
 </html>

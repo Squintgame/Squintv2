@@ -1,0 +1,2470 @@
+{
+ "landmarks": [
+  {
+   "name": "Eiffel Tower",
+   "countries": [
+    "France"
+   ],
+   "city": "Paris",
+   "aliases": [
+    "La Tour Eiffel"
+   ]
+  },
+  {
+   "name": "Arc de Triomphe",
+   "countries": [
+    "France"
+   ],
+   "city": "Paris",
+   "aliases": []
+  },
+  {
+   "name": "Louvre Pyramid",
+   "countries": [
+    "France"
+   ],
+   "city": "Paris",
+   "aliases": [
+    "Louvre"
+   ]
+  },
+  {
+   "name": "Notre-Dame de Paris",
+   "countries": [
+    "France"
+   ],
+   "city": "Paris",
+   "aliases": [
+    "Notre-Dame",
+    "Notre Dame Cathedral"
+   ]
+  },
+  {
+   "name": "Sacré-Cœur",
+   "countries": [
+    "France"
+   ],
+   "city": "Paris",
+   "aliases": [
+    "Sacre Coeur",
+    "Basilica of the Sacred Heart"
+   ]
+  },
+  {
+   "name": "Palace of Versailles",
+   "countries": [
+    "France"
+   ],
+   "city": "Versailles",
+   "aliases": [
+    "Versailles"
+   ]
+  },
+  {
+   "name": "Mont Saint-Michel",
+   "countries": [
+    "France"
+   ],
+   "city": "Normandy",
+   "aliases": []
+  },
+  {
+   "name": "Pont du Gard",
+   "countries": [
+    "France"
+   ],
+   "city": "Occitanie",
+   "aliases": []
+  },
+  {
+   "name": "Château de Chambord",
+   "countries": [
+    "France"
+   ],
+   "city": "Loire Valley",
+   "aliases": [
+    "Chambord"
+   ]
+  },
+  {
+   "name": "Moulin Rouge",
+   "countries": [
+    "France"
+   ],
+   "city": "Paris",
+   "aliases": []
+  },
+  {
+   "name": "Champs-Élysées",
+   "countries": [
+    "France"
+   ],
+   "city": "Paris",
+   "aliases": [
+    "Champs Elysees"
+   ]
+  },
+  {
+   "name": "Carcassonne",
+   "countries": [
+    "France"
+   ],
+   "city": "Occitanie",
+   "aliases": [
+    "Cité de Carcassonne"
+   ]
+  },
+  {
+   "name": "Colosseum",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Rome",
+   "aliases": [
+    "Coliseum",
+    "Flavian Amphitheatre"
+   ]
+  },
+  {
+   "name": "Leaning Tower of Pisa",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Pisa",
+   "aliases": [
+    "Tower of Pisa"
+   ]
+  },
+  {
+   "name": "Trevi Fountain",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Rome",
+   "aliases": []
+  },
+  {
+   "name": "Pantheon",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Rome",
+   "aliases": []
+  },
+  {
+   "name": "St. Peter's Basilica",
+   "countries": [
+    "Vatican City"
+   ],
+   "city": "Vatican City",
+   "aliases": [
+    "Saint Peter's Basilica"
+   ]
+  },
+  {
+   "name": "Sistine Chapel",
+   "countries": [
+    "Vatican City"
+   ],
+   "city": "Vatican City",
+   "aliases": []
+  },
+  {
+   "name": "St. Peter's Square",
+   "countries": [
+    "Vatican City"
+   ],
+   "city": "Vatican City",
+   "aliases": [
+    "Saint Peter's Square"
+   ]
+  },
+  {
+   "name": "Florence Cathedral",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Florence",
+   "aliases": [
+    "Duomo",
+    "Il Duomo"
+   ]
+  },
+  {
+   "name": "Ponte Vecchio",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Florence",
+   "aliases": []
+  },
+  {
+   "name": "Rialto Bridge",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Venice",
+   "aliases": []
+  },
+  {
+   "name": "St. Mark's Basilica",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Venice",
+   "aliases": [
+    "Saint Mark's Basilica"
+   ]
+  },
+  {
+   "name": "Grand Canal",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Venice",
+   "aliases": []
+  },
+  {
+   "name": "Milan Cathedral",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Milan",
+   "aliases": [
+    "Duomo di Milano"
+   ]
+  },
+  {
+   "name": "Pompeii",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Campania",
+   "aliases": []
+  },
+  {
+   "name": "Mount Vesuvius",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Naples",
+   "aliases": [
+    "Vesuvius"
+   ]
+  },
+  {
+   "name": "Roman Forum",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Rome",
+   "aliases": []
+  },
+  {
+   "name": "Spanish Steps",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Rome",
+   "aliases": []
+  },
+  {
+   "name": "Amalfi Coast",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Campania",
+   "aliases": []
+  },
+  {
+   "name": "Cinque Terre",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Liguria",
+   "aliases": []
+  },
+  {
+   "name": "Lake Como",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Lombardy",
+   "aliases": []
+  },
+  {
+   "name": "Dolomites",
+   "countries": [
+    "Italy"
+   ],
+   "city": "South Tyrol",
+   "aliases": []
+  },
+  {
+   "name": "Mount Etna",
+   "countries": [
+    "Italy"
+   ],
+   "city": "Sicily",
+   "aliases": [
+    "Etna"
+   ]
+  },
+  {
+   "name": "Sagrada Familia",
+   "countries": [
+    "Spain"
+   ],
+   "city": "Barcelona",
+   "aliases": [
+    "La Sagrada Familia"
+   ]
+  },
+  {
+   "name": "Park Güell",
+   "countries": [
+    "Spain"
+   ],
+   "city": "Barcelona",
+   "aliases": [
+    "Park Guell"
+   ]
+  },
+  {
+   "name": "Casa Batlló",
+   "countries": [
+    "Spain"
+   ],
+   "city": "Barcelona",
+   "aliases": [
+    "Casa Batllo"
+   ]
+  },
+  {
+   "name": "Alhambra",
+   "countries": [
+    "Spain"
+   ],
+   "city": "Granada",
+   "aliases": []
+  },
+  {
+   "name": "Mezquita of Córdoba",
+   "countries": [
+    "Spain"
+   ],
+   "city": "Córdoba",
+   "aliases": [
+    "Mosque–Cathedral of Córdoba"
+   ]
+  },
+  {
+   "name": "Royal Palace of Madrid",
+   "countries": [
+    "Spain"
+   ],
+   "city": "Madrid",
+   "aliases": []
+  },
+  {
+   "name": "Seville Cathedral",
+   "countries": [
+    "Spain"
+   ],
+   "city": "Seville",
+   "aliases": []
+  },
+  {
+   "name": "Plaza de España",
+   "countries": [
+    "Spain"
+   ],
+   "city": "Seville",
+   "aliases": []
+  },
+  {
+   "name": "Guggenheim Museum Bilbao",
+   "countries": [
+    "Spain"
+   ],
+   "city": "Bilbao",
+   "aliases": []
+  },
+  {
+   "name": "Belém Tower",
+   "countries": [
+    "Portugal"
+   ],
+   "city": "Lisbon",
+   "aliases": [
+    "Belem Tower"
+   ]
+  },
+  {
+   "name": "Pena Palace",
+   "countries": [
+    "Portugal"
+   ],
+   "city": "Sintra",
+   "aliases": []
+  },
+  {
+   "name": "Jerónimos Monastery",
+   "countries": [
+    "Portugal"
+   ],
+   "city": "Lisbon",
+   "aliases": []
+  },
+  {
+   "name": "Big Ben",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "London",
+   "aliases": [
+    "Elizabeth Tower"
+   ]
+  },
+  {
+   "name": "Tower Bridge",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "London",
+   "aliases": []
+  },
+  {
+   "name": "Buckingham Palace",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "London",
+   "aliases": []
+  },
+  {
+   "name": "Tower of London",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "London",
+   "aliases": []
+  },
+  {
+   "name": "London Eye",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "London",
+   "aliases": []
+  },
+  {
+   "name": "Westminster Abbey",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "London",
+   "aliases": []
+  },
+  {
+   "name": "St Paul's Cathedral",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "London",
+   "aliases": [
+    "Saint Paul's Cathedral"
+   ]
+  },
+  {
+   "name": "Palace of Westminster",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "London",
+   "aliases": [
+    "Houses of Parliament"
+   ]
+  },
+  {
+   "name": "The Shard",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "London",
+   "aliases": []
+  },
+  {
+   "name": "Stonehenge",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "Wiltshire",
+   "aliases": []
+  },
+  {
+   "name": "Edinburgh Castle",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "Edinburgh",
+   "aliases": []
+  },
+  {
+   "name": "Windsor Castle",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "Windsor",
+   "aliases": []
+  },
+  {
+   "name": "Giant's Causeway",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "Northern Ireland",
+   "aliases": []
+  },
+  {
+   "name": "Hadrian's Wall",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "Northern England",
+   "aliases": []
+  },
+  {
+   "name": "White Cliffs of Dover",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "Kent",
+   "aliases": []
+  },
+  {
+   "name": "Loch Ness",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "Scottish Highlands",
+   "aliases": []
+  },
+  {
+   "name": "Eilean Donan",
+   "countries": [
+    "United Kingdom"
+   ],
+   "city": "Scottish Highlands",
+   "aliases": [
+    "Eilean Donan Castle"
+   ]
+  },
+  {
+   "name": "Cliffs of Moher",
+   "countries": [
+    "Ireland"
+   ],
+   "city": "County Clare",
+   "aliases": []
+  },
+  {
+   "name": "Blarney Castle",
+   "countries": [
+    "Ireland"
+   ],
+   "city": "County Cork",
+   "aliases": []
+  },
+  {
+   "name": "Rock of Cashel",
+   "countries": [
+    "Ireland"
+   ],
+   "city": "County Tipperary",
+   "aliases": []
+  },
+  {
+   "name": "Brandenburg Gate",
+   "countries": [
+    "Germany"
+   ],
+   "city": "Berlin",
+   "aliases": []
+  },
+  {
+   "name": "Reichstag Building",
+   "countries": [
+    "Germany"
+   ],
+   "city": "Berlin",
+   "aliases": [
+    "Reichstag"
+   ]
+  },
+  {
+   "name": "Berlin Wall",
+   "countries": [
+    "Germany"
+   ],
+   "city": "Berlin",
+   "aliases": []
+  },
+  {
+   "name": "Neuschwanstein Castle",
+   "countries": [
+    "Germany"
+   ],
+   "city": "Bavaria",
+   "aliases": [
+    "Neuschwanstein"
+   ]
+  },
+  {
+   "name": "Cologne Cathedral",
+   "countries": [
+    "Germany"
+   ],
+   "city": "Cologne",
+   "aliases": []
+  },
+  {
+   "name": "Holstentor",
+   "countries": [
+    "Germany"
+   ],
+   "city": "Lübeck",
+   "aliases": []
+  },
+  {
+   "name": "Hohenzollern Castle",
+   "countries": [
+    "Germany"
+   ],
+   "city": "Baden-Württemberg",
+   "aliases": []
+  },
+  {
+   "name": "Charles Bridge",
+   "countries": [
+    "Czechia"
+   ],
+   "city": "Prague",
+   "aliases": []
+  },
+  {
+   "name": "Prague Castle",
+   "countries": [
+    "Czechia"
+   ],
+   "city": "Prague",
+   "aliases": []
+  },
+  {
+   "name": "Prague Astronomical Clock",
+   "countries": [
+    "Czechia"
+   ],
+   "city": "Prague",
+   "aliases": [
+    "Prague Orloj"
+   ]
+  },
+  {
+   "name": "Schönbrunn Palace",
+   "countries": [
+    "Austria"
+   ],
+   "city": "Vienna",
+   "aliases": [
+    "Schonbrunn Palace"
+   ]
+  },
+  {
+   "name": "Hallstatt",
+   "countries": [
+    "Austria"
+   ],
+   "city": "Upper Austria",
+   "aliases": []
+  },
+  {
+   "name": "St. Stephen's Cathedral",
+   "countries": [
+    "Austria"
+   ],
+   "city": "Vienna",
+   "aliases": [
+    "Stephansdom"
+   ]
+  },
+  {
+   "name": "Hungarian Parliament Building",
+   "countries": [
+    "Hungary"
+   ],
+   "city": "Budapest",
+   "aliases": [
+    "Hungarian Parliament"
+   ]
+  },
+  {
+   "name": "Fisherman's Bastion",
+   "countries": [
+    "Hungary"
+   ],
+   "city": "Budapest",
+   "aliases": []
+  },
+  {
+   "name": "Széchenyi Chain Bridge",
+   "countries": [
+    "Hungary"
+   ],
+   "city": "Budapest",
+   "aliases": [
+    "Chain Bridge"
+   ]
+  },
+  {
+   "name": "Matterhorn",
+   "countries": [
+    "Switzerland",
+    "Italy"
+   ],
+   "city": "Alps",
+   "aliases": []
+  },
+  {
+   "name": "Chapel Bridge",
+   "countries": [
+    "Switzerland"
+   ],
+   "city": "Lucerne",
+   "aliases": [
+    "Kapellbrücke"
+   ]
+  },
+  {
+   "name": "Jungfrau",
+   "countries": [
+    "Switzerland"
+   ],
+   "city": "Bernese Alps",
+   "aliases": []
+  },
+  {
+   "name": "Atomium",
+   "countries": [
+    "Belgium"
+   ],
+   "city": "Brussels",
+   "aliases": []
+  },
+  {
+   "name": "Manneken Pis",
+   "countries": [
+    "Belgium"
+   ],
+   "city": "Brussels",
+   "aliases": []
+  },
+  {
+   "name": "Grand-Place",
+   "countries": [
+    "Belgium"
+   ],
+   "city": "Brussels",
+   "aliases": [
+    "Grand Place"
+   ]
+  },
+  {
+   "name": "Kinderdijk",
+   "countries": [
+    "Netherlands"
+   ],
+   "city": "South Holland",
+   "aliases": [
+    "Kinderdijk windmills"
+   ]
+  },
+  {
+   "name": "Rijksmuseum",
+   "countries": [
+    "Netherlands"
+   ],
+   "city": "Amsterdam",
+   "aliases": []
+  },
+  {
+   "name": "Little Mermaid statue",
+   "countries": [
+    "Denmark"
+   ],
+   "city": "Copenhagen",
+   "aliases": [
+    "The Little Mermaid"
+   ]
+  },
+  {
+   "name": "Nyhavn",
+   "countries": [
+    "Denmark"
+   ],
+   "city": "Copenhagen",
+   "aliases": []
+  },
+  {
+   "name": "Geirangerfjord",
+   "countries": [
+    "Norway"
+   ],
+   "city": "Møre og Romsdal",
+   "aliases": []
+  },
+  {
+   "name": "Preikestolen",
+   "countries": [
+    "Norway"
+   ],
+   "city": "Rogaland",
+   "aliases": [
+    "Pulpit Rock"
+   ]
+  },
+  {
+   "name": "Hallgrímskirkja",
+   "countries": [
+    "Iceland"
+   ],
+   "city": "Reykjavík",
+   "aliases": [
+    "Hallgrimskirkja"
+   ]
+  },
+  {
+   "name": "Blue Lagoon",
+   "countries": [
+    "Iceland"
+   ],
+   "city": "Grindavík",
+   "aliases": []
+  },
+  {
+   "name": "Gullfoss",
+   "countries": [
+    "Iceland"
+   ],
+   "city": "South Iceland",
+   "aliases": []
+  },
+  {
+   "name": "Acropolis",
+   "countries": [
+    "Greece"
+   ],
+   "city": "Athens",
+   "aliases": []
+  },
+  {
+   "name": "Parthenon",
+   "countries": [
+    "Greece"
+   ],
+   "city": "Athens",
+   "aliases": []
+  },
+  {
+   "name": "Santorini",
+   "countries": [
+    "Greece"
+   ],
+   "city": "Cyclades",
+   "aliases": [
+    "Oia"
+   ]
+  },
+  {
+   "name": "Meteora",
+   "countries": [
+    "Greece"
+   ],
+   "city": "Thessaly",
+   "aliases": []
+  },
+  {
+   "name": "Temple of Poseidon",
+   "countries": [
+    "Greece"
+   ],
+   "city": "Sounion",
+   "aliases": []
+  },
+  {
+   "name": "Red Square",
+   "countries": [
+    "Russia"
+   ],
+   "city": "Moscow",
+   "aliases": []
+  },
+  {
+   "name": "Saint Basil's Cathedral",
+   "countries": [
+    "Russia"
+   ],
+   "city": "Moscow",
+   "aliases": [
+    "St. Basil's Cathedral"
+   ]
+  },
+  {
+   "name": "Kremlin",
+   "countries": [
+    "Russia"
+   ],
+   "city": "Moscow",
+   "aliases": [
+    "Moscow Kremlin"
+   ]
+  },
+  {
+   "name": "Winter Palace",
+   "countries": [
+    "Russia"
+   ],
+   "city": "Saint Petersburg",
+   "aliases": [
+    "Hermitage Museum"
+   ]
+  },
+  {
+   "name": "Peterhof Palace",
+   "countries": [
+    "Russia"
+   ],
+   "city": "Saint Petersburg",
+   "aliases": [
+    "Peterhof"
+   ]
+  },
+  {
+   "name": "Lake Baikal",
+   "countries": [
+    "Russia"
+   ],
+   "city": "Siberia",
+   "aliases": []
+  },
+  {
+   "name": "Hagia Sophia",
+   "countries": [
+    "Turkey"
+   ],
+   "city": "Istanbul",
+   "aliases": []
+  },
+  {
+   "name": "Blue Mosque",
+   "countries": [
+    "Turkey"
+   ],
+   "city": "Istanbul",
+   "aliases": [
+    "Sultan Ahmed Mosque"
+   ]
+  },
+  {
+   "name": "Galata Tower",
+   "countries": [
+    "Turkey"
+   ],
+   "city": "Istanbul",
+   "aliases": []
+  },
+  {
+   "name": "Cappadocia",
+   "countries": [
+    "Turkey"
+   ],
+   "city": "Central Anatolia",
+   "aliases": []
+  },
+  {
+   "name": "Pamukkale",
+   "countries": [
+    "Turkey"
+   ],
+   "city": "Denizli",
+   "aliases": []
+  },
+  {
+   "name": "Ephesus",
+   "countries": [
+    "Turkey"
+   ],
+   "city": "İzmir Province",
+   "aliases": []
+  },
+  {
+   "name": "Dubrovnik City Walls",
+   "countries": [
+    "Croatia"
+   ],
+   "city": "Dubrovnik",
+   "aliases": [
+    "Dubrovnik"
+   ]
+  },
+  {
+   "name": "Plitvice Lakes",
+   "countries": [
+    "Croatia"
+   ],
+   "city": "Lika-Senj",
+   "aliases": []
+  },
+  {
+   "name": "Wieliczka Salt Mine",
+   "countries": [
+    "Poland"
+   ],
+   "city": "Kraków",
+   "aliases": []
+  },
+  {
+   "name": "Wawel Castle",
+   "countries": [
+    "Poland"
+   ],
+   "city": "Kraków",
+   "aliases": []
+  },
+  {
+   "name": "Bran Castle",
+   "countries": [
+    "Romania"
+   ],
+   "city": "Transylvania",
+   "aliases": [
+    "Dracula's Castle"
+   ]
+  },
+  {
+   "name": "Lake Bled",
+   "countries": [
+    "Slovenia"
+   ],
+   "city": "Bled",
+   "aliases": []
+  },
+  {
+   "name": "Great Pyramid of Giza",
+   "countries": [
+    "Egypt"
+   ],
+   "city": "Giza",
+   "aliases": [
+    "Pyramids of Giza",
+    "Egyptian pyramids"
+   ]
+  },
+  {
+   "name": "Great Sphinx of Giza",
+   "countries": [
+    "Egypt"
+   ],
+   "city": "Giza",
+   "aliases": [
+    "Sphinx"
+   ]
+  },
+  {
+   "name": "Abu Simbel",
+   "countries": [
+    "Egypt"
+   ],
+   "city": "Aswan Governorate",
+   "aliases": []
+  },
+  {
+   "name": "Karnak Temple",
+   "countries": [
+    "Egypt"
+   ],
+   "city": "Luxor",
+   "aliases": [
+    "Karnak"
+   ]
+  },
+  {
+   "name": "Valley of the Kings",
+   "countries": [
+    "Egypt"
+   ],
+   "city": "Luxor",
+   "aliases": []
+  },
+  {
+   "name": "Petra",
+   "countries": [
+    "Jordan"
+   ],
+   "city": "Ma'an Governorate",
+   "aliases": [
+    "Al-Khazneh",
+    "The Treasury"
+   ]
+  },
+  {
+   "name": "Wadi Rum",
+   "countries": [
+    "Jordan"
+   ],
+   "city": "Aqaba Governorate",
+   "aliases": []
+  },
+  {
+   "name": "Dead Sea",
+   "countries": [
+    "Jordan",
+    "Israel"
+   ],
+   "city": "Jordan Valley",
+   "aliases": []
+  },
+  {
+   "name": "Western Wall",
+   "countries": [
+    "Israel"
+   ],
+   "city": "Jerusalem",
+   "aliases": [
+    "Wailing Wall"
+   ]
+  },
+  {
+   "name": "Dome of the Rock",
+   "countries": [
+    "Israel"
+   ],
+   "city": "Jerusalem",
+   "aliases": []
+  },
+  {
+   "name": "Burj Khalifa",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "city": "Dubai",
+   "aliases": []
+  },
+  {
+   "name": "Burj Al Arab",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "city": "Dubai",
+   "aliases": []
+  },
+  {
+   "name": "Sheikh Zayed Grand Mosque",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "city": "Abu Dhabi",
+   "aliases": []
+  },
+  {
+   "name": "Palm Jumeirah",
+   "countries": [
+    "United Arab Emirates"
+   ],
+   "city": "Dubai",
+   "aliases": []
+  },
+  {
+   "name": "Kaaba",
+   "countries": [
+    "Saudi Arabia"
+   ],
+   "city": "Mecca",
+   "aliases": []
+  },
+  {
+   "name": "Taj Mahal",
+   "countries": [
+    "India"
+   ],
+   "city": "Agra",
+   "aliases": []
+  },
+  {
+   "name": "Golden Temple",
+   "countries": [
+    "India"
+   ],
+   "city": "Amritsar",
+   "aliases": [
+    "Harmandir Sahib"
+   ]
+  },
+  {
+   "name": "Lotus Temple",
+   "countries": [
+    "India"
+   ],
+   "city": "New Delhi",
+   "aliases": []
+  },
+  {
+   "name": "India Gate",
+   "countries": [
+    "India"
+   ],
+   "city": "New Delhi",
+   "aliases": []
+  },
+  {
+   "name": "Gateway of India",
+   "countries": [
+    "India"
+   ],
+   "city": "Mumbai",
+   "aliases": []
+  },
+  {
+   "name": "Hawa Mahal",
+   "countries": [
+    "India"
+   ],
+   "city": "Jaipur",
+   "aliases": [
+    "Palace of Winds"
+   ]
+  },
+  {
+   "name": "Red Fort",
+   "countries": [
+    "India"
+   ],
+   "city": "Delhi",
+   "aliases": []
+  },
+  {
+   "name": "Qutub Minar",
+   "countries": [
+    "India"
+   ],
+   "city": "Delhi",
+   "aliases": []
+  },
+  {
+   "name": "Amber Fort",
+   "countries": [
+    "India"
+   ],
+   "city": "Jaipur",
+   "aliases": [
+    "Amer Fort"
+   ]
+  },
+  {
+   "name": "Victoria Memorial",
+   "countries": [
+    "India"
+   ],
+   "city": "Kolkata",
+   "aliases": []
+  },
+  {
+   "name": "Mount Everest",
+   "countries": [
+    "Nepal",
+    "China"
+   ],
+   "city": "Himalayas",
+   "aliases": [
+    "Everest"
+   ]
+  },
+  {
+   "name": "Boudhanath",
+   "countries": [
+    "Nepal"
+   ],
+   "city": "Kathmandu",
+   "aliases": []
+  },
+  {
+   "name": "Sigiriya",
+   "countries": [
+    "Sri Lanka"
+   ],
+   "city": "Central Province",
+   "aliases": [
+    "Lion Rock"
+   ]
+  },
+  {
+   "name": "Great Wall of China",
+   "countries": [
+    "China"
+   ],
+   "city": "Northern China",
+   "aliases": [
+    "Great Wall"
+   ]
+  },
+  {
+   "name": "Forbidden City",
+   "countries": [
+    "China"
+   ],
+   "city": "Beijing",
+   "aliases": []
+  },
+  {
+   "name": "Temple of Heaven",
+   "countries": [
+    "China"
+   ],
+   "city": "Beijing",
+   "aliases": []
+  },
+  {
+   "name": "Terracotta Army",
+   "countries": [
+    "China"
+   ],
+   "city": "Xi'an",
+   "aliases": [
+    "Terracotta Warriors"
+   ]
+  },
+  {
+   "name": "Potala Palace",
+   "countries": [
+    "China"
+   ],
+   "city": "Lhasa",
+   "aliases": []
+  },
+  {
+   "name": "Oriental Pearl Tower",
+   "countries": [
+    "China"
+   ],
+   "city": "Shanghai",
+   "aliases": []
+  },
+  {
+   "name": "Shanghai Tower",
+   "countries": [
+    "China"
+   ],
+   "city": "Shanghai",
+   "aliases": []
+  },
+  {
+   "name": "The Bund",
+   "countries": [
+    "China"
+   ],
+   "city": "Shanghai",
+   "aliases": [
+    "Bund"
+   ]
+  },
+  {
+   "name": "Zhangjiajie",
+   "countries": [
+    "China"
+   ],
+   "city": "Hunan",
+   "aliases": [
+    "Avatar Mountains"
+   ]
+  },
+  {
+   "name": "Li River",
+   "countries": [
+    "China"
+   ],
+   "city": "Guilin",
+   "aliases": []
+  },
+  {
+   "name": "Leshan Giant Buddha",
+   "countries": [
+    "China"
+   ],
+   "city": "Sichuan",
+   "aliases": []
+  },
+  {
+   "name": "Tian Tan Buddha",
+   "countries": [
+    "China"
+   ],
+   "city": "Hong Kong",
+   "aliases": [
+    "Big Buddha"
+   ]
+  },
+  {
+   "name": "Victoria Harbour",
+   "countries": [
+    "China"
+   ],
+   "city": "Hong Kong",
+   "aliases": []
+  },
+  {
+   "name": "Tiananmen Square",
+   "countries": [
+    "China"
+   ],
+   "city": "Beijing",
+   "aliases": []
+  },
+  {
+   "name": "Mount Fuji",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Honshu",
+   "aliases": [
+    "Fuji",
+    "Fujisan"
+   ]
+  },
+  {
+   "name": "Tokyo Tower",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Tokyo",
+   "aliases": []
+  },
+  {
+   "name": "Tokyo Skytree",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Tokyo",
+   "aliases": [
+    "Skytree"
+   ]
+  },
+  {
+   "name": "Shibuya Crossing",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Tokyo",
+   "aliases": []
+  },
+  {
+   "name": "Fushimi Inari Shrine",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Kyoto",
+   "aliases": [
+    "Fushimi Inari Taisha"
+   ]
+  },
+  {
+   "name": "Kinkaku-ji",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Kyoto",
+   "aliases": [
+    "Golden Pavilion"
+   ]
+  },
+  {
+   "name": "Kiyomizu-dera",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Kyoto",
+   "aliases": []
+  },
+  {
+   "name": "Himeji Castle",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Himeji",
+   "aliases": []
+  },
+  {
+   "name": "Osaka Castle",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Osaka",
+   "aliases": []
+  },
+  {
+   "name": "Itsukushima Shrine",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Miyajima",
+   "aliases": [
+    "Floating torii"
+   ]
+  },
+  {
+   "name": "Great Buddha of Kamakura",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Kamakura",
+   "aliases": [
+    "Kamakura Daibutsu"
+   ]
+  },
+  {
+   "name": "Arashiyama Bamboo Grove",
+   "countries": [
+    "Japan"
+   ],
+   "city": "Kyoto",
+   "aliases": [
+    "Bamboo Grove"
+   ]
+  },
+  {
+   "name": "Gyeongbokgung",
+   "countries": [
+    "South Korea"
+   ],
+   "city": "Seoul",
+   "aliases": [
+    "Gyeongbokgung Palace"
+   ]
+  },
+  {
+   "name": "N Seoul Tower",
+   "countries": [
+    "South Korea"
+   ],
+   "city": "Seoul",
+   "aliases": [
+    "Namsan Tower"
+   ]
+  },
+  {
+   "name": "Taipei 101",
+   "countries": [
+    "Taiwan"
+   ],
+   "city": "Taipei",
+   "aliases": []
+  },
+  {
+   "name": "Angkor Wat",
+   "countries": [
+    "Cambodia"
+   ],
+   "city": "Siem Reap",
+   "aliases": []
+  },
+  {
+   "name": "Ta Prohm",
+   "countries": [
+    "Cambodia"
+   ],
+   "city": "Siem Reap",
+   "aliases": []
+  },
+  {
+   "name": "Bayon Temple",
+   "countries": [
+    "Cambodia"
+   ],
+   "city": "Siem Reap",
+   "aliases": [
+    "Bayon"
+   ]
+  },
+  {
+   "name": "Grand Palace",
+   "countries": [
+    "Thailand"
+   ],
+   "city": "Bangkok",
+   "aliases": []
+  },
+  {
+   "name": "Wat Arun",
+   "countries": [
+    "Thailand"
+   ],
+   "city": "Bangkok",
+   "aliases": [
+    "Temple of Dawn"
+   ]
+  },
+  {
+   "name": "Wat Pho",
+   "countries": [
+    "Thailand"
+   ],
+   "city": "Bangkok",
+   "aliases": [
+    "Temple of the Reclining Buddha"
+   ]
+  },
+  {
+   "name": "Ha Long Bay",
+   "countries": [
+    "Vietnam"
+   ],
+   "city": "Quảng Ninh",
+   "aliases": [
+    "Halong Bay"
+   ]
+  },
+  {
+   "name": "Golden Bridge",
+   "countries": [
+    "Vietnam"
+   ],
+   "city": "Da Nang",
+   "aliases": [
+    "Cầu Vàng"
+   ]
+  },
+  {
+   "name": "Petronas Towers",
+   "countries": [
+    "Malaysia"
+   ],
+   "city": "Kuala Lumpur",
+   "aliases": [
+    "Petronas Twin Towers"
+   ]
+  },
+  {
+   "name": "Batu Caves",
+   "countries": [
+    "Malaysia"
+   ],
+   "city": "Selangor",
+   "aliases": []
+  },
+  {
+   "name": "Marina Bay Sands",
+   "countries": [
+    "Singapore"
+   ],
+   "city": "Singapore",
+   "aliases": []
+  },
+  {
+   "name": "Merlion",
+   "countries": [
+    "Singapore"
+   ],
+   "city": "Singapore",
+   "aliases": []
+  },
+  {
+   "name": "Gardens by the Bay",
+   "countries": [
+    "Singapore"
+   ],
+   "city": "Singapore",
+   "aliases": []
+  },
+  {
+   "name": "Borobudur",
+   "countries": [
+    "Indonesia"
+   ],
+   "city": "Central Java",
+   "aliases": []
+  },
+  {
+   "name": "Tanah Lot",
+   "countries": [
+    "Indonesia"
+   ],
+   "city": "Bali",
+   "aliases": []
+  },
+  {
+   "name": "Shwedagon Pagoda",
+   "countries": [
+    "Myanmar"
+   ],
+   "city": "Yangon",
+   "aliases": []
+  },
+  {
+   "name": "Bagan",
+   "countries": [
+    "Myanmar"
+   ],
+   "city": "Mandalay Region",
+   "aliases": [
+    "Bagan temples"
+   ]
+  },
+  {
+   "name": "Chocolate Hills",
+   "countries": [
+    "Philippines"
+   ],
+   "city": "Bohol",
+   "aliases": []
+  },
+  {
+   "name": "Sydney Opera House",
+   "countries": [
+    "Australia"
+   ],
+   "city": "Sydney",
+   "aliases": [
+    "Opera House"
+   ]
+  },
+  {
+   "name": "Sydney Harbour Bridge",
+   "countries": [
+    "Australia"
+   ],
+   "city": "Sydney",
+   "aliases": []
+  },
+  {
+   "name": "Uluru",
+   "countries": [
+    "Australia"
+   ],
+   "city": "Northern Territory",
+   "aliases": [
+    "Ayers Rock"
+   ]
+  },
+  {
+   "name": "Great Barrier Reef",
+   "countries": [
+    "Australia"
+   ],
+   "city": "Queensland",
+   "aliases": []
+  },
+  {
+   "name": "Twelve Apostles",
+   "countries": [
+    "Australia"
+   ],
+   "city": "Victoria",
+   "aliases": []
+  },
+  {
+   "name": "Bondi Beach",
+   "countries": [
+    "Australia"
+   ],
+   "city": "Sydney",
+   "aliases": []
+  },
+  {
+   "name": "Milford Sound",
+   "countries": [
+    "New Zealand"
+   ],
+   "city": "Fiordland",
+   "aliases": []
+  },
+  {
+   "name": "Hobbiton",
+   "countries": [
+    "New Zealand"
+   ],
+   "city": "Matamata",
+   "aliases": []
+  },
+  {
+   "name": "Sky Tower",
+   "countries": [
+    "New Zealand"
+   ],
+   "city": "Auckland",
+   "aliases": []
+  },
+  {
+   "name": "Statue of Liberty",
+   "countries": [
+    "United States"
+   ],
+   "city": "New York City",
+   "aliases": [
+    "Lady Liberty"
+   ]
+  },
+  {
+   "name": "Empire State Building",
+   "countries": [
+    "United States"
+   ],
+   "city": "New York City",
+   "aliases": []
+  },
+  {
+   "name": "Chrysler Building",
+   "countries": [
+    "United States"
+   ],
+   "city": "New York City",
+   "aliases": []
+  },
+  {
+   "name": "Brooklyn Bridge",
+   "countries": [
+    "United States"
+   ],
+   "city": "New York City",
+   "aliases": []
+  },
+  {
+   "name": "Times Square",
+   "countries": [
+    "United States"
+   ],
+   "city": "New York City",
+   "aliases": []
+  },
+  {
+   "name": "Central Park",
+   "countries": [
+    "United States"
+   ],
+   "city": "New York City",
+   "aliases": []
+  },
+  {
+   "name": "Flatiron Building",
+   "countries": [
+    "United States"
+   ],
+   "city": "New York City",
+   "aliases": []
+  },
+  {
+   "name": "One World Trade Center",
+   "countries": [
+    "United States"
+   ],
+   "city": "New York City",
+   "aliases": [
+    "Freedom Tower"
+   ]
+  },
+  {
+   "name": "Grand Central Terminal",
+   "countries": [
+    "United States"
+   ],
+   "city": "New York City",
+   "aliases": [
+    "Grand Central Station"
+   ]
+  },
+  {
+   "name": "Golden Gate Bridge",
+   "countries": [
+    "United States"
+   ],
+   "city": "San Francisco",
+   "aliases": [
+    "Golden Gate"
+   ]
+  },
+  {
+   "name": "Alcatraz Island",
+   "countries": [
+    "United States"
+   ],
+   "city": "San Francisco",
+   "aliases": [
+    "Alcatraz"
+   ]
+  },
+  {
+   "name": "Lombard Street",
+   "countries": [
+    "United States"
+   ],
+   "city": "San Francisco",
+   "aliases": []
+  },
+  {
+   "name": "Hollywood Sign",
+   "countries": [
+    "United States"
+   ],
+   "city": "Los Angeles",
+   "aliases": []
+  },
+  {
+   "name": "Griffith Observatory",
+   "countries": [
+    "United States"
+   ],
+   "city": "Los Angeles",
+   "aliases": []
+  },
+  {
+   "name": "Space Needle",
+   "countries": [
+    "United States"
+   ],
+   "city": "Seattle",
+   "aliases": []
+  },
+  {
+   "name": "Gateway Arch",
+   "countries": [
+    "United States"
+   ],
+   "city": "St. Louis",
+   "aliases": []
+  },
+  {
+   "name": "Cloud Gate",
+   "countries": [
+    "United States"
+   ],
+   "city": "Chicago",
+   "aliases": [
+    "The Bean"
+   ]
+  },
+  {
+   "name": "Willis Tower",
+   "countries": [
+    "United States"
+   ],
+   "city": "Chicago",
+   "aliases": [
+    "Sears Tower"
+   ]
+  },
+  {
+   "name": "White House",
+   "countries": [
+    "United States"
+   ],
+   "city": "Washington, D.C.",
+   "aliases": []
+  },
+  {
+   "name": "United States Capitol",
+   "countries": [
+    "United States"
+   ],
+   "city": "Washington, D.C.",
+   "aliases": [
+    "Capitol Building"
+   ]
+  },
+  {
+   "name": "Lincoln Memorial",
+   "countries": [
+    "United States"
+   ],
+   "city": "Washington, D.C.",
+   "aliases": []
+  },
+  {
+   "name": "Washington Monument",
+   "countries": [
+    "United States"
+   ],
+   "city": "Washington, D.C.",
+   "aliases": []
+  },
+  {
+   "name": "Jefferson Memorial",
+   "countries": [
+    "United States"
+   ],
+   "city": "Washington, D.C.",
+   "aliases": []
+  },
+  {
+   "name": "Liberty Bell",
+   "countries": [
+    "United States"
+   ],
+   "city": "Philadelphia",
+   "aliases": []
+  },
+  {
+   "name": "Independence Hall",
+   "countries": [
+    "United States"
+   ],
+   "city": "Philadelphia",
+   "aliases": []
+  },
+  {
+   "name": "Mount Rushmore",
+   "countries": [
+    "United States"
+   ],
+   "city": "South Dakota",
+   "aliases": []
+  },
+  {
+   "name": "Grand Canyon",
+   "countries": [
+    "United States"
+   ],
+   "city": "Arizona",
+   "aliases": []
+  },
+  {
+   "name": "Horseshoe Bend",
+   "countries": [
+    "United States"
+   ],
+   "city": "Arizona",
+   "aliases": []
+  },
+  {
+   "name": "Antelope Canyon",
+   "countries": [
+    "United States"
+   ],
+   "city": "Arizona",
+   "aliases": []
+  },
+  {
+   "name": "Monument Valley",
+   "countries": [
+    "United States"
+   ],
+   "city": "Utah / Arizona",
+   "aliases": []
+  },
+  {
+   "name": "Delicate Arch",
+   "countries": [
+    "United States"
+   ],
+   "city": "Utah",
+   "aliases": []
+  },
+  {
+   "name": "Bryce Canyon",
+   "countries": [
+    "United States"
+   ],
+   "city": "Utah",
+   "aliases": []
+  },
+  {
+   "name": "Old Faithful",
+   "countries": [
+    "United States"
+   ],
+   "city": "Yellowstone",
+   "aliases": []
+  },
+  {
+   "name": "Grand Prismatic Spring",
+   "countries": [
+    "United States"
+   ],
+   "city": "Yellowstone",
+   "aliases": []
+  },
+  {
+   "name": "Half Dome",
+   "countries": [
+    "United States"
+   ],
+   "city": "Yosemite",
+   "aliases": []
+  },
+  {
+   "name": "El Capitan",
+   "countries": [
+    "United States"
+   ],
+   "city": "Yosemite",
+   "aliases": []
+  },
+  {
+   "name": "Hoover Dam",
+   "countries": [
+    "United States"
+   ],
+   "city": "Nevada / Arizona",
+   "aliases": []
+  },
+  {
+   "name": "Las Vegas Strip",
+   "countries": [
+    "United States"
+   ],
+   "city": "Las Vegas",
+   "aliases": []
+  },
+  {
+   "name": "Devils Tower",
+   "countries": [
+    "United States"
+   ],
+   "city": "Wyoming",
+   "aliases": []
+  },
+  {
+   "name": "Alamo",
+   "countries": [
+    "United States"
+   ],
+   "city": "San Antonio",
+   "aliases": [
+    "The Alamo"
+   ]
+  },
+  {
+   "name": "Fenway Park",
+   "countries": [
+    "United States"
+   ],
+   "city": "Boston",
+   "aliases": []
+  },
+  {
+   "name": "Wrigley Field",
+   "countries": [
+    "United States"
+   ],
+   "city": "Chicago",
+   "aliases": []
+  },
+  {
+   "name": "Niagara Falls",
+   "countries": [
+    "United States",
+    "Canada"
+   ],
+   "city": "Ontario and New York",
+   "aliases": []
+  },
+  {
+   "name": "CN Tower",
+   "countries": [
+    "Canada"
+   ],
+   "city": "Toronto",
+   "aliases": []
+  },
+  {
+   "name": "Château Frontenac",
+   "countries": [
+    "Canada"
+   ],
+   "city": "Quebec City",
+   "aliases": [
+    "Chateau Frontenac"
+   ]
+  },
+  {
+   "name": "Lake Louise",
+   "countries": [
+    "Canada"
+   ],
+   "city": "Banff",
+   "aliases": []
+  },
+  {
+   "name": "Moraine Lake",
+   "countries": [
+    "Canada"
+   ],
+   "city": "Banff",
+   "aliases": []
+  },
+  {
+   "name": "Parliament Hill",
+   "countries": [
+    "Canada"
+   ],
+   "city": "Ottawa",
+   "aliases": []
+  },
+  {
+   "name": "Chichen Itza",
+   "countries": [
+    "Mexico"
+   ],
+   "city": "Yucatán",
+   "aliases": [
+    "El Castillo"
+   ]
+  },
+  {
+   "name": "Teotihuacan",
+   "countries": [
+    "Mexico"
+   ],
+   "city": "Mexico City area",
+   "aliases": [
+    "Pyramid of the Sun"
+   ]
+  },
+  {
+   "name": "Tulum",
+   "countries": [
+    "Mexico"
+   ],
+   "city": "Quintana Roo",
+   "aliases": []
+  },
+  {
+   "name": "Palacio de Bellas Artes",
+   "countries": [
+    "Mexico"
+   ],
+   "city": "Mexico City",
+   "aliases": []
+  },
+  {
+   "name": "Panama Canal",
+   "countries": [
+    "Panama"
+   ],
+   "city": "Panama",
+   "aliases": []
+  },
+  {
+   "name": "Machu Picchu",
+   "countries": [
+    "Peru"
+   ],
+   "city": "Cusco Region",
+   "aliases": []
+  },
+  {
+   "name": "Rainbow Mountain",
+   "countries": [
+    "Peru"
+   ],
+   "city": "Cusco Region",
+   "aliases": [
+    "Vinicunca"
+   ]
+  },
+  {
+   "name": "Christ the Redeemer",
+   "countries": [
+    "Brazil"
+   ],
+   "city": "Rio de Janeiro",
+   "aliases": [
+    "Cristo Redentor"
+   ]
+  },
+  {
+   "name": "Sugarloaf Mountain",
+   "countries": [
+    "Brazil"
+   ],
+   "city": "Rio de Janeiro",
+   "aliases": []
+  },
+  {
+   "name": "Copacabana Beach",
+   "countries": [
+    "Brazil"
+   ],
+   "city": "Rio de Janeiro",
+   "aliases": [
+    "Copacabana"
+   ]
+  },
+  {
+   "name": "Iguazu Falls",
+   "countries": [
+    "Argentina",
+    "Brazil"
+   ],
+   "city": "Misiones and Paraná",
+   "aliases": [
+    "Iguaçu Falls"
+   ]
+  },
+  {
+   "name": "Perito Moreno Glacier",
+   "countries": [
+    "Argentina"
+   ],
+   "city": "Patagonia",
+   "aliases": []
+  },
+  {
+   "name": "Obelisco de Buenos Aires",
+   "countries": [
+    "Argentina"
+   ],
+   "city": "Buenos Aires",
+   "aliases": [
+    "Buenos Aires Obelisk"
+   ]
+  },
+  {
+   "name": "Torres del Paine",
+   "countries": [
+    "Chile"
+   ],
+   "city": "Patagonia",
+   "aliases": []
+  },
+  {
+   "name": "Easter Island statues",
+   "countries": [
+    "Chile"
+   ],
+   "city": "Easter Island",
+   "aliases": [
+    "Moai"
+   ]
+  },
+  {
+   "name": "Salar de Uyuni",
+   "countries": [
+    "Bolivia"
+   ],
+   "city": "Potosí",
+   "aliases": [
+    "Uyuni Salt Flat"
+   ]
+  },
+  {
+   "name": "Angel Falls",
+   "countries": [
+    "Venezuela"
+   ],
+   "city": "Bolívar",
+   "aliases": []
+  },
+  {
+   "name": "Galápagos Islands",
+   "countries": [
+    "Ecuador"
+   ],
+   "city": "Galápagos",
+   "aliases": [
+    "Galapagos Islands"
+   ]
+  },
+  {
+   "name": "Victoria Falls",
+   "countries": [
+    "Zambia",
+    "Zimbabwe"
+   ],
+   "city": "Zambezi River",
+   "aliases": []
+  },
+  {
+   "name": "Table Mountain",
+   "countries": [
+    "South Africa"
+   ],
+   "city": "Cape Town",
+   "aliases": []
+  },
+  {
+   "name": "Mount Kilimanjaro",
+   "countries": [
+    "Tanzania"
+   ],
+   "city": "Kilimanjaro Region",
+   "aliases": [
+    "Kilimanjaro"
+   ]
+  },
+  {
+   "name": "Serengeti",
+   "countries": [
+    "Tanzania"
+   ],
+   "city": "Mara and Simiyu",
+   "aliases": []
+  },
+  {
+   "name": "Hassan II Mosque",
+   "countries": [
+    "Morocco"
+   ],
+   "city": "Casablanca",
+   "aliases": []
+  },
+  {
+   "name": "Chefchaouen",
+   "countries": [
+    "Morocco"
+   ],
+   "city": "Rif Mountains",
+   "aliases": [
+    "The Blue City"
+   ]
+  },
+  {
+   "name": "Ait Benhaddou",
+   "countries": [
+    "Morocco"
+   ],
+   "city": "Ouarzazate",
+   "aliases": [
+    "Aït Benhaddou"
+   ]
+  },
+  {
+   "name": "Great Mosque of Djenné",
+   "countries": [
+    "Mali"
+   ],
+   "city": "Djenné",
+   "aliases": []
+  },
+  {
+   "name": "Lalibela",
+   "countries": [
+    "Ethiopia"
+   ],
+   "city": "Amhara Region",
+   "aliases": [
+    "Rock-Hewn Churches of Lalibela"
+   ]
+  },
+  {
+   "name": "Sahara Desert",
+   "countries": [
+    "Algeria",
+    "Egypt",
+    "Libya",
+    "Morocco"
+   ],
+   "city": "North Africa",
+   "aliases": [
+    "Sahara"
+   ]
+  }
+ ]
+}
