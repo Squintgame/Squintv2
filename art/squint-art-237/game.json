@@ -1,0 +1,67 @@
+{
+  "a": "==wcy9GdhlGZhx2Rg4WZt92V",
+  "ar": "==QYyVmYpJFIlRGIlBXZzVnS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_de_Ribera_026.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "6366c2653051.webp",
+      "rect": {
+        "x": 1600,
+        "y": 838,
+        "size": 307
+      }
+    },
+    {
+      "file": "3e148b2f4f95.webp",
+      "rect": {
+        "x": 1523,
+        "y": 761,
+        "size": 461
+      }
+    },
+    {
+      "file": "4cc15abe5f58.webp",
+      "rect": {
+        "x": 1408,
+        "y": 646,
+        "size": 691
+      }
+    },
+    {
+      "file": "0ef239bccd34.webp",
+      "rect": {
+        "x": 1222,
+        "y": 460,
+        "size": 1063
+      }
+    },
+    {
+      "file": "58e0c77bdc30.webp",
+      "rect": {
+        "x": 940,
+        "y": 178,
+        "size": 1626
+      }
+    },
+    {
+      "file": "faa70c27e535.webp",
+      "rect": {
+        "x": 461,
+        "y": 0,
+        "size": 2304
+      }
+    },
+    {
+      "file": "f665fb4df430.webp",
+      "rect": {
+        "x": -143,
+        "y": 0,
+        "size": 3051
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "l5WZsFGZnFWTgQnblRXauVGU",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Penitent_Magdalene-Caravaggio_(1594-6).jpg",
+  "photographer": "Galleria Doria Pamphilj",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c8b5ade29806.webp",
+      "rect": {
+        "x": 956,
+        "y": 2011,
+        "size": 427
+      }
+    },
+    {
+      "file": "8f33128decb0.webp",
+      "rect": {
+        "x": 849,
+        "y": 1905,
+        "size": 640
+      }
+    },
+    {
+      "file": "f69e8cb2f93f.webp",
+      "rect": {
+        "x": 689,
+        "y": 1745,
+        "size": 960
+      }
+    },
+    {
+      "file": "6655fc64535b.webp",
+      "rect": {
+        "x": 431,
+        "y": 1486,
+        "size": 1477
+      }
+    },
+    {
+      "file": "fd006832f204.webp",
+      "rect": {
+        "x": 40,
+        "y": 1095,
+        "size": 2259
+      }
+    },
+    {
+      "file": "4b4f18644d39.webp",
+      "rect": {
+        "x": 0,
+        "y": 625,
+        "size": 3200
+      }
+    },
+    {
+      "file": "bc41e703a1ac.webp",
+      "rect": {
+        "x": -426,
+        "y": 0,
+        "size": 4692
+      }
+    }
+  ]
+}

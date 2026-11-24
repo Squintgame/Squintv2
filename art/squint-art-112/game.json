@@ -1,0 +1,67 @@
+{
+  "a": "==Aa0FmQgg2cptmc1RFIlhGV",
+  "ar": "=MXZydmbJBSZ1FXaulWbvRULlR3c1dWdB1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Le_Bain_Turc,_by_Jean_Auguste_Dominique_Ingres,_from_C2RMFFXD.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "69e4ece045dc.webp",
+      "rect": {
+        "x": 2853,
+        "y": 3066,
+        "size": 425
+      }
+    },
+    {
+      "file": "af3392a59aa3.webp",
+      "rect": {
+        "x": 2747,
+        "y": 2960,
+        "size": 637
+      }
+    },
+    {
+      "file": "fb1c1fb9efbf.webp",
+      "rect": {
+        "x": 2588,
+        "y": 2801,
+        "size": 956
+      }
+    },
+    {
+      "file": "863163fa0672.webp",
+      "rect": {
+        "x": 2330,
+        "y": 2353,
+        "size": 1470
+      }
+    },
+    {
+      "file": "5e94fee950dd.webp",
+      "rect": {
+        "x": 1591,
+        "y": 1574,
+        "size": 2249
+      }
+    },
+    {
+      "file": "15c1bf84e2ab.webp",
+      "rect": {
+        "x": 654,
+        "y": 637,
+        "size": 3186
+      }
+    },
+    {
+      "file": "d5855e6bed27.webp",
+      "rect": {
+        "x": 0,
+        "y": -8,
+        "size": 3840
+      }
+    }
+  ]
+}

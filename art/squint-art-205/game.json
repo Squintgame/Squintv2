@@ -1,0 +1,67 @@
+{
+  "a": "zdXZyRmbBBycy1EIk5WYgIXT",
+  "ar": "==AanV3by9mYz5WahdEIzFWbvhGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_-_Mr._und_Mrs._Andrews_(c._1750).jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "4ae761c53290.webp",
+      "rect": {
+        "x": 429,
+        "y": 914,
+        "size": 250
+      }
+    },
+    {
+      "file": "88f1d71be233.webp",
+      "rect": {
+        "x": 366,
+        "y": 851,
+        "size": 375
+      }
+    },
+    {
+      "file": "db33e5487444.webp",
+      "rect": {
+        "x": 272,
+        "y": 757,
+        "size": 562
+      }
+    },
+    {
+      "file": "e6451dc1af99.webp",
+      "rect": {
+        "x": 121,
+        "y": 606,
+        "size": 865
+      }
+    },
+    {
+      "file": "974c6e013b92.webp",
+      "rect": {
+        "x": 0,
+        "y": 377,
+        "size": 1324
+      }
+    },
+    {
+      "file": "81d0a0e0e23b.webp",
+      "rect": {
+        "x": 0,
+        "y": 101,
+        "size": 1875
+      }
+    },
+    {
+      "file": "37f4df5c5b18.webp",
+      "rect": {
+        "x": 0,
+        "y": -795,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "zVnblZFIm9GIoRncpJEIlhGV",
+  "ar": "=wWZuFmYhNEIlJHZuFGelxWQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Alexandre_Cabanel_-_The_Birth_of_Venus_-_Google_Art_Project_2.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "56832fa93c94.webp",
+      "rect": {
+        "x": 2733,
+        "y": 1516,
+        "size": 242
+      }
+    },
+    {
+      "file": "3257291613f7.webp",
+      "rect": {
+        "x": 2673,
+        "y": 1456,
+        "size": 364
+      }
+    },
+    {
+      "file": "1a244e4f9191.webp",
+      "rect": {
+        "x": 2582,
+        "y": 1365,
+        "size": 545
+      }
+    },
+    {
+      "file": "1e671be0e19a.webp",
+      "rect": {
+        "x": 2435,
+        "y": 1218,
+        "size": 839
+      }
+    },
+    {
+      "file": "1936b8ed9a57.webp",
+      "rect": {
+        "x": 2213,
+        "y": 898,
+        "size": 1283
+      }
+    },
+    {
+      "file": "5ad3a9f0eb30.webp",
+      "rect": {
+        "x": 1946,
+        "y": 364,
+        "size": 1818
+      }
+    },
+    {
+      "file": "dc9366193e5f.webp",
+      "rect": {
+        "x": 0,
+        "y": -829,
+        "size": 3840
+      }
+    }
+  ]
+}

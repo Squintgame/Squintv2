@@ -1,0 +1,67 @@
+{
+  "a": "==Qeu9Ga05WQgQnbpF2UgY2bgQnbl1mcvRFIlhGV",
+  "ar": "vxWZn5WYsVGajlWT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Michelangelo_Buonarroti_-_The_Torment_of_Saint_Anthony_-_Google_Art_Project.jpg",
+  "photographer": "Kimbell Art Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "259943437a1e.webp",
+      "rect": {
+        "x": 418,
+        "y": 2552,
+        "size": 333
+      }
+    },
+    {
+      "file": "2f074a1a1714.webp",
+      "rect": {
+        "x": 334,
+        "y": 2469,
+        "size": 500
+      }
+    },
+    {
+      "file": "93f25026e227.webp",
+      "rect": {
+        "x": 209,
+        "y": 2344,
+        "size": 750
+      }
+    },
+    {
+      "file": "16418bc576de.webp",
+      "rect": {
+        "x": 7,
+        "y": 2142,
+        "size": 1154
+      }
+    },
+    {
+      "file": "3b43ec4c3f9c.webp",
+      "rect": {
+        "x": 0,
+        "y": 1836,
+        "size": 1765
+      }
+    },
+    {
+      "file": "6a70b08698e7.webp",
+      "rect": {
+        "x": 0,
+        "y": 1468,
+        "size": 2501
+      }
+    },
+    {
+      "file": "07df3e0cdf2e.webp",
+      "rect": {
+        "x": -551,
+        "y": 0,
+        "size": 4104
+      }
+    }
+  ]
+}

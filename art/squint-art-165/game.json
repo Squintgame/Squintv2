@@ -1,0 +1,67 @@
+{
+  "a": "=EmcvxmR",
+  "ar": "uFWa0lGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tiziano_-_Flora_-_Google_Art_Project.jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d0b58be81434.webp",
+      "rect": {
+        "x": 2491,
+        "y": 2676,
+        "size": 369
+      }
+    },
+    {
+      "file": "c18fecc15d56.webp",
+      "rect": {
+        "x": 2399,
+        "y": 2584,
+        "size": 553
+      }
+    },
+    {
+      "file": "3a274894b824.webp",
+      "rect": {
+        "x": 2261,
+        "y": 2446,
+        "size": 829
+      }
+    },
+    {
+      "file": "5c7a86b58b04.webp",
+      "rect": {
+        "x": 2038,
+        "y": 2222,
+        "size": 1276
+      }
+    },
+    {
+      "file": "15a2b9b5b4ea.webp",
+      "rect": {
+        "x": 1366,
+        "y": 1885,
+        "size": 1951
+      }
+    },
+    {
+      "file": "e9876449ff40.webp",
+      "rect": {
+        "x": 553,
+        "y": 1478,
+        "size": 2764
+      }
+    },
+    {
+      "file": "1108624784ac.webp",
+      "rect": {
+        "x": -553,
+        "y": 0,
+        "size": 4423
+      }
+    }
+  ]
+}

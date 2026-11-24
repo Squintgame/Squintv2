@@ -1,0 +1,67 @@
+{
+  "a": "v5WYpBFIlhGdgQXYgMHbyl2R",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Auguste_Renoir_-_Young_Girls_at_the_Piano_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "1e0e7dd63a3c.webp",
+      "rect": {
+        "x": 2857,
+        "y": 2856,
+        "size": 427
+      }
+    },
+    {
+      "file": "dfc9bcefed2c.webp",
+      "rect": {
+        "x": 2750,
+        "y": 2750,
+        "size": 640
+      }
+    },
+    {
+      "file": "d512a6c395d3.webp",
+      "rect": {
+        "x": 2590,
+        "y": 2590,
+        "size": 960
+      }
+    },
+    {
+      "file": "bff3762f6428.webp",
+      "rect": {
+        "x": 2332,
+        "y": 2331,
+        "size": 1477
+      }
+    },
+    {
+      "file": "b7af4169fddb.webp",
+      "rect": {
+        "x": 1581,
+        "y": 1940,
+        "size": 2259
+      }
+    },
+    {
+      "file": "a5626655d701.webp",
+      "rect": {
+        "x": 640,
+        "y": 1470,
+        "size": 3200
+      }
+    },
+    {
+      "file": "0459c907ccb6.webp",
+      "rect": {
+        "x": -617,
+        "y": 0,
+        "size": 5074
+      }
+    }
+  ]
+}

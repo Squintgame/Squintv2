@@ -1,0 +1,67 @@
+{
+  "a": "==wdlhGd0FWTgQnbpF2UgY2bgcmbpxGbhNEIlhGV",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg",
+  "photographer": "San Luigi dei Francesi",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "087526176c80.webp",
+      "rect": {
+        "x": 2285,
+        "y": 2284,
+        "size": 403
+      }
+    },
+    {
+      "file": "253e3711a4dc.webp",
+      "rect": {
+        "x": 2184,
+        "y": 2183,
+        "size": 604
+      }
+    },
+    {
+      "file": "08db6895da1f.webp",
+      "rect": {
+        "x": 2033,
+        "y": 2032,
+        "size": 907
+      }
+    },
+    {
+      "file": "9bcc7beca64a.webp",
+      "rect": {
+        "x": 1789,
+        "y": 1788,
+        "size": 1395
+      }
+    },
+    {
+      "file": "c0b463fef219.webp",
+      "rect": {
+        "x": 1420,
+        "y": 1418,
+        "size": 2134
+      }
+    },
+    {
+      "file": "dcdd73ef6ff7.webp",
+      "rect": {
+        "x": 818,
+        "y": 604,
+        "size": 3022
+      }
+    },
+    {
+      "file": "281e5f166307.webp",
+      "rect": {
+        "x": 0,
+        "y": -106,
+        "size": 3840
+      }
+    }
+  ]
+}

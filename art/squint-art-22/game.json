@@ -1,0 +1,67 @@
+{
+  "a": "jlGa092Rg4WYjlmcl1WQ",
+  "ar": "==AZv92VgQnbhJ3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg",
+  "photographer": "Art Institute of Chicago",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "19e838d09426.webp",
+      "rect": {
+        "x": 735,
+        "y": 2406,
+        "size": 427
+      }
+    },
+    {
+      "file": "4cfc6adb7818.webp",
+      "rect": {
+        "x": 628,
+        "y": 2299,
+        "size": 640
+      }
+    },
+    {
+      "file": "6ba858b0bb69.webp",
+      "rect": {
+        "x": 468,
+        "y": 2139,
+        "size": 960
+      }
+    },
+    {
+      "file": "b12dbab4bfff.webp",
+      "rect": {
+        "x": 210,
+        "y": 1880,
+        "size": 1477
+      }
+    },
+    {
+      "file": "910758c10679.webp",
+      "rect": {
+        "x": 0,
+        "y": 1489,
+        "size": 2259
+      }
+    },
+    {
+      "file": "e013ba1f8cff.webp",
+      "rect": {
+        "x": 0,
+        "y": 1019,
+        "size": 3200
+      }
+    },
+    {
+      "file": "0f58313a6fa7.webp",
+      "rect": {
+        "x": -401,
+        "y": 0,
+        "size": 4642
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=kXYEBSeulWYSByO0VWZyR3UgMXayFGU",
+  "ar": "==QZ0R3biVGbslWYDBSZ2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street,_Rainy_Day_-_1964.336_-_Art_Institute_of_Chicago.jpg",
+  "photographer": "Art Institute of Chicago",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "0d97cacdf8db.webp",
+      "rect": {
+        "x": 942,
+        "y": 1319,
+        "size": 250
+      }
+    },
+    {
+      "file": "2d5c0ad5bd6c.webp",
+      "rect": {
+        "x": 880,
+        "y": 1256,
+        "size": 375
+      }
+    },
+    {
+      "file": "f15744d4de33.webp",
+      "rect": {
+        "x": 786,
+        "y": 1162,
+        "size": 562
+      }
+    },
+    {
+      "file": "90b3b74d9ac3.webp",
+      "rect": {
+        "x": 635,
+        "y": 1011,
+        "size": 865
+      }
+    },
+    {
+      "file": "9c5500512e50.webp",
+      "rect": {
+        "x": 406,
+        "y": 782,
+        "size": 1324
+      }
+    },
+    {
+      "file": "a9af46643f76.webp",
+      "rect": {
+        "x": 130,
+        "y": 375,
+        "size": 1875
+      }
+    },
+    {
+      "file": "8491dcb6681b.webp",
+      "rect": {
+        "x": 0,
+        "y": -324,
+        "size": 2898
+      }
+    }
+  ]
+}

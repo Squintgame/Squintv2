@@ -1,0 +1,67 @@
+{
+  "a": "==wclNWYydEIlVmcoRFIlhGV",
+  "ar": "=MnblJWdSBCb1FGUgIXZ0VGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Three_Graces,_by_Peter_Paul_Rubens,_from_Prado_in_Google_Earth.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5a832f2f92bd.webp",
+      "rect": {
+        "x": 321,
+        "y": 3900,
+        "size": 427
+      }
+    },
+    {
+      "file": "13231bb51519.webp",
+      "rect": {
+        "x": 215,
+        "y": 3794,
+        "size": 640
+      }
+    },
+    {
+      "file": "758de9939f03.webp",
+      "rect": {
+        "x": 55,
+        "y": 3634,
+        "size": 960
+      }
+    },
+    {
+      "file": "a058abe51214.webp",
+      "rect": {
+        "x": 0,
+        "y": 3202,
+        "size": 1477
+      }
+    },
+    {
+      "file": "128fb92d7cfd.webp",
+      "rect": {
+        "x": 0,
+        "y": 2420,
+        "size": 2259
+      }
+    },
+    {
+      "file": "4ea56dce8bd9.webp",
+      "rect": {
+        "x": 0,
+        "y": 1479,
+        "size": 3200
+      }
+    },
+    {
+      "file": "51ed8c96a7b4.webp",
+      "rect": {
+        "x": -419,
+        "y": 0,
+        "size": 4679
+      }
+    }
+  ]
+}

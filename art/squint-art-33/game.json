@@ -1,0 +1,67 @@
+{
+  "a": "0Fmch1EIm9GIoRXYlREIlhGV",
+  "ar": "==AZpZXYEBycpV3bM1yclVXcjFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_Marat_assassinated_-_Google_Art_Project_2.jpg",
+  "photographer": "Royal Museums of Fine Arts of Belgium",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "837dc18fbd62.webp",
+      "rect": {
+        "x": 322,
+        "y": 2035,
+        "size": 427
+      }
+    },
+    {
+      "file": "d2c73af96c4a.webp",
+      "rect": {
+        "x": 216,
+        "y": 1928,
+        "size": 640
+      }
+    },
+    {
+      "file": "b9db27472d41.webp",
+      "rect": {
+        "x": 56,
+        "y": 1768,
+        "size": 960
+      }
+    },
+    {
+      "file": "743831403429.webp",
+      "rect": {
+        "x": 0,
+        "y": 1510,
+        "size": 1477
+      }
+    },
+    {
+      "file": "cdf99c331df7.webp",
+      "rect": {
+        "x": 0,
+        "y": 1119,
+        "size": 2259
+      }
+    },
+    {
+      "file": "2543e18e93e9.webp",
+      "rect": {
+        "x": 0,
+        "y": 648,
+        "size": 3200
+      }
+    },
+    {
+      "file": "70dcae5af5f3.webp",
+      "rect": {
+        "x": -550,
+        "y": 0,
+        "size": 4941
+      }
+    }
+  ]
+}

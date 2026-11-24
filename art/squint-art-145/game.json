@@ -1,0 +1,67 @@
+{
+  "a": "==QZylWYyVWblRFIn5Wa0h2ZpZEIlhGV",
+  "ar": "yVmbyVHVg4yVg4STg4iS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Turner,_J._M._W._-_The_Fighting_T%C3%A9m%C3%A9raire_tugged_to_her_last_Berth_to_be_broken.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "3fea542c1d82.webp",
+      "rect": {
+        "x": 1310,
+        "y": 1773,
+        "size": 317
+      }
+    },
+    {
+      "file": "e84ad3b02186.webp",
+      "rect": {
+        "x": 1231,
+        "y": 1694,
+        "size": 475
+      }
+    },
+    {
+      "file": "2d2783b074c6.webp",
+      "rect": {
+        "x": 1112,
+        "y": 1575,
+        "size": 713
+      }
+    },
+    {
+      "file": "47e644751076.webp",
+      "rect": {
+        "x": 921,
+        "y": 1383,
+        "size": 1097
+      }
+    },
+    {
+      "file": "a162ba4fb7e2.webp",
+      "rect": {
+        "x": 630,
+        "y": 1093,
+        "size": 1677
+      }
+    },
+    {
+      "file": "78fd383ff9b2.webp",
+      "rect": {
+        "x": 281,
+        "y": 475,
+        "size": 2376
+      }
+    },
+    {
+      "file": "0bdf40b391d3.webp",
+      "rect": {
+        "x": 0,
+        "y": -494,
+        "size": 3840
+      }
+    }
+  ]
+}

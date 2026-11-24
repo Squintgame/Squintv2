@@ -1,0 +1,67 @@
+{
+  "a": "==AdhhEIkVmUgEGIoRXa3BCbyl2R",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vermeer_-_Girl_with_a_Red_Hat.JPG",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "62b4c25f6df7.webp",
+      "rect": {
+        "x": 983,
+        "y": 2404,
+        "size": 360
+      }
+    },
+    {
+      "file": "aaa0886146b2.webp",
+      "rect": {
+        "x": 893,
+        "y": 2314,
+        "size": 540
+      }
+    },
+    {
+      "file": "9b6a26557b19.webp",
+      "rect": {
+        "x": 758,
+        "y": 2179,
+        "size": 810
+      }
+    },
+    {
+      "file": "72346c08ccd9.webp",
+      "rect": {
+        "x": 540,
+        "y": 1961,
+        "size": 1246
+      }
+    },
+    {
+      "file": "3afd29dde34f.webp",
+      "rect": {
+        "x": 210,
+        "y": 1631,
+        "size": 1906
+      }
+    },
+    {
+      "file": "63ba3bdb441d.webp",
+      "rect": {
+        "x": 0,
+        "y": 1234,
+        "size": 2700
+      }
+    },
+    {
+      "file": "2f08739e09cc.webp",
+      "rect": {
+        "x": -428,
+        "y": 0,
+        "size": 4096
+      }
+    }
+  ]
+}

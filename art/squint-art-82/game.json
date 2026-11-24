@@ -1,0 +1,67 @@
+{
+  "a": "0NXayh2QgY2bg02cpRHchJEIlhGV",
+  "ar": "vlGajN2byJXZWBCblRGIhVmck5WQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Verrocchio_and_Leonardo,_Baptism_of_Christ,_c1470-75,_Uffizi.jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "6d4d888a6f6a.webp",
+      "rect": {
+        "x": 925,
+        "y": 2959,
+        "size": 418
+      }
+    },
+    {
+      "file": "07e2e281dd24.webp",
+      "rect": {
+        "x": 821,
+        "y": 2854,
+        "size": 627
+      }
+    },
+    {
+      "file": "8bd11090ceca.webp",
+      "rect": {
+        "x": 664,
+        "y": 2698,
+        "size": 940
+      }
+    },
+    {
+      "file": "214190d63d50.webp",
+      "rect": {
+        "x": 411,
+        "y": 2445,
+        "size": 1446
+      }
+    },
+    {
+      "file": "649541fe1551.webp",
+      "rect": {
+        "x": 28,
+        "y": 2062,
+        "size": 2212
+      }
+    },
+    {
+      "file": "105e98b8a694.webp",
+      "rect": {
+        "x": 0,
+        "y": 1387,
+        "size": 3133
+      }
+    },
+    {
+      "file": "7084e8806924.webp",
+      "rect": {
+        "x": -380,
+        "y": 0,
+        "size": 4520
+      }
+    }
+  ]
+}

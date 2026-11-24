@@ -1,0 +1,67 @@
+{
+  "a": "==wciJXZ29mcQBCazlGZuFGbyVGa0VmT",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_(der_%C3%84ltere)_(ca._1525_-_1569)_-_Die_niederl%C3%A4ndischen_Sprichw%C3%B6rter_-_1720_-_Gem%C3%A4ldegalerie.jpg",
+  "photographer": "Gemäldegalerie Berlin",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "05ccdcdd92e2.webp",
+      "rect": {
+        "x": 2843,
+        "y": 1922,
+        "size": 304
+      }
+    },
+    {
+      "file": "f9a196d16a9b.webp",
+      "rect": {
+        "x": 2767,
+        "y": 1846,
+        "size": 457
+      }
+    },
+    {
+      "file": "7ebb0874c7de.webp",
+      "rect": {
+        "x": 2653,
+        "y": 1732,
+        "size": 685
+      }
+    },
+    {
+      "file": "90696346be06.webp",
+      "rect": {
+        "x": 2468,
+        "y": 1547,
+        "size": 1054
+      }
+    },
+    {
+      "file": "a5ba587e2b2f.webp",
+      "rect": {
+        "x": 2189,
+        "y": 1128,
+        "size": 1612
+      }
+    },
+    {
+      "file": "20803b20bea0.webp",
+      "rect": {
+        "x": 1557,
+        "y": 457,
+        "size": 2283
+      }
+    },
+    {
+      "file": "717666844454.webp",
+      "rect": {
+        "x": 0,
+        "y": -550,
+        "size": 3840
+      }
+    }
+  ]
+}

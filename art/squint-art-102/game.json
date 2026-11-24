@@ -1,0 +1,67 @@
+{
+  "a": "==wcyVGaw92cvxWaoBFIlVmcoRFIlhGV",
+  "ar": "l52bpdmcvl2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Giorgione_-_Three_Philosophers_-_Google_Art_Project.jpg",
+  "photographer": "Kunsthistorisches Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "58ba676b1d1c.webp",
+      "rect": {
+        "x": 2068,
+        "y": 276,
+        "size": 363
+      }
+    },
+    {
+      "file": "6b59af107fff.webp",
+      "rect": {
+        "x": 1977,
+        "y": 185,
+        "size": 545
+      }
+    },
+    {
+      "file": "df340d294641.webp",
+      "rect": {
+        "x": 1841,
+        "y": 49,
+        "size": 817
+      }
+    },
+    {
+      "file": "314258b4b115.webp",
+      "rect": {
+        "x": 1621,
+        "y": 0,
+        "size": 1257
+      }
+    },
+    {
+      "file": "0766a784275b.webp",
+      "rect": {
+        "x": 1288,
+        "y": 0,
+        "size": 1922
+      }
+    },
+    {
+      "file": "e5f02743ba80.webp",
+      "rect": {
+        "x": 888,
+        "y": 0,
+        "size": 2723
+      }
+    },
+    {
+      "file": "be2db191abef.webp",
+      "rect": {
+        "x": 0,
+        "y": -286,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==QZklmcCBCazl2dlpEIlhGV",
+  "ar": "0RmbhJnYtVmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_-_Portret_van_een_paar_als_oudtestamentische_figuren,_genaamd_%27Het_Joodse_bruidje%27_-_Google_Art_Project.jpg",
+  "photographer": "Rijksmuseum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "8da67dbf66f6.webp",
+      "rect": {
+        "x": 1000,
+        "y": 998,
+        "size": 311
+      }
+    },
+    {
+      "file": "59a006d37219.webp",
+      "rect": {
+        "x": 922,
+        "y": 921,
+        "size": 467
+      }
+    },
+    {
+      "file": "d6892811f1df.webp",
+      "rect": {
+        "x": 805,
+        "y": 804,
+        "size": 700
+      }
+    },
+    {
+      "file": "642f81ca4484.webp",
+      "rect": {
+        "x": 617,
+        "y": 615,
+        "size": 1077
+      }
+    },
+    {
+      "file": "6165b2345829.webp",
+      "rect": {
+        "x": 332,
+        "y": 330,
+        "size": 1647
+      }
+    },
+    {
+      "file": "364925171a87.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2333
+      }
+    },
+    {
+      "file": "50a9d75c4bb5.webp",
+      "rect": {
+        "x": 0,
+        "y": -520,
+        "size": 3840
+      }
+    }
+  ]
+}

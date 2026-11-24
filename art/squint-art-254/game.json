@@ -1,0 +1,67 @@
+{
+  "a": "==QeyFmdsF2Qg8Gdg42bpN3clN2byBFIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._007b.jpg",
+  "photographer": "Kunsthistorisches Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "77574f01a4a7.webp",
+      "rect": {
+        "x": 2536,
+        "y": 999,
+        "size": 310
+      }
+    },
+    {
+      "file": "9acdb295303c.webp",
+      "rect": {
+        "x": 2458,
+        "y": 921,
+        "size": 466
+      }
+    },
+    {
+      "file": "3d7494ddde53.webp",
+      "rect": {
+        "x": 2342,
+        "y": 805,
+        "size": 698
+      }
+    },
+    {
+      "file": "a4c9b22c165c.webp",
+      "rect": {
+        "x": 2154,
+        "y": 617,
+        "size": 1075
+      }
+    },
+    {
+      "file": "66bae27fa7a8.webp",
+      "rect": {
+        "x": 1869,
+        "y": 332,
+        "size": 1644
+      }
+    },
+    {
+      "file": "48cdc4d53d56.webp",
+      "rect": {
+        "x": 1512,
+        "y": 0,
+        "size": 2328
+      }
+    },
+    {
+      "file": "daec78cc7b44.webp",
+      "rect": {
+        "x": 0,
+        "y": -523,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=MXdsV2ZuFEIlhGV",
+  "ar": "0VGbslWTgMXavd6wuFmcG1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:JEAN-FRAN%C3%87OIS_MILLET_-_El_%C3%81ngelus_(Museo_de_Orsay,_1857-1859._%C3%93leo_sobre_lienzo,_55.5_x_66_cm).jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5f4f4f50f195.webp",
+      "rect": {
+        "x": 1131,
+        "y": 440,
+        "size": 355
+      }
+    },
+    {
+      "file": "9bf65dc73675.webp",
+      "rect": {
+        "x": 1043,
+        "y": 351,
+        "size": 532
+      }
+    },
+    {
+      "file": "fd237fd001f8.webp",
+      "rect": {
+        "x": 910,
+        "y": 218,
+        "size": 798
+      }
+    },
+    {
+      "file": "aa09eef39267.webp",
+      "rect": {
+        "x": 695,
+        "y": 3,
+        "size": 1228
+      }
+    },
+    {
+      "file": "11928c113f82.webp",
+      "rect": {
+        "x": 370,
+        "y": 0,
+        "size": 1878
+      }
+    },
+    {
+      "file": "e337cd067ea8.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2661
+      }
+    },
+    {
+      "file": "42e9750ce55a.webp",
+      "rect": {
+        "x": 0,
+        "y": -323,
+        "size": 3840
+      }
+    }
+  ]
+}

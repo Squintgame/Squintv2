@@ -1,0 +1,67 @@
+{
+  "a": "==QZjVWawJXY0xWQgQnblh2R",
+  "ar": "rNWeFBibhZHIuFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ghent_Altarpiece_Google_Art_Project.jpg",
+  "photographer": "Munich Central Collecting Point",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "10db70458c02.webp",
+      "rect": {
+        "x": 236,
+        "y": 2235,
+        "size": 315
+      }
+    },
+    {
+      "file": "022e4b0fc4df.webp",
+      "rect": {
+        "x": 158,
+        "y": 2156,
+        "size": 472
+      }
+    },
+    {
+      "file": "c04f084441c6.webp",
+      "rect": {
+        "x": 40,
+        "y": 2038,
+        "size": 708
+      }
+    },
+    {
+      "file": "0fedc16c899b.webp",
+      "rect": {
+        "x": 0,
+        "y": 1742,
+        "size": 1089
+      }
+    },
+    {
+      "file": "c3c628d5fcc1.webp",
+      "rect": {
+        "x": 0,
+        "y": 1166,
+        "size": 1665
+      }
+    },
+    {
+      "file": "805886f5dbaf.webp",
+      "rect": {
+        "x": 0,
+        "y": 472,
+        "size": 2359
+      }
+    },
+    {
+      "file": "16ea1113c8f0.webp",
+      "rect": {
+        "x": 0,
+        "y": -504,
+        "size": 3840
+      }
+    }
+  ]
+}

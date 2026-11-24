@@ -1,0 +1,67 @@
+{
+  "a": "=QnblxEIk5WYgwWY2lmbyF2Qg4WZldHdlJEI0h2ZpZEIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._066.jpg",
+  "photographer": "Kunsthistorisches Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "6f0d17dfa1dc.webp",
+      "rect": {
+        "x": 2688,
+        "y": 1921,
+        "size": 308
+      }
+    },
+    {
+      "file": "b52b2ab16b56.webp",
+      "rect": {
+        "x": 2611,
+        "y": 1844,
+        "size": 462
+      }
+    },
+    {
+      "file": "8b9290eddeba.webp",
+      "rect": {
+        "x": 2495,
+        "y": 1728,
+        "size": 693
+      }
+    },
+    {
+      "file": "8680a0b76f28.webp",
+      "rect": {
+        "x": 2308,
+        "y": 1542,
+        "size": 1067
+      }
+    },
+    {
+      "file": "aa7cb3337c53.webp",
+      "rect": {
+        "x": 2026,
+        "y": 1142,
+        "size": 1631
+      }
+    },
+    {
+      "file": "75a2e833ef3f.webp",
+      "rect": {
+        "x": 1529,
+        "y": 462,
+        "size": 2311
+      }
+    },
+    {
+      "file": "430a46aae7fc.webp",
+      "rect": {
+        "x": 0,
+        "y": -533,
+        "size": 3840
+      }
+    }
+  ]
+}

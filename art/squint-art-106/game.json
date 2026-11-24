@@ -1,0 +1,67 @@
+{
+  "a": "=EWau12TgQXaj5WaWBicv1WQ",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Cupid_as_Victor_-_Google_Art_Project.jpg",
+  "photographer": "Gemäldegalerie Berlin",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "45eb214c52cf.webp",
+      "rect": {
+        "x": 3078,
+        "y": 3291,
+        "size": 427
+      }
+    },
+    {
+      "file": "23353fa4bd33.webp",
+      "rect": {
+        "x": 2971,
+        "y": 3184,
+        "size": 640
+      }
+    },
+    {
+      "file": "358d549ea5af.webp",
+      "rect": {
+        "x": 2811,
+        "y": 3024,
+        "size": 960
+      }
+    },
+    {
+      "file": "aab5e3b6c683.webp",
+      "rect": {
+        "x": 2363,
+        "y": 2765,
+        "size": 1477
+      }
+    },
+    {
+      "file": "1a2e9ff23f16.webp",
+      "rect": {
+        "x": 1581,
+        "y": 2375,
+        "size": 2259
+      }
+    },
+    {
+      "file": "1b2fa5371f75.webp",
+      "rect": {
+        "x": 640,
+        "y": 1904,
+        "size": 3200
+      }
+    },
+    {
+      "file": "558373c0c3d7.webp",
+      "rect": {
+        "x": -734,
+        "y": 0,
+        "size": 5309
+      }
+    }
+  ]
+}

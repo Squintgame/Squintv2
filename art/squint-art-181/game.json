@@ -1,0 +1,67 @@
+{
+  "a": "==wclNXdl52ZpFmQgMXZk5WYydEIzVGT",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir,_French_-_The_Large_Bathers_-_Google_Art_Project.jpg",
+  "photographer": "Philadelphia Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "876244f4885a.webp",
+      "rect": {
+        "x": 807,
+        "y": 808,
+        "size": 292
+      }
+    },
+    {
+      "file": "47ef0780363b.webp",
+      "rect": {
+        "x": 734,
+        "y": 735,
+        "size": 439
+      }
+    },
+    {
+      "file": "93fa4fb48e43.webp",
+      "rect": {
+        "x": 625,
+        "y": 625,
+        "size": 658
+      }
+    },
+    {
+      "file": "dfee9c4a6c82.webp",
+      "rect": {
+        "x": 447,
+        "y": 448,
+        "size": 1012
+      }
+    },
+    {
+      "file": "b475850cb6d9.webp",
+      "rect": {
+        "x": 179,
+        "y": 180,
+        "size": 1548
+      }
+    },
+    {
+      "file": "e465003da39a.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2193
+      }
+    },
+    {
+      "file": "3b221e1c6cc8.webp",
+      "rect": {
+        "x": 0,
+        "y": -604,
+        "size": 3840
+      }
+    }
+  ]
+}

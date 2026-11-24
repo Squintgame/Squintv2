@@ -1,0 +1,67 @@
+{
+  "a": "==wc1h2YjFmQ",
+  "ar": "ppHbl1EIvN2clNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Bacchus_-_Leonardo_da_Vinci_workshop_-_Louvre_INV_780.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "7566d757df9f.webp",
+      "rect": {
+        "x": 2460,
+        "y": 321,
+        "size": 427
+      }
+    },
+    {
+      "file": "697eab8a9664.webp",
+      "rect": {
+        "x": 2353,
+        "y": 215,
+        "size": 640
+      }
+    },
+    {
+      "file": "e03048e86749.webp",
+      "rect": {
+        "x": 2193,
+        "y": 55,
+        "size": 960
+      }
+    },
+    {
+      "file": "505b8dbbfda5.webp",
+      "rect": {
+        "x": 1935,
+        "y": 0,
+        "size": 1477
+      }
+    },
+    {
+      "file": "e8220966af22.webp",
+      "rect": {
+        "x": 1544,
+        "y": 0,
+        "size": 2259
+      }
+    },
+    {
+      "file": "24c2990d7567.webp",
+      "rect": {
+        "x": 640,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "8be7a8edca96.webp",
+      "rect": {
+        "x": -997,
+        "y": 0,
+        "size": 5834
+      }
+    }
+  ]
+}

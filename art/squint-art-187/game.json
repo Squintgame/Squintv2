@@ -1,0 +1,67 @@
+{
+  "a": "=MXdzNXSgQXYgIXZk5WY4VGbBBiZvBSZsRHdhJEIlhGV",
+  "ar": "yVmZy9GZ0xWQgQHajVmcixWQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Albrecht_Altdorfer_-_Schlacht_bei_Issus_(Alte_Pinakothek,_M%C3%BCnchen)_-_Google_Art_Project.jpg",
+  "photographer": "Bavarian State Painting Collections",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "ee8074a96689.webp",
+      "rect": {
+        "x": 527,
+        "y": 3453,
+        "size": 427
+      }
+    },
+    {
+      "file": "589ba10fa369.webp",
+      "rect": {
+        "x": 420,
+        "y": 3347,
+        "size": 640
+      }
+    },
+    {
+      "file": "802041b5d154.webp",
+      "rect": {
+        "x": 260,
+        "y": 3187,
+        "size": 960
+      }
+    },
+    {
+      "file": "0db3204a59a3.webp",
+      "rect": {
+        "x": 2,
+        "y": 2928,
+        "size": 1477
+      }
+    },
+    {
+      "file": "d3a7c0e3b1d8.webp",
+      "rect": {
+        "x": 0,
+        "y": 2537,
+        "size": 2259
+      }
+    },
+    {
+      "file": "958ad900706e.webp",
+      "rect": {
+        "x": 0,
+        "y": 1817,
+        "size": 3200
+      }
+    },
+    {
+      "file": "64ff048e7775.webp",
+      "rect": {
+        "x": -588,
+        "y": 0,
+        "size": 5017
+      }
+    }
+  ]
+}

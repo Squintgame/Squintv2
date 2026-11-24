@@ -1,0 +1,67 @@
+{
+  "a": "=kXYEBSet92bsdEIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Gloomy_Day_(Bruegel).jpg",
+  "photographer": "Kunsthistorisches Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "abae0e7630b0.webp",
+      "rect": {
+        "x": 1307,
+        "y": 2074,
+        "size": 311
+      }
+    },
+    {
+      "file": "8729cc9936dc.webp",
+      "rect": {
+        "x": 1229,
+        "y": 1997,
+        "size": 466
+      }
+    },
+    {
+      "file": "793917e4aa7d.webp",
+      "rect": {
+        "x": 1113,
+        "y": 1880,
+        "size": 699
+      }
+    },
+    {
+      "file": "11aa4c20a183.webp",
+      "rect": {
+        "x": 925,
+        "y": 1692,
+        "size": 1075
+      }
+    },
+    {
+      "file": "74039d6a75c8.webp",
+      "rect": {
+        "x": 640,
+        "y": 1151,
+        "size": 1645
+      }
+    },
+    {
+      "file": "a24072c0110d.webp",
+      "rect": {
+        "x": 297,
+        "y": 466,
+        "size": 2330
+      }
+    },
+    {
+      "file": "b27a8e5fc564.webp",
+      "rect": {
+        "x": 0,
+        "y": -522,
+        "size": 3840
+      }
+    }
+  ]
+}

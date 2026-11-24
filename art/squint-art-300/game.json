@@ -1,0 +1,67 @@
+{
+  "a": "=IXZ39mYgUGbrNWdzlXZu9GagUGa0BibpBCduFmcCBSYsxWZiF2cJBCZuFGIz5WZiVnU",
+  "ar": "=MnblJWdSBCb1FGUgIXZ0VGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Rubens_and_Isabella_Brant_in_the_honeysuckle_bower.jpg",
+  "photographer": "Bavarian State Painting Collections",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "8ee81c0df2b1.webp",
+      "rect": {
+        "x": 2534,
+        "y": 2909,
+        "size": 376
+      }
+    },
+    {
+      "file": "e18161d1f3c2.webp",
+      "rect": {
+        "x": 2440,
+        "y": 2815,
+        "size": 564
+      }
+    },
+    {
+      "file": "d81011edb216.webp",
+      "rect": {
+        "x": 2299,
+        "y": 2674,
+        "size": 846
+      }
+    },
+    {
+      "file": "2dc3d29e0d6a.webp",
+      "rect": {
+        "x": 2072,
+        "y": 2446,
+        "size": 1301
+      }
+    },
+    {
+      "file": "8569f47a716b.webp",
+      "rect": {
+        "x": 1393,
+        "y": 2102,
+        "size": 1989
+      }
+    },
+    {
+      "file": "ccae39ff4845.webp",
+      "rect": {
+        "x": 564,
+        "y": 1681,
+        "size": 2818
+      }
+    },
+    {
+      "file": "dbdea92ff743.webp",
+      "rect": {
+        "x": -558,
+        "y": 0,
+        "size": 4499
+      }
+    }
+  ]
+}

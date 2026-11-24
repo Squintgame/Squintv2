@@ -1,0 +1,67 @@
+{
+  "a": "=0WaIBCdjVGc4VEI09mTgQWaEBSelhGV",
+  "ar": "==gbpBXZSBSY5xWS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ilya_Repin_Unexpected_visitors.jpg",
+  "photographer": "Tretyakov Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9003b6db8f35.webp",
+      "rect": {
+        "x": 1827,
+        "y": 950,
+        "size": 292
+      }
+    },
+    {
+      "file": "404720e8588e.webp",
+      "rect": {
+        "x": 1754,
+        "y": 877,
+        "size": 438
+      }
+    },
+    {
+      "file": "d1d183f22015.webp",
+      "rect": {
+        "x": 1644,
+        "y": 767,
+        "size": 658
+      }
+    },
+    {
+      "file": "157318dc7cf4.webp",
+      "rect": {
+        "x": 1467,
+        "y": 590,
+        "size": 1012
+      }
+    },
+    {
+      "file": "4e6f06c3ebf5.webp",
+      "rect": {
+        "x": 1193,
+        "y": 322,
+        "size": 1547
+      }
+    },
+    {
+      "file": "158d43d9a27d.webp",
+      "rect": {
+        "x": 548,
+        "y": 0,
+        "size": 2192
+      }
+    },
+    {
+      "file": "68c554d6f3eb.webp",
+      "rect": {
+        "x": 0,
+        "y": -55,
+        "size": 2740
+      }
+    }
+  ]
+}

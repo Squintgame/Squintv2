@@ -1,0 +1,67 @@
+{
+  "a": "=MnclR3clZnchhEIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9e257042e557.webp",
+      "rect": {
+        "x": 1768,
+        "y": 385,
+        "size": 311
+      }
+    },
+    {
+      "file": "4b4eccbb855d.webp",
+      "rect": {
+        "x": 1690,
+        "y": 308,
+        "size": 466
+      }
+    },
+    {
+      "file": "f93ccb8b3e02.webp",
+      "rect": {
+        "x": 1574,
+        "y": 191,
+        "size": 699
+      }
+    },
+    {
+      "file": "ce44d69b7415.webp",
+      "rect": {
+        "x": 1385,
+        "y": 3,
+        "size": 1076
+      }
+    },
+    {
+      "file": "bf8f1dcbb4cf.webp",
+      "rect": {
+        "x": 1101,
+        "y": 0,
+        "size": 1645
+      }
+    },
+    {
+      "file": "f496ef745b06.webp",
+      "rect": {
+        "x": 758,
+        "y": 0,
+        "size": 2331
+      }
+    },
+    {
+      "file": "cafdfc53acfb.webp",
+      "rect": {
+        "x": 0,
+        "y": -521,
+        "size": 3840
+      }
+    }
+  ]
+}

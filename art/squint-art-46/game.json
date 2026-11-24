@@ -1,0 +1,67 @@
+{
+  "a": "==QZuR7woJFIlhGdgIXZ29EI0h2Zp5EI5JnchR3U",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "e78929c3e466.webp",
+      "rect": {
+        "x": 1250,
+        "y": 2080,
+        "size": 330
+      }
+    },
+    {
+      "file": "b7bac40ff489.webp",
+      "rect": {
+        "x": 1167,
+        "y": 1997,
+        "size": 494
+      }
+    },
+    {
+      "file": "fdf64f7a2fcf.webp",
+      "rect": {
+        "x": 1044,
+        "y": 1874,
+        "size": 742
+      }
+    },
+    {
+      "file": "68bbd5fbb306.webp",
+      "rect": {
+        "x": 844,
+        "y": 1674,
+        "size": 1141
+      }
+    },
+    {
+      "file": "322bd8c3a1a8.webp",
+      "rect": {
+        "x": 542,
+        "y": 1222,
+        "size": 1745
+      }
+    },
+    {
+      "file": "f3cf8786f62e.webp",
+      "rect": {
+        "x": 178,
+        "y": 494,
+        "size": 2472
+      }
+    },
+    {
+      "file": "411f4067b1e5.webp",
+      "rect": {
+        "x": 0,
+        "y": -436,
+        "size": 3840
+      }
+    }
+  ]
+}

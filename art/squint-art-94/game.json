@@ -1,0 +1,67 @@
+{
+  "a": "==wZulGZkV2VgQnbhNXYlBFIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Peasant_Wedding_-_Google_Art_Project.jpg",
+  "photographer": "Kunsthistorisches Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "a89a89fbe576.webp",
+      "rect": {
+        "x": 812,
+        "y": 1254,
+        "size": 295
+      }
+    },
+    {
+      "file": "faae21c95eec.webp",
+      "rect": {
+        "x": 739,
+        "y": 1180,
+        "size": 442
+      }
+    },
+    {
+      "file": "015571c01d6f.webp",
+      "rect": {
+        "x": 628,
+        "y": 1069,
+        "size": 664
+      }
+    },
+    {
+      "file": "d8a21d9e11d4.webp",
+      "rect": {
+        "x": 449,
+        "y": 890,
+        "size": 1021
+      }
+    },
+    {
+      "file": "9b3f2cc7fa37.webp",
+      "rect": {
+        "x": 179,
+        "y": 620,
+        "size": 1562
+      }
+    },
+    {
+      "file": "53122a857c40.webp",
+      "rect": {
+        "x": 0,
+        "y": 295,
+        "size": 2212
+      }
+    },
+    {
+      "file": "4687a164747c.webp",
+      "rect": {
+        "x": 0,
+        "y": -592,
+        "size": 3840
+      }
+    }
+  ]
+}

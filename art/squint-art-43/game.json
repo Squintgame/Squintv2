@@ -1,0 +1,67 @@
+{
+  "a": "pOsZhNEI0h2Zp5EIlhGV",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_The_Night_Caf%C3%A9_(1888).jpg",
+  "photographer": "Yale University Art Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d9cff5451cc9.webp",
+      "rect": {
+        "x": 424,
+        "y": 1088,
+        "size": 337
+      }
+    },
+    {
+      "file": "3f7e14e69e8b.webp",
+      "rect": {
+        "x": 339,
+        "y": 1004,
+        "size": 505
+      }
+    },
+    {
+      "file": "2a74ef2e5b2a.webp",
+      "rect": {
+        "x": 213,
+        "y": 878,
+        "size": 758
+      }
+    },
+    {
+      "file": "b368c2b6215e.webp",
+      "rect": {
+        "x": 9,
+        "y": 674,
+        "size": 1166
+      }
+    },
+    {
+      "file": "5bbfa6d380a4.webp",
+      "rect": {
+        "x": 0,
+        "y": 365,
+        "size": 1783
+      }
+    },
+    {
+      "file": "fc4036131dea.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2526
+      }
+    },
+    {
+      "file": "bdb40cca9760.webp",
+      "rect": {
+        "x": 0,
+        "y": -404,
+        "size": 3840
+      }
+    }
+  ]
+}

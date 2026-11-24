@@ -1,0 +1,67 @@
+{
+  "a": "==wc05WZyFGUgMXaIBiZvBSZzV3bIBSZoRHIulGI0NXayh2Q",
+  "ar": "=MXahxGbp1EI0RXZyVmdFBibo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Christ_in_the_House_of_His_Parents_(%60The_Carpenter%27s_Shop%27)_-_Google_Art_Project.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "0d05fd3a0fd0.webp",
+      "rect": {
+        "x": 447,
+        "y": 1087,
+        "size": 259
+      }
+    },
+    {
+      "file": "3a0851f6d7d2.webp",
+      "rect": {
+        "x": 382,
+        "y": 1022,
+        "size": 388
+      }
+    },
+    {
+      "file": "2cbf87785302.webp",
+      "rect": {
+        "x": 285,
+        "y": 925,
+        "size": 582
+      }
+    },
+    {
+      "file": "53457d92eb61.webp",
+      "rect": {
+        "x": 128,
+        "y": 768,
+        "size": 896
+      }
+    },
+    {
+      "file": "18717b63e018.webp",
+      "rect": {
+        "x": 0,
+        "y": 531,
+        "size": 1371
+      }
+    },
+    {
+      "file": "d5af6bf521b8.webp",
+      "rect": {
+        "x": 0,
+        "y": 245,
+        "size": 1942
+      }
+    },
+    {
+      "file": "ae3ded90e824.webp",
+      "rect": {
+        "x": 0,
+        "y": -755,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==gbhl2YpNXdNBSYgY2bgQXahJHdy9GU",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Portrait_of_a_Musician_-_Pinacoteca_Ambrosiana.jpg",
+  "photographer": "Pinacoteca Ambrosiana",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "6e1ff2759ef4.webp",
+      "rect": {
+        "x": 2631,
+        "y": 4101,
+        "size": 427
+      }
+    },
+    {
+      "file": "e4960ecf41a4.webp",
+      "rect": {
+        "x": 2524,
+        "y": 3994,
+        "size": 640
+      }
+    },
+    {
+      "file": "4d0ea0f65993.webp",
+      "rect": {
+        "x": 2364,
+        "y": 3834,
+        "size": 960
+      }
+    },
+    {
+      "file": "69c39c897945.webp",
+      "rect": {
+        "x": 2106,
+        "y": 3564,
+        "size": 1477
+      }
+    },
+    {
+      "file": "e7b4b9646d0e.webp",
+      "rect": {
+        "x": 1581,
+        "y": 2782,
+        "size": 2259
+      }
+    },
+    {
+      "file": "32cf1a4cecc8.webp",
+      "rect": {
+        "x": 640,
+        "y": 1841,
+        "size": 3200
+      }
+    },
+    {
+      "file": "ff79ff22689e.webp",
+      "rect": {
+        "x": -600,
+        "y": 0,
+        "size": 5041
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "w1WdQBicpFEIlhGdg4WagQmcpJEIhBibvBCduVWbpJXZwhXRg4WQ",
+  "ar": "==QeiJXZEBiZvBCdodWaydFIoBXZz9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby,_1768.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "41ea5da11d70.webp",
+      "rect": {
+        "x": 403,
+        "y": 1202,
+        "size": 320
+      }
+    },
+    {
+      "file": "95d7f1b2c679.webp",
+      "rect": {
+        "x": 323,
+        "y": 1122,
+        "size": 480
+      }
+    },
+    {
+      "file": "42055d105bcd.webp",
+      "rect": {
+        "x": 203,
+        "y": 1003,
+        "size": 720
+      }
+    },
+    {
+      "file": "870cdf68d92a.webp",
+      "rect": {
+        "x": 10,
+        "y": 809,
+        "size": 1107
+      }
+    },
+    {
+      "file": "84f9578fcea8.webp",
+      "rect": {
+        "x": 0,
+        "y": 516,
+        "size": 1693
+      }
+    },
+    {
+      "file": "ab895922d1c1.webp",
+      "rect": {
+        "x": 0,
+        "y": 163,
+        "size": 2398
+      }
+    },
+    {
+      "file": "ad53398a2cc3.webp",
+      "rect": {
+        "x": 0,
+        "y": -481,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=MXZyh6wp52cBBCdhBycyVGa0FmQ",
+  "ar": "=QXYyVXZTBycldmcvV2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Baigneurs_a_Asnieres.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "fd524fc2ac0a.webp",
+      "rect": {
+        "x": 210,
+        "y": 1620,
+        "size": 283
+      }
+    },
+    {
+      "file": "4e158e640eb0.webp",
+      "rect": {
+        "x": 140,
+        "y": 1549,
+        "size": 425
+      }
+    },
+    {
+      "file": "e79ad891cb42.webp",
+      "rect": {
+        "x": 33,
+        "y": 1443,
+        "size": 637
+      }
+    },
+    {
+      "file": "b7541bb42aab.webp",
+      "rect": {
+        "x": 0,
+        "y": 1271,
+        "size": 980
+      }
+    },
+    {
+      "file": "371366ed6660.webp",
+      "rect": {
+        "x": 0,
+        "y": 1012,
+        "size": 1499
+      }
+    },
+    {
+      "file": "0ef110304e06.webp",
+      "rect": {
+        "x": 0,
+        "y": 425,
+        "size": 2124
+      }
+    },
+    {
+      "file": "58ffe4e31a2c.webp",
+      "rect": {
+        "x": 0,
+        "y": -645,
+        "size": 3840
+      }
+    }
+  ]
+}

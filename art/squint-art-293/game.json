@@ -1,0 +1,67 @@
+{
+  "a": "==AbvNXYyFGUgEGIoRXa3BSZzlGT",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Lise_with_a_Parasol.jpg",
+  "photographer": "Museum Folkwang",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "7edaffd7b008.webp",
+      "rect": {
+        "x": 489,
+        "y": 2875,
+        "size": 278
+      }
+    },
+    {
+      "file": "ce55d21051e3.webp",
+      "rect": {
+        "x": 420,
+        "y": 2805,
+        "size": 417
+      }
+    },
+    {
+      "file": "9061a1a4499d.webp",
+      "rect": {
+        "x": 316,
+        "y": 2701,
+        "size": 625
+      }
+    },
+    {
+      "file": "e7a8142801ff.webp",
+      "rect": {
+        "x": 148,
+        "y": 2533,
+        "size": 962
+      }
+    },
+    {
+      "file": "afe8da2d300f.webp",
+      "rect": {
+        "x": 0,
+        "y": 2278,
+        "size": 1471
+      }
+    },
+    {
+      "file": "8923106f5055.webp",
+      "rect": {
+        "x": 0,
+        "y": 1926,
+        "size": 2083
+      }
+    },
+    {
+      "file": "cc2e3b560f64.webp",
+      "rect": {
+        "x": -754,
+        "y": 0,
+        "size": 4009
+      }
+    }
+  ]
+}

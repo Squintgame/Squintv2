@@ -1,0 +1,67 @@
+{
+  "a": "=UGblFGUgIXZkBibhZHIzlmcvpEIu9mbhNEIoRXa3BSYu52bkFWT",
+  "ar": "rNWeFBibhZHIuFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Eyck,_Jan_van_-_Madonna_with_Canon_van_der_Paele.jpeg",
+  "photographer": "Vlaamse Kunstcollectie",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "531a34315a9f.webp",
+      "rect": {
+        "x": 2913,
+        "y": 2080,
+        "size": 331
+      }
+    },
+    {
+      "file": "0fa912013263.webp",
+      "rect": {
+        "x": 2830,
+        "y": 1997,
+        "size": 497
+      }
+    },
+    {
+      "file": "088104fcbef6.webp",
+      "rect": {
+        "x": 2706,
+        "y": 1873,
+        "size": 745
+      }
+    },
+    {
+      "file": "7ee80669e690.webp",
+      "rect": {
+        "x": 2505,
+        "y": 1672,
+        "size": 1147
+      }
+    },
+    {
+      "file": "79e98dc352b6.webp",
+      "rect": {
+        "x": 2086,
+        "y": 1227,
+        "size": 1754
+      }
+    },
+    {
+      "file": "b3afbccf34e0.webp",
+      "rect": {
+        "x": 1356,
+        "y": 497,
+        "size": 2484
+      }
+    },
+    {
+      "file": "bf8bd3253129.webp",
+      "rect": {
+        "x": 0,
+        "y": -429,
+        "size": 3840
+      }
+    }
+  ]
+}

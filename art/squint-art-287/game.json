@@ -1,0 +1,67 @@
+{
+  "a": "h5mbvRWYNBSa05WYzNXaud2T",
+  "ar": "vRHdvl2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Madonna_di_Ognissanti_by_Giotto.jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5b3c80026b83.webp",
+      "rect": {
+        "x": 954,
+        "y": 3148,
+        "size": 302
+      }
+    },
+    {
+      "file": "a4ad52318d4a.webp",
+      "rect": {
+        "x": 878,
+        "y": 3073,
+        "size": 453
+      }
+    },
+    {
+      "file": "f7cef9ab073b.webp",
+      "rect": {
+        "x": 765,
+        "y": 2960,
+        "size": 680
+      }
+    },
+    {
+      "file": "753547eec833.webp",
+      "rect": {
+        "x": 582,
+        "y": 2777,
+        "size": 1046
+      }
+    },
+    {
+      "file": "b756b676ce99.webp",
+      "rect": {
+        "x": 305,
+        "y": 2500,
+        "size": 1599
+      }
+    },
+    {
+      "file": "36af7d8c4ccf.webp",
+      "rect": {
+        "x": 0,
+        "y": 1915,
+        "size": 2266
+      }
+    },
+    {
+      "file": "9fda7923d2a9.webp",
+      "rect": {
+        "x": -731,
+        "y": 0,
+        "size": 4181
+      }
+    }
+  ]
+}

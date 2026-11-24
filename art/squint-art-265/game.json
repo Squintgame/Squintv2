@@ -1,0 +1,67 @@
+{
+  "a": "==wc1NmcpNEIlhGV",
+  "ar": "=QXYyVXZTBycldmcvV2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_The_Circus_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "14ecbc5fb58b.webp",
+      "rect": {
+        "x": 532,
+        "y": 2673,
+        "size": 427
+      }
+    },
+    {
+      "file": "0d5d5826e1dc.webp",
+      "rect": {
+        "x": 426,
+        "y": 2567,
+        "size": 640
+      }
+    },
+    {
+      "file": "a9bfa3cab265.webp",
+      "rect": {
+        "x": 266,
+        "y": 2407,
+        "size": 960
+      }
+    },
+    {
+      "file": "64d794f24403.webp",
+      "rect": {
+        "x": 7,
+        "y": 2148,
+        "size": 1477
+      }
+    },
+    {
+      "file": "a1de41c44f18.webp",
+      "rect": {
+        "x": 0,
+        "y": 1757,
+        "size": 2259
+      }
+    },
+    {
+      "file": "f334b2b6f04f.webp",
+      "rect": {
+        "x": 0,
+        "y": 1287,
+        "size": 3200
+      }
+    },
+    {
+      "file": "f58605b57c13.webp",
+      "rect": {
+        "x": -459,
+        "y": 0,
+        "size": 4758
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=42btJXZTBSZoRHIyVGdmFEIu9WazlmV",
+  "ar": "ulWdnVXYHBCb1FGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:La_vision_apr%C3%A8s_le_sermon_(Paul_Gauguin).jpg",
+  "photographer": "National Galleries Scotland",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5b5ac87c30ca.webp",
+      "rect": {
+        "x": 255,
+        "y": 2253,
+        "size": 341
+      }
+    },
+    {
+      "file": "94bcab7b5a14.webp",
+      "rect": {
+        "x": 170,
+        "y": 2168,
+        "size": 511
+      }
+    },
+    {
+      "file": "f33d8e0aee8c.webp",
+      "rect": {
+        "x": 42,
+        "y": 2040,
+        "size": 767
+      }
+    },
+    {
+      "file": "3d4e46e264f2.webp",
+      "rect": {
+        "x": 0,
+        "y": 1834,
+        "size": 1180
+      }
+    },
+    {
+      "file": "9bd9a82ee1ee.webp",
+      "rect": {
+        "x": 0,
+        "y": 1263,
+        "size": 1804
+      }
+    },
+    {
+      "file": "810081575066.webp",
+      "rect": {
+        "x": 0,
+        "y": 511,
+        "size": 2556
+      }
+    },
+    {
+      "file": "7cbc7be48b7b.webp",
+      "rect": {
+        "x": 0,
+        "y": -386,
+        "size": 3840
+      }
+    }
+  ]
+}

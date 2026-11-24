@@ -1,0 +1,67 @@
+{
+  "a": "klWYttGbp1EIlhGV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.jpg",
+  "photographer": "Rijksmuseum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d54bd362b112.webp",
+      "rect": {
+        "x": 1154,
+        "y": 2611,
+        "size": 427
+      }
+    },
+    {
+      "file": "70c1710d77d9.webp",
+      "rect": {
+        "x": 1047,
+        "y": 2504,
+        "size": 640
+      }
+    },
+    {
+      "file": "531ada5b3c3f.webp",
+      "rect": {
+        "x": 887,
+        "y": 2344,
+        "size": 960
+      }
+    },
+    {
+      "file": "5eaaa94cfc7c.webp",
+      "rect": {
+        "x": 629,
+        "y": 2086,
+        "size": 1477
+      }
+    },
+    {
+      "file": "299fdc7dc459.webp",
+      "rect": {
+        "x": 238,
+        "y": 1695,
+        "size": 2259
+      }
+    },
+    {
+      "file": "5eeeff99fec8.webp",
+      "rect": {
+        "x": 0,
+        "y": 1106,
+        "size": 3200
+      }
+    },
+    {
+      "file": "5ec0f5b833c7.webp",
+      "rect": {
+        "x": -233,
+        "y": 0,
+        "size": 4306
+      }
+    }
+  ]
+}

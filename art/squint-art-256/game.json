@@ -1,0 +1,67 @@
+{
+  "a": "==gblRmchdEIlhGdg4Wag4WYt92V",
+  "ar": "0Vmbv1EIlRWdhx2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet_022.jpg",
+  "photographer": "Hermitage Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "0a1a7f0c372a.webp",
+      "rect": {
+        "x": 1818,
+        "y": 1190,
+        "size": 251
+      }
+    },
+    {
+      "file": "f616817274b2.webp",
+      "rect": {
+        "x": 1755,
+        "y": 1128,
+        "size": 377
+      }
+    },
+    {
+      "file": "b0e585816ace.webp",
+      "rect": {
+        "x": 1661,
+        "y": 1034,
+        "size": 565
+      }
+    },
+    {
+      "file": "c149a48a7347.webp",
+      "rect": {
+        "x": 1509,
+        "y": 881,
+        "size": 869
+      }
+    },
+    {
+      "file": "33629820ba92.webp",
+      "rect": {
+        "x": 1279,
+        "y": 651,
+        "size": 1329
+      }
+    },
+    {
+      "file": "81fd7ff26467.webp",
+      "rect": {
+        "x": 907,
+        "y": 374,
+        "size": 1883
+      }
+    },
+    {
+      "file": "14a699f0f889.webp",
+      "rect": {
+        "x": 0,
+        "y": -265,
+        "size": 2790
+      }
+    }
+  ]
+}

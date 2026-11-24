@@ -1,0 +1,67 @@
+{
+  "a": "=8WakVHdTBycnIXZ05WahBFIlhGV",
+  "ar": "0VmYyV3bDBSZ2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Courbet_LAtelier_du_peintre.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "66c7b3b19fda.webp",
+      "rect": {
+        "x": 2137,
+        "y": 1527,
+        "size": 251
+      }
+    },
+    {
+      "file": "6e73a98e9e34.webp",
+      "rect": {
+        "x": 2074,
+        "y": 1464,
+        "size": 377
+      }
+    },
+    {
+      "file": "87d9e82e3d2e.webp",
+      "rect": {
+        "x": 1980,
+        "y": 1370,
+        "size": 566
+      }
+    },
+    {
+      "file": "1e0784220762.webp",
+      "rect": {
+        "x": 1827,
+        "y": 1217,
+        "size": 870
+      }
+    },
+    {
+      "file": "3955952de2bd.webp",
+      "rect": {
+        "x": 1597,
+        "y": 932,
+        "size": 1331
+      }
+    },
+    {
+      "file": "07b7377f3c95.webp",
+      "rect": {
+        "x": 1319,
+        "y": 377,
+        "size": 1886
+      }
+    },
+    {
+      "file": "ac083782dfc0.webp",
+      "rect": {
+        "x": 0,
+        "y": -788,
+        "size": 3840
+      }
+    }
+  ]
+}

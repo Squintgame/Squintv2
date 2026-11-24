@@ -1,0 +1,67 @@
+{
+  "a": "==QqDj2Y192YgUnT",
+  "ar": "=kmbhlGbnlGZv1EIvVGZl1WQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Modigliani_-_Nu_couch%C3%A9.jpg",
+  "photographer": "Riccardo Gualino Collection (1910-1930)",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "62e24e53b070.webp",
+      "rect": {
+        "x": 2411,
+        "y": 394,
+        "size": 224
+      }
+    },
+    {
+      "file": "53186371ca3d.webp",
+      "rect": {
+        "x": 2355,
+        "y": 338,
+        "size": 336
+      }
+    },
+    {
+      "file": "6a8bb0df010f.webp",
+      "rect": {
+        "x": 2271,
+        "y": 255,
+        "size": 504
+      }
+    },
+    {
+      "file": "c3bde7479b7f.webp",
+      "rect": {
+        "x": 2135,
+        "y": 119,
+        "size": 775
+      }
+    },
+    {
+      "file": "d6c2b60f90cd.webp",
+      "rect": {
+        "x": 1930,
+        "y": 0,
+        "size": 1185
+      }
+    },
+    {
+      "file": "d6d76fe9c200.webp",
+      "rect": {
+        "x": 1521,
+        "y": 0,
+        "size": 1679
+      }
+    },
+    {
+      "file": "3f42b8c7172a.webp",
+      "rect": {
+        "x": 0,
+        "y": -592,
+        "size": 3200
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "u9Wa0FmbyF2QgUGa0BiZvBSYu52bkFWT",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:LEONARDO-DA-VINCI_-_MADONNA-MIT-DER-NELKE-7779_917154_BSTGS.jpg",
+  "photographer": "Bavarian State Painting Collections",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c7bc6c007dfc.webp",
+      "rect": {
+        "x": 1435,
+        "y": 2561,
+        "size": 248
+      }
+    },
+    {
+      "file": "0a31876701d7.webp",
+      "rect": {
+        "x": 1374,
+        "y": 2499,
+        "size": 372
+      }
+    },
+    {
+      "file": "09f9785fc83d.webp",
+      "rect": {
+        "x": 1281,
+        "y": 2406,
+        "size": 557
+      }
+    },
+    {
+      "file": "aa9594e543af.webp",
+      "rect": {
+        "x": 1131,
+        "y": 2143,
+        "size": 857
+      }
+    },
+    {
+      "file": "465e014270ae.webp",
+      "rect": {
+        "x": 904,
+        "y": 1689,
+        "size": 1311
+      }
+    },
+    {
+      "file": "f570b0b6b27b.webp",
+      "rect": {
+        "x": 372,
+        "y": 1142,
+        "size": 1858
+      }
+    },
+    {
+      "file": "b7230f6ac54c.webp",
+      "rect": {
+        "x": -385,
+        "y": 0,
+        "size": 3000
+      }
+    }
+  ]
+}

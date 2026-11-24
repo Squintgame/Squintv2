@@ -1,0 +1,67 @@
+{
+  "a": "n5Wa3NFIlhGV",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Swing-Renoir.jpeg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "eea4e30225cf.webp",
+      "rect": {
+        "x": 1364,
+        "y": 946,
+        "size": 427
+      }
+    },
+    {
+      "file": "8a0f2f7c69a4.webp",
+      "rect": {
+        "x": 1257,
+        "y": 839,
+        "size": 640
+      }
+    },
+    {
+      "file": "9b66a0787f46.webp",
+      "rect": {
+        "x": 1097,
+        "y": 679,
+        "size": 960
+      }
+    },
+    {
+      "file": "75b03cd72415.webp",
+      "rect": {
+        "x": 839,
+        "y": 421,
+        "size": 1477
+      }
+    },
+    {
+      "file": "a6b458000b68.webp",
+      "rect": {
+        "x": 448,
+        "y": 30,
+        "size": 2259
+      }
+    },
+    {
+      "file": "7a97b10ed28c.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "eacd50fd7362.webp",
+      "rect": {
+        "x": -590,
+        "y": 0,
+        "size": 5021
+      }
+    }
+  ]
+}

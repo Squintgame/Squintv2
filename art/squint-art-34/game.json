@@ -1,0 +1,67 @@
+{
+  "a": "==AdmxWZEBiZvBydllmV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_View_of_Delft_-_92_-_Mauritshuis.jpg",
+  "photographer": "Mauritshuis",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "336beb0db1f5.webp",
+      "rect": {
+        "x": 629,
+        "y": 1884,
+        "size": 356
+      }
+    },
+    {
+      "file": "c1f40e496b3b.webp",
+      "rect": {
+        "x": 540,
+        "y": 1795,
+        "size": 534
+      }
+    },
+    {
+      "file": "daef9a3ccee9.webp",
+      "rect": {
+        "x": 406,
+        "y": 1661,
+        "size": 800
+      }
+    },
+    {
+      "file": "a854a676f491.webp",
+      "rect": {
+        "x": 191,
+        "y": 1446,
+        "size": 1231
+      }
+    },
+    {
+      "file": "214ce28654e9.webp",
+      "rect": {
+        "x": 0,
+        "y": 1120,
+        "size": 1883
+      }
+    },
+    {
+      "file": "33551db3ea6e.webp",
+      "rect": {
+        "x": 0,
+        "y": 534,
+        "size": 2668
+      }
+    },
+    {
+      "file": "90be2d14c217.webp",
+      "rect": {
+        "x": 0,
+        "y": -319,
+        "size": 3840
+      }
+    }
+  ]
+}

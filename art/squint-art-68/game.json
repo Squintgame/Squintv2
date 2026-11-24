@@ -1,0 +1,67 @@
+{
+  "a": "=IXZt9mbvJHdzFEIlhGV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "951387f0298a.webp",
+      "rect": {
+        "x": 954,
+        "y": 2430,
+        "size": 427
+      }
+    },
+    {
+      "file": "a4bf06bea0f8.webp",
+      "rect": {
+        "x": 847,
+        "y": 2323,
+        "size": 640
+      }
+    },
+    {
+      "file": "145937a17efd.webp",
+      "rect": {
+        "x": 687,
+        "y": 2163,
+        "size": 960
+      }
+    },
+    {
+      "file": "daa8da5fdee2.webp",
+      "rect": {
+        "x": 429,
+        "y": 1905,
+        "size": 1477
+      }
+    },
+    {
+      "file": "bf556710d8bc.webp",
+      "rect": {
+        "x": 38,
+        "y": 1514,
+        "size": 2259
+      }
+    },
+    {
+      "file": "3488b3367d55.webp",
+      "rect": {
+        "x": 0,
+        "y": 1043,
+        "size": 3200
+      }
+    },
+    {
+      "file": "f584cf62e656.webp",
+      "rect": {
+        "x": -261,
+        "y": 0,
+        "size": 4363
+      }
+    }
+  ]
+}

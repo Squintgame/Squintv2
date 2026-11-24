@@ -1,0 +1,67 @@
+{
+  "a": "zV2cpJXS",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Irises-Vincent_van_Gogh.jpg",
+  "photographer": "J. Paul Getty Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "e0831e157c9a.webp",
+      "rect": {
+        "x": 2323,
+        "y": 563,
+        "size": 326
+      }
+    },
+    {
+      "file": "b5bd0a4af0fa.webp",
+      "rect": {
+        "x": 2242,
+        "y": 481,
+        "size": 489
+      }
+    },
+    {
+      "file": "530a6162b572.webp",
+      "rect": {
+        "x": 2120,
+        "y": 359,
+        "size": 734
+      }
+    },
+    {
+      "file": "264689cdb734.webp",
+      "rect": {
+        "x": 1922,
+        "y": 161,
+        "size": 1129
+      }
+    },
+    {
+      "file": "1b7d815628f1.webp",
+      "rect": {
+        "x": 1623,
+        "y": 0,
+        "size": 1726
+      }
+    },
+    {
+      "file": "eb89d7413d2f.webp",
+      "rect": {
+        "x": 1263,
+        "y": 0,
+        "size": 2446
+      }
+    },
+    {
+      "file": "bbb83f2b0291.webp",
+      "rect": {
+        "x": 0,
+        "y": -452,
+        "size": 3840
+      }
+    }
+  ]
+}

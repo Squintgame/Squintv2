@@ -1,0 +1,67 @@
+{
+  "a": "zV2czlHbVByb0BCc1NEIlhGdgcmbpJXZmZ2TgU2Yyl2Q",
+  "ar": "=U2c19GayVGdhdFItFWasxWaXBibo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Circe_Offering_the_Cup_to_Odysseus_(2457_x_4023px_ed.).jpg",
+  "photographer": "Gallery Oldham",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "22faf8064469.webp",
+      "rect": {
+        "x": 203,
+        "y": 3421,
+        "size": 273
+      }
+    },
+    {
+      "file": "62fcb0621c53.webp",
+      "rect": {
+        "x": 134,
+        "y": 3352,
+        "size": 410
+      }
+    },
+    {
+      "file": "1645b168b994.webp",
+      "rect": {
+        "x": 32,
+        "y": 3250,
+        "size": 614
+      }
+    },
+    {
+      "file": "dec586a0ef58.webp",
+      "rect": {
+        "x": 0,
+        "y": 3078,
+        "size": 945
+      }
+    },
+    {
+      "file": "34c09a3e3e94.webp",
+      "rect": {
+        "x": 0,
+        "y": 2578,
+        "size": 1445
+      }
+    },
+    {
+      "file": "68e8f3602569.webp",
+      "rect": {
+        "x": 0,
+        "y": 1976,
+        "size": 2048
+      }
+    },
+    {
+      "file": "f9376c494356.webp",
+      "rect": {
+        "x": -783,
+        "y": 0,
+        "size": 4023
+      }
+    }
+  ]
+}

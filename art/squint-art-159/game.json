@@ -1,0 +1,67 @@
+{
+  "a": "==wczVmc1N2byBFIlhGV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_The_Procuress_-_Google_Art_Project.jpg",
+  "photographer": "Staatliche Kunstsammlungen Dresden",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c34c3cecd89d.webp",
+      "rect": {
+        "x": 2889,
+        "y": 1392,
+        "size": 425
+      }
+    },
+    {
+      "file": "cfa726bff6cd.webp",
+      "rect": {
+        "x": 2783,
+        "y": 1285,
+        "size": 638
+      }
+    },
+    {
+      "file": "b5c57cb78e05.webp",
+      "rect": {
+        "x": 2623,
+        "y": 1126,
+        "size": 957
+      }
+    },
+    {
+      "file": "34a9050a898b.webp",
+      "rect": {
+        "x": 2356,
+        "y": 868,
+        "size": 1473
+      }
+    },
+    {
+      "file": "172111cef85a.webp",
+      "rect": {
+        "x": 1577,
+        "y": 478,
+        "size": 2252
+      }
+    },
+    {
+      "file": "593f181b4d53.webp",
+      "rect": {
+        "x": 638,
+        "y": 9,
+        "size": 3191
+      }
+    },
+    {
+      "file": "ab5fa43fcbd8.webp",
+      "rect": {
+        "x": -224,
+        "y": 0,
+        "size": 4278
+      }
+    }
+  ]
+}

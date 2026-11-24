@@ -1,0 +1,67 @@
+{
+  "a": "==QZzV3bIBydvxGbllFIlhGV",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_yellow_house_(%27The_street%27).jpg",
+  "photographer": "Van Gogh Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "a4a9f5dae080.webp",
+      "rect": {
+        "x": 916,
+        "y": 1583,
+        "size": 331
+      }
+    },
+    {
+      "file": "253dd0da69d9.webp",
+      "rect": {
+        "x": 833,
+        "y": 1501,
+        "size": 496
+      }
+    },
+    {
+      "file": "6144f17166ab.webp",
+      "rect": {
+        "x": 709,
+        "y": 1377,
+        "size": 745
+      }
+    },
+    {
+      "file": "08b9c4137a8d.webp",
+      "rect": {
+        "x": 509,
+        "y": 1176,
+        "size": 1146
+      }
+    },
+    {
+      "file": "f97311152340.webp",
+      "rect": {
+        "x": 205,
+        "y": 873,
+        "size": 1752
+      }
+    },
+    {
+      "file": "cd0348d99f5a.webp",
+      "rect": {
+        "x": 0,
+        "y": 496,
+        "size": 2482
+      }
+    },
+    {
+      "file": "4e09b0cb1bd4.webp",
+      "rect": {
+        "x": 0,
+        "y": -430,
+        "size": 3840
+      }
+    }
+  ]
+}

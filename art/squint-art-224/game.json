@@ -1,0 +1,67 @@
+{
+  "a": "=42blFGdjFEIk5WYgEmbhlGR",
+  "ar": "uFWa0lGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Titian_-_Diana_and_Actaeon_-_Google_Art_Project.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "866e4596c072.webp",
+      "rect": {
+        "x": 2030,
+        "y": 2030,
+        "size": 306
+      }
+    },
+    {
+      "file": "33c7c96fd300.webp",
+      "rect": {
+        "x": 1953,
+        "y": 1953,
+        "size": 458
+      }
+    },
+    {
+      "file": "7616c09ccf3e.webp",
+      "rect": {
+        "x": 1839,
+        "y": 1839,
+        "size": 688
+      }
+    },
+    {
+      "file": "933f78992cef.webp",
+      "rect": {
+        "x": 1654,
+        "y": 1654,
+        "size": 1058
+      }
+    },
+    {
+      "file": "d29e2c6e4d6e.webp",
+      "rect": {
+        "x": 1374,
+        "y": 1132,
+        "size": 1618
+      }
+    },
+    {
+      "file": "9369e905395a.webp",
+      "rect": {
+        "x": 708,
+        "y": 458,
+        "size": 2292
+      }
+    },
+    {
+      "file": "d7c1316e271f.webp",
+      "rect": {
+        "x": 0,
+        "y": -125,
+        "size": 3000
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==wch12boRFI05WahNFIm9GI5RXasVHZlJ3YulEIlhGV",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_incredulity.jpg",
+  "photographer": "Sanssouci Picture Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "cf30aada0187.webp",
+      "rect": {
+        "x": 389,
+        "y": 1465,
+        "size": 317
+      }
+    },
+    {
+      "file": "7723c1604b7d.webp",
+      "rect": {
+        "x": 310,
+        "y": 1386,
+        "size": 475
+      }
+    },
+    {
+      "file": "45ab3216b39b.webp",
+      "rect": {
+        "x": 191,
+        "y": 1267,
+        "size": 712
+      }
+    },
+    {
+      "file": "4ae7e71500a0.webp",
+      "rect": {
+        "x": 0,
+        "y": 1075,
+        "size": 1096
+      }
+    },
+    {
+      "file": "607d08069b96.webp",
+      "rect": {
+        "x": 0,
+        "y": 785,
+        "size": 1676
+      }
+    },
+    {
+      "file": "a19b550706a5.webp",
+      "rect": {
+        "x": 0,
+        "y": 436,
+        "size": 2375
+      }
+    },
+    {
+      "file": "09c9d0b199b1.webp",
+      "rect": {
+        "x": 0,
+        "y": -495,
+        "size": 3840
+      }
+    }
+  ]
+}

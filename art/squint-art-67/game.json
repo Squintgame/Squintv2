@@ -1,0 +1,67 @@
+{
+  "a": "zVnblZFIm9GIoRncpJEIlhGV",
+  "ar": "=UXYlJXZ1dWdvJEIlhGcs9GZB1SbhlGbsl2V",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Birth_of_Venus_(1879).jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "23913747c893.webp",
+      "rect": {
+        "x": 2601,
+        "y": 4266,
+        "size": 427
+      }
+    },
+    {
+      "file": "4d2cf4d451f7.webp",
+      "rect": {
+        "x": 2494,
+        "y": 4159,
+        "size": 640
+      }
+    },
+    {
+      "file": "773b4028057e.webp",
+      "rect": {
+        "x": 2334,
+        "y": 3999,
+        "size": 960
+      }
+    },
+    {
+      "file": "7638dc584e3e.webp",
+      "rect": {
+        "x": 2076,
+        "y": 3741,
+        "size": 1477
+      }
+    },
+    {
+      "file": "5836a621c5b8.webp",
+      "rect": {
+        "x": 1581,
+        "y": 3165,
+        "size": 2259
+      }
+    },
+    {
+      "file": "15e771ca4a7d.webp",
+      "rect": {
+        "x": 640,
+        "y": 2224,
+        "size": 3200
+      }
+    },
+    {
+      "file": "e0bf6b0f70fa.webp",
+      "rect": {
+        "x": -792,
+        "y": 0,
+        "size": 5424
+      }
+    }
+  ]
+}

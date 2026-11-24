@@ -1,0 +1,67 @@
+{
+  "a": "=QGbpV3RgcycyVGchJHRgUGa0BiZvBycjlGZul3U",
+  "ar": "0RmbhJnYtVmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_De_Staalmeesters-_het_college_van_staalmeesters_(waardijns)_van_het_Amsterdamse_lakenbereidersgilde_-_Google_Art_Project.jpg",
+  "photographer": "Rijksmuseum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "ef17d3367395.webp",
+      "rect": {
+        "x": 1062,
+        "y": 782,
+        "size": 288
+      }
+    },
+    {
+      "file": "3784628ddfdf.webp",
+      "rect": {
+        "x": 990,
+        "y": 710,
+        "size": 432
+      }
+    },
+    {
+      "file": "bef4a4a2bdcf.webp",
+      "rect": {
+        "x": 882,
+        "y": 601,
+        "size": 649
+      }
+    },
+    {
+      "file": "cce4519aa349.webp",
+      "rect": {
+        "x": 707,
+        "y": 427,
+        "size": 998
+      }
+    },
+    {
+      "file": "571ba551f8d4.webp",
+      "rect": {
+        "x": 443,
+        "y": 163,
+        "size": 1526
+      }
+    },
+    {
+      "file": "cee54bd535b3.webp",
+      "rect": {
+        "x": 125,
+        "y": 0,
+        "size": 2162
+      }
+    },
+    {
+      "file": "635d25fe95d1.webp",
+      "rect": {
+        "x": 0,
+        "y": -622,
+        "size": 3840
+      }
+    }
+  ]
+}

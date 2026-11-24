@@ -1,0 +1,67 @@
+{
+  "a": "v5WaiJXVgY2bgMXduVmV",
+  "ar": "uFWa0lGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tiziano%27s_Venere_di_Urbino_(from_The_History_BLog).jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9173f5dc2fda.webp",
+      "rect": {
+        "x": 629,
+        "y": 1465,
+        "size": 286
+      }
+    },
+    {
+      "file": "af96b8727f9c.webp",
+      "rect": {
+        "x": 558,
+        "y": 1393,
+        "size": 429
+      }
+    },
+    {
+      "file": "03ee0beffca7.webp",
+      "rect": {
+        "x": 450,
+        "y": 1286,
+        "size": 644
+      }
+    },
+    {
+      "file": "09d45dda766f.webp",
+      "rect": {
+        "x": 277,
+        "y": 1113,
+        "size": 990
+      }
+    },
+    {
+      "file": "f086765c3bbf.webp",
+      "rect": {
+        "x": 15,
+        "y": 851,
+        "size": 1514
+      }
+    },
+    {
+      "file": "701f4aae296d.webp",
+      "rect": {
+        "x": 0,
+        "y": 429,
+        "size": 2145
+      }
+    },
+    {
+      "file": "8389d2e27dc8.webp",
+      "rect": {
+        "x": 0,
+        "y": -529,
+        "size": 3633
+      }
+    }
+  ]
+}

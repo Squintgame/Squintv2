@@ -1,0 +1,67 @@
+{
+  "a": "0NXYlZEIzdichpnehh2csVmQ",
+  "ar": "0RmbhJnYtVmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt-Belsazar.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "dea46ca3bb81.webp",
+      "rect": {
+        "x": 256,
+        "y": 1918,
+        "size": 340
+      }
+    },
+    {
+      "file": "5dd133b5c3fa.webp",
+      "rect": {
+        "x": 171,
+        "y": 1833,
+        "size": 510
+      }
+    },
+    {
+      "file": "cf56833c5816.webp",
+      "rect": {
+        "x": 43,
+        "y": 1706,
+        "size": 764
+      }
+    },
+    {
+      "file": "ba6579a5967e.webp",
+      "rect": {
+        "x": 0,
+        "y": 1500,
+        "size": 1176
+      }
+    },
+    {
+      "file": "ff0f78678643.webp",
+      "rect": {
+        "x": 0,
+        "y": 1189,
+        "size": 1798
+      }
+    },
+    {
+      "file": "d34e36906404.webp",
+      "rect": {
+        "x": 0,
+        "y": 510,
+        "size": 2548
+      }
+    },
+    {
+      "file": "8fc11e82c5f2.webp",
+      "rect": {
+        "x": 0,
+        "y": -391,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "0h2Zp52SgEGIm9GItFWZyREIlhGV",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Sanzio_Raffaello_-_Visione_del_cavaliere_(circa_1504).jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "e15d671d8c61.webp",
+      "rect": {
+        "x": 320,
+        "y": 741,
+        "size": 423
+      }
+    },
+    {
+      "file": "b9638f11f211.webp",
+      "rect": {
+        "x": 214,
+        "y": 636,
+        "size": 634
+      }
+    },
+    {
+      "file": "548ab8633a8a.webp",
+      "rect": {
+        "x": 56,
+        "y": 477,
+        "size": 951
+      }
+    },
+    {
+      "file": "7e916b63144a.webp",
+      "rect": {
+        "x": 0,
+        "y": 221,
+        "size": 1463
+      }
+    },
+    {
+      "file": "039908634050.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2238
+      }
+    },
+    {
+      "file": "8cb83482caaf.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3171
+      }
+    },
+    {
+      "file": "0ecdd4bd2787.webp",
+      "rect": {
+        "x": 0,
+        "y": -17,
+        "size": 3840
+      }
+    }
+  ]
+}

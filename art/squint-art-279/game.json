@@ -1,0 +1,67 @@
+{
+  "a": "=UGbslmdlNFIm9GIyVGbsV2cyVGdhdFIlhGV",
+  "ar": "==gelVXc6F6wsVmVg82ZllGR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:El_aguador_de_Sevilla,_por_Diego_Vel%C3%A1zquez.jpg",
+  "photographer": "Victoria and Albert Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "eeb6274c28ee.webp",
+      "rect": {
+        "x": 196,
+        "y": 1092,
+        "size": 263
+      }
+    },
+    {
+      "file": "936beee03549.webp",
+      "rect": {
+        "x": 130,
+        "y": 1026,
+        "size": 395
+      }
+    },
+    {
+      "file": "7512a507e7bc.webp",
+      "rect": {
+        "x": 31,
+        "y": 928,
+        "size": 593
+      }
+    },
+    {
+      "file": "e4fae9d192ee.webp",
+      "rect": {
+        "x": 0,
+        "y": 768,
+        "size": 912
+      }
+    },
+    {
+      "file": "7b111b48a4c8.webp",
+      "rect": {
+        "x": 0,
+        "y": 527,
+        "size": 1395
+      }
+    },
+    {
+      "file": "8045cc66bc00.webp",
+      "rect": {
+        "x": 0,
+        "y": 236,
+        "size": 1976
+      }
+    },
+    {
+      "file": "c5e22fe64931.webp",
+      "rect": {
+        "x": -414,
+        "y": 0,
+        "size": 3200
+      }
+    }
+  ]
+}

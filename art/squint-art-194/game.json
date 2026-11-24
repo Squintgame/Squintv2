@@ -1,0 +1,67 @@
+{
+  "a": "rlnejRYxhR3U",
+  "ar": "=82aqVGdh1EIuFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Sta%C5%84czyk_-_hi-res_tiff.tif",
+  "photographer": "National Museum in Warsaw",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "7250473fad26.webp",
+      "rect": {
+        "x": 1106,
+        "y": 1106,
+        "size": 297
+      }
+    },
+    {
+      "file": "94c07ef2d0f2.webp",
+      "rect": {
+        "x": 1031,
+        "y": 1032,
+        "size": 446
+      }
+    },
+    {
+      "file": "d1e53bf531da.webp",
+      "rect": {
+        "x": 920,
+        "y": 920,
+        "size": 669
+      }
+    },
+    {
+      "file": "24700453c939.webp",
+      "rect": {
+        "x": 740,
+        "y": 740,
+        "size": 1029
+      }
+    },
+    {
+      "file": "dfb0afbe1f23.webp",
+      "rect": {
+        "x": 467,
+        "y": 468,
+        "size": 1574
+      }
+    },
+    {
+      "file": "ca413ffcd3ac.webp",
+      "rect": {
+        "x": 139,
+        "y": 140,
+        "size": 2230
+      }
+    },
+    {
+      "file": "680ff1799286.webp",
+      "rect": {
+        "x": 0,
+        "y": -582,
+        "size": 3840
+      }
+    }
+  ]
+}

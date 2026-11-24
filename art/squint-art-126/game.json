@@ -1,0 +1,67 @@
+{
+  "a": "yVGbsVGVgUmb1RncvZEIlhGV",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Fortune_Teller-Caravaggio_(Louvre).jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "6a3569e2851a.webp",
+      "rect": {
+        "x": 2322,
+        "y": 242,
+        "size": 322
+      }
+    },
+    {
+      "file": "e09d289af3fb.webp",
+      "rect": {
+        "x": 2241,
+        "y": 162,
+        "size": 484
+      }
+    },
+    {
+      "file": "8f28161ddccb.webp",
+      "rect": {
+        "x": 2120,
+        "y": 41,
+        "size": 726
+      }
+    },
+    {
+      "file": "96f53c6d61b3.webp",
+      "rect": {
+        "x": 1925,
+        "y": 0,
+        "size": 1116
+      }
+    },
+    {
+      "file": "aa30df931b05.webp",
+      "rect": {
+        "x": 1630,
+        "y": 0,
+        "size": 1707
+      }
+    },
+    {
+      "file": "9bc07252b7c1.webp",
+      "rect": {
+        "x": 1274,
+        "y": 0,
+        "size": 2418
+      }
+    },
+    {
+      "file": "ac760aaa4f6b.webp",
+      "rect": {
+        "x": 0,
+        "y": -469,
+        "size": 3840
+      }
+    }
+  ]
+}

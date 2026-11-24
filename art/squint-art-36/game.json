@@ -1,0 +1,67 @@
+{
+  "a": "=k2YuVmQgcSZkBSYyZXZul2R",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ginevra_de%27_Benci_-_National_Gallery_of_Art.jpg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "33080a9e7e33.webp",
+      "rect": {
+        "x": 318,
+        "y": 318,
+        "size": 427
+      }
+    },
+    {
+      "file": "a2be50bff279.webp",
+      "rect": {
+        "x": 211,
+        "y": 211,
+        "size": 640
+      }
+    },
+    {
+      "file": "756f55fb3ede.webp",
+      "rect": {
+        "x": 51,
+        "y": 51,
+        "size": 960
+      }
+    },
+    {
+      "file": "b821233d2e96.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1477
+      }
+    },
+    {
+      "file": "8577cde44bc3.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2259
+      }
+    },
+    {
+      "file": "3a7064f17b4c.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "f88ec5c148d5.webp",
+      "rect": {
+        "x": -60,
+        "y": 0,
+        "size": 3961
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "yVWbvhEIm9GI0NXdCBSYggGdpdHIlxGdvR3cpJXQ",
+  "ar": "0RmbhJnYtVmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_Aristotle_with_a_Bust_of_Homer_-_WGA19232.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "4fdb3262492d.webp",
+      "rect": {
+        "x": 2497,
+        "y": 1943,
+        "size": 377
+      }
+    },
+    {
+      "file": "fc7ee20c0b66.webp",
+      "rect": {
+        "x": 2403,
+        "y": 1848,
+        "size": 566
+      }
+    },
+    {
+      "file": "e50d4d1bed73.webp",
+      "rect": {
+        "x": 2261,
+        "y": 1707,
+        "size": 849
+      }
+    },
+    {
+      "file": "29a23f9233b0.webp",
+      "rect": {
+        "x": 2033,
+        "y": 1478,
+        "size": 1307
+      }
+    },
+    {
+      "file": "443ec2ebe8ff.webp",
+      "rect": {
+        "x": 1399,
+        "y": 1132,
+        "size": 1998
+      }
+    },
+    {
+      "file": "64452e36d243.webp",
+      "rect": {
+        "x": 566,
+        "y": 716,
+        "size": 2831
+      }
+    },
+    {
+      "file": "98c7a1301904.webp",
+      "rect": {
+        "x": -85,
+        "y": 0,
+        "size": 3567
+      }
+    }
+  ]
+}

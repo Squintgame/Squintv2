@@ -1,0 +1,67 @@
+{
+  "a": "kxWY35WdydEIm9GIlxGd0FmQ",
+  "ar": "=82aqVGdh1EIuFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg",
+  "photographer": "National Museum in Warsaw",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "996b488f9c6c.webp",
+      "rect": {
+        "x": 3502,
+        "y": 1104,
+        "size": 189
+      }
+    },
+    {
+      "file": "7c0826eeecb9.webp",
+      "rect": {
+        "x": 3455,
+        "y": 1057,
+        "size": 284
+      }
+    },
+    {
+      "file": "21773cc4a243.webp",
+      "rect": {
+        "x": 3384,
+        "y": 986,
+        "size": 426
+      }
+    },
+    {
+      "file": "529e6a343338.webp",
+      "rect": {
+        "x": 3184,
+        "y": 871,
+        "size": 656
+      }
+    },
+    {
+      "file": "60f44b10d0cb.webp",
+      "rect": {
+        "x": 2837,
+        "y": 697,
+        "size": 1003
+      }
+    },
+    {
+      "file": "189ff3cb67ff.webp",
+      "rect": {
+        "x": 2419,
+        "y": 284,
+        "size": 1421
+      }
+    },
+    {
+      "file": "30271b704336.webp",
+      "rect": {
+        "x": 0,
+        "y": -1067,
+        "size": 3840
+      }
+    }
+  ]
+}

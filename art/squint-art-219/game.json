@@ -1,0 +1,67 @@
+{
+  "a": "==gb3FGR",
+  "ar": "=UXYlJXZ1dWdvJEIlhGcs9GZB1SbhlGbsl2V",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:L%27Aurore_(Dawn)_-_William-Adolphe_Bouguereau_-_Google_Cultural_Institute.jpg",
+  "photographer": "Birmingham Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d39c2f9011dc.webp",
+      "rect": {
+        "x": 562,
+        "y": 2782,
+        "size": 331
+      }
+    },
+    {
+      "file": "6de624f98975.webp",
+      "rect": {
+        "x": 480,
+        "y": 2699,
+        "size": 497
+      }
+    },
+    {
+      "file": "154c14e84147.webp",
+      "rect": {
+        "x": 355,
+        "y": 2574,
+        "size": 746
+      }
+    },
+    {
+      "file": "26f0c21fb52e.webp",
+      "rect": {
+        "x": 155,
+        "y": 2374,
+        "size": 1147
+      }
+    },
+    {
+      "file": "b628e3675f62.webp",
+      "rect": {
+        "x": 0,
+        "y": 2070,
+        "size": 1754
+      }
+    },
+    {
+      "file": "917cb2943ce5.webp",
+      "rect": {
+        "x": 0,
+        "y": 1705,
+        "size": 2485
+      }
+    },
+    {
+      "file": "8e85f5ac8127.webp",
+      "rect": {
+        "x": -1481,
+        "y": 0,
+        "size": 5944
+      }
+    }
+  ]
+}

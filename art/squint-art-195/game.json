@@ -1,0 +1,67 @@
+{
+  "a": "ulmc19mYtFGVgUHZgk6wmF2QgUGa0BibpByZulGd0l2UgkmcvRXYnV2UgEmbpR3cvdWQ",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_In_the_caf%C3%A9_-_Agostina_Segatori_in_Le_Tambourin_-_Google_Art_Project_2.jpg",
+  "photographer": "Van Gogh Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "3321e3b3271b.webp",
+      "rect": {
+        "x": 323,
+        "y": 3866,
+        "size": 427
+      }
+    },
+    {
+      "file": "2a7a69cc05ac.webp",
+      "rect": {
+        "x": 216,
+        "y": 3759,
+        "size": 640
+      }
+    },
+    {
+      "file": "633268b169ba.webp",
+      "rect": {
+        "x": 56,
+        "y": 3599,
+        "size": 960
+      }
+    },
+    {
+      "file": "8a6478d13557.webp",
+      "rect": {
+        "x": 0,
+        "y": 3154,
+        "size": 1477
+      }
+    },
+    {
+      "file": "296aff5f4b58.webp",
+      "rect": {
+        "x": 0,
+        "y": 2372,
+        "size": 2259
+      }
+    },
+    {
+      "file": "9016d9081838.webp",
+      "rect": {
+        "x": 0,
+        "y": 1431,
+        "size": 3200
+      }
+    },
+    {
+      "file": "10232d95438f.webp",
+      "rect": {
+        "x": -395,
+        "y": 0,
+        "size": 4631
+      }
+    }
+  ]
+}

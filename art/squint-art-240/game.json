@@ -1,0 +1,67 @@
+{
+  "a": "==QZpB3Zh1EIlhGV",
+  "ar": "0Vmbv1EIlRWdhx2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_The_Magpie_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b818050bda36.webp",
+      "rect": {
+        "x": 780,
+        "y": 1343,
+        "size": 289
+      }
+    },
+    {
+      "file": "447d897a9d65.webp",
+      "rect": {
+        "x": 708,
+        "y": 1271,
+        "size": 434
+      }
+    },
+    {
+      "file": "c5c88437a9cd.webp",
+      "rect": {
+        "x": 599,
+        "y": 1162,
+        "size": 651
+      }
+    },
+    {
+      "file": "cfc26f05ff7f.webp",
+      "rect": {
+        "x": 424,
+        "y": 987,
+        "size": 1002
+      }
+    },
+    {
+      "file": "7ed8e0635fb3.webp",
+      "rect": {
+        "x": 159,
+        "y": 722,
+        "size": 1532
+      }
+    },
+    {
+      "file": "a3f050f1b3af.webp",
+      "rect": {
+        "x": 0,
+        "y": 403,
+        "size": 2170
+      }
+    },
+    {
+      "file": "dc86a8fb5187.webp",
+      "rect": {
+        "x": 0,
+        "y": -618,
+        "size": 3840
+      }
+    }
+  ]
+}

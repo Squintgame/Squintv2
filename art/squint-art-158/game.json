@@ -1,0 +1,67 @@
+{
+  "a": "=QXa1JnRgY2bgQXZrNXYCBSYggGdpdHI59mQ",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Boy_with_a_Basket_of_Fruit-Caravaggio_(1593).jpg",
+  "photographer": "Galleria Borghese",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5b2ff565cf9d.webp",
+      "rect": {
+        "x": 750,
+        "y": 3103,
+        "size": 427
+      }
+    },
+    {
+      "file": "5e9dfd58b124.webp",
+      "rect": {
+        "x": 643,
+        "y": 2997,
+        "size": 640
+      }
+    },
+    {
+      "file": "c9fa5384b19c.webp",
+      "rect": {
+        "x": 483,
+        "y": 2837,
+        "size": 960
+      }
+    },
+    {
+      "file": "eb971a256a57.webp",
+      "rect": {
+        "x": 225,
+        "y": 2535,
+        "size": 1477
+      }
+    },
+    {
+      "file": "4e34ef4bc0f7.webp",
+      "rect": {
+        "x": 0,
+        "y": 1753,
+        "size": 2259
+      }
+    },
+    {
+      "file": "5acb77d16dcd.webp",
+      "rect": {
+        "x": 0,
+        "y": 812,
+        "size": 3200
+      }
+    },
+    {
+      "file": "7348b1bb0f71.webp",
+      "rect": {
+        "x": -86,
+        "y": 0,
+        "size": 4012
+      }
+    }
+  ]
+}

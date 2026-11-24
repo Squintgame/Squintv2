@@ -1,0 +1,67 @@
+{
+  "a": "zRHanlGblREI5xGa0JXYFBiZvBiblRmchdEIlhGV",
+  "ar": "==AajN3bCByc11Weu9mcllGS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Garden_of_Earthly_Delights_by_Bosch_High_Resolution_2.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "63e241c7cdf5.webp",
+      "rect": {
+        "x": 1761,
+        "y": 1398,
+        "size": 241
+      }
+    },
+    {
+      "file": "774650e02b01.webp",
+      "rect": {
+        "x": 1701,
+        "y": 1338,
+        "size": 361
+      }
+    },
+    {
+      "file": "f0f57135c71f.webp",
+      "rect": {
+        "x": 1611,
+        "y": 1247,
+        "size": 541
+      }
+    },
+    {
+      "file": "1e6311eb859b.webp",
+      "rect": {
+        "x": 1465,
+        "y": 1102,
+        "size": 833
+      }
+    },
+    {
+      "file": "a8518c14e1a4.webp",
+      "rect": {
+        "x": 1245,
+        "y": 881,
+        "size": 1274
+      }
+    },
+    {
+      "file": "e03450a087b9.webp",
+      "rect": {
+        "x": 980,
+        "y": 361,
+        "size": 1804
+      }
+    },
+    {
+      "file": "e69a90ef310b.webp",
+      "rect": {
+        "x": 0,
+        "y": -837,
+        "size": 3840
+      }
+    }
+  ]
+}

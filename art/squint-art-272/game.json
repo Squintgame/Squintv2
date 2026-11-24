@@ -1,0 +1,67 @@
+{
+  "a": "lZWaMBiZvBycldWY0NFIlhGV",
+  "ar": "==AajlmckVWayZEIklmdhREIyFGczF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Die_Lebensstufen_(ca._1834).jpg",
+  "photographer": "Museum der bildenden Künste",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "293098fb69e4.webp",
+      "rect": {
+        "x": 1415,
+        "y": 2080,
+        "size": 331
+      }
+    },
+    {
+      "file": "e202cbf7419d.webp",
+      "rect": {
+        "x": 1332,
+        "y": 1997,
+        "size": 497
+      }
+    },
+    {
+      "file": "820426e9c506.webp",
+      "rect": {
+        "x": 1208,
+        "y": 1873,
+        "size": 745
+      }
+    },
+    {
+      "file": "240d975bf3b5.webp",
+      "rect": {
+        "x": 1008,
+        "y": 1672,
+        "size": 1147
+      }
+    },
+    {
+      "file": "68e82c4dee80.webp",
+      "rect": {
+        "x": 704,
+        "y": 1227,
+        "size": 1754
+      }
+    },
+    {
+      "file": "b62b83edf86a.webp",
+      "rect": {
+        "x": 339,
+        "y": 497,
+        "size": 2484
+      }
+    },
+    {
+      "file": "43c90e5e0ab1.webp",
+      "rect": {
+        "x": 0,
+        "y": -429,
+        "size": 3840
+      }
+    }
+  ]
+}

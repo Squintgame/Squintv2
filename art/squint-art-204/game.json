@@ -1,0 +1,67 @@
+{
+  "a": "==QYlNFIlhGdgknYgsmbv1EIlhGV",
+  "ar": "==AajlmckVWayZEIklmdhREIyFGczF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Friedrich,_Caspar_David_-_M%C3%B6nch_am_Meer_-_Alte_Nationalgalerie_in_Berlin.jpg",
+  "photographer": "Alte Nationalgalerie",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "03498a61f26d.webp",
+      "rect": {
+        "x": 1177,
+        "y": 1794,
+        "size": 252
+      }
+    },
+    {
+      "file": "ce02ad60446b.webp",
+      "rect": {
+        "x": 1114,
+        "y": 1731,
+        "size": 378
+      }
+    },
+    {
+      "file": "6f9edd48d834.webp",
+      "rect": {
+        "x": 1020,
+        "y": 1636,
+        "size": 568
+      }
+    },
+    {
+      "file": "cb2c3866c75d.webp",
+      "rect": {
+        "x": 867,
+        "y": 1397,
+        "size": 873
+      }
+    },
+    {
+      "file": "f4b940b9e8ef.webp",
+      "rect": {
+        "x": 636,
+        "y": 935,
+        "size": 1335
+      }
+    },
+    {
+      "file": "ec006735207d.webp",
+      "rect": {
+        "x": 358,
+        "y": 378,
+        "size": 1892
+      }
+    },
+    {
+      "file": "6cc01adb1d52.webp",
+      "rect": {
+        "x": 0,
+        "y": -630,
+        "size": 3531
+      }
+    }
+  ]
+}

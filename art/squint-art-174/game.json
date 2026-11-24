@@ -1,0 +1,67 @@
+{
+  "a": "kVGbhVmdlJFI5RXdhVmQ",
+  "ar": "ldGZpJHZv92RggWYyF2U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Sarah_Goodridge_Beauty_Revealed_The_Metropolitan_Museum_of_Art.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "86ab56e5d8da.webp",
+      "rect": {
+        "x": 276,
+        "y": 275,
+        "size": 364
+      }
+    },
+    {
+      "file": "2ec2def03b32.webp",
+      "rect": {
+        "x": 185,
+        "y": 184,
+        "size": 546
+      }
+    },
+    {
+      "file": "b2c07e3278cc.webp",
+      "rect": {
+        "x": 48,
+        "y": 48,
+        "size": 818
+      }
+    },
+    {
+      "file": "8331111ed68b.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1259
+      }
+    },
+    {
+      "file": "a00ea4b3de4b.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1926
+      }
+    },
+    {
+      "file": "a1741453d3c4.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2728
+      }
+    },
+    {
+      "file": "dce451813bc5.webp",
+      "rect": {
+        "x": 0,
+        "y": -283,
+        "size": 3840
+      }
+    }
+  ]
+}

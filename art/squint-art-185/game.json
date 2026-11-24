@@ -1,0 +1,67 @@
+{
+  "a": "==wchxGblJnYtVFIlhGV",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir,_The_Umbrellas,_ca._1881-86.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "51eb2717d929.webp",
+      "rect": {
+        "x": 2002,
+        "y": 2886,
+        "size": 299
+      }
+    },
+    {
+      "file": "3a0dcc074110.webp",
+      "rect": {
+        "x": 1927,
+        "y": 2812,
+        "size": 448
+      }
+    },
+    {
+      "file": "d02ba7a5b211.webp",
+      "rect": {
+        "x": 1815,
+        "y": 2700,
+        "size": 672
+      }
+    },
+    {
+      "file": "05061566fec2.webp",
+      "rect": {
+        "x": 1634,
+        "y": 2519,
+        "size": 1033
+      }
+    },
+    {
+      "file": "ccc935ebcf4c.webp",
+      "rect": {
+        "x": 1106,
+        "y": 2245,
+        "size": 1581
+      }
+    },
+    {
+      "file": "561d5c1e6593.webp",
+      "rect": {
+        "x": 448,
+        "y": 1916,
+        "size": 2239
+      }
+    },
+    {
+      "file": "9182c149e60b.webp",
+      "rect": {
+        "x": -769,
+        "y": 0,
+        "size": 4226
+      }
+    }
+  ]
+}

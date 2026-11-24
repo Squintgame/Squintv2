@@ -1,0 +1,67 @@
+{
+  "a": "==wc1xWYiF2ZvlGblhEIm9GIzV2cvJFIlhGV",
+  "ar": "=EWblRWYU1SYtxWQgU2YuVmc3FGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Roses_of_Heliogabalus.jpg",
+  "photographer": "Pérez Simón Collection",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c3b9d6c24a7e.webp",
+      "rect": {
+        "x": 582,
+        "y": 1736,
+        "size": 263
+      }
+    },
+    {
+      "file": "e60581c751ef.webp",
+      "rect": {
+        "x": 517,
+        "y": 1670,
+        "size": 394
+      }
+    },
+    {
+      "file": "a3fc446b71f7.webp",
+      "rect": {
+        "x": 418,
+        "y": 1572,
+        "size": 591
+      }
+    },
+    {
+      "file": "005a4ca61b5d.webp",
+      "rect": {
+        "x": 259,
+        "y": 1413,
+        "size": 909
+      }
+    },
+    {
+      "file": "7463e84dd90f.webp",
+      "rect": {
+        "x": 18,
+        "y": 973,
+        "size": 1391
+      }
+    },
+    {
+      "file": "4db4635937dd.webp",
+      "rect": {
+        "x": 0,
+        "y": 394,
+        "size": 1970
+      }
+    },
+    {
+      "file": "6fd82f46a56c.webp",
+      "rect": {
+        "x": 0,
+        "y": -738,
+        "size": 3840
+      }
+    }
+  ]
+}

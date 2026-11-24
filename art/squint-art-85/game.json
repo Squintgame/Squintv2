@@ -1,0 +1,67 @@
+{
+  "a": "==QZoRnbpNnYBdCT",
+  "ar": "=MXYnVGRgIXYnRWR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_In_a_Caf%C3%A9_-_Google_Art_Project_2.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "0703ea0bab39.webp",
+      "rect": {
+        "x": 2638,
+        "y": 529,
+        "size": 427
+      }
+    },
+    {
+      "file": "abf30955c656.webp",
+      "rect": {
+        "x": 2531,
+        "y": 422,
+        "size": 640
+      }
+    },
+    {
+      "file": "365c3d63fb23.webp",
+      "rect": {
+        "x": 2371,
+        "y": 262,
+        "size": 960
+      }
+    },
+    {
+      "file": "726e9398b0be.webp",
+      "rect": {
+        "x": 2113,
+        "y": 3,
+        "size": 1477
+      }
+    },
+    {
+      "file": "463d857ce01c.webp",
+      "rect": {
+        "x": 1581,
+        "y": 0,
+        "size": 2259
+      }
+    },
+    {
+      "file": "81d730c86e7e.webp",
+      "rect": {
+        "x": 640,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "9e4fd50101cf.webp",
+      "rect": {
+        "x": -714,
+        "y": 0,
+        "size": 5268
+      }
+    }
+  ]
+}

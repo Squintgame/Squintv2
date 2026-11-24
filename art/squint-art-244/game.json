@@ -1,0 +1,67 @@
+{
+  "a": "l52byhGVgwWYpJXZw1WSgMXaoBibvBSSg42blx2bwFmT",
+  "ar": "=MXZydmbJBSZ1FXaulWbvRULlR3c1dWdB1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ingres,_Napoleon_on_his_Imperial_throne.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "426ded9ffa0a.webp",
+      "rect": {
+        "x": 730,
+        "y": 2300,
+        "size": 227
+      }
+    },
+    {
+      "file": "27fb288a189d.webp",
+      "rect": {
+        "x": 673,
+        "y": 2243,
+        "size": 341
+      }
+    },
+    {
+      "file": "82013201bd35.webp",
+      "rect": {
+        "x": 588,
+        "y": 2158,
+        "size": 512
+      }
+    },
+    {
+      "file": "228a0b7ccfde.webp",
+      "rect": {
+        "x": 450,
+        "y": 2020,
+        "size": 787
+      }
+    },
+    {
+      "file": "554496603a16.webp",
+      "rect": {
+        "x": 242,
+        "y": 1812,
+        "size": 1204
+      }
+    },
+    {
+      "file": "f8d43b6e0c86.webp",
+      "rect": {
+        "x": 0,
+        "y": 1561,
+        "size": 1706
+      }
+    },
+    {
+      "file": "ced90f264e16.webp",
+      "rect": {
+        "x": -658,
+        "y": 0,
+        "size": 3364
+      }
+    }
+  ]
+}

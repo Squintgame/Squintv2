@@ -1,0 +1,67 @@
+{
+  "a": "=4WYjxWdWBiZvBSZnJ3bGBSZoRHIulGIvxGbvBXQ",
+  "ar": "==gelVXc6F6wsVmVg82ZllGR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vel%C3%A1zquez_-_La_Fragua_de_Vulcano_(Museo_del_Prado,_1630).jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9c52db856c13.webp",
+      "rect": {
+        "x": 320,
+        "y": 448,
+        "size": 255
+      }
+    },
+    {
+      "file": "98dd45b1f013.webp",
+      "rect": {
+        "x": 257,
+        "y": 385,
+        "size": 382
+      }
+    },
+    {
+      "file": "61d5bdc7b8d9.webp",
+      "rect": {
+        "x": 161,
+        "y": 289,
+        "size": 573
+      }
+    },
+    {
+      "file": "97b3ae62c436.webp",
+      "rect": {
+        "x": 7,
+        "y": 135,
+        "size": 882
+      }
+    },
+    {
+      "file": "dadf731db505.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1349
+      }
+    },
+    {
+      "file": "e2abc8d33745.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1911
+      }
+    },
+    {
+      "file": "f219853ebc3b.webp",
+      "rect": {
+        "x": 0,
+        "y": -329,
+        "size": 2952
+      }
+    }
+  ]
+}

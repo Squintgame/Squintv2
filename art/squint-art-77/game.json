@@ -1,0 +1,67 @@
+{
+  "a": "==gbvlGdhl2YuVnbuFEIlhGV",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Annunciation_(Leonardo)_(cropped).jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "561f12e2a249.webp",
+      "rect": {
+        "x": 1102,
+        "y": 525,
+        "size": 190
+      }
+    },
+    {
+      "file": "9e016cefde36.webp",
+      "rect": {
+        "x": 1055,
+        "y": 478,
+        "size": 284
+      }
+    },
+    {
+      "file": "e9893be99987.webp",
+      "rect": {
+        "x": 983,
+        "y": 407,
+        "size": 427
+      }
+    },
+    {
+      "file": "6b5ce1d20138.webp",
+      "rect": {
+        "x": 869,
+        "y": 292,
+        "size": 657
+      }
+    },
+    {
+      "file": "a65da5839e0a.webp",
+      "rect": {
+        "x": 695,
+        "y": 118,
+        "size": 1004
+      }
+    },
+    {
+      "file": "41d252b2a9e8.webp",
+      "rect": {
+        "x": 486,
+        "y": 0,
+        "size": 1422
+      }
+    },
+    {
+      "file": "38249ed0c4b2.webp",
+      "rect": {
+        "x": 0,
+        "y": -1066,
+        "size": 3840
+      }
+    }
+  ]
+}

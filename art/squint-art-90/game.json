@@ -1,0 +1,67 @@
+{
+  "a": "==wc1xWYwFmbhRmchNFIm9GIoRXYlREIlhGV",
+  "ar": "=gXavJ3YhxWZEBSZuh6wnVXR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:La_Mort_de_Sardanapale_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_2346.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9683174c35ea.webp",
+      "rect": {
+        "x": 2745,
+        "y": 1911,
+        "size": 334
+      }
+    },
+    {
+      "file": "1592862bf730.webp",
+      "rect": {
+        "x": 2662,
+        "y": 1828,
+        "size": 501
+      }
+    },
+    {
+      "file": "29330ed4563e.webp",
+      "rect": {
+        "x": 2536,
+        "y": 1702,
+        "size": 751
+      }
+    },
+    {
+      "file": "a568c6c8b4e1.webp",
+      "rect": {
+        "x": 2334,
+        "y": 1500,
+        "size": 1156
+      }
+    },
+    {
+      "file": "a8d20df17403.webp",
+      "rect": {
+        "x": 2028,
+        "y": 1194,
+        "size": 1768
+      }
+    },
+    {
+      "file": "ce590dc349a5.webp",
+      "rect": {
+        "x": 1336,
+        "y": 501,
+        "size": 2504
+      }
+    },
+    {
+      "file": "d910016f9e0b.webp",
+      "rect": {
+        "x": 0,
+        "y": -417,
+        "size": 3840
+      }
+    }
+  ]
+}

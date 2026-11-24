@@ -1,0 +1,67 @@
+{
+  "a": "39GZul2Vg4WZw9EIuFGI0FGIyVGd0VGTgEGIn5WakFWZSBCbyl2R",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_Brieflezend_meisje_bij_het_venster_(ca._1657-59).jpg",
+  "photographer": "Staatliche Kunstsammlungen Dresden",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5bacf344ecc4.webp",
+      "rect": {
+        "x": 2310,
+        "y": 1941,
+        "size": 367
+      }
+    },
+    {
+      "file": "991e24991e47.webp",
+      "rect": {
+        "x": 2218,
+        "y": 1849,
+        "size": 550
+      }
+    },
+    {
+      "file": "1f57cb253e6a.webp",
+      "rect": {
+        "x": 2080,
+        "y": 1712,
+        "size": 826
+      }
+    },
+    {
+      "file": "ab11e5f41b4f.webp",
+      "rect": {
+        "x": 1858,
+        "y": 1489,
+        "size": 1270
+      }
+    },
+    {
+      "file": "527da9f2aba6.webp",
+      "rect": {
+        "x": 1360,
+        "y": 1153,
+        "size": 1943
+      }
+    },
+    {
+      "file": "bfd227f00138.webp",
+      "rect": {
+        "x": 550,
+        "y": 748,
+        "size": 2752
+      }
+    },
+    {
+      "file": "4515faeecf84.webp",
+      "rect": {
+        "x": -480,
+        "y": 0,
+        "size": 4263
+      }
+    }
+  ]
+}

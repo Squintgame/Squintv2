@@ -1,0 +1,67 @@
+{
+  "a": "0NXZoNEIzlGag42bgQmbhhEIzlGaggGdpdHIuFWblxmYv5EIlhGV",
+  "ar": "=82YlJ3RgwWR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:El_caballero_de_la_mano_en_el_pecho,_by_El_Greco,_from_Prado_in_Google_Earth.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "a1e76a745fa8.webp",
+      "rect": {
+        "x": 533,
+        "y": 3518,
+        "size": 427
+      }
+    },
+    {
+      "file": "1f41de4e409e.webp",
+      "rect": {
+        "x": 427,
+        "y": 3411,
+        "size": 640
+      }
+    },
+    {
+      "file": "c3880eafd19a.webp",
+      "rect": {
+        "x": 267,
+        "y": 3251,
+        "size": 960
+      }
+    },
+    {
+      "file": "388f7959f294.webp",
+      "rect": {
+        "x": 8,
+        "y": 2993,
+        "size": 1477
+      }
+    },
+    {
+      "file": "cc2b1734a544.webp",
+      "rect": {
+        "x": 0,
+        "y": 2602,
+        "size": 2259
+      }
+    },
+    {
+      "file": "c62888ac621a.webp",
+      "rect": {
+        "x": 0,
+        "y": 1720,
+        "size": 3200
+      }
+    },
+    {
+      "file": "3048db98fa0b.webp",
+      "rect": {
+        "x": -540,
+        "y": 0,
+        "size": 4920
+      }
+    }
+  ]
+}

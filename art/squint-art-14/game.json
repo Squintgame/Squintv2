@@ -1,0 +1,67 @@
+{
+  "a": "=kGZuVXTgI3b0FmdsF2U",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci,_Salvator_Mundi,_c.1500,_oil_on_walnut,_45.4_%C3%97_65.6_cm.jpg",
+  "photographer": "Louvre Abu Dhabi",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c8dc35d61459.webp",
+      "rect": {
+        "x": 807,
+        "y": 3479,
+        "size": 367
+      }
+    },
+    {
+      "file": "557e3826dd90.webp",
+      "rect": {
+        "x": 716,
+        "y": 3387,
+        "size": 550
+      }
+    },
+    {
+      "file": "5db45c50addc.webp",
+      "rect": {
+        "x": 578,
+        "y": 3250,
+        "size": 825
+      }
+    },
+    {
+      "file": "4054440cc9ee.webp",
+      "rect": {
+        "x": 356,
+        "y": 3028,
+        "size": 1269
+      }
+    },
+    {
+      "file": "6c49b1149d8c.webp",
+      "rect": {
+        "x": 20,
+        "y": 2692,
+        "size": 1941
+      }
+    },
+    {
+      "file": "892163afedea.webp",
+      "rect": {
+        "x": 0,
+        "y": 2106,
+        "size": 2750
+      }
+    },
+    {
+      "file": "cbbb266a1c53.webp",
+      "rect": {
+        "x": -778,
+        "y": 0,
+        "size": 4856
+      }
+    }
+  ]
+}

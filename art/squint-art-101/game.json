@@ -1,0 +1,67 @@
+{
+  "a": "=knbvNGbhJEIlhGV",
+  "ar": "=QXZuFWTgQmchV3bkl4w",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_The_Balcony_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "04cf07a1ab52.webp",
+      "rect": {
+        "x": 2880,
+        "y": 2242,
+        "size": 427
+      }
+    },
+    {
+      "file": "d73376e78a41.webp",
+      "rect": {
+        "x": 2773,
+        "y": 2135,
+        "size": 640
+      }
+    },
+    {
+      "file": "9c58376513ca.webp",
+      "rect": {
+        "x": 2613,
+        "y": 1975,
+        "size": 960
+      }
+    },
+    {
+      "file": "baec35dfe190.webp",
+      "rect": {
+        "x": 2355,
+        "y": 1717,
+        "size": 1477
+      }
+    },
+    {
+      "file": "c839ab7596cd.webp",
+      "rect": {
+        "x": 1581,
+        "y": 1326,
+        "size": 2259
+      }
+    },
+    {
+      "file": "5b8b0b90bcfd.webp",
+      "rect": {
+        "x": 640,
+        "y": 855,
+        "size": 3200
+      }
+    },
+    {
+      "file": "bf3583dbf00c.webp",
+      "rect": {
+        "x": -748,
+        "y": 0,
+        "size": 5337
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==QYuF2QgQXYgcmbpRGZldFIlhGV",
+  "ar": "=U2cl52byVmVg8GbvFGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Les_Noces_de_Cana_-_Paolo_Veronese_-_Mus%C3%A9e_du_Louvre_Peintures_INV_142_;_MR_384.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b3b1371ca280.webp",
+      "rect": {
+        "x": 1486,
+        "y": 2048,
+        "size": 286
+      }
+    },
+    {
+      "file": "354da7c7acb5.webp",
+      "rect": {
+        "x": 1415,
+        "y": 1976,
+        "size": 428
+      }
+    },
+    {
+      "file": "9898fe0616c2.webp",
+      "rect": {
+        "x": 1307,
+        "y": 1869,
+        "size": 643
+      }
+    },
+    {
+      "file": "fcf0a73211df.webp",
+      "rect": {
+        "x": 1134,
+        "y": 1582,
+        "size": 989
+      }
+    },
+    {
+      "file": "e648523bdcd7.webp",
+      "rect": {
+        "x": 873,
+        "y": 1059,
+        "size": 1512
+      }
+    },
+    {
+      "file": "c86b087fa379.webp",
+      "rect": {
+        "x": 558,
+        "y": 428,
+        "size": 2142
+      }
+    },
+    {
+      "file": "544426002465.webp",
+      "rect": {
+        "x": 0,
+        "y": -634,
+        "size": 3840
+      }
+    }
+  ]
+}

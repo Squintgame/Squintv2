@@ -1,0 +1,67 @@
+{
+  "a": "u92UgwWYnlGZvJHUgUGa0BiZvBibyVHdlJFIlhGV",
+  "ar": "0RmbhJnYtVmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz_van_Rijn_-_Return_of_the_Prodigal_Son_-_Google_Art_Project.jpg",
+  "photographer": "Hermitage Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "dfb80813f67a.webp",
+      "rect": {
+        "x": 943,
+        "y": 2822,
+        "size": 427
+      }
+    },
+    {
+      "file": "99f7de686726.webp",
+      "rect": {
+        "x": 836,
+        "y": 2716,
+        "size": 640
+      }
+    },
+    {
+      "file": "f52087ef010a.webp",
+      "rect": {
+        "x": 676,
+        "y": 2556,
+        "size": 960
+      }
+    },
+    {
+      "file": "9a94e2dba603.webp",
+      "rect": {
+        "x": 418,
+        "y": 2297,
+        "size": 1477
+      }
+    },
+    {
+      "file": "f35b2d5225d1.webp",
+      "rect": {
+        "x": 27,
+        "y": 1906,
+        "size": 2259
+      }
+    },
+    {
+      "file": "984b8fc25bc4.webp",
+      "rect": {
+        "x": 0,
+        "y": 1436,
+        "size": 3200
+      }
+    },
+    {
+      "file": "349a6c56d273.webp",
+      "rect": {
+        "x": -585,
+        "y": 0,
+        "size": 5011
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=IXZ0VGUgQnbpF2UgY2bg42bphXaml2Y1J3Q",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Crucifixion_of_Saint_Peter-Caravaggio_(c.1600).jpg",
+  "photographer": "Santa Maria del Popolo",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "1fc6696c4283.webp",
+      "rect": {
+        "x": 1179,
+        "y": 3109,
+        "size": 427
+      }
+    },
+    {
+      "file": "6ceb7a1ed1d0.webp",
+      "rect": {
+        "x": 1073,
+        "y": 3002,
+        "size": 640
+      }
+    },
+    {
+      "file": "1429eabae5de.webp",
+      "rect": {
+        "x": 913,
+        "y": 2842,
+        "size": 960
+      }
+    },
+    {
+      "file": "bad18b9b6334.webp",
+      "rect": {
+        "x": 654,
+        "y": 2584,
+        "size": 1477
+      }
+    },
+    {
+      "file": "6568c16aca9f.webp",
+      "rect": {
+        "x": 263,
+        "y": 2193,
+        "size": 2259
+      }
+    },
+    {
+      "file": "9ee1a2868840.webp",
+      "rect": {
+        "x": 0,
+        "y": 1722,
+        "size": 3200
+      }
+    },
+    {
+      "file": "919b399e1145.webp",
+      "rect": {
+        "x": -553,
+        "y": 0,
+        "size": 4946
+      }
+    }
+  ]
+}

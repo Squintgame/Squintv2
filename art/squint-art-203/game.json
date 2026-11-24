@@ -1,0 +1,67 @@
+{
+  "a": "==AclVGbzFEIsJXaHBSQ",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vermeer_young_women_sleeping.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "79471d12b2aa.webp",
+      "rect": {
+        "x": 633,
+        "y": 1905,
+        "size": 363
+      }
+    },
+    {
+      "file": "57bf6536a1a0.webp",
+      "rect": {
+        "x": 542,
+        "y": 1814,
+        "size": 544
+      }
+    },
+    {
+      "file": "bad2c1adef01.webp",
+      "rect": {
+        "x": 406,
+        "y": 1678,
+        "size": 816
+      }
+    },
+    {
+      "file": "04c80def1a79.webp",
+      "rect": {
+        "x": 187,
+        "y": 1459,
+        "size": 1255
+      }
+    },
+    {
+      "file": "f7316e526e1c.webp",
+      "rect": {
+        "x": 0,
+        "y": 1127,
+        "size": 1919
+      }
+    },
+    {
+      "file": "e6cf5a320a05.webp",
+      "rect": {
+        "x": 0,
+        "y": 727,
+        "size": 2719
+      }
+    },
+    {
+      "file": "71fed652eeb3.webp",
+      "rect": {
+        "x": -248,
+        "y": 0,
+        "size": 3759
+      }
+    }
+  ]
+}

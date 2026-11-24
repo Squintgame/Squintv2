@@ -1,0 +1,67 @@
+{
+  "a": "=UmcoOcaulGZyFmSgUGbsVmQgEGT",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:La_Vierge_%C3%A0_l%27Enfant_avec_le_petit_saint_Jean_Baptiste_-_Rapha%C3%ABl_-_Mus%C3%A9e_du_Louvre_Peintures_INV_602_;_MR_433.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d508858b5dc9.webp",
+      "rect": {
+        "x": 946,
+        "y": 3663,
+        "size": 427
+      }
+    },
+    {
+      "file": "06cfacfefc36.webp",
+      "rect": {
+        "x": 839,
+        "y": 3557,
+        "size": 640
+      }
+    },
+    {
+      "file": "a4d5f4818af8.webp",
+      "rect": {
+        "x": 679,
+        "y": 3397,
+        "size": 960
+      }
+    },
+    {
+      "file": "ffce89b8028e.webp",
+      "rect": {
+        "x": 421,
+        "y": 3138,
+        "size": 1477
+      }
+    },
+    {
+      "file": "87a75be67c2f.webp",
+      "rect": {
+        "x": 30,
+        "y": 2747,
+        "size": 2259
+      }
+    },
+    {
+      "file": "38beb20d2f90.webp",
+      "rect": {
+        "x": 0,
+        "y": 2277,
+        "size": 3200
+      }
+    },
+    {
+      "file": "aaf13f9cbc98.webp",
+      "rect": {
+        "x": -1066,
+        "y": 0,
+        "size": 5972
+      }
+    }
+  ]
+}

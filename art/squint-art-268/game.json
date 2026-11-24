@@ -1,0 +1,67 @@
+{
+  "a": "zVGbsVGcBBiZvBSeu1WdsF2Q",
+  "ar": "=kGbsV2YpRHdvJEIvJHZuF2U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_La_calumnia_de_Apeles.jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f6e7a73e362b.webp",
+      "rect": {
+        "x": 2151,
+        "y": 720,
+        "size": 223
+      }
+    },
+    {
+      "file": "0d62868fc303.webp",
+      "rect": {
+        "x": 2095,
+        "y": 665,
+        "size": 335
+      }
+    },
+    {
+      "file": "3f1ef4ea59a6.webp",
+      "rect": {
+        "x": 2011,
+        "y": 581,
+        "size": 502
+      }
+    },
+    {
+      "file": "c38a9978ff84.webp",
+      "rect": {
+        "x": 1876,
+        "y": 446,
+        "size": 773
+      }
+    },
+    {
+      "file": "df46a2d193e0.webp",
+      "rect": {
+        "x": 1672,
+        "y": 241,
+        "size": 1182
+      }
+    },
+    {
+      "file": "061d1b42fb9f.webp",
+      "rect": {
+        "x": 1326,
+        "y": 0,
+        "size": 1674
+      }
+    },
+    {
+      "file": "0702ef502760.webp",
+      "rect": {
+        "x": 0,
+        "y": -495,
+        "size": 3000
+      }
+    }
+  ]
+}

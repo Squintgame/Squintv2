@@ -1,0 +1,67 @@
+{
+  "a": "=QXZlJHdTBSZsRHdpxEIlhGV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Gezicht_op_huizen_in_Delft,_bekend_als_%27Het_straatje%27_-_Google_Art_Project.jpg",
+  "photographer": "Rijksmuseum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "549d80db086e.webp",
+      "rect": {
+        "x": 2889,
+        "y": 3528,
+        "size": 427
+      }
+    },
+    {
+      "file": "667badfad202.webp",
+      "rect": {
+        "x": 2782,
+        "y": 3421,
+        "size": 640
+      }
+    },
+    {
+      "file": "39cac1f2e3b6.webp",
+      "rect": {
+        "x": 2622,
+        "y": 3261,
+        "size": 960
+      }
+    },
+    {
+      "file": "1d1e08d96057.webp",
+      "rect": {
+        "x": 2363,
+        "y": 3003,
+        "size": 1477
+      }
+    },
+    {
+      "file": "fe801466786d.webp",
+      "rect": {
+        "x": 1581,
+        "y": 2497,
+        "size": 2259
+      }
+    },
+    {
+      "file": "c6e5ef7b647d.webp",
+      "rect": {
+        "x": 640,
+        "y": 1556,
+        "size": 3200
+      }
+    },
+    {
+      "file": "41286c64a193.webp",
+      "rect": {
+        "x": -458,
+        "y": 0,
+        "size": 4756
+      }
+    }
+  ]
+}

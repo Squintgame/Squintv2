@@ -1,0 +1,67 @@
+{
+  "a": "=8GZlx2bUBiZvBydllmV",
+  "ar": "=82YlJ3RgwWR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:El_Greco_View_of_Toledo.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "aa0ea0c8aeec.webp",
+      "rect": {
+        "x": 2157,
+        "y": 1409,
+        "size": 382
+      }
+    },
+    {
+      "file": "ae49e7ca0905.webp",
+      "rect": {
+        "x": 2061,
+        "y": 1313,
+        "size": 573
+      }
+    },
+    {
+      "file": "8d673aac87b7.webp",
+      "rect": {
+        "x": 1918,
+        "y": 1170,
+        "size": 859
+      }
+    },
+    {
+      "file": "f410aa45b705.webp",
+      "rect": {
+        "x": 1687,
+        "y": 939,
+        "size": 1322
+      }
+    },
+    {
+      "file": "a769558f68d2.webp",
+      "rect": {
+        "x": 1337,
+        "y": 589,
+        "size": 2021
+      }
+    },
+    {
+      "file": "1a3096c6957b.webp",
+      "rect": {
+        "x": 573,
+        "y": 168,
+        "size": 2863
+      }
+    },
+    {
+      "file": "26d19ad8fd3b.webp",
+      "rect": {
+        "x": -221,
+        "y": 0,
+        "size": 3878
+      }
+    }
+  ]
+}

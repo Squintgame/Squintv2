@@ -1,0 +1,67 @@
+{
+  "a": "=E2Zs9mVgUGa0BibvBycyVGb1FGSgU2ZyFmQ",
+  "ar": "==gbpBXZSBSY5xWS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ilya_Repin_-_Barge_Haulers_on_the_Volga_-_Google_Art_Project.jpg",
+  "photographer": "Russian Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "10ceca3cce3c.webp",
+      "rect": {
+        "x": 1107,
+        "y": 626,
+        "size": 200
+      }
+    },
+    {
+      "file": "068babade27f.webp",
+      "rect": {
+        "x": 1057,
+        "y": 576,
+        "size": 300
+      }
+    },
+    {
+      "file": "63fad1b1a5af.webp",
+      "rect": {
+        "x": 982,
+        "y": 501,
+        "size": 449
+      }
+    },
+    {
+      "file": "ddfc545f3404.webp",
+      "rect": {
+        "x": 861,
+        "y": 380,
+        "size": 691
+      }
+    },
+    {
+      "file": "0908e1247aa4.webp",
+      "rect": {
+        "x": 678,
+        "y": 197,
+        "size": 1057
+      }
+    },
+    {
+      "file": "cb94f5a92dff.webp",
+      "rect": {
+        "x": 458,
+        "y": 0,
+        "size": 1498
+      }
+    },
+    {
+      "file": "0fe8e342acf5.webp",
+      "rect": {
+        "x": 0,
+        "y": -1021,
+        "size": 3840
+      }
+    }
+  ]
+}

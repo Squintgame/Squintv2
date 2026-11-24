@@ -1,0 +1,67 @@
+{
+  "a": "l5mbBBCdulWYTBCa0l2dgQGbph2QgQmbhBibpdmcpZFIlhGV",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Sainte_Anne_Leonard.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b1b3fa6d691d.webp",
+      "rect": {
+        "x": 2857,
+        "y": 1378,
+        "size": 427
+      }
+    },
+    {
+      "file": "425e6abfc7a3.webp",
+      "rect": {
+        "x": 2750,
+        "y": 1271,
+        "size": 640
+      }
+    },
+    {
+      "file": "e1020e99afd7.webp",
+      "rect": {
+        "x": 2590,
+        "y": 1111,
+        "size": 960
+      }
+    },
+    {
+      "file": "b08563633f33.webp",
+      "rect": {
+        "x": 2332,
+        "y": 853,
+        "size": 1477
+      }
+    },
+    {
+      "file": "a2d1196b71ba.webp",
+      "rect": {
+        "x": 1581,
+        "y": 462,
+        "size": 2259
+      }
+    },
+    {
+      "file": "cd3353fd1593.webp",
+      "rect": {
+        "x": 640,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "604c6cfdbbb4.webp",
+      "rect": {
+        "x": -619,
+        "y": 0,
+        "size": 5078
+      }
+    }
+  ]
+}

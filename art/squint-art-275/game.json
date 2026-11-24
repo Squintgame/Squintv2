@@ -1,0 +1,67 @@
+{
+  "a": "==gc1FGduV2QgUGa0BCZuFGIzFGbsFGU",
+  "ar": "=kGbsV2YpRHdvJEIvJHZuF2U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pallade_col_Centauro,_Sandro_Botticelli_(1482).jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f744aabc78cf.webp",
+      "rect": {
+        "x": 3017,
+        "y": 2808,
+        "size": 427
+      }
+    },
+    {
+      "file": "bfd92646022a.webp",
+      "rect": {
+        "x": 2910,
+        "y": 2702,
+        "size": 640
+      }
+    },
+    {
+      "file": "3f580e846a66.webp",
+      "rect": {
+        "x": 2750,
+        "y": 2542,
+        "size": 960
+      }
+    },
+    {
+      "file": "73757e5eaf15.webp",
+      "rect": {
+        "x": 2363,
+        "y": 2283,
+        "size": 1477
+      }
+    },
+    {
+      "file": "29ade7ec7a19.webp",
+      "rect": {
+        "x": 1581,
+        "y": 1892,
+        "size": 2259
+      }
+    },
+    {
+      "file": "81badcdd0099.webp",
+      "rect": {
+        "x": 640,
+        "y": 1422,
+        "size": 3200
+      }
+    },
+    {
+      "file": "a579afd435f5.webp",
+      "rect": {
+        "x": -790,
+        "y": 0,
+        "size": 5420
+      }
+    }
+  ]
+}

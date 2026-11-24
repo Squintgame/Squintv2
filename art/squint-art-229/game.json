@@ -1,0 +1,67 @@
+{
+  "a": "==AZyVGSgUGa0BiZvBibyVHdlJFIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84.,_,_Kunsthistorisches_Museum_Wien,_Gem%C3%A4ldegalerie_-_Heimkehr_der_Herde_(Herbst)_-_GG_1018_-_Kunsthistorisches_Museum.jpg",
+  "photographer": "Kunsthistorisches Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "3fe66772e95b.webp",
+      "rect": {
+        "x": 181,
+        "y": 421,
+        "size": 244
+      }
+    },
+    {
+      "file": "3b2a780dc9c1.webp",
+      "rect": {
+        "x": 120,
+        "y": 360,
+        "size": 365
+      }
+    },
+    {
+      "file": "1a1c9f627770.webp",
+      "rect": {
+        "x": 28,
+        "y": 269,
+        "size": 548
+      }
+    },
+    {
+      "file": "aac3069c16dd.webp",
+      "rect": {
+        "x": 0,
+        "y": 121,
+        "size": 843
+      }
+    },
+    {
+      "file": "221bc34159ea.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1289
+      }
+    },
+    {
+      "file": "b428338cc180.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1827
+      }
+    },
+    {
+      "file": "8a942d3afd12.webp",
+      "rect": {
+        "x": 0,
+        "y": -404,
+        "size": 3000
+      }
+    }
+  ]
+}

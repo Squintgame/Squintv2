@@ -1,0 +1,67 @@
+{
+  "a": "=kHdyFGUgcmbpRXYvJEIlhGdgY2bg42blh2YuVHT",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+  "photographer": "The Phillips Collection",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "aefa0e981a24.webp",
+      "rect": {
+        "x": 1311,
+        "y": 2081,
+        "size": 316
+      }
+    },
+    {
+      "file": "c51e792e09d8.webp",
+      "rect": {
+        "x": 1232,
+        "y": 2002,
+        "size": 474
+      }
+    },
+    {
+      "file": "60ba98b73e50.webp",
+      "rect": {
+        "x": 1113,
+        "y": 1883,
+        "size": 711
+      }
+    },
+    {
+      "file": "55339b5833cf.webp",
+      "rect": {
+        "x": 922,
+        "y": 1692,
+        "size": 1094
+      }
+    },
+    {
+      "file": "0b6952944ee6.webp",
+      "rect": {
+        "x": 632,
+        "y": 1171,
+        "size": 1673
+      }
+    },
+    {
+      "file": "e551cbe23744.webp",
+      "rect": {
+        "x": 284,
+        "y": 474,
+        "size": 2370
+      }
+    },
+    {
+      "file": "31e979458ced.webp",
+      "rect": {
+        "x": 0,
+        "y": -498,
+        "size": 3840
+      }
+    }
+  ]
+}

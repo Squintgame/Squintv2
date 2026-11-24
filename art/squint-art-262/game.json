@@ -1,0 +1,67 @@
+{
+  "a": "==QmAKucltmbpJHRgkncyVWTYCo4gUGa0BychBib39mbLBCLyVWel1WZrJXZCBSYgcmbpRGbvhEIuFWbhlGdpxWaNBSQ",
+  "ar": "==wcsFGSgMnbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Frans_Hals_002.jpg",
+  "photographer": "Rijksmuseum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "32d291a12f7d.webp",
+      "rect": {
+        "x": 1376,
+        "y": 3058,
+        "size": 427
+      }
+    },
+    {
+      "file": "95dae2c4627d.webp",
+      "rect": {
+        "x": 1269,
+        "y": 2951,
+        "size": 640
+      }
+    },
+    {
+      "file": "1fd3a4ee26cb.webp",
+      "rect": {
+        "x": 1109,
+        "y": 2791,
+        "size": 960
+      }
+    },
+    {
+      "file": "ff64e733ee5e.webp",
+      "rect": {
+        "x": 851,
+        "y": 2533,
+        "size": 1477
+      }
+    },
+    {
+      "file": "6715769b3fc2.webp",
+      "rect": {
+        "x": 460,
+        "y": 2142,
+        "size": 2259
+      }
+    },
+    {
+      "file": "c14ac85e3128.webp",
+      "rect": {
+        "x": 0,
+        "y": 1307,
+        "size": 3200
+      }
+    },
+    {
+      "file": "0c1db9a5d3c1.webp",
+      "rect": {
+        "x": -333,
+        "y": 0,
+        "size": 4507
+      }
+    }
+  ]
+}

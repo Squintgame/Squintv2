@@ -1,0 +1,67 @@
+{
+  "a": "z9WaoNEI0FGIlJ3YhN3ch1EIlhGV",
+  "ar": "=gXavJ3YhxWZEBSZuh6wnVXR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Sc%C3%A8ne_des_massacres_de_Scio,_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3823_;_C3.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b4d4dad24b03.webp",
+      "rect": {
+        "x": 958,
+        "y": 2872,
+        "size": 427
+      }
+    },
+    {
+      "file": "82bd8ad239dd.webp",
+      "rect": {
+        "x": 851,
+        "y": 2766,
+        "size": 640
+      }
+    },
+    {
+      "file": "ab985e63e983.webp",
+      "rect": {
+        "x": 691,
+        "y": 2606,
+        "size": 960
+      }
+    },
+    {
+      "file": "439fbfa7c19a.webp",
+      "rect": {
+        "x": 433,
+        "y": 2347,
+        "size": 1477
+      }
+    },
+    {
+      "file": "c8cc12bbe617.webp",
+      "rect": {
+        "x": 42,
+        "y": 1956,
+        "size": 2259
+      }
+    },
+    {
+      "file": "737ef238fc64.webp",
+      "rect": {
+        "x": 0,
+        "y": 1360,
+        "size": 3200
+      }
+    },
+    {
+      "file": "949330893414.webp",
+      "rect": {
+        "x": -360,
+        "y": 0,
+        "size": 4560
+      }
+    }
+  ]
+}

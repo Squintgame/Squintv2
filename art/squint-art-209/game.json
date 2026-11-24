@@ -1,0 +1,67 @@
+{
+  "a": "hQXZiJXdvNEIyVXZpNnbv1EIsIXdvpmbvJEIy9GIscmbpRXZl1EIlhGV",
+  "ar": "0VmYyV3bDBSZ2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Bonjour_Monsieur_Courbet_-_Mus%C3%A9e_Fabre.jpg",
+  "photographer": "Musée Fabre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "44782e697436.webp",
+      "rect": {
+        "x": 1956,
+        "y": 651,
+        "size": 289
+      }
+    },
+    {
+      "file": "b84adf090415.webp",
+      "rect": {
+        "x": 1884,
+        "y": 579,
+        "size": 433
+      }
+    },
+    {
+      "file": "516def0e9ef2.webp",
+      "rect": {
+        "x": 1775,
+        "y": 471,
+        "size": 649
+      }
+    },
+    {
+      "file": "91d92cf17960.webp",
+      "rect": {
+        "x": 1601,
+        "y": 296,
+        "size": 999
+      }
+    },
+    {
+      "file": "bffa59a1fc2a.webp",
+      "rect": {
+        "x": 1336,
+        "y": 32,
+        "size": 1528
+      }
+    },
+    {
+      "file": "8a8dd872ad9a.webp",
+      "rect": {
+        "x": 836,
+        "y": 0,
+        "size": 2164
+      }
+    },
+    {
+      "file": "fd1aa95db4da.webp",
+      "rect": {
+        "x": 0,
+        "y": -201,
+        "size": 3000
+      }
+    }
+  ]
+}

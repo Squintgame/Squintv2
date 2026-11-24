@@ -1,0 +1,67 @@
+{
+  "a": "=IXZpN3clRXav1EIl1WYkFWT",
+  "ar": "=MXZydmbJBSZ1FXaulWbvRULlR3c1dWdB1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Dominique_Ingres_-_Mme_Moitessier.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "cbf088113a57.webp",
+      "rect": {
+        "x": 1157,
+        "y": 3466,
+        "size": 427
+      }
+    },
+    {
+      "file": "dba2571aefbd.webp",
+      "rect": {
+        "x": 1051,
+        "y": 3359,
+        "size": 640
+      }
+    },
+    {
+      "file": "50e0610ac8d1.webp",
+      "rect": {
+        "x": 891,
+        "y": 3199,
+        "size": 960
+      }
+    },
+    {
+      "file": "25d98a0f6d76.webp",
+      "rect": {
+        "x": 632,
+        "y": 2941,
+        "size": 1477
+      }
+    },
+    {
+      "file": "ba570f2072f1.webp",
+      "rect": {
+        "x": 241,
+        "y": 2550,
+        "size": 2259
+      }
+    },
+    {
+      "file": "57bf27c4865d.webp",
+      "rect": {
+        "x": 0,
+        "y": 1834,
+        "size": 3200
+      }
+    },
+    {
+      "file": "342184945133.webp",
+      "rect": {
+        "x": -597,
+        "y": 0,
+        "size": 5034
+      }
+    }
+  ]
+}

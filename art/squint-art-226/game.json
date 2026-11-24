@@ -1,0 +1,67 @@
+{
+  "a": "=kXY3xWahJFIlhGV",
+  "ar": "=QXZuFWTgQmchV3bkl4w",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Le_Chemin_de_fer_-_Google_Art_Project.jpg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "15cc79089afc.webp",
+      "rect": {
+        "x": 434,
+        "y": 1988,
+        "size": 347
+      }
+    },
+    {
+      "file": "064bed50fdd5.webp",
+      "rect": {
+        "x": 347,
+        "y": 1901,
+        "size": 521
+      }
+    },
+    {
+      "file": "14b783e511c5.webp",
+      "rect": {
+        "x": 217,
+        "y": 1771,
+        "size": 782
+      }
+    },
+    {
+      "file": "a93529470b73.webp",
+      "rect": {
+        "x": 7,
+        "y": 1560,
+        "size": 1203
+      }
+    },
+    {
+      "file": "300e9b6e6eb0.webp",
+      "rect": {
+        "x": 0,
+        "y": 1242,
+        "size": 1839
+      }
+    },
+    {
+      "file": "75dfcad49d3d.webp",
+      "rect": {
+        "x": 0,
+        "y": 521,
+        "size": 2606
+      }
+    },
+    {
+      "file": "30631c97af80.webp",
+      "rect": {
+        "x": 0,
+        "y": -356,
+        "size": 3840
+      }
+    }
+  ]
+}

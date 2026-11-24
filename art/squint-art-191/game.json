@@ -1,0 +1,67 @@
+{
+  "a": "hJXZoRXeDBicvZGIu9Wa0F2ayFmYtVEIlhGV",
+  "ar": "=UXYlRHdhdFIl5WavRnbB1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:L%27Embarquement_pour_Cyth%C3%A8re,_by_Antoine_Watteau,_from_C2RMF_retouched.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "ba7575c0c1b3.webp",
+      "rect": {
+        "x": 2606,
+        "y": 1763,
+        "size": 280
+      }
+    },
+    {
+      "file": "e715acb0ecb4.webp",
+      "rect": {
+        "x": 2536,
+        "y": 1693,
+        "size": 420
+      }
+    },
+    {
+      "file": "b1ba5de44abd.webp",
+      "rect": {
+        "x": 2431,
+        "y": 1588,
+        "size": 630
+      }
+    },
+    {
+      "file": "9e80416d895f.webp",
+      "rect": {
+        "x": 2261,
+        "y": 1419,
+        "size": 968
+      }
+    },
+    {
+      "file": "ea6917753dda.webp",
+      "rect": {
+        "x": 2005,
+        "y": 1037,
+        "size": 1481
+      }
+    },
+    {
+      "file": "3c5ad4f160e4.webp",
+      "rect": {
+        "x": 1696,
+        "y": 420,
+        "size": 2098
+      }
+    },
+    {
+      "file": "f1d91d460396.webp",
+      "rect": {
+        "x": 0,
+        "y": -661,
+        "size": 3840
+      }
+    }
+  ]
+}

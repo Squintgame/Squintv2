@@ -1,0 +1,67 @@
+{
+  "a": "==QYpBXb5x2T",
+  "ar": "=QXZuFWTgQmchV3bkl4w",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Olympia_-_Google_Art_Project_3.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "4d0cf9fe22f5.webp",
+      "rect": {
+        "x": 2257,
+        "y": 1098,
+        "size": 266
+      }
+    },
+    {
+      "file": "3a7efd9cda86.webp",
+      "rect": {
+        "x": 2190,
+        "y": 1031,
+        "size": 398
+      }
+    },
+    {
+      "file": "43d0a714e400.webp",
+      "rect": {
+        "x": 2091,
+        "y": 932,
+        "size": 598
+      }
+    },
+    {
+      "file": "0a137f243f8b.webp",
+      "rect": {
+        "x": 1930,
+        "y": 771,
+        "size": 920
+      }
+    },
+    {
+      "file": "f38d9497156d.webp",
+      "rect": {
+        "x": 1686,
+        "y": 527,
+        "size": 1406
+      }
+    },
+    {
+      "file": "b053a4c77664.webp",
+      "rect": {
+        "x": 1393,
+        "y": 234,
+        "size": 1992
+      }
+    },
+    {
+      "file": "193b21c2eed1.webp",
+      "rect": {
+        "x": 0,
+        "y": -559,
+        "size": 3510
+      }
+    }
+  ]
+}

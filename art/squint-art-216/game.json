@@ -1,0 +1,67 @@
+{
+  "a": "zNXZuJXZkxWaXBSZoRHIulGI0NXayh2Q",
+  "ar": "==Qavt2ctFmcLBibhZXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ivan_Kramskoy_-_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D1%81_%D0%B2_%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D0%B5_-_Google_Art_Project.jpg",
+  "photographer": "Tretyakov Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f8ed11615858.webp",
+      "rect": {
+        "x": 3064,
+        "y": 2322,
+        "size": 374
+      }
+    },
+    {
+      "file": "14acbddd0d66.webp",
+      "rect": {
+        "x": 2971,
+        "y": 2229,
+        "size": 561
+      }
+    },
+    {
+      "file": "5358c4f1e2e0.webp",
+      "rect": {
+        "x": 2830,
+        "y": 2088,
+        "size": 842
+      }
+    },
+    {
+      "file": "dd41773b220b.webp",
+      "rect": {
+        "x": 2545,
+        "y": 1862,
+        "size": 1295
+      }
+    },
+    {
+      "file": "80375f9cdca9.webp",
+      "rect": {
+        "x": 1859,
+        "y": 1386,
+        "size": 1981
+      }
+    },
+    {
+      "file": "5af0981370cf.webp",
+      "rect": {
+        "x": 1034,
+        "y": 561,
+        "size": 2806
+      }
+    },
+    {
+      "file": "f96f0b2a6f17.webp",
+      "rect": {
+        "x": 0,
+        "y": -236,
+        "size": 3840
+      }
+    }
+  ]
+}

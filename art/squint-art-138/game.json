@@ -1,0 +1,67 @@
+{
+  "a": "=IXY0NFIk5WYgM3clJHc5NEIoRXa3BCZh9mU",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Road_with_Cypress_and_Star_-_c._12-15_May_1890.jpg",
+  "photographer": "Kröller-Müller Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d8b39f698638.webp",
+      "rect": {
+        "x": 239,
+        "y": 1945,
+        "size": 316
+      }
+    },
+    {
+      "file": "150d093420ef.webp",
+      "rect": {
+        "x": 160,
+        "y": 1866,
+        "size": 473
+      }
+    },
+    {
+      "file": "458bccb5be25.webp",
+      "rect": {
+        "x": 42,
+        "y": 1748,
+        "size": 710
+      }
+    },
+    {
+      "file": "81b7dfbaa328.webp",
+      "rect": {
+        "x": 0,
+        "y": 1557,
+        "size": 1092
+      }
+    },
+    {
+      "file": "f0ede26e6a77.webp",
+      "rect": {
+        "x": 0,
+        "y": 1267,
+        "size": 1671
+      }
+    },
+    {
+      "file": "ea649d014530.webp",
+      "rect": {
+        "x": 0,
+        "y": 919,
+        "size": 2367
+      }
+    },
+    {
+      "file": "bf5f419bba6e.webp",
+      "rect": {
+        "x": -369,
+        "y": 0,
+        "size": 3579
+      }
+    }
+  ]
+}

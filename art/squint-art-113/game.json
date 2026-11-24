@@ -1,0 +1,67 @@
+{
+  "a": "==gbpdmcpZFIlhGdgY2bggGdhVGR",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Death_of_the_Virgin-Caravaggio_(1606).jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "148706337c42.webp",
+      "rect": {
+        "x": 2652,
+        "y": 3930,
+        "size": 427
+      }
+    },
+    {
+      "file": "c907d2cd3f94.webp",
+      "rect": {
+        "x": 2546,
+        "y": 3823,
+        "size": 640
+      }
+    },
+    {
+      "file": "6dcc78ccf717.webp",
+      "rect": {
+        "x": 2386,
+        "y": 3663,
+        "size": 960
+      }
+    },
+    {
+      "file": "2a9310f7d403.webp",
+      "rect": {
+        "x": 2127,
+        "y": 3405,
+        "size": 1477
+      }
+    },
+    {
+      "file": "145a34a2802a.webp",
+      "rect": {
+        "x": 1581,
+        "y": 3014,
+        "size": 2259
+      }
+    },
+    {
+      "file": "9b19294bf3c4.webp",
+      "rect": {
+        "x": 640,
+        "y": 2543,
+        "size": 3200
+      }
+    },
+    {
+      "file": "0b959eb12075.webp",
+      "rect": {
+        "x": -977,
+        "y": 0,
+        "size": 5795
+      }
+    }
+  ]
+}

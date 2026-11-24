@@ -1,0 +1,67 @@
+{
+  "a": "=MnclR3cpNFIvdHV",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Two_Sisters_(On_the_Terrace)_-_1933.455_-_Art_Institute_of_Chicago.jpg",
+  "photographer": "Art Institute of Chicago",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "eef70563280c.webp",
+      "rect": {
+        "x": 252,
+        "y": 1771,
+        "size": 201
+      }
+    },
+    {
+      "file": "a77b81c42f4b.webp",
+      "rect": {
+        "x": 202,
+        "y": 1720,
+        "size": 302
+      }
+    },
+    {
+      "file": "26051538d2cc.webp",
+      "rect": {
+        "x": 126,
+        "y": 1645,
+        "size": 453
+      }
+    },
+    {
+      "file": "df33c4568f02.webp",
+      "rect": {
+        "x": 4,
+        "y": 1523,
+        "size": 697
+      }
+    },
+    {
+      "file": "f20ec8214d78.webp",
+      "rect": {
+        "x": 0,
+        "y": 1184,
+        "size": 1066
+      }
+    },
+    {
+      "file": "1cb5a863f0d6.webp",
+      "rect": {
+        "x": 0,
+        "y": 739,
+        "size": 1511
+      }
+    },
+    {
+      "file": "5e0a2a2f5b21.webp",
+      "rect": {
+        "x": -218,
+        "y": 0,
+        "size": 2250
+      }
+    }
+  ]
+}

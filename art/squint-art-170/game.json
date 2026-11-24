@@ -1,0 +1,67 @@
+{
+  "a": "==AdzlmcoNEIm9GIu9Wa0FGbsV2ZhxmR",
+  "ar": "hN2clNmbhJnRgEGbsVGZg8mcllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Piero_della_Francesca_Flagellazione-gndm-full.jpg",
+  "photographer": "Galleria Nazionale delle Marche",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "641f03075d95.webp",
+      "rect": {
+        "x": 868,
+        "y": 1932,
+        "size": 271
+      }
+    },
+    {
+      "file": "f470e1b09556.webp",
+      "rect": {
+        "x": 800,
+        "y": 1864,
+        "size": 407
+      }
+    },
+    {
+      "file": "7848a3d3173c.webp",
+      "rect": {
+        "x": 698,
+        "y": 1762,
+        "size": 610
+      }
+    },
+    {
+      "file": "24ff006f187b.webp",
+      "rect": {
+        "x": 534,
+        "y": 1502,
+        "size": 938
+      }
+    },
+    {
+      "file": "7e77f56a907a.webp",
+      "rect": {
+        "x": 286,
+        "y": 1005,
+        "size": 1435
+      }
+    },
+    {
+      "file": "c4ecf4fdb255.webp",
+      "rect": {
+        "x": 0,
+        "y": 407,
+        "size": 2033
+      }
+    },
+    {
+      "file": "fcc66ebbf61d.webp",
+      "rect": {
+        "x": 0,
+        "y": -515,
+        "size": 3470
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "lRmbv1GI1RGIl5WanlmcPdCT",
+  "ar": "0VmYyV3bDBSZ2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Origin-of-the-World.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "45997e9334e0.webp",
+      "rect": {
+        "x": 607,
+        "y": 607,
+        "size": 353
+      }
+    },
+    {
+      "file": "b233e147122b.webp",
+      "rect": {
+        "x": 519,
+        "y": 519,
+        "size": 530
+      }
+    },
+    {
+      "file": "25303544f585.webp",
+      "rect": {
+        "x": 386,
+        "y": 386,
+        "size": 795
+      }
+    },
+    {
+      "file": "3d93b4cc67c0.webp",
+      "rect": {
+        "x": 172,
+        "y": 172,
+        "size": 1223
+      }
+    },
+    {
+      "file": "b281adb0721b.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1871
+      }
+    },
+    {
+      "file": "72b9a8fe7775.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2651
+      }
+    },
+    {
+      "file": "01a7320dcf03.webp",
+      "rect": {
+        "x": 0,
+        "y": -329,
+        "size": 3840
+      }
+    }
+  ]
+}

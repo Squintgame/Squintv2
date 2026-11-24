@@ -1,0 +1,67 @@
+{
+  "a": "==gblRmchdEIlhGdg4Wag4WZt92V",
+  "ar": "0Vmbv1EIlRWdhx2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet_024.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "24f3d01b1c62.webp",
+      "rect": {
+        "x": 1625,
+        "y": 618,
+        "size": 225
+      }
+    },
+    {
+      "file": "18eb993237ca.webp",
+      "rect": {
+        "x": 1569,
+        "y": 562,
+        "size": 337
+      }
+    },
+    {
+      "file": "722c7ba97514.webp",
+      "rect": {
+        "x": 1485,
+        "y": 477,
+        "size": 506
+      }
+    },
+    {
+      "file": "36c28e24a35c.webp",
+      "rect": {
+        "x": 1246,
+        "y": 341,
+        "size": 778
+      }
+    },
+    {
+      "file": "dfb11df2d335.webp",
+      "rect": {
+        "x": 833,
+        "y": 135,
+        "size": 1191
+      }
+    },
+    {
+      "file": "9ab00c1d886c.webp",
+      "rect": {
+        "x": 337,
+        "y": 0,
+        "size": 1687
+      }
+    },
+    {
+      "file": "a71ad34e6c79.webp",
+      "rect": {
+        "x": -233,
+        "y": 0,
+        "size": 2490
+      }
+    }
+  ]
+}

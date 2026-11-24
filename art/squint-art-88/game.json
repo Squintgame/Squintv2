@@ -1,0 +1,67 @@
+{
+  "a": "k5WasJEIlhGdgcmbpRWYlxEIk5WasJEIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Bruegel,_Pieter_(I)_-_Blind_leading_the_blind_Google_Art_Project.jpeg",
+  "photographer": "Museo di Capodimonte",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d25be5268b34.webp",
+      "rect": {
+        "x": 1268,
+        "y": 170,
+        "size": 229
+      }
+    },
+    {
+      "file": "c325a496b77a.webp",
+      "rect": {
+        "x": 1211,
+        "y": 112,
+        "size": 343
+      }
+    },
+    {
+      "file": "e689c1580831.webp",
+      "rect": {
+        "x": 1126,
+        "y": 27,
+        "size": 514
+      }
+    },
+    {
+      "file": "e471e48870af.webp",
+      "rect": {
+        "x": 987,
+        "y": 0,
+        "size": 792
+      }
+    },
+    {
+      "file": "3154eb6a610d.webp",
+      "rect": {
+        "x": 777,
+        "y": 0,
+        "size": 1211
+      }
+    },
+    {
+      "file": "fa32a91fe154.webp",
+      "rect": {
+        "x": 525,
+        "y": 0,
+        "size": 1715
+      }
+    },
+    {
+      "file": "1ec866fbd3d7.webp",
+      "rect": {
+        "x": 0,
+        "y": -802,
+        "size": 3663
+      }
+    }
+  ]
+}

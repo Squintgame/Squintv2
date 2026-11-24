@@ -1,0 +1,67 @@
+{
+  "a": "3VGa0RXYNBCdulWYTBiZvBSbvRmc5Rnch1EIlhGV",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Martyrdom_of_Saint_Matthew.jpg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "00e4d5de42d6.webp",
+      "rect": {
+        "x": 2791,
+        "y": 1833,
+        "size": 389
+      }
+    },
+    {
+      "file": "b65155c489eb.webp",
+      "rect": {
+        "x": 2694,
+        "y": 1736,
+        "size": 583
+      }
+    },
+    {
+      "file": "d491d895849a.webp",
+      "rect": {
+        "x": 2548,
+        "y": 1590,
+        "size": 874
+      }
+    },
+    {
+      "file": "a31e4b08ff21.webp",
+      "rect": {
+        "x": 2313,
+        "y": 1355,
+        "size": 1345
+      }
+    },
+    {
+      "file": "48fc038185ba.webp",
+      "rect": {
+        "x": 1783,
+        "y": 999,
+        "size": 2057
+      }
+    },
+    {
+      "file": "dea925730ae1.webp",
+      "rect": {
+        "x": 926,
+        "y": 570,
+        "size": 2914
+      }
+    },
+    {
+      "file": "d7c84eb4c9fb.webp",
+      "rect": {
+        "x": 0,
+        "y": -171,
+        "size": 3840
+      }
+    }
+  ]
+}

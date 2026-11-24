@@ -1,0 +1,67 @@
+{
+  "a": "oRXYpx2bHBiZvBCZhVGSgUGa0BCa0l2dgQWa2FGR",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:David_with_the_Head_of_Goliath-Caravaggio_(1610).jpg",
+  "photographer": "Galleria Borghese",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "17edb3fe1100.webp",
+      "rect": {
+        "x": 1600,
+        "y": 3311,
+        "size": 427
+      }
+    },
+    {
+      "file": "fef1a1431419.webp",
+      "rect": {
+        "x": 1493,
+        "y": 3204,
+        "size": 640
+      }
+    },
+    {
+      "file": "d68ef64143b5.webp",
+      "rect": {
+        "x": 1333,
+        "y": 3044,
+        "size": 960
+      }
+    },
+    {
+      "file": "b1c67c5e3722.webp",
+      "rect": {
+        "x": 1075,
+        "y": 2786,
+        "size": 1477
+      }
+    },
+    {
+      "file": "40b5b8395872.webp",
+      "rect": {
+        "x": 684,
+        "y": 2395,
+        "size": 2259
+      }
+    },
+    {
+      "file": "fd7ec76bffd9.webp",
+      "rect": {
+        "x": 213,
+        "y": 1552,
+        "size": 3200
+      }
+    },
+    {
+      "file": "df3e261b5d9c.webp",
+      "rect": {
+        "x": -456,
+        "y": 0,
+        "size": 4752
+      }
+    }
+  ]
+}

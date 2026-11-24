@@ -1,0 +1,67 @@
+{
+  "a": "lJmclh2JsBic1NHIyVmb1VmapOMRgUGT",
+  "ar": "=QXZuFWTgQmchV3bkl4w",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f30499cf85fe.webp",
+      "rect": {
+        "x": 1581,
+        "y": 1915,
+        "size": 331
+      }
+    },
+    {
+      "file": "3a76d5a29eab.webp",
+      "rect": {
+        "x": 1499,
+        "y": 1832,
+        "size": 497
+      }
+    },
+    {
+      "file": "0862dd2276b0.webp",
+      "rect": {
+        "x": 1374,
+        "y": 1708,
+        "size": 746
+      }
+    },
+    {
+      "file": "590a38ef7ff1.webp",
+      "rect": {
+        "x": 1174,
+        "y": 1507,
+        "size": 1147
+      }
+    },
+    {
+      "file": "2fdaa908ceba.webp",
+      "rect": {
+        "x": 870,
+        "y": 1203,
+        "size": 1755
+      }
+    },
+    {
+      "file": "658f40ea8247.webp",
+      "rect": {
+        "x": 504,
+        "y": 497,
+        "size": 2486
+      }
+    },
+    {
+      "file": "6bacb12167d2.webp",
+      "rect": {
+        "x": 0,
+        "y": -428,
+        "size": 3840
+      }
+    }
+  ]
+}

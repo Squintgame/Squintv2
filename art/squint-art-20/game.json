@@ -1,0 +1,67 @@
+{
+  "a": "hRWduNXZkBSYqFWbgEGT",
+  "ar": "=EWevdEIvN2cpNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Maja_desnuda_(museo_del_Prado).jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f0633246e401.webp",
+      "rect": {
+        "x": 1575,
+        "y": 1468,
+        "size": 216
+      }
+    },
+    {
+      "file": "522197624c85.webp",
+      "rect": {
+        "x": 1521,
+        "y": 1414,
+        "size": 325
+      }
+    },
+    {
+      "file": "8df446faa3b1.webp",
+      "rect": {
+        "x": 1440,
+        "y": 1333,
+        "size": 487
+      }
+    },
+    {
+      "file": "37af43b57a50.webp",
+      "rect": {
+        "x": 1309,
+        "y": 1199,
+        "size": 749
+      }
+    },
+    {
+      "file": "027985a86dde.webp",
+      "rect": {
+        "x": 1110,
+        "y": 802,
+        "size": 1146
+      }
+    },
+    {
+      "file": "a0d82e4e3db5.webp",
+      "rect": {
+        "x": 872,
+        "y": 325,
+        "size": 1623
+      }
+    },
+    {
+      "file": "0e9f9a38d9bf.webp",
+      "rect": {
+        "x": 0,
+        "y": -946,
+        "size": 3840
+      }
+    }
+  ]
+}

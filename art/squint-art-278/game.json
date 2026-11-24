@@ -1,0 +1,67 @@
+{
+  "a": "=MHaw1WeOBiclhGIk5WYgEmbhlGR",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Diana_and_her_Nymphs_-_406_-_Mauritshuis.jpg",
+  "photographer": "Mauritshuis",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "e2cf778a3b41.webp",
+      "rect": {
+        "x": 1485,
+        "y": 890,
+        "size": 396
+      }
+    },
+    {
+      "file": "fabd0e60f9ba.webp",
+      "rect": {
+        "x": 1386,
+        "y": 791,
+        "size": 594
+      }
+    },
+    {
+      "file": "73a884bccb48.webp",
+      "rect": {
+        "x": 1238,
+        "y": 642,
+        "size": 891
+      }
+    },
+    {
+      "file": "1856cf12594c.webp",
+      "rect": {
+        "x": 998,
+        "y": 402,
+        "size": 1371
+      }
+    },
+    {
+      "file": "c81539ff158d.webp",
+      "rect": {
+        "x": 635,
+        "y": 40,
+        "size": 2097
+      }
+    },
+    {
+      "file": "cacf557bf8ea.webp",
+      "rect": {
+        "x": 198,
+        "y": 0,
+        "size": 2971
+      }
+    },
+    {
+      "file": "fcd27f6a0283.webp",
+      "rect": {
+        "x": 0,
+        "y": -137,
+        "size": 3840
+      }
+    }
+  ]
+}

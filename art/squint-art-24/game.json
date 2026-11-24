@@ -1,0 +1,67 @@
+{
+  "a": "lRHdlxWYHBSYsBSZkBibpxWdv1GI1RGIsFmQ",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Renoir,_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette,_1876.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "431263f22edb.webp",
+      "rect": {
+        "x": 1678,
+        "y": 238,
+        "size": 317
+      }
+    },
+    {
+      "file": "4758e36c0e93.webp",
+      "rect": {
+        "x": 1599,
+        "y": 159,
+        "size": 476
+      }
+    },
+    {
+      "file": "1abd90df65f0.webp",
+      "rect": {
+        "x": 1480,
+        "y": 40,
+        "size": 714
+      }
+    },
+    {
+      "file": "dfbf8a5c3a8d.webp",
+      "rect": {
+        "x": 1288,
+        "y": 0,
+        "size": 1098
+      }
+    },
+    {
+      "file": "5db6dc7cbb9b.webp",
+      "rect": {
+        "x": 997,
+        "y": 0,
+        "size": 1679
+      }
+    },
+    {
+      "file": "79ea56dff6f0.webp",
+      "rect": {
+        "x": 648,
+        "y": 0,
+        "size": 2378
+      }
+    },
+    {
+      "file": "1838bfd8795a.webp",
+      "rect": {
+        "x": 0,
+        "y": -493,
+        "size": 3840
+      }
+    }
+  ]
+}

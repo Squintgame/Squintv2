@@ -1,0 +1,67 @@
+{
+  "a": "=QnclNmbvNEIlhGV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vermeer_The_Concert.jpg",
+  "photographer": "Isabella Stewart Gardner Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "2430a691cadb.webp",
+      "rect": {
+        "x": 1569,
+        "y": 1799,
+        "size": 238
+      }
+    },
+    {
+      "file": "be6971502c71.webp",
+      "rect": {
+        "x": 1509,
+        "y": 1740,
+        "size": 356
+      }
+    },
+    {
+      "file": "ac53183dc3f3.webp",
+      "rect": {
+        "x": 1420,
+        "y": 1651,
+        "size": 534
+      }
+    },
+    {
+      "file": "fdd9337039e0.webp",
+      "rect": {
+        "x": 1276,
+        "y": 1507,
+        "size": 822
+      }
+    },
+    {
+      "file": "6aaeedd619a8.webp",
+      "rect": {
+        "x": 880,
+        "y": 1142,
+        "size": 1258
+      }
+    },
+    {
+      "file": "34efbc456ae5.webp",
+      "rect": {
+        "x": 356,
+        "y": 618,
+        "size": 1782
+      }
+    },
+    {
+      "file": "506b7679bea3.webp",
+      "rect": {
+        "x": -131,
+        "y": 0,
+        "size": 2400
+      }
+    }
+  ]
+}

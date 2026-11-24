@@ -1,0 +1,67 @@
+{
+  "a": "ulGbvJFIy9GbsV2YuFGaDBiZvBSYu52bkFWT",
+  "ar": "rNWeFBibhZHIuFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Virgin_with_Chancellor_Rolin_by_Jan_van_Eyck_(Louvre).webp",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c167e54150ab.webp",
+      "rect": {
+        "x": 467,
+        "y": 1133,
+        "size": 267
+      }
+    },
+    {
+      "file": "172b4872b61f.webp",
+      "rect": {
+        "x": 400,
+        "y": 1066,
+        "size": 401
+      }
+    },
+    {
+      "file": "79aa078ce54a.webp",
+      "rect": {
+        "x": 300,
+        "y": 966,
+        "size": 602
+      }
+    },
+    {
+      "file": "12314b280033.webp",
+      "rect": {
+        "x": 138,
+        "y": 804,
+        "size": 925
+      }
+    },
+    {
+      "file": "c02673a77bcd.webp",
+      "rect": {
+        "x": 0,
+        "y": 559,
+        "size": 1415
+      }
+    },
+    {
+      "file": "cc0c0732f373.webp",
+      "rect": {
+        "x": 0,
+        "y": 264,
+        "size": 2005
+      }
+    },
+    {
+      "file": "7c81261b03df.webp",
+      "rect": {
+        "x": -47,
+        "y": 0,
+        "size": 2500
+      }
+    }
+  ]
+}

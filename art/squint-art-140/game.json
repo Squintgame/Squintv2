@@ -1,0 +1,67 @@
+{
+  "a": "=IXZoBXYyd2bldEIlhGV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer,_Der_Geograf,_1669.png",
+  "photographer": "Städel Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "3afcdbb939f6.webp",
+      "rect": {
+        "x": 539,
+        "y": 1612,
+        "size": 427
+      }
+    },
+    {
+      "file": "9c1087d6a575.webp",
+      "rect": {
+        "x": 432,
+        "y": 1506,
+        "size": 640
+      }
+    },
+    {
+      "file": "ad094c5bfa6e.webp",
+      "rect": {
+        "x": 272,
+        "y": 1346,
+        "size": 960
+      }
+    },
+    {
+      "file": "ebd7132a2b44.webp",
+      "rect": {
+        "x": 14,
+        "y": 1087,
+        "size": 1477
+      }
+    },
+    {
+      "file": "26b10f387058.webp",
+      "rect": {
+        "x": 0,
+        "y": 696,
+        "size": 2259
+      }
+    },
+    {
+      "file": "ece81d7c2983.webp",
+      "rect": {
+        "x": 0,
+        "y": 226,
+        "size": 3200
+      }
+    },
+    {
+      "file": "b0b56f835baa.webp",
+      "rect": {
+        "x": -228,
+        "y": 0,
+        "size": 4296
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "zR2bHBSZoRHIm9GI0NXYlZEIlhGV",
+  "ar": "uFWa0lGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Giovanni_Bellini_and_Titian_-_The_Feast_of_the_Gods_-_Google_Art_Project.jpg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "77d023366ad4.webp",
+      "rect": {
+        "x": 2279,
+        "y": 2280,
+        "size": 395
+      }
+    },
+    {
+      "file": "de4ebf4a8ae2.webp",
+      "rect": {
+        "x": 2181,
+        "y": 2181,
+        "size": 592
+      }
+    },
+    {
+      "file": "a33a06abbef0.webp",
+      "rect": {
+        "x": 2033,
+        "y": 2033,
+        "size": 888
+      }
+    },
+    {
+      "file": "5b0190b2d2ea.webp",
+      "rect": {
+        "x": 1794,
+        "y": 1794,
+        "size": 1367
+      }
+    },
+    {
+      "file": "cbd385a1297b.webp",
+      "rect": {
+        "x": 1432,
+        "y": 1432,
+        "size": 2090
+      }
+    },
+    {
+      "file": "a004a5cd9861.webp",
+      "rect": {
+        "x": 879,
+        "y": 592,
+        "size": 2961
+      }
+    },
+    {
+      "file": "972e036e06e3.webp",
+      "rect": {
+        "x": 0,
+        "y": -143,
+        "size": 3840
+      }
+    }
+  ]
+}

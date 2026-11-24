@@ -1,0 +1,67 @@
+{
+  "a": "==QajlGZl1EInUGZgkmbuFmdvl2Rg42bzBiclhGIk5WYg8GZlx2bUBiZvBicv5WYlxWRgY2bgQXahJHdy9GU",
+  "ar": "=8mbppnbvJnQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Bronzino_-_Eleonora_di_Toledo_col_figlio_Giovanni_-_Google_Art_Project.jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d8edd52d0292.webp",
+      "rect": {
+        "x": 212,
+        "y": 2442,
+        "size": 284
+      }
+    },
+    {
+      "file": "e002818eb3f5.webp",
+      "rect": {
+        "x": 141,
+        "y": 2371,
+        "size": 426
+      }
+    },
+    {
+      "file": "d1cf3d8a2cd5.webp",
+      "rect": {
+        "x": 35,
+        "y": 2265,
+        "size": 638
+      }
+    },
+    {
+      "file": "183a6484209f.webp",
+      "rect": {
+        "x": 0,
+        "y": 2093,
+        "size": 982
+      }
+    },
+    {
+      "file": "50d7964da8ed.webp",
+      "rect": {
+        "x": 0,
+        "y": 1596,
+        "size": 1502
+      }
+    },
+    {
+      "file": "c6bed7ad0438.webp",
+      "rect": {
+        "x": 0,
+        "y": 970,
+        "size": 2128
+      }
+    },
+    {
+      "file": "e8aa59efe559.webp",
+      "rect": {
+        "x": -272,
+        "y": 0,
+        "size": 3098
+      }
+    }
+  ]
+}

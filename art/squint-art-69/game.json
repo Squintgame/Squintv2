@@ -1,0 +1,67 @@
+{
+  "a": "0NXayh2QgY2bg42bpRXY05WZtFGT",
+  "ar": "h52ZlRnbh1EIhVmck5WQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Lamentaci%C3%B3n_sobre_Cristo_muerto,_por_Andrea_Mantegna.jpg",
+  "photographer": "Pinacoteca di Brera",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "aac5d338dc81.webp",
+      "rect": {
+        "x": 285,
+        "y": 171,
+        "size": 230
+      }
+    },
+    {
+      "file": "d3646a9da767.webp",
+      "rect": {
+        "x": 227,
+        "y": 113,
+        "size": 345
+      }
+    },
+    {
+      "file": "283c97666c24.webp",
+      "rect": {
+        "x": 141,
+        "y": 27,
+        "size": 517
+      }
+    },
+    {
+      "file": "068e1c524e65.webp",
+      "rect": {
+        "x": 2,
+        "y": 0,
+        "size": 795
+      }
+    },
+    {
+      "file": "1d9cf38aa9e1.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1216
+      }
+    },
+    {
+      "file": "c6efb2f049ef.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1723
+      }
+    },
+    {
+      "file": "dacb11c5c996.webp",
+      "rect": {
+        "x": 0,
+        "y": -189,
+        "size": 2446
+      }
+    }
+  ]
+}

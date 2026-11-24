@@ -1,0 +1,67 @@
+{
+  "a": "==QYuFmT",
+  "ar": "=QXZuFWTgQmchV3bkl4w",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:1877_Manet_Nana_anagoria.jpg",
+  "photographer": "Hamburger Kunsthalle",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f6bafef5ee69.webp",
+      "rect": {
+        "x": 696,
+        "y": 1884,
+        "size": 398
+      }
+    },
+    {
+      "file": "c707aeb7e86a.webp",
+      "rect": {
+        "x": 597,
+        "y": 1785,
+        "size": 597
+      }
+    },
+    {
+      "file": "0fb6dc18b337.webp",
+      "rect": {
+        "x": 448,
+        "y": 1635,
+        "size": 895
+      }
+    },
+    {
+      "file": "0d1f17f82aba.webp",
+      "rect": {
+        "x": 207,
+        "y": 1394,
+        "size": 1377
+      }
+    },
+    {
+      "file": "3cdef29d0fa0.webp",
+      "rect": {
+        "x": 0,
+        "y": 1030,
+        "size": 2106
+      }
+    },
+    {
+      "file": "35d9aade71ae.webp",
+      "rect": {
+        "x": 0,
+        "y": 591,
+        "size": 2983
+      }
+    },
+    {
+      "file": "1c7c30b1149b.webp",
+      "rect": {
+        "x": -586,
+        "y": 0,
+        "size": 4752
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==wc1FWbtVEI0FGIyVGcwV3U",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Supper_at_Emmaus_-_National_Gallery_London.jpeg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "1de8d8c674d1.webp",
+      "rect": {
+        "x": 2800,
+        "y": 1240,
+        "size": 268
+      }
+    },
+    {
+      "file": "8cf83d3fd88c.webp",
+      "rect": {
+        "x": 2733,
+        "y": 1173,
+        "size": 402
+      }
+    },
+    {
+      "file": "b840d467c066.webp",
+      "rect": {
+        "x": 2632,
+        "y": 1073,
+        "size": 602
+      }
+    },
+    {
+      "file": "811b95dbb221.webp",
+      "rect": {
+        "x": 2461,
+        "y": 911,
+        "size": 927
+      }
+    },
+    {
+      "file": "e151b35e7beb.webp",
+      "rect": {
+        "x": 1970,
+        "y": 665,
+        "size": 1418
+      }
+    },
+    {
+      "file": "16ca95a56702.webp",
+      "rect": {
+        "x": 1380,
+        "y": 370,
+        "size": 2008
+      }
+    },
+    {
+      "file": "f37749f25cb3.webp",
+      "rect": {
+        "x": 0,
+        "y": -489,
+        "size": 3388
+      }
+    }
+  ]
+}

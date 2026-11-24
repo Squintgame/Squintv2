@@ -1,0 +1,67 @@
+{
+  "a": "=42blx2bwFmTgY2bg42bpRXYu9mcvNEIlhGV",
+  "ar": "==AZpZXYEBycpV3bM1yclVXcjFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Le_Sacre_de_Napol%C3%A9on_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3699_;_MR_1437.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5a612eb964a9.webp",
+      "rect": {
+        "x": 2373,
+        "y": 1477,
+        "size": 265
+      }
+    },
+    {
+      "file": "b0686018ded7.webp",
+      "rect": {
+        "x": 2307,
+        "y": 1411,
+        "size": 398
+      }
+    },
+    {
+      "file": "f8fffdf1c2c3.webp",
+      "rect": {
+        "x": 2207,
+        "y": 1311,
+        "size": 597
+      }
+    },
+    {
+      "file": "4292987da6e9.webp",
+      "rect": {
+        "x": 2047,
+        "y": 1150,
+        "size": 918
+      }
+    },
+    {
+      "file": "5834f690a7a5.webp",
+      "rect": {
+        "x": 1804,
+        "y": 907,
+        "size": 1404
+      }
+    },
+    {
+      "file": "1584cea5c5fd.webp",
+      "rect": {
+        "x": 1511,
+        "y": 398,
+        "size": 1989
+      }
+    },
+    {
+      "file": "4b03561d689b.webp",
+      "rect": {
+        "x": 0,
+        "y": -726,
+        "size": 3840
+      }
+    }
+  ]
+}

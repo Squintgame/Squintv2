@@ -1,0 +1,67 @@
+{
+  "a": "l52ZpF2aj92QgY2bgQmbhxEIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Brueghel_Land_of_Cockaigne_IMG_4843.jpg",
+  "photographer": "Bavarian State Painting Collections",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "0fb766aadf98.webp",
+      "rect": {
+        "x": 2221,
+        "y": 340,
+        "size": 275
+      }
+    },
+    {
+      "file": "58692f05c0cd.webp",
+      "rect": {
+        "x": 2152,
+        "y": 271,
+        "size": 412
+      }
+    },
+    {
+      "file": "b07557024ae8.webp",
+      "rect": {
+        "x": 2049,
+        "y": 168,
+        "size": 618
+      }
+    },
+    {
+      "file": "32de944be56a.webp",
+      "rect": {
+        "x": 1883,
+        "y": 2,
+        "size": 951
+      }
+    },
+    {
+      "file": "adf8fed4c091.webp",
+      "rect": {
+        "x": 1631,
+        "y": 0,
+        "size": 1454
+      }
+    },
+    {
+      "file": "4ddb93864bda.webp",
+      "rect": {
+        "x": 1328,
+        "y": 0,
+        "size": 2060
+      }
+    },
+    {
+      "file": "3c446df7d6f4.webp",
+      "rect": {
+        "x": 0,
+        "y": -684,
+        "size": 3840
+      }
+    }
+  ]
+}

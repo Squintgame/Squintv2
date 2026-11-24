@@ -1,0 +1,67 @@
+{
+  "a": "==AOwgTMgkXYNBiZvBCZu92YlNFIlhGV",
+  "ar": "=EWevdEIvN2cpNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:El_dos_de_mayo_de_1808_en_Madrid.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "92be8979ce84.webp",
+      "rect": {
+        "x": 2183,
+        "y": 1257,
+        "size": 262
+      }
+    },
+    {
+      "file": "5ecb8ca879b1.webp",
+      "rect": {
+        "x": 2117,
+        "y": 1191,
+        "size": 393
+      }
+    },
+    {
+      "file": "92b854bb3765.webp",
+      "rect": {
+        "x": 2019,
+        "y": 1093,
+        "size": 590
+      }
+    },
+    {
+      "file": "e1ad935f837c.webp",
+      "rect": {
+        "x": 1860,
+        "y": 934,
+        "size": 907
+      }
+    },
+    {
+      "file": "36436a1ae156.webp",
+      "rect": {
+        "x": 1620,
+        "y": 694,
+        "size": 1388
+      }
+    },
+    {
+      "file": "4d46de6160c6.webp",
+      "rect": {
+        "x": 1085,
+        "y": 393,
+        "size": 1966
+      }
+    },
+    {
+      "file": "152f63429b28.webp",
+      "rect": {
+        "x": 0,
+        "y": -346,
+        "size": 3051
+      }
+    }
+  ]
+}

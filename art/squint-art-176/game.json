@@ -1,0 +1,67 @@
+{
+  "a": "==QZyFWb0h2Zp5EIlhGV",
+  "ar": "pxWZzVnRgkncuVGS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:John_Henry_Fuseli_-_The_Nightmare.JPG",
+  "photographer": "Detroit Institute of Arts",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "a82132c6304f.webp",
+      "rect": {
+        "x": 336,
+        "y": 1286,
+        "size": 271
+      }
+    },
+    {
+      "file": "c0dfa9c7e5ac.webp",
+      "rect": {
+        "x": 269,
+        "y": 1218,
+        "size": 407
+      }
+    },
+    {
+      "file": "7457ac3fc4f8.webp",
+      "rect": {
+        "x": 167,
+        "y": 1117,
+        "size": 610
+      }
+    },
+    {
+      "file": "7a12c89b8c20.webp",
+      "rect": {
+        "x": 2,
+        "y": 952,
+        "size": 939
+      }
+    },
+    {
+      "file": "c4564656a964.webp",
+      "rect": {
+        "x": 0,
+        "y": 704,
+        "size": 1436
+      }
+    },
+    {
+      "file": "804f2e73cca1.webp",
+      "rect": {
+        "x": 0,
+        "y": 404,
+        "size": 2035
+      }
+    },
+    {
+      "file": "1ef9175fbe34.webp",
+      "rect": {
+        "x": 0,
+        "y": -285,
+        "size": 3013
+      }
+    }
+  ]
+}

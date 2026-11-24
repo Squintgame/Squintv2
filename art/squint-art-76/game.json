@@ -1,0 +1,67 @@
+{
+  "a": "h5WayFmby9mRgEGT",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Raffaello_Sanzio_-_La_Fornarina_(ca._1519-1520).jpg",
+  "photographer": "Galleria Nazionale d'Arte Antica",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "471c691b5067.webp",
+      "rect": {
+        "x": 319,
+        "y": 3301,
+        "size": 427
+      }
+    },
+    {
+      "file": "afaf47f0605f.webp",
+      "rect": {
+        "x": 212,
+        "y": 3194,
+        "size": 640
+      }
+    },
+    {
+      "file": "30cb33e407bb.webp",
+      "rect": {
+        "x": 52,
+        "y": 3034,
+        "size": 960
+      }
+    },
+    {
+      "file": "c7d1731b17b5.webp",
+      "rect": {
+        "x": 0,
+        "y": 2776,
+        "size": 1477
+      }
+    },
+    {
+      "file": "3fafba7d66fb.webp",
+      "rect": {
+        "x": 0,
+        "y": 2385,
+        "size": 2259
+      }
+    },
+    {
+      "file": "10c7181a0baa.webp",
+      "rect": {
+        "x": 0,
+        "y": 1914,
+        "size": 3200
+      }
+    },
+    {
+      "file": "a91daacc3726.webp",
+      "rect": {
+        "x": -742,
+        "y": 0,
+        "size": 5325
+      }
+    }
+  ]
+}

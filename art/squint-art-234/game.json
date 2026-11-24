@@ -1,0 +1,67 @@
+{
+  "a": "0VmcHBCbsVHR",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Dulle_Griet,_by_Pieter_Brueghel_(I).jpg",
+  "photographer": "Museum Mayer van den Bergh",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "6128558c9da5.webp",
+      "rect": {
+        "x": 2534,
+        "y": 1614,
+        "size": 308
+      }
+    },
+    {
+      "file": "bd32f7b5799b.webp",
+      "rect": {
+        "x": 2457,
+        "y": 1537,
+        "size": 462
+      }
+    },
+    {
+      "file": "15ca023bd513.webp",
+      "rect": {
+        "x": 2341,
+        "y": 1421,
+        "size": 694
+      }
+    },
+    {
+      "file": "1f4af03dc88f.webp",
+      "rect": {
+        "x": 2155,
+        "y": 1235,
+        "size": 1067
+      }
+    },
+    {
+      "file": "16b1c15c71a2.webp",
+      "rect": {
+        "x": 1872,
+        "y": 952,
+        "size": 1632
+      }
+    },
+    {
+      "file": "dc13e5cef2ad.webp",
+      "rect": {
+        "x": 1528,
+        "y": 462,
+        "size": 2312
+      }
+    },
+    {
+      "file": "089645ae2631.webp",
+      "rect": {
+        "x": 0,
+        "y": -533,
+        "size": 3840
+      }
+    }
+  ]
+}

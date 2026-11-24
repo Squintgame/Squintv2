@@ -1,0 +1,67 @@
+{
+  "a": "=c3buNFIlhGdg4WagMnclRnb1hEIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg",
+  "photographer": "Kunsthistorisches Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "7fb80491059a.webp",
+      "rect": {
+        "x": 229,
+        "y": 2143,
+        "size": 304
+      }
+    },
+    {
+      "file": "c6de3fffd41c.webp",
+      "rect": {
+        "x": 153,
+        "y": 2067,
+        "size": 456
+      }
+    },
+    {
+      "file": "b4b61ffe91fe.webp",
+      "rect": {
+        "x": 39,
+        "y": 1953,
+        "size": 683
+      }
+    },
+    {
+      "file": "03d1cc471f33.webp",
+      "rect": {
+        "x": 0,
+        "y": 1682,
+        "size": 1051
+      }
+    },
+    {
+      "file": "5c468e6ab541.webp",
+      "rect": {
+        "x": 0,
+        "y": 1125,
+        "size": 1608
+      }
+    },
+    {
+      "file": "06283600cad3.webp",
+      "rect": {
+        "x": 0,
+        "y": 456,
+        "size": 2278
+      }
+    },
+    {
+      "file": "d61ddd2e1516.webp",
+      "rect": {
+        "x": 0,
+        "y": -553,
+        "size": 3840
+      }
+    }
+  ]
+}

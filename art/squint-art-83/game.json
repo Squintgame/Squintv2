@@ -1,0 +1,67 @@
+{
+  "a": "=wWZn5WQgQWZk5WdvdFIlhGV",
+  "ar": "nJXZi1WaTBybnVHS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Wounded_Angel_-_Hugo_Simberg.jpg",
+  "photographer": "Finnish National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b4d2e06ada03.webp",
+      "rect": {
+        "x": 2504,
+        "y": 948,
+        "size": 343
+      }
+    },
+    {
+      "file": "47244ab0932f.webp",
+      "rect": {
+        "x": 2418,
+        "y": 862,
+        "size": 515
+      }
+    },
+    {
+      "file": "5dff7e578d34.webp",
+      "rect": {
+        "x": 2289,
+        "y": 733,
+        "size": 772
+      }
+    },
+    {
+      "file": "b7559d3983e2.webp",
+      "rect": {
+        "x": 2081,
+        "y": 525,
+        "size": 1188
+      }
+    },
+    {
+      "file": "2a7c4d5298c1.webp",
+      "rect": {
+        "x": 1766,
+        "y": 211,
+        "size": 1818
+      }
+    },
+    {
+      "file": "fa45a629d0d6.webp",
+      "rect": {
+        "x": 1265,
+        "y": 0,
+        "size": 2575
+      }
+    },
+    {
+      "file": "92c74040959d.webp",
+      "rect": {
+        "x": 0,
+        "y": -375,
+        "size": 3840
+      }
+    }
+  ]
+}

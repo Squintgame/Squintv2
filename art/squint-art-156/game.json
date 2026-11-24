@@ -1,0 +1,67 @@
+{
+  "a": "==wcn5WaoRFI0NXYMBic19mRgUGa0BCZuFGIz5WaTBSesRWYlREIuVmdlNFIlhGV",
+  "ar": "==AajN3bCByc11Weu9mcllGS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Hieronymus_Bosch-_The_Seven_Deadly_Sins_and_the_Four_Last_Things.JPG",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9cf6a7460e0d.webp",
+      "rect": {
+        "x": 874,
+        "y": 606,
+        "size": 271
+      }
+    },
+    {
+      "file": "a1df10e4d242.webp",
+      "rect": {
+        "x": 806,
+        "y": 538,
+        "size": 407
+      }
+    },
+    {
+      "file": "de1db0b8ef35.webp",
+      "rect": {
+        "x": 704,
+        "y": 436,
+        "size": 610
+      }
+    },
+    {
+      "file": "b94b8d6dff6e.webp",
+      "rect": {
+        "x": 540,
+        "y": 272,
+        "size": 939
+      }
+    },
+    {
+      "file": "6b31609b0738.webp",
+      "rect": {
+        "x": 291,
+        "y": 23,
+        "size": 1436
+      }
+    },
+    {
+      "file": "a3204c67ad30.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2034
+      }
+    },
+    {
+      "file": "8e9acd488d06.webp",
+      "rect": {
+        "x": 0,
+        "y": -211,
+        "size": 2863
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==wcndWRgcmbpt2bvNEIuFWbvdFIkx2T",
+  "ar": "==gelVXc6F6wsVmVg82ZllGR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Diego_Velazquez_-_An_Old_Woman_Cooking_Eggs_-_Google_Art_Project.jpg",
+  "photographer": "National Galleries Scotland",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "037d66d2cb2e.webp",
+      "rect": {
+        "x": 2418,
+        "y": 1344,
+        "size": 361
+      }
+    },
+    {
+      "file": "12b242484748.webp",
+      "rect": {
+        "x": 2328,
+        "y": 1254,
+        "size": 541
+      }
+    },
+    {
+      "file": "c0c8517de318.webp",
+      "rect": {
+        "x": 2193,
+        "y": 1118,
+        "size": 812
+      }
+    },
+    {
+      "file": "3437c71dc0ba.webp",
+      "rect": {
+        "x": 1974,
+        "y": 900,
+        "size": 1249
+      }
+    },
+    {
+      "file": "116c8d366858.webp",
+      "rect": {
+        "x": 1643,
+        "y": 569,
+        "size": 1910
+      }
+    },
+    {
+      "file": "46d01cb0c5e4.webp",
+      "rect": {
+        "x": 1134,
+        "y": 171,
+        "size": 2706
+      }
+    },
+    {
+      "file": "3e551d602ae0.webp",
+      "rect": {
+        "x": 0,
+        "y": -296,
+        "size": 3840
+      }
+    }
+  ]
+}

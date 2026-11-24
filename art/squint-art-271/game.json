@@ -1,0 +1,67 @@
+{
+  "a": "=MXZoNWYlBHIoRXa3BCbyl2R",
+  "ar": "=Y3byV2Ug4Wa05WZsFmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Valentin_Serov_-_%D0%94%D0%B5%D0%B2%D0%BE%D1%87%D0%BA%D0%B0_%D1%81_%D0%BF%D0%B5%D1%80%D1%81%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8._%D0%9F%D0%BE%D1%80%D1%82%D1%80%D0%B5%D1%82_%D0%92.%D0%A1.%D0%9C%D0%B0%D0%BC%D0%BE%D0%BD%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_-_Google_Art_Project.jpg",
+  "photographer": "Tretyakov Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d7b58e97eb70.webp",
+      "rect": {
+        "x": 2614,
+        "y": 1839,
+        "size": 395
+      }
+    },
+    {
+      "file": "a0f157ac4d55.webp",
+      "rect": {
+        "x": 2515,
+        "y": 1740,
+        "size": 592
+      }
+    },
+    {
+      "file": "892025b7ca11.webp",
+      "rect": {
+        "x": 2367,
+        "y": 1592,
+        "size": 889
+      }
+    },
+    {
+      "file": "9e8337f9e59e.webp",
+      "rect": {
+        "x": 2128,
+        "y": 1353,
+        "size": 1367
+      }
+    },
+    {
+      "file": "eead1dfe48ce.webp",
+      "rect": {
+        "x": 1464,
+        "y": 991,
+        "size": 2091
+      }
+    },
+    {
+      "file": "98becd60d9e0.webp",
+      "rect": {
+        "x": 592,
+        "y": 555,
+        "size": 2962
+      }
+    },
+    {
+      "file": "0c8e89caaa21.webp",
+      "rect": {
+        "x": -222,
+        "y": 0,
+        "size": 4000
+      }
+    }
+  ]
+}

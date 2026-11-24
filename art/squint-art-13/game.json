@@ -1,0 +1,67 @@
+{
+  "a": "==QZulWbyVEIuFGIoRXa3BSekFGT",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_-_Google_Art_Project.jpg",
+  "photographer": "Czartoryski Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "0a75c8e1e2b8.webp",
+      "rect": {
+        "x": 1612,
+        "y": 3548,
+        "size": 427
+      }
+    },
+    {
+      "file": "76dabf012e9a.webp",
+      "rect": {
+        "x": 1505,
+        "y": 3441,
+        "size": 640
+      }
+    },
+    {
+      "file": "f346b3904020.webp",
+      "rect": {
+        "x": 1345,
+        "y": 3281,
+        "size": 960
+      }
+    },
+    {
+      "file": "6521bb4b3295.webp",
+      "rect": {
+        "x": 1087,
+        "y": 3023,
+        "size": 1477
+      }
+    },
+    {
+      "file": "55f2aa82b2bb.webp",
+      "rect": {
+        "x": 696,
+        "y": 2632,
+        "size": 2259
+      }
+    },
+    {
+      "file": "3ebe7dd1b36f.webp",
+      "rect": {
+        "x": 225,
+        "y": 1964,
+        "size": 3200
+      }
+    },
+    {
+      "file": "dc1564a83814.webp",
+      "rect": {
+        "x": -662,
+        "y": 0,
+        "size": 5164
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "n5Wa3NFIlhGV",
+  "ar": "==AZyFmbvdWYyZEIpOscv52bI1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Fragonard,_The_Swing.jpg",
+  "photographer": "Wallace Collection",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "3aae7dd70f8a.webp",
+      "rect": {
+        "x": 1365,
+        "y": 3455,
+        "size": 427
+      }
+    },
+    {
+      "file": "6b79220dfa00.webp",
+      "rect": {
+        "x": 1259,
+        "y": 3348,
+        "size": 640
+      }
+    },
+    {
+      "file": "77bea6984aee.webp",
+      "rect": {
+        "x": 1099,
+        "y": 3188,
+        "size": 960
+      }
+    },
+    {
+      "file": "ec98a07b3540.webp",
+      "rect": {
+        "x": 840,
+        "y": 2930,
+        "size": 1477
+      }
+    },
+    {
+      "file": "b6466ab5d828.webp",
+      "rect": {
+        "x": 449,
+        "y": 2539,
+        "size": 2259
+      }
+    },
+    {
+      "file": "6081ccd1094f.webp",
+      "rect": {
+        "x": 0,
+        "y": 1621,
+        "size": 3200
+      }
+    },
+    {
+      "file": "082fbd0361a1.webp",
+      "rect": {
+        "x": -490,
+        "y": 0,
+        "size": 4821
+      }
+    }
+  ]
+}

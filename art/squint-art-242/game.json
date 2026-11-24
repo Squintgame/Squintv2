@@ -1,0 +1,67 @@
+{
+  "a": "==QZuRWYpJXQgQmbhByc1h2YjFmQ",
+  "ar": "uFWa0lGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Titian_Bacchus_and_Ariadne.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "a85d761c1cfa.webp",
+      "rect": {
+        "x": 1439,
+        "y": 863,
+        "size": 386
+      }
+    },
+    {
+      "file": "9617b4dcacd5.webp",
+      "rect": {
+        "x": 1342,
+        "y": 766,
+        "size": 579
+      }
+    },
+    {
+      "file": "10ccbe4f34e3.webp",
+      "rect": {
+        "x": 1198,
+        "y": 622,
+        "size": 869
+      }
+    },
+    {
+      "file": "57ec03618b2c.webp",
+      "rect": {
+        "x": 964,
+        "y": 388,
+        "size": 1337
+      }
+    },
+    {
+      "file": "8b21167c4278.webp",
+      "rect": {
+        "x": 610,
+        "y": 34,
+        "size": 2044
+      }
+    },
+    {
+      "file": "e7b3e2e63d86.webp",
+      "rect": {
+        "x": 184,
+        "y": 0,
+        "size": 2896
+      }
+    },
+    {
+      "file": "6357d423134e.webp",
+      "rect": {
+        "x": 0,
+        "y": -182,
+        "size": 3840
+      }
+    }
+  ]
+}

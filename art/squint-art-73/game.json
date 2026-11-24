@@ -1,0 +1,67 @@
+{
+  "a": "=IXZoR3bNBycnIXZsR3cph2V",
+  "ar": "==gclxGdzlGaXBCbslWZONWTgMXZtFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Whistlers_Mother_high_res.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "24c3fda2cdf5.webp",
+      "rect": {
+        "x": 2879,
+        "y": 652,
+        "size": 380
+      }
+    },
+    {
+      "file": "b13ec23b68bc.webp",
+      "rect": {
+        "x": 2784,
+        "y": 557,
+        "size": 570
+      }
+    },
+    {
+      "file": "19ca07969265.webp",
+      "rect": {
+        "x": 2642,
+        "y": 414,
+        "size": 854
+      }
+    },
+    {
+      "file": "bd3799236bfa.webp",
+      "rect": {
+        "x": 2412,
+        "y": 184,
+        "size": 1314
+      }
+    },
+    {
+      "file": "e00713c2ae74.webp",
+      "rect": {
+        "x": 1830,
+        "y": 0,
+        "size": 2010
+      }
+    },
+    {
+      "file": "b1965af2ce04.webp",
+      "rect": {
+        "x": 992,
+        "y": 0,
+        "size": 2848
+      }
+    },
+    {
+      "file": "d17f5160a557.webp",
+      "rect": {
+        "x": 0,
+        "y": -211,
+        "size": 3840
+      }
+    }
+  ]
+}

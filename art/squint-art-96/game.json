@@ -1,0 +1,67 @@
+{
+  "a": "==QZjJXdvNFIlhGV",
+  "ar": "=MXZydmbJBSZ1FXaulWbvRULlR3c1dWdB1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jean_Auguste_Dominique_Ingres_-_The_Spring_-_Google_Art_Project_2.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9367c92c8211.webp",
+      "rect": {
+        "x": 1413,
+        "y": 5373,
+        "size": 344
+      }
+    },
+    {
+      "file": "01218458ebfc.webp",
+      "rect": {
+        "x": 1327,
+        "y": 5287,
+        "size": 516
+      }
+    },
+    {
+      "file": "b7401c4ac672.webp",
+      "rect": {
+        "x": 1198,
+        "y": 5158,
+        "size": 775
+      }
+    },
+    {
+      "file": "6ec353c0223b.webp",
+      "rect": {
+        "x": 990,
+        "y": 4949,
+        "size": 1192
+      }
+    },
+    {
+      "file": "61ecd8587918.webp",
+      "rect": {
+        "x": 674,
+        "y": 4367,
+        "size": 1823
+      }
+    },
+    {
+      "file": "6dc032468711.webp",
+      "rect": {
+        "x": 294,
+        "y": 3608,
+        "size": 2582
+      }
+    },
+    {
+      "file": "8eee56085d32.webp",
+      "rect": {
+        "x": -1545,
+        "y": 0,
+        "size": 6190
+      }
+    }
+  ]
+}

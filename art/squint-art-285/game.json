@@ -1,0 +1,67 @@
+{
+  "a": "==Qby9GdTBCbhNWaw9mcUBSYg4WagIXZnlGV",
+  "ar": "=UXYlN3c19mUgkmcuVGS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Surprised-Rousseau.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "14cb41a66e15.webp",
+      "rect": {
+        "x": 459,
+        "y": 720,
+        "size": 266
+      }
+    },
+    {
+      "file": "e5cc82ff9e20.webp",
+      "rect": {
+        "x": 393,
+        "y": 653,
+        "size": 400
+      }
+    },
+    {
+      "file": "ada9f34da054.webp",
+      "rect": {
+        "x": 293,
+        "y": 554,
+        "size": 599
+      }
+    },
+    {
+      "file": "1dfb57ab0469.webp",
+      "rect": {
+        "x": 132,
+        "y": 392,
+        "size": 922
+      }
+    },
+    {
+      "file": "862fccaa3b9b.webp",
+      "rect": {
+        "x": 0,
+        "y": 148,
+        "size": 1410
+      }
+    },
+    {
+      "file": "7f2b297b7ba9.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1998
+      }
+    },
+    {
+      "file": "7a5a80ff3f83.webp",
+      "rect": {
+        "x": 0,
+        "y": -301,
+        "size": 3000
+      }
+    }
+  ]
+}

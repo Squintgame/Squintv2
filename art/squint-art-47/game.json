@@ -1,0 +1,67 @@
+{
+  "a": "==AZyFWel5WaWBCZlJFIlhGV",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Red_Vineyard_at_Arles_(1888).jpg",
+  "photographer": "Pushkin Museum of Fine Arts",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "297c13fa76ce.webp",
+      "rect": {
+        "x": 2086,
+        "y": 589,
+        "size": 340
+      }
+    },
+    {
+      "file": "211427bd8dab.webp",
+      "rect": {
+        "x": 2001,
+        "y": 504,
+        "size": 510
+      }
+    },
+    {
+      "file": "32cc743fda3e.webp",
+      "rect": {
+        "x": 1873,
+        "y": 376,
+        "size": 765
+      }
+    },
+    {
+      "file": "c90022f39145.webp",
+      "rect": {
+        "x": 1667,
+        "y": 170,
+        "size": 1177
+      }
+    },
+    {
+      "file": "27a3d7aa3392.webp",
+      "rect": {
+        "x": 1356,
+        "y": 0,
+        "size": 1801
+      }
+    },
+    {
+      "file": "f12922f32293.webp",
+      "rect": {
+        "x": 981,
+        "y": 0,
+        "size": 2551
+      }
+    },
+    {
+      "file": "54b2a70ccade.webp",
+      "rect": {
+        "x": 0,
+        "y": -389,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==wclZXYXBSZoRHIulGIuFWbvdFIlhGV",
+  "ar": "0VmYyV3bDBSZ2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Woman_in_the_Waves_MET_DT887.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c497f6b98ef4.webp",
+      "rect": {
+        "x": 756,
+        "y": 2765,
+        "size": 341
+      }
+    },
+    {
+      "file": "28fc5b6b6b1b.webp",
+      "rect": {
+        "x": 671,
+        "y": 2680,
+        "size": 511
+      }
+    },
+    {
+      "file": "2d502d896965.webp",
+      "rect": {
+        "x": 543,
+        "y": 2552,
+        "size": 767
+      }
+    },
+    {
+      "file": "27bc214c1329.webp",
+      "rect": {
+        "x": 336,
+        "y": 2346,
+        "size": 1180
+      }
+    },
+    {
+      "file": "d2cbf2ceff1e.webp",
+      "rect": {
+        "x": 24,
+        "y": 1916,
+        "size": 1804
+      }
+    },
+    {
+      "file": "e9c1f1574317.webp",
+      "rect": {
+        "x": 0,
+        "y": 1164,
+        "size": 2556
+      }
+    },
+    {
+      "file": "f8c1cf4e2f1a.webp",
+      "rect": {
+        "x": -326,
+        "y": 0,
+        "size": 3720
+      }
+    }
+  ]
+}

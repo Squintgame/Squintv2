@@ -1,0 +1,67 @@
+{
+  "a": "==QYu52bkFWTgkHbs92U",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Raffael_(1483_-_1520)_-_The_Virgin_and_Child_-_Solly_Madonna_-_141_-_Gem%C3%A4ldegalerie.jpg",
+  "photographer": "Gemäldegalerie Berlin",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "3ced8c324368.webp",
+      "rect": {
+        "x": 2165,
+        "y": 3287,
+        "size": 326
+      }
+    },
+    {
+      "file": "691d32788867.webp",
+      "rect": {
+        "x": 2084,
+        "y": 3205,
+        "size": 490
+      }
+    },
+    {
+      "file": "5902e7fa4015.webp",
+      "rect": {
+        "x": 1961,
+        "y": 3083,
+        "size": 734
+      }
+    },
+    {
+      "file": "6426b3255bfb.webp",
+      "rect": {
+        "x": 1763,
+        "y": 2870,
+        "size": 1130
+      }
+    },
+    {
+      "file": "e1c63dfa5e17.webp",
+      "rect": {
+        "x": 1210,
+        "y": 2272,
+        "size": 1728
+      }
+    },
+    {
+      "file": "a17606143c1e.webp",
+      "rect": {
+        "x": 490,
+        "y": 1552,
+        "size": 2448
+      }
+    },
+    {
+      "file": "0d2bd0a94600.webp",
+      "rect": {
+        "x": -531,
+        "y": 0,
+        "size": 4000
+      }
+    }
+  ]
+}

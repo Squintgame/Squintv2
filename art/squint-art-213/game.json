@@ -1,0 +1,67 @@
+{
+  "a": "zV3czl2YyFmTgQmbhByboNWR",
+  "ar": "=U2c19GayVGdhdFItFWasxWaXBibo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg",
+  "photographer": "Walker Art Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "731a89a1020d.webp",
+      "rect": {
+        "x": 3219,
+        "y": 301,
+        "size": 243
+      }
+    },
+    {
+      "file": "31a47cd48c14.webp",
+      "rect": {
+        "x": 3158,
+        "y": 240,
+        "size": 365
+      }
+    },
+    {
+      "file": "7ff641c3eb0a.webp",
+      "rect": {
+        "x": 3067,
+        "y": 149,
+        "size": 548
+      }
+    },
+    {
+      "file": "73fb37c08ea6.webp",
+      "rect": {
+        "x": 2919,
+        "y": 1,
+        "size": 843
+      }
+    },
+    {
+      "file": "38799bd7ea8e.webp",
+      "rect": {
+        "x": 2551,
+        "y": 0,
+        "size": 1289
+      }
+    },
+    {
+      "file": "e10f7b4ba55a.webp",
+      "rect": {
+        "x": 2014,
+        "y": 0,
+        "size": 1826
+      }
+    },
+    {
+      "file": "14dca5102b50.webp",
+      "rect": {
+        "x": 0,
+        "y": -824,
+        "size": 3840
+      }
+    }
+  ]
+}

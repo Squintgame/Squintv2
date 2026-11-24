@@ -1,0 +1,67 @@
+{
+  "a": "=EWayRmbhhXZsFEIm9GIl5WayVGa0F2QgQnbpF2U",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Saint_Catherine_of_Alexandria_(Caravaggio).jpg",
+  "photographer": "Thyssen-Bornemisza Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b43f33b6b050.webp",
+      "rect": {
+        "x": 1977,
+        "y": 1355,
+        "size": 427
+      }
+    },
+    {
+      "file": "2b9fb0ad9de7.webp",
+      "rect": {
+        "x": 1870,
+        "y": 1248,
+        "size": 640
+      }
+    },
+    {
+      "file": "65c78d3a9dd2.webp",
+      "rect": {
+        "x": 1710,
+        "y": 1088,
+        "size": 960
+      }
+    },
+    {
+      "file": "c20ea03e0bc7.webp",
+      "rect": {
+        "x": 1452,
+        "y": 830,
+        "size": 1477
+      }
+    },
+    {
+      "file": "cedbb9191e0e.webp",
+      "rect": {
+        "x": 1061,
+        "y": 439,
+        "size": 2259
+      }
+    },
+    {
+      "file": "82453f83241b.webp",
+      "rect": {
+        "x": 590,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "0afb8251ff55.webp",
+      "rect": {
+        "x": -576,
+        "y": 0,
+        "size": 4992
+      }
+    }
+  ]
+}

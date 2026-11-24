@@ -1,0 +1,67 @@
+{
+  "a": "==QYqFWTgQWZoR3bsNEIlhGV",
+  "ar": "=EWevdEIvN2cpNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Goya_Maja_ubrana2.jpg",
+  "photographer": "Royal Academy of Fine Arts of San Fernando",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "a598dc3085ca.webp",
+      "rect": {
+        "x": 2446,
+        "y": 1140,
+        "size": 215
+      }
+    },
+    {
+      "file": "0b8b3bf3dcc1.webp",
+      "rect": {
+        "x": 2393,
+        "y": 1086,
+        "size": 322
+      }
+    },
+    {
+      "file": "2c55d2da1bb0.webp",
+      "rect": {
+        "x": 2312,
+        "y": 1005,
+        "size": 483
+      }
+    },
+    {
+      "file": "83d8cfbe28c1.webp",
+      "rect": {
+        "x": 2182,
+        "y": 875,
+        "size": 743
+      }
+    },
+    {
+      "file": "9c63c3aa2b02.webp",
+      "rect": {
+        "x": 1986,
+        "y": 679,
+        "size": 1136
+      }
+    },
+    {
+      "file": "5a459163a669.webp",
+      "rect": {
+        "x": 1749,
+        "y": 322,
+        "size": 1609
+      }
+    },
+    {
+      "file": "3ba4cf3dc593.webp",
+      "rect": {
+        "x": 0,
+        "y": -954,
+        "size": 3840
+      }
+    }
+  ]
+}

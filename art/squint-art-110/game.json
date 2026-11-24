@@ -1,0 +1,67 @@
+{
+  "a": "=M3cvJ3QgUGa0BSbvJnZgQnblN2clREIlhGV",
+  "ar": "uVGZ5V2VgIXZkBibhZHIyVWan9mU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:El_Descendimiento,_by_Rogier_van_der_Weyden,_from_Prado_in_Google_Earth.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "289ce70d8967.webp",
+      "rect": {
+        "x": 2081,
+        "y": 751,
+        "size": 331
+      }
+    },
+    {
+      "file": "f6ac73a42bc8.webp",
+      "rect": {
+        "x": 1998,
+        "y": 668,
+        "size": 496
+      }
+    },
+    {
+      "file": "534fec37d7d8.webp",
+      "rect": {
+        "x": 1874,
+        "y": 544,
+        "size": 745
+      }
+    },
+    {
+      "file": "4f7d2b6fbb64.webp",
+      "rect": {
+        "x": 1674,
+        "y": 343,
+        "size": 1146
+      }
+    },
+    {
+      "file": "b6ed5d12ab40.webp",
+      "rect": {
+        "x": 1370,
+        "y": 40,
+        "size": 1752
+      }
+    },
+    {
+      "file": "7abfae982b5b.webp",
+      "rect": {
+        "x": 1005,
+        "y": 0,
+        "size": 2482
+      }
+    },
+    {
+      "file": "e38417beadac.webp",
+      "rect": {
+        "x": 0,
+        "y": -430,
+        "size": 3840
+      }
+    }
+  ]
+}

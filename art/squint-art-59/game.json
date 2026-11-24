@@ -1,0 +1,67 @@
+{
+  "a": "==QZ1F3cpxWYk9EIlRmbhJ3R",
+  "ar": "=MXZydmbJBSZ1FXaulWbvRULlR3c1dWdB1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:La_grande_odalisque_-_Jean-Auguste_Dominique_Ingres_-_Mus%C3%A9e_du_Louvre_Peintures_RF_1158.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f7af3bae25e5.webp",
+      "rect": {
+        "x": 294,
+        "y": 1560,
+        "size": 238
+      }
+    },
+    {
+      "file": "96e5e6611b8a.webp",
+      "rect": {
+        "x": 234,
+        "y": 1501,
+        "size": 357
+      }
+    },
+    {
+      "file": "07e3f9c7b77e.webp",
+      "rect": {
+        "x": 145,
+        "y": 1411,
+        "size": 536
+      }
+    },
+    {
+      "file": "ee34e557f28b.webp",
+      "rect": {
+        "x": 1,
+        "y": 1267,
+        "size": 824
+      }
+    },
+    {
+      "file": "f1601e254cb9.webp",
+      "rect": {
+        "x": 0,
+        "y": 882,
+        "size": 1261
+      }
+    },
+    {
+      "file": "80fbcc3ac008.webp",
+      "rect": {
+        "x": 0,
+        "y": 357,
+        "size": 1786
+      }
+    },
+    {
+      "file": "21b22c0c3b3c.webp",
+      "rect": {
+        "x": 0,
+        "y": -848,
+        "size": 3840
+      }
+    }
+  ]
+}

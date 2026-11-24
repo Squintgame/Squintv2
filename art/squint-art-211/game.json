@@ -1,0 +1,67 @@
+{
+  "a": "=Qnbl1mYt9GduVEIlhGV",
+  "ar": "vxWZn5WYsVGajlWT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Entombment_Michelangelo.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f55d73603cbd.webp",
+      "rect": {
+        "x": 320,
+        "y": 2617,
+        "size": 427
+      }
+    },
+    {
+      "file": "11c2ee55a8c9.webp",
+      "rect": {
+        "x": 213,
+        "y": 2511,
+        "size": 640
+      }
+    },
+    {
+      "file": "05e78a3ce162.webp",
+      "rect": {
+        "x": 53,
+        "y": 2351,
+        "size": 960
+      }
+    },
+    {
+      "file": "0dc36d95224e.webp",
+      "rect": {
+        "x": 0,
+        "y": 2092,
+        "size": 1477
+      }
+    },
+    {
+      "file": "8858ae0a9d74.webp",
+      "rect": {
+        "x": 0,
+        "y": 1701,
+        "size": 2259
+      }
+    },
+    {
+      "file": "e5d0d6a1e57b.webp",
+      "rect": {
+        "x": 0,
+        "y": 978,
+        "size": 3200
+      }
+    },
+    {
+      "file": "f2eeb102d901.webp",
+      "rect": {
+        "x": -169,
+        "y": 0,
+        "size": 4178
+      }
+    }
+  ]
+}

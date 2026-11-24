@@ -1,0 +1,67 @@
+{
+  "a": "=Q3clBXblRFIlhGV",
+  "ar": "l52bpdmcvl2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Giorgione_-_Das_Gewitter.jpg",
+  "photographer": "Gallerie dell'Accademia",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5d5f99542408.webp",
+      "rect": {
+        "x": 2682,
+        "y": 2310,
+        "size": 370
+      }
+    },
+    {
+      "file": "7097282d1cda.webp",
+      "rect": {
+        "x": 2589,
+        "y": 2217,
+        "size": 555
+      }
+    },
+    {
+      "file": "dba87ce8227c.webp",
+      "rect": {
+        "x": 2451,
+        "y": 2079,
+        "size": 832
+      }
+    },
+    {
+      "file": "49a496a3267b.webp",
+      "rect": {
+        "x": 2049,
+        "y": 1855,
+        "size": 1280
+      }
+    },
+    {
+      "file": "8c3b1b9b54c4.webp",
+      "rect": {
+        "x": 1371,
+        "y": 1516,
+        "size": 1958
+      }
+    },
+    {
+      "file": "ed0432be42aa.webp",
+      "rect": {
+        "x": 555,
+        "y": 922,
+        "size": 2774
+      }
+    },
+    {
+      "file": "8ff62ff5e787.webp",
+      "rect": {
+        "x": -183,
+        "y": 0,
+        "size": 3696
+      }
+    }
+  ]
+}

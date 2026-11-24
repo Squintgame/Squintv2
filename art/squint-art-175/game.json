@@ -1,0 +1,67 @@
+{
+  "a": "=cXZoRHdh1EI05WahNFIm9GIu9Wa0FmcpB3culEIlhGV",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_La_inspiraci%C3%B3n_de_San_Mateo_(San_Luigi_dei_Francesi,_Roma).jpg",
+  "photographer": "San Luigi dei Francesi",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "fac2f79d246d.webp",
+      "rect": {
+        "x": 2007,
+        "y": 1164,
+        "size": 427
+      }
+    },
+    {
+      "file": "3f5b0366d097.webp",
+      "rect": {
+        "x": 1901,
+        "y": 1057,
+        "size": 640
+      }
+    },
+    {
+      "file": "3278d06019b8.webp",
+      "rect": {
+        "x": 1741,
+        "y": 897,
+        "size": 960
+      }
+    },
+    {
+      "file": "b825dec5d68c.webp",
+      "rect": {
+        "x": 1482,
+        "y": 639,
+        "size": 1477
+      }
+    },
+    {
+      "file": "9864f4091fc9.webp",
+      "rect": {
+        "x": 1091,
+        "y": 248,
+        "size": 2259
+      }
+    },
+    {
+      "file": "497aad40e191.webp",
+      "rect": {
+        "x": 621,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "c30eeaf6aefd.webp",
+      "rect": {
+        "x": -1085,
+        "y": 0,
+        "size": 6010
+      }
+    }
+  ]
+}

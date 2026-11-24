@@ -1,0 +1,67 @@
+{
+  "a": "=wmcpdEIk5WasJEIlhGV",
+  "ar": "=MXahxGbp1EI0RXZyVmdFBibo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_The_Blind_Girl,_1854-56.jpg",
+  "photographer": "Birmingham Museums Trust",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5ce882a02c59.webp",
+      "rect": {
+        "x": 1386,
+        "y": 3738,
+        "size": 427
+      }
+    },
+    {
+      "file": "8d5cea734eb6.webp",
+      "rect": {
+        "x": 1279,
+        "y": 3632,
+        "size": 640
+      }
+    },
+    {
+      "file": "a33a45e16490.webp",
+      "rect": {
+        "x": 1119,
+        "y": 3472,
+        "size": 960
+      }
+    },
+    {
+      "file": "5f179a80012f.webp",
+      "rect": {
+        "x": 861,
+        "y": 3213,
+        "size": 1477
+      }
+    },
+    {
+      "file": "6f20c2f28404.webp",
+      "rect": {
+        "x": 470,
+        "y": 2822,
+        "size": 2259
+      }
+    },
+    {
+      "file": "d18aacf37b68.webp",
+      "rect": {
+        "x": 0,
+        "y": 2352,
+        "size": 3200
+      }
+    },
+    {
+      "file": "27f0f8297332.webp",
+      "rect": {
+        "x": -869,
+        "y": 0,
+        "size": 5579
+      }
+    }
+  ]
+}

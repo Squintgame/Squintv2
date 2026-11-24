@@ -1,0 +1,67 @@
+{
+  "a": "=02bzN3bsJEIk52btxWQ",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Amandelbloesem_-_s0176V1962_-_Van_Gogh_Museum.jpg",
+  "photographer": "Van Gogh Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "911b6f5e5837.webp",
+      "rect": {
+        "x": 2420,
+        "y": 2254,
+        "size": 337
+      }
+    },
+    {
+      "file": "2b4c3483c41e.webp",
+      "rect": {
+        "x": 2336,
+        "y": 2170,
+        "size": 506
+      }
+    },
+    {
+      "file": "884f00527171.webp",
+      "rect": {
+        "x": 2210,
+        "y": 2043,
+        "size": 758
+      }
+    },
+    {
+      "file": "d959c12edd4a.webp",
+      "rect": {
+        "x": 2005,
+        "y": 1839,
+        "size": 1167
+      }
+    },
+    {
+      "file": "0b0100c554f4.webp",
+      "rect": {
+        "x": 1696,
+        "y": 1249,
+        "size": 1785
+      }
+    },
+    {
+      "file": "95f34ab9e357.webp",
+      "rect": {
+        "x": 1312,
+        "y": 506,
+        "size": 2528
+      }
+    },
+    {
+      "file": "11d1a0e6cddf.webp",
+      "rect": {
+        "x": 0,
+        "y": -403,
+        "size": 3840
+      }
+    }
+  ]
+}

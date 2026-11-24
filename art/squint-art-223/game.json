@@ -1,0 +1,67 @@
+{
+  "a": "=U2YuVGZ1JHUgY2bgkncvdWZsxWQ",
+  "ar": "uFWa0lGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Titian_-_Allegorie_der_Zeit.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "0efc6cfcef87.webp",
+      "rect": {
+        "x": 323,
+        "y": 1181,
+        "size": 427
+      }
+    },
+    {
+      "file": "afadbdc1999a.webp",
+      "rect": {
+        "x": 216,
+        "y": 1074,
+        "size": 640
+      }
+    },
+    {
+      "file": "fe8062851a4e.webp",
+      "rect": {
+        "x": 56,
+        "y": 914,
+        "size": 960
+      }
+    },
+    {
+      "file": "dec32a4739c0.webp",
+      "rect": {
+        "x": 0,
+        "y": 656,
+        "size": 1477
+      }
+    },
+    {
+      "file": "d4cfa9730410.webp",
+      "rect": {
+        "x": 0,
+        "y": 265,
+        "size": 2259
+      }
+    },
+    {
+      "file": "fca779670b6d.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "bc4ba9139d47.webp",
+      "rect": {
+        "x": -225,
+        "y": 0,
+        "size": 4290
+      }
+    }
+  ]
+}

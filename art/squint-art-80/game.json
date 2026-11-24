@@ -1,0 +1,67 @@
+{
+  "a": "=MXYyVGZuFGbphEIzFGT",
+  "ar": "==gelVXc6F6wsVmVg82ZllGR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Velazquez-las_hilanderas.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "699e1901bec8.webp",
+      "rect": {
+        "x": 1616,
+        "y": 500,
+        "size": 223
+      }
+    },
+    {
+      "file": "ed382d655a07.webp",
+      "rect": {
+        "x": 1560,
+        "y": 444,
+        "size": 335
+      }
+    },
+    {
+      "file": "b2347d3ac8ac.webp",
+      "rect": {
+        "x": 1476,
+        "y": 360,
+        "size": 502
+      }
+    },
+    {
+      "file": "9baff26c3efa.webp",
+      "rect": {
+        "x": 1341,
+        "y": 225,
+        "size": 772
+      }
+    },
+    {
+      "file": "60176ee41f33.webp",
+      "rect": {
+        "x": 1137,
+        "y": 21,
+        "size": 1181
+      }
+    },
+    {
+      "file": "8f326a69e374.webp",
+      "rect": {
+        "x": 891,
+        "y": 0,
+        "size": 1673
+      }
+    },
+    {
+      "file": "ddd29e8ee1e0.webp",
+      "rect": {
+        "x": 0,
+        "y": -451,
+        "size": 2911
+      }
+    }
+  ]
+}

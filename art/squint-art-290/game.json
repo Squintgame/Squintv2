@@ -1,0 +1,67 @@
+{
+  "a": "==gbvlGepZWajVncDBCZu9WT",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:CrocefissioneRaffaello.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "2e76a35d806a.webp",
+      "rect": {
+        "x": 210,
+        "y": 3282,
+        "size": 279
+      }
+    },
+    {
+      "file": "5675724facfd.webp",
+      "rect": {
+        "x": 140,
+        "y": 3213,
+        "size": 418
+      }
+    },
+    {
+      "file": "b14edcfd52b8.webp",
+      "rect": {
+        "x": 36,
+        "y": 3108,
+        "size": 627
+      }
+    },
+    {
+      "file": "ec1efa8aaef3.webp",
+      "rect": {
+        "x": 0,
+        "y": 2940,
+        "size": 965
+      }
+    },
+    {
+      "file": "00513ce42761.webp",
+      "rect": {
+        "x": 0,
+        "y": 2684,
+        "size": 1475
+      }
+    },
+    {
+      "file": "eea5162df2d9.webp",
+      "rect": {
+        "x": 0,
+        "y": 2100,
+        "size": 2090
+      }
+    },
+    {
+      "file": "0f42b422b341.webp",
+      "rect": {
+        "x": -841,
+        "y": 0,
+        "size": 4190
+      }
+    }
+  ]
+}

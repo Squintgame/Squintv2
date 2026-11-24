@@ -1,0 +1,67 @@
+{
+  "a": "==AdzlGdwFmQgUGa0Bibo9mSgQnbpF2U",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_-_Saint_John_the_Baptist_C2RMF_retouched.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d1b5852e9a32.webp",
+      "rect": {
+        "x": 944,
+        "y": 942,
+        "size": 427
+      }
+    },
+    {
+      "file": "e6c3041321b5.webp",
+      "rect": {
+        "x": 837,
+        "y": 836,
+        "size": 640
+      }
+    },
+    {
+      "file": "4dea08a245de.webp",
+      "rect": {
+        "x": 677,
+        "y": 676,
+        "size": 960
+      }
+    },
+    {
+      "file": "49e207b43334.webp",
+      "rect": {
+        "x": 419,
+        "y": 417,
+        "size": 1477
+      }
+    },
+    {
+      "file": "b07d7a95d464.webp",
+      "rect": {
+        "x": 28,
+        "y": 26,
+        "size": 2259
+      }
+    },
+    {
+      "file": "75f4fccbb27b.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "e4d47b88ee73.webp",
+      "rect": {
+        "x": -565,
+        "y": 0,
+        "size": 4971
+      }
+    }
+  ]
+}

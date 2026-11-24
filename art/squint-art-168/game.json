@@ -1,0 +1,67 @@
+{
+  "a": "=knch1EIk5WYgEGa0JXYNBiZvBSZzV3bIBSZoRHIulGI0NXayh2Q",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_(Jan)_Vermeer_-_Christ_in_the_House_of_Martha_and_Mary_-_Google_Art_Project.jpg",
+  "photographer": "Scottish National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b431b9602c1b.webp",
+      "rect": {
+        "x": 674,
+        "y": 1642,
+        "size": 384
+      }
+    },
+    {
+      "file": "3f0f136a90eb.webp",
+      "rect": {
+        "x": 578,
+        "y": 1546,
+        "size": 576
+      }
+    },
+    {
+      "file": "a01d541c91e4.webp",
+      "rect": {
+        "x": 434,
+        "y": 1401,
+        "size": 865
+      }
+    },
+    {
+      "file": "fe049eff6d23.webp",
+      "rect": {
+        "x": 201,
+        "y": 1169,
+        "size": 1330
+      }
+    },
+    {
+      "file": "0d908faff801.webp",
+      "rect": {
+        "x": 0,
+        "y": 816,
+        "size": 2035
+      }
+    },
+    {
+      "file": "51844ef7acb5.webp",
+      "rect": {
+        "x": 0,
+        "y": 393,
+        "size": 2882
+      }
+    },
+    {
+      "file": "58c8d42fb849.webp",
+      "rect": {
+        "x": -271,
+        "y": 0,
+        "size": 4001
+      }
+    }
+  ]
+}

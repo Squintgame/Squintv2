@@ -1,0 +1,67 @@
+{
+  "a": "yVGd0VGTgEGIn5WakFWZSBSZ1xmQg4Wag4WYt92V",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vermeer,_Johannes_-_Woman_reading_a_letter_-_ca._1662-1663.jpg",
+  "photographer": "Rijksmuseum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "fac557811a76.webp",
+      "rect": {
+        "x": 967,
+        "y": 1827,
+        "size": 427
+      }
+    },
+    {
+      "file": "90f52552fcdf.webp",
+      "rect": {
+        "x": 860,
+        "y": 1720,
+        "size": 640
+      }
+    },
+    {
+      "file": "d63b6c729b4b.webp",
+      "rect": {
+        "x": 700,
+        "y": 1560,
+        "size": 960
+      }
+    },
+    {
+      "file": "403e67347187.webp",
+      "rect": {
+        "x": 442,
+        "y": 1302,
+        "size": 1477
+      }
+    },
+    {
+      "file": "9efc6f0d665e.webp",
+      "rect": {
+        "x": 51,
+        "y": 911,
+        "size": 2259
+      }
+    },
+    {
+      "file": "4aa2597f7c65.webp",
+      "rect": {
+        "x": 0,
+        "y": 440,
+        "size": 3200
+      }
+    },
+    {
+      "file": "3359014fcdfa.webp",
+      "rect": {
+        "x": -381,
+        "y": 0,
+        "size": 4602
+      }
+    }
+  ]
+}

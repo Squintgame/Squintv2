@@ -1,0 +1,67 @@
+{
+  "a": "tFWZyREIzlJgiL2bjFmS",
+  "ar": "==QYyVmYpJFIlRGIlBXZzVnS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:El_sue%C3%B1o_de_Jacob,_by_Jos%C3%A9_de_Ribera,_from_Prado_in_Google_Earth.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9ecff9edd85b.webp",
+      "rect": {
+        "x": 2642,
+        "y": 1361,
+        "size": 323
+      }
+    },
+    {
+      "file": "b6c51be22323.webp",
+      "rect": {
+        "x": 2561,
+        "y": 1280,
+        "size": 484
+      }
+    },
+    {
+      "file": "52182430f8d2.webp",
+      "rect": {
+        "x": 2440,
+        "y": 1159,
+        "size": 726
+      }
+    },
+    {
+      "file": "0eca25f56714.webp",
+      "rect": {
+        "x": 2245,
+        "y": 964,
+        "size": 1117
+      }
+    },
+    {
+      "file": "ed1692593098.webp",
+      "rect": {
+        "x": 1949,
+        "y": 668,
+        "size": 1708
+      }
+    },
+    {
+      "file": "d276d0abd4a7.webp",
+      "rect": {
+        "x": 1420,
+        "y": 312,
+        "size": 2420
+      }
+    },
+    {
+      "file": "5121c054cf25.webp",
+      "rect": {
+        "x": 0,
+        "y": -468,
+        "size": 3840
+      }
+    }
+  ]
+}

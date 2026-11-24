@@ -1,0 +1,67 @@
+{
+  "a": "==QZlxWasF2RgY2bgEWZTBSZoRHIu9GItJ3b0NFIlhGV",
+  "ar": "0RmbhJnYtVmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Christ_in_the_Storm_on_the_Lake_of_Galilee.jpg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "83413c87d0c7.webp",
+      "rect": {
+        "x": 753,
+        "y": 2768,
+        "size": 334
+      }
+    },
+    {
+      "file": "cd975f580702.webp",
+      "rect": {
+        "x": 670,
+        "y": 2685,
+        "size": 500
+      }
+    },
+    {
+      "file": "59dc35169e3f.webp",
+      "rect": {
+        "x": 545,
+        "y": 2560,
+        "size": 750
+      }
+    },
+    {
+      "file": "2d01b03a1673.webp",
+      "rect": {
+        "x": 343,
+        "y": 2358,
+        "size": 1155
+      }
+    },
+    {
+      "file": "f23e9b108157.webp",
+      "rect": {
+        "x": 37,
+        "y": 1965,
+        "size": 1766
+      }
+    },
+    {
+      "file": "6ac01aea2947.webp",
+      "rect": {
+        "x": 0,
+        "y": 1229,
+        "size": 2502
+      }
+    },
+    {
+      "file": "7c3ffa15bfc4.webp",
+      "rect": {
+        "x": -364,
+        "y": 0,
+        "size": 3731
+      }
+    }
+  ]
+}

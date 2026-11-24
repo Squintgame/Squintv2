@@ -1,0 +1,67 @@
+{
+  "a": "==QeyVmcy9EIlhGdg42bgcmbpJXd0NWZMBiclhGcvN3bslGaQBSQ",
+  "ar": "==QeiJXZEBiZvBCdodWaydFIoBXZz9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Wright_of_Derby,_The_Orrery.jpg",
+  "photographer": "Derby Museum and Art Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "4aa178db755d.webp",
+      "rect": {
+        "x": 2727,
+        "y": 1255,
+        "size": 299
+      }
+    },
+    {
+      "file": "47b0df4e9422.webp",
+      "rect": {
+        "x": 2652,
+        "y": 1181,
+        "size": 449
+      }
+    },
+    {
+      "file": "1bcab6c454a5.webp",
+      "rect": {
+        "x": 2540,
+        "y": 1068,
+        "size": 674
+      }
+    },
+    {
+      "file": "60d733cb881a.webp",
+      "rect": {
+        "x": 2359,
+        "y": 887,
+        "size": 1037
+      }
+    },
+    {
+      "file": "97b86cd78a8a.webp",
+      "rect": {
+        "x": 2084,
+        "y": 612,
+        "size": 1585
+      }
+    },
+    {
+      "file": "7f10def0bb39.webp",
+      "rect": {
+        "x": 1594,
+        "y": 282,
+        "size": 2246
+      }
+    },
+    {
+      "file": "30390c44d9ff.webp",
+      "rect": {
+        "x": 0,
+        "y": -572,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=YFIzVGbyFGaDBiZvBCdpFmc0J3bQBibhlmc0NXZ1FXR",
+  "ar": "uFWa0lGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Carlos_V_en_M%C3%BChlberg,_by_Titian,_from_Prado_in_Google_Earth.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c7d8eeb83cc1.webp",
+      "rect": {
+        "x": 1380,
+        "y": 1169,
+        "size": 427
+      }
+    },
+    {
+      "file": "4d9e74355be4.webp",
+      "rect": {
+        "x": 1274,
+        "y": 1062,
+        "size": 640
+      }
+    },
+    {
+      "file": "5cf895daed83.webp",
+      "rect": {
+        "x": 1114,
+        "y": 902,
+        "size": 960
+      }
+    },
+    {
+      "file": "d444fc860b63.webp",
+      "rect": {
+        "x": 855,
+        "y": 644,
+        "size": 1477
+      }
+    },
+    {
+      "file": "5db7205bd2c9.webp",
+      "rect": {
+        "x": 464,
+        "y": 253,
+        "size": 2259
+      }
+    },
+    {
+      "file": "4fac64a9b343.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "3a350a435f41.webp",
+      "rect": {
+        "x": -358,
+        "y": 0,
+        "size": 4556
+      }
+    }
+  ]
+}

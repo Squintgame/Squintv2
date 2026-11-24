@@ -1,0 +1,67 @@
+{
+  "a": "=Q3cpJHaDBydvxGbllFIlhGV",
+  "ar": "ulWdnVXYHBCb1FGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_-_The_Yellow_Christ_(Le_Christ_jaune)_1889.jpg",
+  "photographer": "Buffalo AKG Art Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "78b23aee67fd.webp",
+      "rect": {
+        "x": 1982,
+        "y": 2154,
+        "size": 350
+      }
+    },
+    {
+      "file": "0530d6feafd2.webp",
+      "rect": {
+        "x": 1895,
+        "y": 2067,
+        "size": 525
+      }
+    },
+    {
+      "file": "5413718881ce.webp",
+      "rect": {
+        "x": 1764,
+        "y": 1935,
+        "size": 788
+      }
+    },
+    {
+      "file": "99e0b6381bbd.webp",
+      "rect": {
+        "x": 1551,
+        "y": 1723,
+        "size": 1212
+      }
+    },
+    {
+      "file": "7a60280cf5aa.webp",
+      "rect": {
+        "x": 1230,
+        "y": 1402,
+        "size": 1854
+      }
+    },
+    {
+      "file": "599778de5fa9.webp",
+      "rect": {
+        "x": 525,
+        "y": 1016,
+        "size": 2627
+      }
+    },
+    {
+      "file": "f01966a5380e.webp",
+      "rect": {
+        "x": -406,
+        "y": 0,
+        "size": 3965
+      }
+    }
+  ]
+}

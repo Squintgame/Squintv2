@@ -1,0 +1,67 @@
+{
+  "a": "=kHdpNEIlhGdg4WagU2YuFGR",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Danse_%C3%A0_la_ville_(Pierre-Auguste_Renoir)-WUS07474_(cropped).jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c07aba030084.webp",
+      "rect": {
+        "x": 567,
+        "y": 671,
+        "size": 210
+      }
+    },
+    {
+      "file": "df87457b3d8d.webp",
+      "rect": {
+        "x": 514,
+        "y": 618,
+        "size": 315
+      }
+    },
+    {
+      "file": "c5eb8af5ee76.webp",
+      "rect": {
+        "x": 436,
+        "y": 540,
+        "size": 472
+      }
+    },
+    {
+      "file": "dcd258c9da59.webp",
+      "rect": {
+        "x": 308,
+        "y": 412,
+        "size": 727
+      }
+    },
+    {
+      "file": "994bfcaa0d66.webp",
+      "rect": {
+        "x": 116,
+        "y": 220,
+        "size": 1112
+      }
+    },
+    {
+      "file": "fb8af4152144.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1575
+      }
+    },
+    {
+      "file": "a0c01250de97.webp",
+      "rect": {
+        "x": -986,
+        "y": 0,
+        "size": 3863
+      }
+    }
+  ]
+}

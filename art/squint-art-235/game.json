@@ -1,0 +1,67 @@
+{
+  "a": "==Adltmch1EIlZXYsNFIlhGV",
+  "ar": "==QZtR7wyl6wHBibvl6wM1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_Le_March%C3%A9_d%27esclaves.jpg",
+  "photographer": "Clark Art Institute",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "dbf4675d4cdf.webp",
+      "rect": {
+        "x": 961,
+        "y": 2678,
+        "size": 427
+      }
+    },
+    {
+      "file": "295a4810210d.webp",
+      "rect": {
+        "x": 854,
+        "y": 2571,
+        "size": 640
+      }
+    },
+    {
+      "file": "90c550822fcc.webp",
+      "rect": {
+        "x": 694,
+        "y": 2411,
+        "size": 960
+      }
+    },
+    {
+      "file": "0fd8b8b73fce.webp",
+      "rect": {
+        "x": 436,
+        "y": 2152,
+        "size": 1477
+      }
+    },
+    {
+      "file": "50a086827b67.webp",
+      "rect": {
+        "x": 45,
+        "y": 1761,
+        "size": 2259
+      }
+    },
+    {
+      "file": "6c433b69317c.webp",
+      "rect": {
+        "x": 0,
+        "y": 1291,
+        "size": 3200
+      }
+    },
+    {
+      "file": "8606f966304c.webp",
+      "rect": {
+        "x": -653,
+        "y": 0,
+        "size": 5147
+      }
+    }
+  ]
+}

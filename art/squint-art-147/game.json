@@ -1,0 +1,67 @@
+{
+  "a": "==Abyl2Rgcmbph2Z1FGTgQmbhBiclNWamZ2T",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_De_Soldaat_en_het_Lachende_Meisje_-_Google_Art_Project.jpg",
+  "photographer": "The Frick Collection",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "832a3ad8bddd.webp",
+      "rect": {
+        "x": 320,
+        "y": 1157,
+        "size": 427
+      }
+    },
+    {
+      "file": "5733938f03b2.webp",
+      "rect": {
+        "x": 213,
+        "y": 1050,
+        "size": 640
+      }
+    },
+    {
+      "file": "2205c1ff1514.webp",
+      "rect": {
+        "x": 53,
+        "y": 890,
+        "size": 960
+      }
+    },
+    {
+      "file": "eb241410a51e.webp",
+      "rect": {
+        "x": 0,
+        "y": 631,
+        "size": 1477
+      }
+    },
+    {
+      "file": "63e4ef275794.webp",
+      "rect": {
+        "x": 0,
+        "y": 241,
+        "size": 2259
+      }
+    },
+    {
+      "file": "0383514841f5.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "388973939b47.webp",
+      "rect": {
+        "x": -171,
+        "y": 0,
+        "size": 4183
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=IXZulWYyRFIlNXavRncvRFIlhGV",
+  "ar": "5VmQgkGZtFGSg4WYtN3T",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Osman_Hamdi_Bey_-_The_Tortoise_Trainer_-_Google_Art_Project.jpg",
+  "photographer": "Pera Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "137c9861cd29.webp",
+      "rect": {
+        "x": 1186,
+        "y": 2050,
+        "size": 427
+      }
+    },
+    {
+      "file": "3a13da7eb540.webp",
+      "rect": {
+        "x": 1080,
+        "y": 1943,
+        "size": 640
+      }
+    },
+    {
+      "file": "15e270367e57.webp",
+      "rect": {
+        "x": 920,
+        "y": 1783,
+        "size": 960
+      }
+    },
+    {
+      "file": "cf41c925c87a.webp",
+      "rect": {
+        "x": 661,
+        "y": 1524,
+        "size": 1477
+      }
+    },
+    {
+      "file": "0d01a1079ed4.webp",
+      "rect": {
+        "x": 270,
+        "y": 1134,
+        "size": 2259
+      }
+    },
+    {
+      "file": "2ff75a8a67a7.webp",
+      "rect": {
+        "x": 0,
+        "y": 663,
+        "size": 3200
+      }
+    },
+    {
+      "file": "6c669d12d240.webp",
+      "rect": {
+        "x": -1672,
+        "y": 0,
+        "size": 7184
+      }
+    }
+  ]
+}

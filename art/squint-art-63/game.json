@@ -1,0 +1,67 @@
+{
+  "a": "==QYpxWZoB3T",
+  "ar": "=MXahxGbp1EI0RXZyVmdFBibo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9df5bbd73215.webp",
+      "rect": {
+        "x": 2328,
+        "y": 217,
+        "size": 290
+      }
+    },
+    {
+      "file": "f11cdfbb5843.webp",
+      "rect": {
+        "x": 2256,
+        "y": 144,
+        "size": 435
+      }
+    },
+    {
+      "file": "1080770917fb.webp",
+      "rect": {
+        "x": 2147,
+        "y": 35,
+        "size": 653
+      }
+    },
+    {
+      "file": "5977c160bd90.webp",
+      "rect": {
+        "x": 1971,
+        "y": 0,
+        "size": 1005
+      }
+    },
+    {
+      "file": "84d65cfb5cd7.webp",
+      "rect": {
+        "x": 1705,
+        "y": 0,
+        "size": 1536
+      }
+    },
+    {
+      "file": "f0c7986e24db.webp",
+      "rect": {
+        "x": 1385,
+        "y": 0,
+        "size": 2177
+      }
+    },
+    {
+      "file": "4906d0c6cf71.webp",
+      "rect": {
+        "x": 0,
+        "y": -614,
+        "size": 3840
+      }
+    }
+  ]
+}

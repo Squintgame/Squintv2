@@ -1,0 +1,67 @@
+{
+  "a": "=MHduV2Yv5mbJBSZoRHIm9GIlJ3YhN3ch1EIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Massacre_of_the_Innocents_-_Google_Art_Project.jpg",
+  "photographer": "Royal Collection",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c124f6e13271.webp",
+      "rect": {
+        "x": 2574,
+        "y": 1544,
+        "size": 292
+      }
+    },
+    {
+      "file": "bebbe5f2ea61.webp",
+      "rect": {
+        "x": 2501,
+        "y": 1471,
+        "size": 439
+      }
+    },
+    {
+      "file": "8ec8601b5925.webp",
+      "rect": {
+        "x": 2391,
+        "y": 1362,
+        "size": 658
+      }
+    },
+    {
+      "file": "f12e6129fb15.webp",
+      "rect": {
+        "x": 2214,
+        "y": 1184,
+        "size": 1012
+      }
+    },
+    {
+      "file": "f5cbae10db85.webp",
+      "rect": {
+        "x": 1946,
+        "y": 917,
+        "size": 1548
+      }
+    },
+    {
+      "file": "3b3df6cea1fc.webp",
+      "rect": {
+        "x": 1623,
+        "y": 439,
+        "size": 2193
+      }
+    },
+    {
+      "file": "baf2f93facc8.webp",
+      "rect": {
+        "x": 0,
+        "y": -604,
+        "size": 3840
+      }
+    }
+  ]
+}

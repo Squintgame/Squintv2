@@ -1,0 +1,67 @@
+{
+  "a": "=UmbpV2UgUGa0BSZkl2clJEIzVWakFGTgcmb19WW",
+  "ar": "0VmYyV3bDBSZ2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet_027.jpg",
+  "photographer": "Musée des Beaux-Arts de la ville de Paris",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5719825b92e5.webp",
+      "rect": {
+        "x": 2777,
+        "y": 2059,
+        "size": 359
+      }
+    },
+    {
+      "file": "4d5816677883.webp",
+      "rect": {
+        "x": 2688,
+        "y": 1969,
+        "size": 538
+      }
+    },
+    {
+      "file": "dfcc801e83a9.webp",
+      "rect": {
+        "x": 2553,
+        "y": 1835,
+        "size": 808
+      }
+    },
+    {
+      "file": "ed791ceaf3b7.webp",
+      "rect": {
+        "x": 2336,
+        "y": 1617,
+        "size": 1242
+      }
+    },
+    {
+      "file": "a61ea0bf0568.webp",
+      "rect": {
+        "x": 1940,
+        "y": 1289,
+        "size": 1900
+      }
+    },
+    {
+      "file": "09ef2f364df2.webp",
+      "rect": {
+        "x": 1148,
+        "y": 538,
+        "size": 2692
+      }
+    },
+    {
+      "file": "999a992f0af2.webp",
+      "rect": {
+        "x": 0,
+        "y": -305,
+        "size": 3840
+      }
+    }
+  ]
+}

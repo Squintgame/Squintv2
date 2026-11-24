@@ -1,0 +1,67 @@
+{
+  "a": "zVncvhGcz9GaQByZulmclZ3bjNXaEBCdzlWblh2YsFEIlhGV",
+  "ar": "==QeiJXZEBiZvBCdodWaydFIoBXZz9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Joseph_Wright_of_Derby_The_Alchemist.jpg",
+  "photographer": "Derby Museum and Art Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d1a9e1c73efd.webp",
+      "rect": {
+        "x": 2810,
+        "y": 2605,
+        "size": 427
+      }
+    },
+    {
+      "file": "2c1d415fc306.webp",
+      "rect": {
+        "x": 2703,
+        "y": 2498,
+        "size": 640
+      }
+    },
+    {
+      "file": "7b9bddbc0d41.webp",
+      "rect": {
+        "x": 2543,
+        "y": 2338,
+        "size": 960
+      }
+    },
+    {
+      "file": "8e5b18860d70.webp",
+      "rect": {
+        "x": 2285,
+        "y": 2079,
+        "size": 1477
+      }
+    },
+    {
+      "file": "a9e19ee9d1bb.webp",
+      "rect": {
+        "x": 1581,
+        "y": 1688,
+        "size": 2259
+      }
+    },
+    {
+      "file": "66c4ad017a3a.webp",
+      "rect": {
+        "x": 640,
+        "y": 1218,
+        "size": 3200
+      }
+    },
+    {
+      "file": "15b594bc25c2.webp",
+      "rect": {
+        "x": -570,
+        "y": 0,
+        "size": 4980
+      }
+    }
+  ]
+}

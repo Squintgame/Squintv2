@@ -1,0 +1,67 @@
+{
+  "a": "==Qav1GIll2b25WZgQHIlpGIzVHbwBycpFmbu92YgUGbgUmbgUmagk2Yg42buBibv5GIu9mbgMXZuV3b5BSYlNFIlhGdgUmdvJWYgIXZyVGZuF2V",
+  "ar": "==AajlmckVWayZEIklmdhREIyFGczF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Friedrich,_Caspar_David_-_Wanderer_%C3%BCber_dem_Nebelmeer.jpg",
+  "photographer": "Hamburger Kunsthalle",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "e1e3f2039e9d.webp",
+      "rect": {
+        "x": 1137,
+        "y": 1570,
+        "size": 218
+      }
+    },
+    {
+      "file": "2139068ddfd7.webp",
+      "rect": {
+        "x": 1082,
+        "y": 1516,
+        "size": 327
+      }
+    },
+    {
+      "file": "8a4776914eb4.webp",
+      "rect": {
+        "x": 1000,
+        "y": 1434,
+        "size": 490
+      }
+    },
+    {
+      "file": "6fca9d7a74ae.webp",
+      "rect": {
+        "x": 868,
+        "y": 1302,
+        "size": 755
+      }
+    },
+    {
+      "file": "6312f7bee7dd.webp",
+      "rect": {
+        "x": 668,
+        "y": 1102,
+        "size": 1154
+      }
+    },
+    {
+      "file": "688ca0e5df91.webp",
+      "rect": {
+        "x": 327,
+        "y": 862,
+        "size": 1635
+      }
+    },
+    {
+      "file": "39c7065b355d.webp",
+      "rect": {
+        "x": -269,
+        "y": 0,
+        "size": 2500
+      }
+    }
+  ]
+}

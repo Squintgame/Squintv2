@@ -1,0 +1,67 @@
+{
+  "a": "=kHbsF2VgY2bgQXahJHdy9GU",
+  "ar": "lxWZph2YTBibvdWR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Egon_Schiele_-_Portrait_of_Wally_Neuzil_-_Google_Art_Project.jpg",
+  "photographer": "Leopold Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "ec8088834f40.webp",
+      "rect": {
+        "x": 2269,
+        "y": 1171,
+        "size": 276
+      }
+    },
+    {
+      "file": "7db9860d07cd.webp",
+      "rect": {
+        "x": 2200,
+        "y": 1102,
+        "size": 413
+      }
+    },
+    {
+      "file": "05ffb068f9cd.webp",
+      "rect": {
+        "x": 2097,
+        "y": 999,
+        "size": 620
+      }
+    },
+    {
+      "file": "241e3dd04be0.webp",
+      "rect": {
+        "x": 1930,
+        "y": 832,
+        "size": 954
+      }
+    },
+    {
+      "file": "0012104b150b.webp",
+      "rect": {
+        "x": 1594,
+        "y": 579,
+        "size": 1459
+      }
+    },
+    {
+      "file": "11b422f23efd.webp",
+      "rect": {
+        "x": 986,
+        "y": 275,
+        "size": 2067
+      }
+    },
+    {
+      "file": "b287b59f9bfc.webp",
+      "rect": {
+        "x": 0,
+        "y": -286,
+        "size": 3053
+      }
+    }
+  ]
+}

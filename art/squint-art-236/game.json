@@ -1,0 +1,67 @@
+{
+  "a": "zV3czl2YyFmT",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Narciso_(1597-1599).jpg",
+  "photographer": "Galleria Nazionale d'Arte Antica",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "146424a83f2b.webp",
+      "rect": {
+        "x": 323,
+        "y": 1164,
+        "size": 427
+      }
+    },
+    {
+      "file": "436583c4b379.webp",
+      "rect": {
+        "x": 216,
+        "y": 1057,
+        "size": 640
+      }
+    },
+    {
+      "file": "3b7d12724450.webp",
+      "rect": {
+        "x": 56,
+        "y": 897,
+        "size": 960
+      }
+    },
+    {
+      "file": "d9041c0dc0d8.webp",
+      "rect": {
+        "x": 0,
+        "y": 638,
+        "size": 1477
+      }
+    },
+    {
+      "file": "f604778ad450.webp",
+      "rect": {
+        "x": 0,
+        "y": 247,
+        "size": 2259
+      }
+    },
+    {
+      "file": "a35731d65d64.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "0084c7f3ab44.webp",
+      "rect": {
+        "x": -331,
+        "y": 0,
+        "size": 4502
+      }
+    }
+  ]
+}

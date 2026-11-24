@@ -1,0 +1,67 @@
+{
+  "a": "==wc39GbsF2RgUGa0BibvBSZpB3Zh1EIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Die_Elster_auf_dem_Galgen.jpg",
+  "photographer": "Hessian State Museum Darmstadt",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "422e2ad684e7.webp",
+      "rect": {
+        "x": 276,
+        "y": 276,
+        "size": 374
+      }
+    },
+    {
+      "file": "70ab3623bb01.webp",
+      "rect": {
+        "x": 183,
+        "y": 183,
+        "size": 560
+      }
+    },
+    {
+      "file": "1dc80de63dc5.webp",
+      "rect": {
+        "x": 43,
+        "y": 43,
+        "size": 841
+      }
+    },
+    {
+      "file": "cb5f5a6ef290.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1293
+      }
+    },
+    {
+      "file": "217419aa37b5.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1978
+      }
+    },
+    {
+      "file": "02b86584292b.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2802
+      }
+    },
+    {
+      "file": "90ce0fd4e71b.webp",
+      "rect": {
+        "x": 0,
+        "y": -209,
+        "size": 3782
+      }
+    }
+  ]
+}

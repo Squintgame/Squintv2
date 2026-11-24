@@ -1,0 +1,67 @@
+{
+  "a": "z5WYuJ3TgQXYgwWYpJXdCBSQ",
+  "ar": "0VmYyV3bDBSZ2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_A_Burial_at_Ornans_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b6d6e3a9e2f4.webp",
+      "rect": {
+        "x": 2836,
+        "y": 1395,
+        "size": 196
+      }
+    },
+    {
+      "file": "65c2e63952de.webp",
+      "rect": {
+        "x": 2787,
+        "y": 1346,
+        "size": 294
+      }
+    },
+    {
+      "file": "572df6312894.webp",
+      "rect": {
+        "x": 2714,
+        "y": 1273,
+        "size": 441
+      }
+    },
+    {
+      "file": "c4cee7ce634c.webp",
+      "rect": {
+        "x": 2595,
+        "y": 1086,
+        "size": 679
+      }
+    },
+    {
+      "file": "277626363a17.webp",
+      "rect": {
+        "x": 2415,
+        "y": 727,
+        "size": 1038
+      }
+    },
+    {
+      "file": "16052923da03.webp",
+      "rect": {
+        "x": 2199,
+        "y": 294,
+        "size": 1471
+      }
+    },
+    {
+      "file": "8136e7b80464.webp",
+      "rect": {
+        "x": 0,
+        "y": -1037,
+        "size": 3840
+      }
+    }
+  ]
+}

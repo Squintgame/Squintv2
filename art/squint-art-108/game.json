@@ -1,0 +1,67 @@
+{
+  "a": "=M3cptEIlhGV",
+  "ar": "6VWehhEIvN2clNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:El_Beso_(Pinacoteca_de_Brera,_Mil%C3%A1n,_1859).jpg",
+  "photographer": "Pinacoteca di Brera",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9be623773a1b.webp",
+      "rect": {
+        "x": 1826,
+        "y": 1397,
+        "size": 427
+      }
+    },
+    {
+      "file": "3476f5feea96.webp",
+      "rect": {
+        "x": 1720,
+        "y": 1291,
+        "size": 640
+      }
+    },
+    {
+      "file": "dab3d6e75120.webp",
+      "rect": {
+        "x": 1560,
+        "y": 1131,
+        "size": 960
+      }
+    },
+    {
+      "file": "633eeffcf377.webp",
+      "rect": {
+        "x": 1301,
+        "y": 872,
+        "size": 1477
+      }
+    },
+    {
+      "file": "ad6559f90d08.webp",
+      "rect": {
+        "x": 910,
+        "y": 481,
+        "size": 2259
+      }
+    },
+    {
+      "file": "279c618978eb.webp",
+      "rect": {
+        "x": 440,
+        "y": 11,
+        "size": 3200
+      }
+    },
+    {
+      "file": "e00c764cd432.webp",
+      "rect": {
+        "x": -472,
+        "y": 0,
+        "size": 4784
+      }
+    }
+  ]
+}

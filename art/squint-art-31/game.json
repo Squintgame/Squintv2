@@ -1,0 +1,67 @@
+{
+  "a": "==QapRXYy9GSgUGa0BiZvBCa0F2T",
+  "ar": "==AZpZXYEBycpV3bM1yclVXcjFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Le_Serment_des_Horaces_-_Jacques-Louis_David_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3692_;_MR_1432.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "ce7dc2bf03f9.webp",
+      "rect": {
+        "x": 417,
+        "y": 1250,
+        "size": 331
+      }
+    },
+    {
+      "file": "97fa50bb5150.webp",
+      "rect": {
+        "x": 334,
+        "y": 1167,
+        "size": 496
+      }
+    },
+    {
+      "file": "4131c838c7f4.webp",
+      "rect": {
+        "x": 210,
+        "y": 1043,
+        "size": 744
+      }
+    },
+    {
+      "file": "bb10a1a637fc.webp",
+      "rect": {
+        "x": 10,
+        "y": 843,
+        "size": 1145
+      }
+    },
+    {
+      "file": "96f333ce8d8f.webp",
+      "rect": {
+        "x": 0,
+        "y": 539,
+        "size": 1752
+      }
+    },
+    {
+      "file": "5bb0605ca3c8.webp",
+      "rect": {
+        "x": 0,
+        "y": 175,
+        "size": 2482
+      }
+    },
+    {
+      "file": "08341c5b10ab.webp",
+      "rect": {
+        "x": 0,
+        "y": -431,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==QZ05WYEBiZvBSZ1FnchJEIlhGV",
+  "ar": "=gXavJ3YhxWZEBSZuh6wnVXR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Eug%C3%A8ne_Delacroix_-_The_Barque_of_Dante.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b4b0fed0d66f.webp",
+      "rect": {
+        "x": 1130,
+        "y": 2037,
+        "size": 301
+      }
+    },
+    {
+      "file": "d71c3aefed00.webp",
+      "rect": {
+        "x": 1055,
+        "y": 1961,
+        "size": 452
+      }
+    },
+    {
+      "file": "364036776866.webp",
+      "rect": {
+        "x": 942,
+        "y": 1848,
+        "size": 678
+      }
+    },
+    {
+      "file": "3411df21f4af.webp",
+      "rect": {
+        "x": 759,
+        "y": 1666,
+        "size": 1043
+      }
+    },
+    {
+      "file": "0b8370455eda.webp",
+      "rect": {
+        "x": 483,
+        "y": 1117,
+        "size": 1596
+      }
+    },
+    {
+      "file": "4a50b580636f.webp",
+      "rect": {
+        "x": 151,
+        "y": 452,
+        "size": 2261
+      }
+    },
+    {
+      "file": "083081eb3560.webp",
+      "rect": {
+        "x": 0,
+        "y": -456,
+        "size": 3626
+      }
+    }
+  ]
+}

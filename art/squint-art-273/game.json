@@ -1,0 +1,67 @@
+{
+  "a": "=Mncll2ZsFEIm9GIuVWbvdFIlhGV",
+  "ar": "=gXavJ3YhxWZEBSZuh6wnVXR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Femmes_d%27Alger_dans_leur_appartement,_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_INV_3824.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "39fffc4c0c21.webp",
+      "rect": {
+        "x": 2081,
+        "y": 2248,
+        "size": 332
+      }
+    },
+    {
+      "file": "c8829e8e5a9a.webp",
+      "rect": {
+        "x": 1998,
+        "y": 2165,
+        "size": 497
+      }
+    },
+    {
+      "file": "acde10a39afd.webp",
+      "rect": {
+        "x": 1873,
+        "y": 2041,
+        "size": 746
+      }
+    },
+    {
+      "file": "03618dbe69d1.webp",
+      "rect": {
+        "x": 1673,
+        "y": 1836,
+        "size": 1148
+      }
+    },
+    {
+      "file": "d32bf445d696.webp",
+      "rect": {
+        "x": 1369,
+        "y": 1229,
+        "size": 1755
+      }
+    },
+    {
+      "file": "984bb5680ad8.webp",
+      "rect": {
+        "x": 1003,
+        "y": 497,
+        "size": 2487
+      }
+    },
+    {
+      "file": "8f0e8f19474a.webp",
+      "rect": {
+        "x": 0,
+        "y": -428,
+        "size": 3840
+      }
+    }
+  ]
+}

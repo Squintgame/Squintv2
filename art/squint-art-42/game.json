@@ -1,0 +1,67 @@
+{
+  "a": "=Embu9GZh1EIzl2buVmQ",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Leonardo,_Madonna_Benois.JPG",
+  "photographer": "Hermitage Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "1b8e83eea6c0.webp",
+      "rect": {
+        "x": 2163,
+        "y": 239,
+        "size": 318
+      }
+    },
+    {
+      "file": "e83325f0f751.webp",
+      "rect": {
+        "x": 2083,
+        "y": 159,
+        "size": 477
+      }
+    },
+    {
+      "file": "a3918094bca3.webp",
+      "rect": {
+        "x": 1964,
+        "y": 40,
+        "size": 716
+      }
+    },
+    {
+      "file": "ba58037e1d63.webp",
+      "rect": {
+        "x": 1762,
+        "y": 0,
+        "size": 1102
+      }
+    },
+    {
+      "file": "2e9b2503308b.webp",
+      "rect": {
+        "x": 1179,
+        "y": 0,
+        "size": 1685
+      }
+    },
+    {
+      "file": "27b867d773d5.webp",
+      "rect": {
+        "x": 477,
+        "y": 0,
+        "size": 2387
+      }
+    },
+    {
+      "file": "ba6868ee6177.webp",
+      "rect": {
+        "x": -862,
+        "y": 0,
+        "size": 4588
+      }
+    }
+  ]
+}

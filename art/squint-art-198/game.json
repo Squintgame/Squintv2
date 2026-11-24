@@ -1,0 +1,67 @@
+{
+  "a": "=gFIvVGTgY2bgQXahJHdy9GU",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Leo_X_and_his_cousins,_cardinals_Giulio_de%27_Medici_and_Luigi_de%27_Rossi_(by_Raphael).jpg",
+  "photographer": "Galleria Palatina",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5c072eadfd33.webp",
+      "rect": {
+        "x": 492,
+        "y": 1892,
+        "size": 282
+      }
+    },
+    {
+      "file": "00fb3b143f4e.webp",
+      "rect": {
+        "x": 422,
+        "y": 1821,
+        "size": 423
+      }
+    },
+    {
+      "file": "286d57892af7.webp",
+      "rect": {
+        "x": 316,
+        "y": 1716,
+        "size": 634
+      }
+    },
+    {
+      "file": "ebea68799ecd.webp",
+      "rect": {
+        "x": 145,
+        "y": 1545,
+        "size": 976
+      }
+    },
+    {
+      "file": "7dc808b7fc86.webp",
+      "rect": {
+        "x": 0,
+        "y": 1286,
+        "size": 1493
+      }
+    },
+    {
+      "file": "80dd2cacaf89.webp",
+      "rect": {
+        "x": 0,
+        "y": 975,
+        "size": 2115
+      }
+    },
+    {
+      "file": "890ab152100b.webp",
+      "rect": {
+        "x": -411,
+        "y": 0,
+        "size": 3360
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=QHc5dWRg8GdulGI0h2ZpxmRgUGa0BibvBCdzVmU",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rest_on_the_Flight_into_Egypt-Caravaggio_(c.1597).jpg",
+  "photographer": "Galleria Doria Pamphilj",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "a23e19915c1c.webp",
+      "rect": {
+        "x": 1121,
+        "y": 602,
+        "size": 344
+      }
+    },
+    {
+      "file": "46a28205bcd8.webp",
+      "rect": {
+        "x": 1035,
+        "y": 516,
+        "size": 516
+      }
+    },
+    {
+      "file": "11cfeb6926cf.webp",
+      "rect": {
+        "x": 906,
+        "y": 387,
+        "size": 774
+      }
+    },
+    {
+      "file": "6dcd8dd67bea.webp",
+      "rect": {
+        "x": 697,
+        "y": 179,
+        "size": 1192
+      }
+    },
+    {
+      "file": "57f688b31d48.webp",
+      "rect": {
+        "x": 382,
+        "y": 0,
+        "size": 1822
+      }
+    },
+    {
+      "file": "ce228b6e9db4.webp",
+      "rect": {
+        "x": 2,
+        "y": 0,
+        "size": 2582
+      }
+    },
+    {
+      "file": "f98936a6db7e.webp",
+      "rect": {
+        "x": 0,
+        "y": -371,
+        "size": 3840
+      }
+    }
+  ]
+}

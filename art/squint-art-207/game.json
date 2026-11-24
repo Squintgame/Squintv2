@@ -1,0 +1,67 @@
+{
+  "a": "=MXdwBXajVXZMBiZvBycyVGdodWdhREIlhGdgY2bgUGchJFIlhGV",
+  "ar": "=MnblRGbpdFIuFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_The_Rape_of_the_Daughters_of_Leucippus.jpg",
+  "photographer": "Bavarian State Painting Collections",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c3fc7268d46b.webp",
+      "rect": {
+        "x": 2623,
+        "y": 2042,
+        "size": 394
+      }
+    },
+    {
+      "file": "965356193aaa.webp",
+      "rect": {
+        "x": 2525,
+        "y": 1944,
+        "size": 590
+      }
+    },
+    {
+      "file": "2d2e826d2a4b.webp",
+      "rect": {
+        "x": 2377,
+        "y": 1796,
+        "size": 886
+      }
+    },
+    {
+      "file": "ffa52c21efe8.webp",
+      "rect": {
+        "x": 2139,
+        "y": 1558,
+        "size": 1363
+      }
+    },
+    {
+      "file": "41ee01655d1f.webp",
+      "rect": {
+        "x": 1459,
+        "y": 1197,
+        "size": 2084
+      }
+    },
+    {
+      "file": "fb93e2154728.webp",
+      "rect": {
+        "x": 590,
+        "y": 763,
+        "size": 2952
+      }
+    },
+    {
+      "file": "68f8be75ac6b.webp",
+      "rect": {
+        "x": -107,
+        "y": 0,
+        "size": 3758
+      }
+    }
+  ]
+}

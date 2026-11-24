@@ -1,0 +1,67 @@
+{
+  "a": "==wcuFWajl2c11EIlhGV",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Musicians_MET_DP-687-001.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "05202a3ca1dc.webp",
+      "rect": {
+        "x": 250,
+        "y": 1414,
+        "size": 331
+      }
+    },
+    {
+      "file": "51323af09d06.webp",
+      "rect": {
+        "x": 168,
+        "y": 1332,
+        "size": 497
+      }
+    },
+    {
+      "file": "e88a32e76370.webp",
+      "rect": {
+        "x": 43,
+        "y": 1207,
+        "size": 745
+      }
+    },
+    {
+      "file": "95293462b332.webp",
+      "rect": {
+        "x": 0,
+        "y": 1007,
+        "size": 1147
+      }
+    },
+    {
+      "file": "c7a1e61ae4c7.webp",
+      "rect": {
+        "x": 0,
+        "y": 703,
+        "size": 1754
+      }
+    },
+    {
+      "file": "c17e275706d8.webp",
+      "rect": {
+        "x": 0,
+        "y": 338,
+        "size": 2484
+      }
+    },
+    {
+      "file": "421663426449.webp",
+      "rect": {
+        "x": 0,
+        "y": -429,
+        "size": 3840
+      }
+    }
+  ]
+}

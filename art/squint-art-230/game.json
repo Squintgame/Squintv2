@@ -1,0 +1,67 @@
+{
+  "a": "=M3chx2RgUmbpdFIlhGV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_The_Glass_of_Wine_-_Google_Art_Project.jpg",
+  "photographer": "Gemäldegalerie Berlin",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "fcae23778626.webp",
+      "rect": {
+        "x": 277,
+        "y": 277,
+        "size": 368
+      }
+    },
+    {
+      "file": "8c52f02b733c.webp",
+      "rect": {
+        "x": 185,
+        "y": 185,
+        "size": 552
+      }
+    },
+    {
+      "file": "01ff0f13e5b4.webp",
+      "rect": {
+        "x": 46,
+        "y": 46,
+        "size": 829
+      }
+    },
+    {
+      "file": "586ff963f896.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1275
+      }
+    },
+    {
+      "file": "ec52bb62ef8e.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1950
+      }
+    },
+    {
+      "file": "24f2544401b3.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2762
+      }
+    },
+    {
+      "file": "47e98c232c48.webp",
+      "rect": {
+        "x": 0,
+        "y": -262,
+        "size": 3840
+      }
+    }
+  ]
+}

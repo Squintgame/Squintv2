@@ -1,0 +1,67 @@
+{
+  "a": "=MXduVmVgcmbpBXZlx2U",
+  "ar": "l52bpdmcvl2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg",
+  "photographer": "Staatliche Kunstsammlungen Dresden",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "1f4c93e2034e.webp",
+      "rect": {
+        "x": 1606,
+        "y": 1860,
+        "size": 263
+      }
+    },
+    {
+      "file": "0f2805590bbc.webp",
+      "rect": {
+        "x": 1540,
+        "y": 1795,
+        "size": 394
+      }
+    },
+    {
+      "file": "d12d6100a134.webp",
+      "rect": {
+        "x": 1442,
+        "y": 1696,
+        "size": 592
+      }
+    },
+    {
+      "file": "f0108ae70b97.webp",
+      "rect": {
+        "x": 1283,
+        "y": 1456,
+        "size": 910
+      }
+    },
+    {
+      "file": "d5b7c9a650e0.webp",
+      "rect": {
+        "x": 1042,
+        "y": 974,
+        "size": 1392
+      }
+    },
+    {
+      "file": "1b8e9c1228a2.webp",
+      "rect": {
+        "x": 752,
+        "y": 394,
+        "size": 1972
+      }
+    },
+    {
+      "file": "4590b57eecdc.webp",
+      "rect": {
+        "x": 0,
+        "y": -737,
+        "size": 3840
+      }
+    }
+  ]
+}

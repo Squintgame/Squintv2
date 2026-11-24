@@ -1,0 +1,67 @@
+{
+  "a": "=QWah1EIyVGaggGdpdHIyVGd0VGTgEGIn5Wa0lmcXBSekFGT",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Woman_writing_a_letter,_with_her_maid,_by_Johannes_Vermeer.jpg",
+  "photographer": "National Gallery of Ireland",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "db4877d27561.webp",
+      "rect": {
+        "x": 340,
+        "y": 745,
+        "size": 274
+      }
+    },
+    {
+      "file": "d4a3b8af6e31.webp",
+      "rect": {
+        "x": 272,
+        "y": 677,
+        "size": 412
+      }
+    },
+    {
+      "file": "ffb611450c9a.webp",
+      "rect": {
+        "x": 169,
+        "y": 574,
+        "size": 617
+      }
+    },
+    {
+      "file": "372ee7e8c2fe.webp",
+      "rect": {
+        "x": 2,
+        "y": 408,
+        "size": 950
+      }
+    },
+    {
+      "file": "27a80c9c4637.webp",
+      "rect": {
+        "x": 0,
+        "y": 156,
+        "size": 1452
+      }
+    },
+    {
+      "file": "3aebdf368300.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2058
+      }
+    },
+    {
+      "file": "5656c6bb1f5a.webp",
+      "rect": {
+        "x": -265,
+        "y": 0,
+        "size": 3000
+      }
+    }
+  ]
+}

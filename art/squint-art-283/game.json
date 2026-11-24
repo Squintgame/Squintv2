@@ -1,0 +1,67 @@
+{
+  "a": "==wc15Wb1RnclZFIzFGIJlEImx2bkVnU",
+  "ar": "==wbkx2bi1WajJXQgUGcwV2c1l2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vertumnus_%C3%A5rstidernas_gud_m%C3%A5lad_av_Giuseppe_Arcimboldo_1591_-_Skoklosters_slott_-_91503.jpg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9d007cf4561e.webp",
+      "rect": {
+        "x": 2032,
+        "y": 3960,
+        "size": 427
+      }
+    },
+    {
+      "file": "9a58060e1eb5.webp",
+      "rect": {
+        "x": 1925,
+        "y": 3854,
+        "size": 640
+      }
+    },
+    {
+      "file": "02ed0dde2bd1.webp",
+      "rect": {
+        "x": 1765,
+        "y": 3694,
+        "size": 960
+      }
+    },
+    {
+      "file": "267c72045937.webp",
+      "rect": {
+        "x": 1507,
+        "y": 3284,
+        "size": 1477
+      }
+    },
+    {
+      "file": "4a0401e43383.webp",
+      "rect": {
+        "x": 1116,
+        "y": 2502,
+        "size": 2259
+      }
+    },
+    {
+      "file": "e967b0b413f2.webp",
+      "rect": {
+        "x": 640,
+        "y": 1561,
+        "size": 3200
+      }
+    },
+    {
+      "file": "358f3c3be65c.webp",
+      "rect": {
+        "x": -460,
+        "y": 0,
+        "size": 4761
+      }
+    }
+  ]
+}

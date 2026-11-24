@@ -1,0 +1,67 @@
+{
+  "a": "=cmbpRWYlJFIsJXaHByZuV3bZBSQ",
+  "ar": "==AZyFmbvdWYyZEIpOscv52bI1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Fragonard,_The_Reader.jpg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5c7ab16bdb1c.webp",
+      "rect": {
+        "x": 440,
+        "y": 1827,
+        "size": 354
+      }
+    },
+    {
+      "file": "2eb702658512.webp",
+      "rect": {
+        "x": 352,
+        "y": 1738,
+        "size": 530
+      }
+    },
+    {
+      "file": "73e447f51914.webp",
+      "rect": {
+        "x": 219,
+        "y": 1606,
+        "size": 796
+      }
+    },
+    {
+      "file": "8e067d203694.webp",
+      "rect": {
+        "x": 5,
+        "y": 1391,
+        "size": 1224
+      }
+    },
+    {
+      "file": "50f24b7587d3.webp",
+      "rect": {
+        "x": 0,
+        "y": 1067,
+        "size": 1872
+      }
+    },
+    {
+      "file": "4fc88207cc7f.webp",
+      "rect": {
+        "x": 0,
+        "y": 678,
+        "size": 2652
+      }
+    },
+    {
+      "file": "1cba7ed8e6b1.webp",
+      "rect": {
+        "x": -409,
+        "y": 0,
+        "size": 4000
+      }
+    }
+  ]
+}

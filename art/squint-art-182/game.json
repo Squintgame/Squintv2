@@ -1,0 +1,67 @@
+{
+  "a": "oNmb1xEIlhGV",
+  "ar": "==gelVXc6F6wsVmVg82ZllGR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_016.jpg",
+  "photographer": "Hermitage Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d23155e76625.webp",
+      "rect": {
+        "x": 1763,
+        "y": 2604,
+        "size": 339
+      }
+    },
+    {
+      "file": "a3ed6ab55116.webp",
+      "rect": {
+        "x": 1678,
+        "y": 2519,
+        "size": 509
+      }
+    },
+    {
+      "file": "24b9c548a3b9.webp",
+      "rect": {
+        "x": 1551,
+        "y": 2392,
+        "size": 764
+      }
+    },
+    {
+      "file": "e37438a79959.webp",
+      "rect": {
+        "x": 1346,
+        "y": 2072,
+        "size": 1175
+      }
+    },
+    {
+      "file": "9c4f7b21b39e.webp",
+      "rect": {
+        "x": 1035,
+        "y": 1450,
+        "size": 1797
+      }
+    },
+    {
+      "file": "6008e4faee9c.webp",
+      "rect": {
+        "x": 509,
+        "y": 701,
+        "size": 2546
+      }
+    },
+    {
+      "file": "b9d79199df83.webp",
+      "rect": {
+        "x": -96,
+        "y": 0,
+        "size": 3247
+      }
+    }
+  ]
+}

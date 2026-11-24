@@ -1,0 +1,67 @@
+{
+  "a": "ulWYXBSehhEIlhGV",
+  "ar": "=UGbiFGdz52bDBibo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_(1821).jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f2450673cb45.webp",
+      "rect": {
+        "x": 218,
+        "y": 659,
+        "size": 294
+      }
+    },
+    {
+      "file": "135646e786a6.webp",
+      "rect": {
+        "x": 144,
+        "y": 585,
+        "size": 441
+      }
+    },
+    {
+      "file": "5888482a6118.webp",
+      "rect": {
+        "x": 34,
+        "y": 475,
+        "size": 662
+      }
+    },
+    {
+      "file": "9af2335691f5.webp",
+      "rect": {
+        "x": 0,
+        "y": 297,
+        "size": 1018
+      }
+    },
+    {
+      "file": "8c74ff1e5a95.webp",
+      "rect": {
+        "x": 0,
+        "y": 27,
+        "size": 1558
+      }
+    },
+    {
+      "file": "7f1106da2029.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2207
+      }
+    },
+    {
+      "file": "a8f4deb0be3a.webp",
+      "rect": {
+        "x": 0,
+        "y": -596,
+        "size": 3840
+      }
+    }
+  ]
+}

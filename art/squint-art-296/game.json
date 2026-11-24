@@ -1,0 +1,67 @@
+{
+  "a": "==AZuFGbn5WRgY2bgQ3chxEIlhGV",
+  "ar": "==gb39mcCBCevRWYNBCZy9mR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ford_Madox_Brown_-_The_Last_of_England_-_Google_Art_Project.jpg",
+  "photographer": "Birmingham Museums Trust",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "97403fb52c52.webp",
+      "rect": {
+        "x": 754,
+        "y": 324,
+        "size": 427
+      }
+    },
+    {
+      "file": "d4a95a50ee4f.webp",
+      "rect": {
+        "x": 647,
+        "y": 217,
+        "size": 640
+      }
+    },
+    {
+      "file": "ee9e0f69c659.webp",
+      "rect": {
+        "x": 487,
+        "y": 57,
+        "size": 960
+      }
+    },
+    {
+      "file": "30e561c5569d.webp",
+      "rect": {
+        "x": 229,
+        "y": 0,
+        "size": 1477
+      }
+    },
+    {
+      "file": "f66895424a40.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2259
+      }
+    },
+    {
+      "file": "cf7141132fec.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "a5d68e4d7913.webp",
+      "rect": {
+        "x": -229,
+        "y": 0,
+        "size": 4298
+      }
+    }
+  ]
+}

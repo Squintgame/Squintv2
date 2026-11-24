@@ -1,0 +1,67 @@
+{
+  "a": "pdWYNBSZoRHIm9GIu9Wa0FmcvRWQ",
+  "ar": "=kGbsV2YpRHdvJEIvJHZuF2U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Zanobi-Altar.jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "0e8b6cafe043.webp",
+      "rect": {
+        "x": 3199,
+        "y": 434,
+        "size": 349
+      }
+    },
+    {
+      "file": "9bf20431ca7b.webp",
+      "rect": {
+        "x": 3111,
+        "y": 347,
+        "size": 523
+      }
+    },
+    {
+      "file": "3457f2da16c6.webp",
+      "rect": {
+        "x": 2981,
+        "y": 216,
+        "size": 784
+      }
+    },
+    {
+      "file": "947a07057f7a.webp",
+      "rect": {
+        "x": 2633,
+        "y": 5,
+        "size": 1207
+      }
+    },
+    {
+      "file": "f5cad365aeeb.webp",
+      "rect": {
+        "x": 1995,
+        "y": 0,
+        "size": 1845
+      }
+    },
+    {
+      "file": "4a2e849e23e2.webp",
+      "rect": {
+        "x": 1226,
+        "y": 0,
+        "size": 2614
+      }
+    },
+    {
+      "file": "c04195a48afa.webp",
+      "rect": {
+        "x": 0,
+        "y": -351,
+        "size": 3840
+      }
+    }
+  ]
+}

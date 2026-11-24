@@ -1,0 +1,67 @@
+{
+  "a": "wxWdUByclFGbvNWaOBiLyREIm9GIu92czVGTgkXbvRXYuFEIlhGV",
+  "ar": "0RmbhJnYtVmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg",
+  "photographer": "Mauritshuis",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "ce32434e8601.webp",
+      "rect": {
+        "x": 2162,
+        "y": 2003,
+        "size": 321
+      }
+    },
+    {
+      "file": "e5e806617d15.webp",
+      "rect": {
+        "x": 2082,
+        "y": 1922,
+        "size": 482
+      }
+    },
+    {
+      "file": "31e8877c8e6f.webp",
+      "rect": {
+        "x": 1962,
+        "y": 1802,
+        "size": 723
+      }
+    },
+    {
+      "file": "072a21293257.webp",
+      "rect": {
+        "x": 1767,
+        "y": 1607,
+        "size": 1113
+      }
+    },
+    {
+      "file": "2618b8871f9e.webp",
+      "rect": {
+        "x": 1472,
+        "y": 1191,
+        "size": 1702
+      }
+    },
+    {
+      "file": "b73918275b8a.webp",
+      "rect": {
+        "x": 1118,
+        "y": 482,
+        "size": 2411
+      }
+    },
+    {
+      "file": "a306a39f33f2.webp",
+      "rect": {
+        "x": 0,
+        "y": -473,
+        "size": 3840
+      }
+    }
+  ]
+}

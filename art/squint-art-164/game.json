@@ -1,0 +1,67 @@
+{
+  "a": "==wZ1pEIyVGdhdFIhBCa0l2dg4WYt92V",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_019.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b1509d6160a8.webp",
+      "rect": {
+        "x": 1711,
+        "y": 2611,
+        "size": 367
+      }
+    },
+    {
+      "file": "04a6f9e2f0fb.webp",
+      "rect": {
+        "x": 1620,
+        "y": 2520,
+        "size": 550
+      }
+    },
+    {
+      "file": "464d53176935.webp",
+      "rect": {
+        "x": 1482,
+        "y": 2382,
+        "size": 825
+      }
+    },
+    {
+      "file": "993b9e940bd2.webp",
+      "rect": {
+        "x": 1260,
+        "y": 2160,
+        "size": 1269
+      }
+    },
+    {
+      "file": "a988f889a661.webp",
+      "rect": {
+        "x": 924,
+        "y": 1781,
+        "size": 1941
+      }
+    },
+    {
+      "file": "b0e91aa00a42.webp",
+      "rect": {
+        "x": 520,
+        "y": 973,
+        "size": 2749
+      }
+    },
+    {
+      "file": "1da1ce30198e.webp",
+      "rect": {
+        "x": -211,
+        "y": 0,
+        "size": 3722
+      }
+    }
+  ]
+}

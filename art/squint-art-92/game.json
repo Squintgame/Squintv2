@@ -1,0 +1,67 @@
+{
+  "a": "0NXZy9mRgUmbpBFIhBibpByZulmby9WT",
+  "ar": "==gbptGazlGaTBibhZXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Shishkin,_Ivan_-_Morning_in_a_Pine_Forest.jpg",
+  "photographer": "Tretyakov Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "91daa37ff7aa.webp",
+      "rect": {
+        "x": 2329,
+        "y": 217,
+        "size": 289
+      }
+    },
+    {
+      "file": "b368656592f0.webp",
+      "rect": {
+        "x": 2257,
+        "y": 144,
+        "size": 434
+      }
+    },
+    {
+      "file": "1fef9c4dc1d1.webp",
+      "rect": {
+        "x": 2148,
+        "y": 36,
+        "size": 650
+      }
+    },
+    {
+      "file": "4b2f2f252410.webp",
+      "rect": {
+        "x": 1973,
+        "y": 0,
+        "size": 1001
+      }
+    },
+    {
+      "file": "07a16e50ab22.webp",
+      "rect": {
+        "x": 1708,
+        "y": 0,
+        "size": 1531
+      }
+    },
+    {
+      "file": "773c5dea5d13.webp",
+      "rect": {
+        "x": 1389,
+        "y": 0,
+        "size": 2168
+      }
+    },
+    {
+      "file": "bf854e49b63e.webp",
+      "rect": {
+        "x": 0,
+        "y": -619,
+        "size": 3840
+      }
+    }
+  ]
+}

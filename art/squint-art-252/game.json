@@ -1,0 +1,67 @@
+{
+  "a": "==gcpFGaDBycng2ZvdEIuFmV",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vincent_Willem_van_Gogh_138.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "63ce3315eed6.webp",
+      "rect": {
+        "x": 1173,
+        "y": 1174,
+        "size": 427
+      }
+    },
+    {
+      "file": "2187ff2d176c.webp",
+      "rect": {
+        "x": 1067,
+        "y": 1067,
+        "size": 640
+      }
+    },
+    {
+      "file": "dcdadeb882ed.webp",
+      "rect": {
+        "x": 907,
+        "y": 907,
+        "size": 960
+      }
+    },
+    {
+      "file": "03b49eb2a9ca.webp",
+      "rect": {
+        "x": 648,
+        "y": 649,
+        "size": 1477
+      }
+    },
+    {
+      "file": "5cab5f593795.webp",
+      "rect": {
+        "x": 257,
+        "y": 258,
+        "size": 2259
+      }
+    },
+    {
+      "file": "8192cae0559a.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "01ed5b99aa80.webp",
+      "rect": {
+        "x": -542,
+        "y": 0,
+        "size": 4925
+      }
+    }
+  ]
+}

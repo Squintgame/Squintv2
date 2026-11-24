@@ -1,0 +1,67 @@
+{
+  "a": "lRHdhpEIlRmbhJ3RgEGTgY2bgQmbhx2cJBSZoRHIu9GIu92buJXZ0ZWQgkXYk5WdTBSQ",
+  "ar": "=QXYyVXZTBycldmcvV2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg",
+  "photographer": "Art Institute of Chicago",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "ec89e70f582d.webp",
+      "rect": {
+        "x": 1759,
+        "y": 351,
+        "size": 284
+      }
+    },
+    {
+      "file": "db997b5ba413.webp",
+      "rect": {
+        "x": 1688,
+        "y": 280,
+        "size": 426
+      }
+    },
+    {
+      "file": "b0e7a2389fa1.webp",
+      "rect": {
+        "x": 1581,
+        "y": 174,
+        "size": 639
+      }
+    },
+    {
+      "file": "1fea1b01484a.webp",
+      "rect": {
+        "x": 1409,
+        "y": 2,
+        "size": 983
+      }
+    },
+    {
+      "file": "da1dd97ecaa3.webp",
+      "rect": {
+        "x": 1149,
+        "y": 0,
+        "size": 1504
+      }
+    },
+    {
+      "file": "8e84d1438d03.webp",
+      "rect": {
+        "x": 836,
+        "y": 0,
+        "size": 2130
+      }
+    },
+    {
+      "file": "f3cf27988ec0.webp",
+      "rect": {
+        "x": 0,
+        "y": -642,
+        "size": 3840
+      }
+    }
+  ]
+}

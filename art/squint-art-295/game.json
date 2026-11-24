@@ -1,0 +1,67 @@
+{
+  "a": "n5WauJXdv1EI0NncpZEIlhGV",
+  "ar": "=UXYlJXZ1dWdvJEIlhGcs9GZB1SbhlGbsl2V",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:William_Bouguereau_-_El_primer_duelo.jpg",
+  "photographer": "National Museum of Fine Arts, Argentina",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "806c426809b6.webp",
+      "rect": {
+        "x": 791,
+        "y": 1220,
+        "size": 293
+      }
+    },
+    {
+      "file": "70e9690f352d.webp",
+      "rect": {
+        "x": 718,
+        "y": 1147,
+        "size": 439
+      }
+    },
+    {
+      "file": "7f504c006a68.webp",
+      "rect": {
+        "x": 608,
+        "y": 1037,
+        "size": 658
+      }
+    },
+    {
+      "file": "f3701f922b3c.webp",
+      "rect": {
+        "x": 431,
+        "y": 860,
+        "size": 1013
+      }
+    },
+    {
+      "file": "6ba49f423046.webp",
+      "rect": {
+        "x": 163,
+        "y": 592,
+        "size": 1549
+      }
+    },
+    {
+      "file": "96fc861e8cee.webp",
+      "rect": {
+        "x": 0,
+        "y": 269,
+        "size": 2195
+      }
+    },
+    {
+      "file": "ed546fce49fa.webp",
+      "rect": {
+        "x": 0,
+        "y": -333,
+        "size": 3300
+      }
+    }
+  ]
+}

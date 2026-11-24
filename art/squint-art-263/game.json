@@ -1,0 +1,67 @@
+{
+  "a": "lNWYst2Yl5EIsJXYlBFIhBCa0l2dg4WYt92V",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_Young_Woman_with_a_Pearl_Necklace_-_Google_Art_Project.jpg",
+  "photographer": "Gemäldegalerie Berlin",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "68ad6fc58fcf.webp",
+      "rect": {
+        "x": 319,
+        "y": 1570,
+        "size": 427
+      }
+    },
+    {
+      "file": "c047b0455364.webp",
+      "rect": {
+        "x": 212,
+        "y": 1463,
+        "size": 640
+      }
+    },
+    {
+      "file": "9f1b4f5ac7e2.webp",
+      "rect": {
+        "x": 52,
+        "y": 1303,
+        "size": 960
+      }
+    },
+    {
+      "file": "62bab83518d4.webp",
+      "rect": {
+        "x": 0,
+        "y": 1045,
+        "size": 1477
+      }
+    },
+    {
+      "file": "5aa6d50b931a.webp",
+      "rect": {
+        "x": 0,
+        "y": 654,
+        "size": 2259
+      }
+    },
+    {
+      "file": "1d8d73032544.webp",
+      "rect": {
+        "x": 0,
+        "y": 183,
+        "size": 3200
+      }
+    },
+    {
+      "file": "1217ea450bf7.webp",
+      "rect": {
+        "x": -314,
+        "y": 0,
+        "size": 4468
+      }
+    }
+  ]
+}

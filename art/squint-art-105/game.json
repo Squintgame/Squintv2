@@ -1,0 +1,67 @@
+{
+  "a": "k92b3tWYPBSZoRHIulGI5VmYiFEIlhGV",
+  "ar": "==AajlmckVWayZEIklmdhREIyFGczF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Abtei_im_Eichwald_-_Google_Art_Project.jpg",
+  "photographer": "Alte Nationalgalerie",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c5c64f525a18.webp",
+      "rect": {
+        "x": 2759,
+        "y": 1417,
+        "size": 273
+      }
+    },
+    {
+      "file": "20f8fe8796de.webp",
+      "rect": {
+        "x": 2691,
+        "y": 1349,
+        "size": 410
+      }
+    },
+    {
+      "file": "a6e88856d944.webp",
+      "rect": {
+        "x": 2588,
+        "y": 1246,
+        "size": 615
+      }
+    },
+    {
+      "file": "a108e0f5d729.webp",
+      "rect": {
+        "x": 2423,
+        "y": 1080,
+        "size": 946
+      }
+    },
+    {
+      "file": "996ed59750ac.webp",
+      "rect": {
+        "x": 2172,
+        "y": 830,
+        "size": 1447
+      }
+    },
+    {
+      "file": "ba9e517dd756.webp",
+      "rect": {
+        "x": 1790,
+        "y": 410,
+        "size": 2050
+      }
+    },
+    {
+      "file": "fbc222a2b345.webp",
+      "rect": {
+        "x": 0,
+        "y": -690,
+        "size": 3840
+      }
+    }
+  ]
+}

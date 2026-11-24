@@ -1,0 +1,67 @@
+{
+  "a": "zV2YhJ3RgUWZyhGV",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rapha%C3%ABl_-_Les_Trois_Gr%C3%A2ces_-_Google_Art_Project.jpg",
+  "photographer": "Condé Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5e514282d709.webp",
+      "rect": {
+        "x": 2427,
+        "y": 293,
+        "size": 390
+      }
+    },
+    {
+      "file": "f923ff5e7613.webp",
+      "rect": {
+        "x": 2330,
+        "y": 196,
+        "size": 585
+      }
+    },
+    {
+      "file": "89df7d43192e.webp",
+      "rect": {
+        "x": 2183,
+        "y": 49,
+        "size": 878
+      }
+    },
+    {
+      "file": "decf612d9761.webp",
+      "rect": {
+        "x": 1947,
+        "y": 0,
+        "size": 1351
+      }
+    },
+    {
+      "file": "f3a3ca0f8616.webp",
+      "rect": {
+        "x": 1462,
+        "y": 0,
+        "size": 2066
+      }
+    },
+    {
+      "file": "a6e877c1acbb.webp",
+      "rect": {
+        "x": 601,
+        "y": 0,
+        "size": 2927
+      }
+    },
+    {
+      "file": "cd7a8542ef20.webp",
+      "rect": {
+        "x": 0,
+        "y": -8,
+        "size": 3528
+      }
+    }
+  ]
+}

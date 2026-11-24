@@ -1,0 +1,67 @@
+{
+  "a": "zJ3bkF2czFmYtFEIlhGV",
+  "ar": "yV2ZuV3bZBSZoRHIulWZix2bIBycuFGS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "58ef1aa3ef68.webp",
+      "rect": {
+        "x": 737,
+        "y": 949,
+        "size": 420
+      }
+    },
+    {
+      "file": "f018290017b1.webp",
+      "rect": {
+        "x": 632,
+        "y": 844,
+        "size": 631
+      }
+    },
+    {
+      "file": "cecf47e60280.webp",
+      "rect": {
+        "x": 474,
+        "y": 686,
+        "size": 946
+      }
+    },
+    {
+      "file": "92017c3a222f.webp",
+      "rect": {
+        "x": 220,
+        "y": 431,
+        "size": 1455
+      }
+    },
+    {
+      "file": "dfe0c3bc536b.webp",
+      "rect": {
+        "x": 0,
+        "y": 46,
+        "size": 2226
+      }
+    },
+    {
+      "file": "774876840c7d.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3153
+      }
+    },
+    {
+      "file": "c7574af381cc.webp",
+      "rect": {
+        "x": 0,
+        "y": -28,
+        "size": 3840
+      }
+    }
+  ]
+}

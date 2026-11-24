@@ -1,0 +1,67 @@
+{
+  "a": "==QSgIXZ1FmQtg2YvxmQgUGblRWQgY2bgQXahJHdy9GU",
+  "ar": "01WastEI2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt,_1907,_Adele_Bloch-Bauer_I,_Neue_Galerie_New_York.jpg",
+  "photographer": "Neue Galerie",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "44fc67914690.webp",
+      "rect": {
+        "x": 1514,
+        "y": 730,
+        "size": 226
+      }
+    },
+    {
+      "file": "84b91f78defb.webp",
+      "rect": {
+        "x": 1458,
+        "y": 673,
+        "size": 339
+      }
+    },
+    {
+      "file": "058add2de676.webp",
+      "rect": {
+        "x": 1373,
+        "y": 588,
+        "size": 509
+      }
+    },
+    {
+      "file": "55f01e89773b.webp",
+      "rect": {
+        "x": 1236,
+        "y": 451,
+        "size": 783
+      }
+    },
+    {
+      "file": "eb00b7c4f291.webp",
+      "rect": {
+        "x": 839,
+        "y": 244,
+        "size": 1197
+      }
+    },
+    {
+      "file": "d8e690a1948c.webp",
+      "rect": {
+        "x": 340,
+        "y": 0,
+        "size": 1696
+      }
+    },
+    {
+      "file": "c4a2f17d7bfb.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2036
+      }
+    }
+  ]
+}

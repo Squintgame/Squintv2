@@ -1,0 +1,67 @@
+{
+  "a": "4ADOxASeh1EIm9GIkJXaoRFIlhGV",
+  "ar": "=EWevdEIvN2cpNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_Los_fusilamientos_del_tres_de_mayo_-_1814.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "1056547790b3.webp",
+      "rect": {
+        "x": 1592,
+        "y": 1718,
+        "size": 259
+      }
+    },
+    {
+      "file": "eae8a795dab8.webp",
+      "rect": {
+        "x": 1527,
+        "y": 1654,
+        "size": 388
+      }
+    },
+    {
+      "file": "2016bcc74535.webp",
+      "rect": {
+        "x": 1430,
+        "y": 1557,
+        "size": 582
+      }
+    },
+    {
+      "file": "b3c65c1da470.webp",
+      "rect": {
+        "x": 1274,
+        "y": 1400,
+        "size": 895
+      }
+    },
+    {
+      "file": "b574073e3593.webp",
+      "rect": {
+        "x": 1037,
+        "y": 959,
+        "size": 1369
+      }
+    },
+    {
+      "file": "beb0f3813602.webp",
+      "rect": {
+        "x": 751,
+        "y": 388,
+        "size": 1940
+      }
+    },
+    {
+      "file": "ab1ef6c2452a.webp",
+      "rect": {
+        "x": 0,
+        "y": -361,
+        "size": 3051
+      }
+    }
+  ]
+}

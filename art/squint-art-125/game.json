@@ -1,0 +1,67 @@
+{
+  "a": "5F2dslWYSBibyVGdzV2VgQXYlJ3RgUGaUBykAKOIkVWZwNFIk5WYg0WYlR3UgwibpFmU",
+  "ar": "yVmbyVHVg4yVg4STg4iS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:J._M._W._Turner_-_Rain,_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "0230b3822096.webp",
+      "rect": {
+        "x": 2323,
+        "y": 1525,
+        "size": 320
+      }
+    },
+    {
+      "file": "cd9e533e5766.webp",
+      "rect": {
+        "x": 2243,
+        "y": 1445,
+        "size": 480
+      }
+    },
+    {
+      "file": "d6ac793ea10b.webp",
+      "rect": {
+        "x": 2123,
+        "y": 1325,
+        "size": 721
+      }
+    },
+    {
+      "file": "b27903e82663.webp",
+      "rect": {
+        "x": 1929,
+        "y": 1131,
+        "size": 1109
+      }
+    },
+    {
+      "file": "167a7fc607d0.webp",
+      "rect": {
+        "x": 1635,
+        "y": 837,
+        "size": 1696
+      }
+    },
+    {
+      "file": "c6196c83bbe9.webp",
+      "rect": {
+        "x": 1282,
+        "y": 480,
+        "size": 2402
+      }
+    },
+    {
+      "file": "6323dca3be2d.webp",
+      "rect": {
+        "x": 0,
+        "y": -478,
+        "size": 3840
+      }
+    }
+  ]
+}

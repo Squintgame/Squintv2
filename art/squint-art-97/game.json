@@ -1,0 +1,67 @@
+{
+  "a": "hNXdkVWT",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Medusa_-_Google_Art_Project.jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d08925615443.webp",
+      "rect": {
+        "x": 282,
+        "y": 282,
+        "size": 374
+      }
+    },
+    {
+      "file": "32039609d40a.webp",
+      "rect": {
+        "x": 189,
+        "y": 188,
+        "size": 562
+      }
+    },
+    {
+      "file": "551ff2cbe90d.webp",
+      "rect": {
+        "x": 48,
+        "y": 48,
+        "size": 842
+      }
+    },
+    {
+      "file": "155e7ede1b63.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1296
+      }
+    },
+    {
+      "file": "e9fcee419e7b.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1982
+      }
+    },
+    {
+      "file": "e53aba4de723.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2808
+      }
+    },
+    {
+      "file": "3fa521542edf.webp",
+      "rect": {
+        "x": -42,
+        "y": 0,
+        "size": 3453
+      }
+    }
+  ]
+}

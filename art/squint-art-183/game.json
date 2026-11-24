@@ -1,0 +1,67 @@
+{
+  "a": "=MHaw1WeOBSZoRHIk5WYgMXYslHS",
+  "ar": "=U2c19GayVGdhdFItFWasxWaXBibo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Hylas_and_the_Nymphs_(1896,_Manchester_Art_Gallery).jpg",
+  "photographer": "Manchester Art Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "3bc66ff24201.webp",
+      "rect": {
+        "x": 3392,
+        "y": 1345,
+        "size": 256
+      }
+    },
+    {
+      "file": "2c08f3bbd05a.webp",
+      "rect": {
+        "x": 3328,
+        "y": 1281,
+        "size": 384
+      }
+    },
+    {
+      "file": "6cd009d25e7f.webp",
+      "rect": {
+        "x": 3232,
+        "y": 1185,
+        "size": 576
+      }
+    },
+    {
+      "file": "58767596acc0.webp",
+      "rect": {
+        "x": 2953,
+        "y": 1030,
+        "size": 887
+      }
+    },
+    {
+      "file": "8e0c66a37958.webp",
+      "rect": {
+        "x": 2484,
+        "y": 795,
+        "size": 1356
+      }
+    },
+    {
+      "file": "c1e743eaf48b.webp",
+      "rect": {
+        "x": 1918,
+        "y": 384,
+        "size": 1922
+      }
+    },
+    {
+      "file": "5e46605354a4.webp",
+      "rect": {
+        "x": 0,
+        "y": -767,
+        "size": 3840
+      }
+    }
+  ]
+}

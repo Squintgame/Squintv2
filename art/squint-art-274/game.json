@@ -1,0 +1,67 @@
+{
+  "a": "=MXZpJXZslWdUBSZoRHI0FGI5RWd0NFIzlGSg4Wag42blx2bwFmTgI3byVGctVEIlhGV",
+  "ar": "==AZpZXYEBycpV3bM1yclVXcjFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Emperor_Napoleon_in_His_Study_at_the_Tuileries,_by_Jacques-Louis_David_(1812)_-_National_Gallery_of_Art_(Samuel_H._Kress_Foundation).jpg",
+  "photographer": "Samuel H. Kress Collection",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "823655291b2b.webp",
+      "rect": {
+        "x": 3044,
+        "y": 3255,
+        "size": 427
+      }
+    },
+    {
+      "file": "6beda22da82e.webp",
+      "rect": {
+        "x": 2938,
+        "y": 3148,
+        "size": 640
+      }
+    },
+    {
+      "file": "858b82d63bdb.webp",
+      "rect": {
+        "x": 2778,
+        "y": 2988,
+        "size": 960
+      }
+    },
+    {
+      "file": "49ea07fa17f4.webp",
+      "rect": {
+        "x": 2363,
+        "y": 2730,
+        "size": 1477
+      }
+    },
+    {
+      "file": "34668e5fdd72.webp",
+      "rect": {
+        "x": 1581,
+        "y": 2339,
+        "size": 2259
+      }
+    },
+    {
+      "file": "ed5ff5a62399.webp",
+      "rect": {
+        "x": 640,
+        "y": 1868,
+        "size": 3200
+      }
+    },
+    {
+      "file": "d9c570488355.webp",
+      "rect": {
+        "x": -1228,
+        "y": 0,
+        "size": 6296
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==AdodWaOBCdhBSZjFmcyVGVgk6wmF2Q",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_(Place_du_Forum)_1888.jpg",
+  "photographer": "Kröller-Müller Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "a89ca64327e6.webp",
+      "rect": {
+        "x": 733,
+        "y": 3845,
+        "size": 427
+      }
+    },
+    {
+      "file": "c51502ede834.webp",
+      "rect": {
+        "x": 626,
+        "y": 3739,
+        "size": 640
+      }
+    },
+    {
+      "file": "0039f4677f5a.webp",
+      "rect": {
+        "x": 466,
+        "y": 3579,
+        "size": 960
+      }
+    },
+    {
+      "file": "dbece2fb640b.webp",
+      "rect": {
+        "x": 208,
+        "y": 3312,
+        "size": 1477
+      }
+    },
+    {
+      "file": "0295b7a40d39.webp",
+      "rect": {
+        "x": 0,
+        "y": 2530,
+        "size": 2259
+      }
+    },
+    {
+      "file": "a7928b6c546a.webp",
+      "rect": {
+        "x": 0,
+        "y": 1589,
+        "size": 3200
+      }
+    },
+    {
+      "file": "e13c8bcdefc6.webp",
+      "rect": {
+        "x": -474,
+        "y": 0,
+        "size": 4789
+      }
+    }
+  ]
+}

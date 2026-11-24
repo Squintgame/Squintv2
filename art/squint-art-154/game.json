@@ -1,0 +1,67 @@
+{
+  "a": "552boRnbBBCdulWYTBiZvBibvlGdhRHctVGV",
+  "ar": "==AajN3bCByc11Weu9mcllGS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Temptation_of_Saint_Anthony.jpg",
+  "photographer": "National Museum of Ancient Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "297bd45c9c3b.webp",
+      "rect": {
+        "x": 603,
+        "y": 820,
+        "size": 221
+      }
+    },
+    {
+      "file": "42fdbef9596c.webp",
+      "rect": {
+        "x": 548,
+        "y": 765,
+        "size": 332
+      }
+    },
+    {
+      "file": "ef717f9032d3.webp",
+      "rect": {
+        "x": 465,
+        "y": 682,
+        "size": 498
+      }
+    },
+    {
+      "file": "6dec7960c7db.webp",
+      "rect": {
+        "x": 331,
+        "y": 548,
+        "size": 765
+      }
+    },
+    {
+      "file": "7d8aa4123c81.webp",
+      "rect": {
+        "x": 128,
+        "y": 346,
+        "size": 1171
+      }
+    },
+    {
+      "file": "2a0c55c503db.webp",
+      "rect": {
+        "x": 0,
+        "y": 102,
+        "size": 1658
+      }
+    },
+    {
+      "file": "a56da26bc059.webp",
+      "rect": {
+        "x": 0,
+        "y": -925,
+        "size": 3840
+      }
+    }
+  ]
+}

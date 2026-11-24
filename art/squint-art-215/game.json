@@ -1,0 +1,67 @@
+{
+  "a": "yVmZpZEIlhGV",
+  "ar": "=QXZuFWTgQmchV3bkl4w",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Manet,_Edouard_-_Young_Flautist,_or_The_Fifer,_1866_(2).jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "54c77e2b6bbb.webp",
+      "rect": {
+        "x": 617,
+        "y": 1290,
+        "size": 230
+      }
+    },
+    {
+      "file": "01aef990dbed.webp",
+      "rect": {
+        "x": 560,
+        "y": 1232,
+        "size": 345
+      }
+    },
+    {
+      "file": "e109aa96d659.webp",
+      "rect": {
+        "x": 474,
+        "y": 1146,
+        "size": 518
+      }
+    },
+    {
+      "file": "ae5b9d2577d4.webp",
+      "rect": {
+        "x": 334,
+        "y": 1006,
+        "size": 797
+      }
+    },
+    {
+      "file": "0cfbaefc7082.webp",
+      "rect": {
+        "x": 123,
+        "y": 796,
+        "size": 1218
+      }
+    },
+    {
+      "file": "d0a9f1e2e857.webp",
+      "rect": {
+        "x": 0,
+        "y": 542,
+        "size": 1726
+      }
+    },
+    {
+      "file": "537baeb00ba2.webp",
+      "rect": {
+        "x": -731,
+        "y": 0,
+        "size": 3534
+      }
+    }
+  ]
+}

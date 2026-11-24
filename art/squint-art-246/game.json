@@ -1,0 +1,67 @@
+{
+  "a": "==Aaj5WamRGbvdEIlhGV",
+  "ar": "zVXa0lmciFmRgwWZyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Carel_Fabritius_-_The_Goldfinch_-_605_-_Mauritshuis.jpg",
+  "photographer": "Mauritshuis",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "ce9398805289.webp",
+      "rect": {
+        "x": 2904,
+        "y": 1184,
+        "size": 427
+      }
+    },
+    {
+      "file": "57491bf7aa96.webp",
+      "rect": {
+        "x": 2797,
+        "y": 1077,
+        "size": 640
+      }
+    },
+    {
+      "file": "5f8df38c0d0f.webp",
+      "rect": {
+        "x": 2637,
+        "y": 917,
+        "size": 960
+      }
+    },
+    {
+      "file": "5ec57b8662ac.webp",
+      "rect": {
+        "x": 2363,
+        "y": 659,
+        "size": 1477
+      }
+    },
+    {
+      "file": "714d07d0db47.webp",
+      "rect": {
+        "x": 1581,
+        "y": 268,
+        "size": 2259
+      }
+    },
+    {
+      "file": "9b91b6a705a4.webp",
+      "rect": {
+        "x": 640,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "7473b301734e.webp",
+      "rect": {
+        "x": -1011,
+        "y": 0,
+        "size": 5863
+      }
+    }
+  ]
+}

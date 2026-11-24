@@ -1,0 +1,67 @@
+{
+  "a": "sFmbpdmcpZFIhBCdhByZulGZuFGdTBibh12bXByZuV3bZBSQ",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_van_Delft_-_Jonge_vrouw_staande_bij_een_virginaal_(ca._1670-72).jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "48777b1a2d78.webp",
+      "rect": {
+        "x": 532,
+        "y": 955,
+        "size": 427
+      }
+    },
+    {
+      "file": "594080fef6bf.webp",
+      "rect": {
+        "x": 425,
+        "y": 848,
+        "size": 640
+      }
+    },
+    {
+      "file": "2ce07a69596b.webp",
+      "rect": {
+        "x": 265,
+        "y": 688,
+        "size": 960
+      }
+    },
+    {
+      "file": "859e3b84cbf9.webp",
+      "rect": {
+        "x": 7,
+        "y": 429,
+        "size": 1477
+      }
+    },
+    {
+      "file": "4169557c293e.webp",
+      "rect": {
+        "x": 0,
+        "y": 38,
+        "size": 2259
+      }
+    },
+    {
+      "file": "8c61d57b542a.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "4df7acb5b4a1.webp",
+      "rect": {
+        "x": -263,
+        "y": 0,
+        "size": 4366
+      }
+    }
+  ]
+}

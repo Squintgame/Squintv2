@@ -1,0 +1,67 @@
+{
+  "a": "hB3byVXRgY2bgUGchJFIlhGV",
+  "ar": "uFWa0lGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tizian_085.jpg",
+  "photographer": "Isabella Stewart Gardner Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "1da5ca2b36c2.webp",
+      "rect": {
+        "x": 277,
+        "y": 1600,
+        "size": 222
+      }
+    },
+    {
+      "file": "7e34394da682.webp",
+      "rect": {
+        "x": 221,
+        "y": 1544,
+        "size": 333
+      }
+    },
+    {
+      "file": "00186522a0de.webp",
+      "rect": {
+        "x": 138,
+        "y": 1461,
+        "size": 500
+      }
+    },
+    {
+      "file": "b253e90f5452.webp",
+      "rect": {
+        "x": 3,
+        "y": 1231,
+        "size": 769
+      }
+    },
+    {
+      "file": "d2896f4dfc5d.webp",
+      "rect": {
+        "x": 0,
+        "y": 824,
+        "size": 1176
+      }
+    },
+    {
+      "file": "ae50e24d5782.webp",
+      "rect": {
+        "x": 0,
+        "y": 333,
+        "size": 1667
+      }
+    },
+    {
+      "file": "32795eb074cc.webp",
+      "rect": {
+        "x": 0,
+        "y": -140,
+        "size": 2281
+      }
+    }
+  ]
+}

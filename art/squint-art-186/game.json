@@ -1,0 +1,67 @@
+{
+  "a": "==AZyFmepxEIhBSeiBiblRHdpJEI59mQ",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_Boy_Bitten_by_a_Lizard.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b5411f1dca87.webp",
+      "rect": {
+        "x": 439,
+        "y": 2551,
+        "size": 349
+      }
+    },
+    {
+      "file": "54a14e2b37e1.webp",
+      "rect": {
+        "x": 351,
+        "y": 2464,
+        "size": 524
+      }
+    },
+    {
+      "file": "6bf15b20de53.webp",
+      "rect": {
+        "x": 220,
+        "y": 2333,
+        "size": 786
+      }
+    },
+    {
+      "file": "95842c9d6787.webp",
+      "rect": {
+        "x": 9,
+        "y": 2121,
+        "size": 1209
+      }
+    },
+    {
+      "file": "4dde3c738431.webp",
+      "rect": {
+        "x": 0,
+        "y": 1801,
+        "size": 1849
+      }
+    },
+    {
+      "file": "6a412fbb6d7a.webp",
+      "rect": {
+        "x": 0,
+        "y": 1416,
+        "size": 2620
+      }
+    },
+    {
+      "file": "5c4c63a4900d.webp",
+      "rect": {
+        "x": -541,
+        "y": 0,
+        "size": 4226
+      }
+    }
+  ]
+}

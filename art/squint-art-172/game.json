@@ -1,0 +1,67 @@
+{
+  "a": "uVWbvdFIl5WaiF2UgUGa0BiZvBibvlGduVmdyVGdulEIlhGV",
+  "ar": "==AZpZXYEBycpV3bM1yclVXcjFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Intervention_of_the_Sabine_Women_-_David_(Louvre_INV_3691).jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c6340dad2dc5.webp",
+      "rect": {
+        "x": 1523,
+        "y": 2323,
+        "size": 321
+      }
+    },
+    {
+      "file": "e3e134d189ca.webp",
+      "rect": {
+        "x": 1443,
+        "y": 2243,
+        "size": 481
+      }
+    },
+    {
+      "file": "b1229c8c53a0.webp",
+      "rect": {
+        "x": 1322,
+        "y": 2123,
+        "size": 722
+      }
+    },
+    {
+      "file": "26c2b45780c5.webp",
+      "rect": {
+        "x": 1128,
+        "y": 1777,
+        "size": 1110
+      }
+    },
+    {
+      "file": "6b31e08e80c0.webp",
+      "rect": {
+        "x": 834,
+        "y": 1189,
+        "size": 1698
+      }
+    },
+    {
+      "file": "9bb1f5027feb.webp",
+      "rect": {
+        "x": 480,
+        "y": 481,
+        "size": 2406
+      }
+    },
+    {
+      "file": "6d096212a715.webp",
+      "rect": {
+        "x": 0,
+        "y": -476,
+        "size": 3840
+      }
+    }
+  ]
+}

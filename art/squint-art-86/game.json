@@ -1,0 +1,67 @@
+{
+  "a": "==QY0RXaMBSYu52bkFWT",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_attributed_-_Madonna_Litta.jpg",
+  "photographer": "Hermitage Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "1db3266e6c1f.webp",
+      "rect": {
+        "x": 1167,
+        "y": 1167,
+        "size": 427
+      }
+    },
+    {
+      "file": "378835012120.webp",
+      "rect": {
+        "x": 1061,
+        "y": 1060,
+        "size": 640
+      }
+    },
+    {
+      "file": "a5497a4ef76a.webp",
+      "rect": {
+        "x": 901,
+        "y": 900,
+        "size": 960
+      }
+    },
+    {
+      "file": "fe42dc905cd7.webp",
+      "rect": {
+        "x": 642,
+        "y": 641,
+        "size": 1477
+      }
+    },
+    {
+      "file": "6673786c1f3f.webp",
+      "rect": {
+        "x": 251,
+        "y": 250,
+        "size": 2259
+      }
+    },
+    {
+      "file": "fda1f6d7eb17.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "505851786f57.webp",
+      "rect": {
+        "x": -529,
+        "y": 0,
+        "size": 4899
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "h5mbvRWYNBSYixWQ",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Raphael,_The_Alba_Madonna,_c._1510,_NGA_26.jpg",
+  "photographer": "Hermitage Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "11558e1a2794.webp",
+      "rect": {
+        "x": 532,
+        "y": 3067,
+        "size": 427
+      }
+    },
+    {
+      "file": "ef84252629a5.webp",
+      "rect": {
+        "x": 426,
+        "y": 2960,
+        "size": 640
+      }
+    },
+    {
+      "file": "680c74831c04.webp",
+      "rect": {
+        "x": 266,
+        "y": 2800,
+        "size": 960
+      }
+    },
+    {
+      "file": "c8aa41f9074d.webp",
+      "rect": {
+        "x": 7,
+        "y": 2363,
+        "size": 1477
+      }
+    },
+    {
+      "file": "492b85d31d1e.webp",
+      "rect": {
+        "x": 0,
+        "y": 1581,
+        "size": 2259
+      }
+    },
+    {
+      "file": "2fea2778b407.webp",
+      "rect": {
+        "x": 0,
+        "y": 640,
+        "size": 3200
+      }
+    },
+    {
+      "file": "3868350fd8fa.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==wc15WYz5WQgQmbhBSYtlGeh1EIzRnbpF2UggGdpdHIu9Wa0FWaj5Wdu5WQ",
+  "ar": "=kWbtVWTg8GcwlGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Simone_Martini_%E2%80%94_Annunciation_with_St._Margaret_and_St._Ansanus.jpg",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "51c8349e5775.webp",
+      "rect": {
+        "x": 1018,
+        "y": 647,
+        "size": 370
+      }
+    },
+    {
+      "file": "78164c2f7bc7.webp",
+      "rect": {
+        "x": 925,
+        "y": 554,
+        "size": 556
+      }
+    },
+    {
+      "file": "ec808de0abc8.webp",
+      "rect": {
+        "x": 786,
+        "y": 415,
+        "size": 834
+      }
+    },
+    {
+      "file": "9b9ac80483d0.webp",
+      "rect": {
+        "x": 562,
+        "y": 191,
+        "size": 1282
+      }
+    },
+    {
+      "file": "6e6c4d98d97d.webp",
+      "rect": {
+        "x": 223,
+        "y": 0,
+        "size": 1961
+      }
+    },
+    {
+      "file": "2f7b3783754c.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2778
+      }
+    },
+    {
+      "file": "1fdf637eff0f.webp",
+      "rect": {
+        "x": 0,
+        "y": -253,
+        "size": 3840
+      }
+    }
+  ]
+}

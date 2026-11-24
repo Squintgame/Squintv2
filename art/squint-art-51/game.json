@@ -1,0 +1,67 @@
+{
+  "a": "=MnclZXdBBCdhBCajJXdoNEIlhGV",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_The_Church_in_Auvers-sur-Oise,_View_from_the_Chevet_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c086901cf849.webp",
+      "rect": {
+        "x": 481,
+        "y": 3363,
+        "size": 382
+      }
+    },
+    {
+      "file": "ab7be136612a.webp",
+      "rect": {
+        "x": 386,
+        "y": 3268,
+        "size": 572
+      }
+    },
+    {
+      "file": "afbd90fd1909.webp",
+      "rect": {
+        "x": 243,
+        "y": 3125,
+        "size": 858
+      }
+    },
+    {
+      "file": "a360b6307e80.webp",
+      "rect": {
+        "x": 12,
+        "y": 2893,
+        "size": 1321
+      }
+    },
+    {
+      "file": "66aadd50dba2.webp",
+      "rect": {
+        "x": 0,
+        "y": 2413,
+        "size": 2020
+      }
+    },
+    {
+      "file": "981b3e94cfbf.webp",
+      "rect": {
+        "x": 0,
+        "y": 1571,
+        "size": 2862
+      }
+    },
+    {
+      "file": "75ad8e9eae17.webp",
+      "rect": {
+        "x": -499,
+        "y": 0,
+        "size": 4433
+      }
+    }
+  ]
+}

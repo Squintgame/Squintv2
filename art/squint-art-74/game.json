@@ -1,0 +1,67 @@
+{
+  "a": "==wc15WZWBSeiV2avJFIlhGV",
+  "ar": "==gelVXc6F6wsVmVg82ZllGR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez_-_Rokeby_Venus.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "4a4c93d3011d.webp",
+      "rect": {
+        "x": 218,
+        "y": 1689,
+        "size": 293
+      }
+    },
+    {
+      "file": "bb3f850982c6.webp",
+      "rect": {
+        "x": 145,
+        "y": 1615,
+        "size": 439
+      }
+    },
+    {
+      "file": "9e9882a3158e.webp",
+      "rect": {
+        "x": 36,
+        "y": 1506,
+        "size": 658
+      }
+    },
+    {
+      "file": "9330f8ed006a.webp",
+      "rect": {
+        "x": 0,
+        "y": 1328,
+        "size": 1013
+      }
+    },
+    {
+      "file": "73a56d1fb9ed.webp",
+      "rect": {
+        "x": 0,
+        "y": 1060,
+        "size": 1549
+      }
+    },
+    {
+      "file": "a1fc2764fad4.webp",
+      "rect": {
+        "x": 0,
+        "y": 439,
+        "size": 2195
+      }
+    },
+    {
+      "file": "7c8264ab9b4d.webp",
+      "rect": {
+        "x": 0,
+        "y": -603,
+        "size": 3840
+      }
+    }
+  ]
+}

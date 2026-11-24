@@ -1,0 +1,67 @@
+{
+  "a": "==wdhxEIlhGdgY2bgMHdlxmYhRFIlhGdgcmbptWYlJnQgMXZz9WT",
+  "ar": "0RmbhJnYtVmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_-_Moses_with_the_Ten_Commandments_-_Google_Art_Project.jpg",
+  "photographer": "Gemäldegalerie Berlin",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "ddf44f8e2036.webp",
+      "rect": {
+        "x": 2601,
+        "y": 1978,
+        "size": 427
+      }
+    },
+    {
+      "file": "5747d949887d.webp",
+      "rect": {
+        "x": 2494,
+        "y": 1871,
+        "size": 640
+      }
+    },
+    {
+      "file": "5adcfb416db1.webp",
+      "rect": {
+        "x": 2334,
+        "y": 1711,
+        "size": 960
+      }
+    },
+    {
+      "file": "da56a0e252b0.webp",
+      "rect": {
+        "x": 2076,
+        "y": 1453,
+        "size": 1477
+      }
+    },
+    {
+      "file": "f5813b62abde.webp",
+      "rect": {
+        "x": 1581,
+        "y": 1062,
+        "size": 2259
+      }
+    },
+    {
+      "file": "e973edd58d35.webp",
+      "rect": {
+        "x": 640,
+        "y": 591,
+        "size": 3200
+      }
+    },
+    {
+      "file": "b90a1a943883.webp",
+      "rect": {
+        "x": -475,
+        "y": 0,
+        "size": 4790
+      }
+    }
+  ]
+}

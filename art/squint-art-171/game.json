@@ -1,0 +1,67 @@
+{
+  "a": "==AWgQnblN2bu5WSgY2bgQXahJHdy9GU",
+  "ar": "==gelVXc6F6wsVmVg82ZllGR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Diego_Vel%C3%A1zquez,_Portrait_du_pape_Innocent_X,_1650,_huile_sur_toile,_140_%C3%97_120_cm,_Rome,_Galleria_Doria_Pamphilj_(inv._237).jpg",
+  "photographer": "Galleria Doria Pamphilj",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "237ae6d8b063.webp",
+      "rect": {
+        "x": 754,
+        "y": 2258,
+        "size": 427
+      }
+    },
+    {
+      "file": "c13aca8bf234.webp",
+      "rect": {
+        "x": 648,
+        "y": 2151,
+        "size": 640
+      }
+    },
+    {
+      "file": "d36992b70ff2.webp",
+      "rect": {
+        "x": 488,
+        "y": 1991,
+        "size": 960
+      }
+    },
+    {
+      "file": "a8e8d3fcaa84.webp",
+      "rect": {
+        "x": 229,
+        "y": 1733,
+        "size": 1477
+      }
+    },
+    {
+      "file": "cc85f830533f.webp",
+      "rect": {
+        "x": 0,
+        "y": 1342,
+        "size": 2259
+      }
+    },
+    {
+      "file": "68b6b5a818a8.webp",
+      "rect": {
+        "x": 0,
+        "y": 871,
+        "size": 3200
+      }
+    },
+    {
+      "file": "1eb2831bae5c.webp",
+      "rect": {
+        "x": -382,
+        "y": 0,
+        "size": 4605
+      }
+    }
+  ]
+}

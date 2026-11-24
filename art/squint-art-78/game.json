@@ -1,0 +1,67 @@
+{
+  "a": "==wbk52bUBSau9GR",
+  "ar": "vxWZn5WYsVGajlWT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tondo_Doni_2015.png",
+  "photographer": "Uffizi Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b702fd01268e.webp",
+      "rect": {
+        "x": 577,
+        "y": 1723,
+        "size": 258
+      }
+    },
+    {
+      "file": "8fb326ac7403.webp",
+      "rect": {
+        "x": 513,
+        "y": 1659,
+        "size": 386
+      }
+    },
+    {
+      "file": "ecc517a3594c.webp",
+      "rect": {
+        "x": 416,
+        "y": 1562,
+        "size": 580
+      }
+    },
+    {
+      "file": "8fc64365d253.webp",
+      "rect": {
+        "x": 260,
+        "y": 1406,
+        "size": 892
+      }
+    },
+    {
+      "file": "c0696c6c1566.webp",
+      "rect": {
+        "x": 24,
+        "y": 1023,
+        "size": 1364
+      }
+    },
+    {
+      "file": "05068f7a2c3e.webp",
+      "rect": {
+        "x": 0,
+        "y": 455,
+        "size": 1932
+      }
+    },
+    {
+      "file": "05118dc15991.webp",
+      "rect": {
+        "x": -34,
+        "y": 0,
+        "size": 2387
+      }
+    }
+  ]
+}

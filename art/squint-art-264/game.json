@@ -1,0 +1,67 @@
+{
+  "a": "==wcsV2ZuFEIsVmYlJFIlhGdgY2bgwGbhZEIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg",
+  "photographer": "Royal Museums of Fine Arts of Belgium",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "6d110a7f9094.webp",
+      "rect": {
+        "x": 1766,
+        "y": 1920,
+        "size": 308
+      }
+    },
+    {
+      "file": "8c15f73de5fc.webp",
+      "rect": {
+        "x": 1689,
+        "y": 1843,
+        "size": 462
+      }
+    },
+    {
+      "file": "3f92305c9256.webp",
+      "rect": {
+        "x": 1574,
+        "y": 1728,
+        "size": 693
+      }
+    },
+    {
+      "file": "42d8eb03cd8d.webp",
+      "rect": {
+        "x": 1387,
+        "y": 1541,
+        "size": 1066
+      }
+    },
+    {
+      "file": "d51bd7006133.webp",
+      "rect": {
+        "x": 1105,
+        "y": 1141,
+        "size": 1631
+      }
+    },
+    {
+      "file": "b8d236c2a814.webp",
+      "rect": {
+        "x": 765,
+        "y": 462,
+        "size": 2310
+      }
+    },
+    {
+      "file": "c5ef20454456.webp",
+      "rect": {
+        "x": 0,
+        "y": -534,
+        "size": 3840
+      }
+    }
+  ]
+}

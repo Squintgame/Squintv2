@@ -1,0 +1,67 @@
+{
+  "a": "zV3YzFWbhREIvRHI5F2VgUGa0BibvBibvl2cyVmdu92Q",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Conversion_on_the_Way_to_Damascus-Caravaggio_(c.1600-1).jpg",
+  "photographer": "Santa Maria del Popolo",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d053280e8f4b.webp",
+      "rect": {
+        "x": 1581,
+        "y": 3894,
+        "size": 427
+      }
+    },
+    {
+      "file": "9f872718b90f.webp",
+      "rect": {
+        "x": 1474,
+        "y": 3787,
+        "size": 640
+      }
+    },
+    {
+      "file": "5d08c764f328.webp",
+      "rect": {
+        "x": 1314,
+        "y": 3627,
+        "size": 960
+      }
+    },
+    {
+      "file": "c6bdd1a514ee.webp",
+      "rect": {
+        "x": 1055,
+        "y": 3369,
+        "size": 1477
+      }
+    },
+    {
+      "file": "435855be7df2.webp",
+      "rect": {
+        "x": 665,
+        "y": 2786,
+        "size": 2259
+      }
+    },
+    {
+      "file": "bda87ce700f6.webp",
+      "rect": {
+        "x": 194,
+        "y": 1845,
+        "size": 3200
+      }
+    },
+    {
+      "file": "696231e5d360.webp",
+      "rect": {
+        "x": -602,
+        "y": 0,
+        "size": 5045
+      }
+    }
+  ]
+}

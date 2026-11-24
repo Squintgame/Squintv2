@@ -1,0 +1,67 @@
+{
+  "a": "zd3byNEIoRXa3BCZsVWamRXYlh2V",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg",
+  "photographer": "Van Gogh Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "2ddb345dcd21.webp",
+      "rect": {
+        "x": 2407,
+        "y": 564,
+        "size": 204
+      }
+    },
+    {
+      "file": "051b9e7d3862.webp",
+      "rect": {
+        "x": 2356,
+        "y": 513,
+        "size": 306
+      }
+    },
+    {
+      "file": "7dcdadff8bdd.webp",
+      "rect": {
+        "x": 2279,
+        "y": 437,
+        "size": 460
+      }
+    },
+    {
+      "file": "70429c0afb0e.webp",
+      "rect": {
+        "x": 2155,
+        "y": 313,
+        "size": 707
+      }
+    },
+    {
+      "file": "4c73490b2978.webp",
+      "rect": {
+        "x": 1968,
+        "y": 126,
+        "size": 1082
+      }
+    },
+    {
+      "file": "f233a2a0e4b7.webp",
+      "rect": {
+        "x": 1743,
+        "y": 0,
+        "size": 1532
+      }
+    },
+    {
+      "file": "1acc87144b8d.webp",
+      "rect": {
+        "x": 0,
+        "y": -1000,
+        "size": 3840
+      }
+    }
+  ]
+}

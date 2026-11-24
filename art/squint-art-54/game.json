@@ -1,0 +1,67 @@
+{
+  "a": "lJHqDnmbu9mcyVmRgUGbsVmQgEGT",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:La_Belle_Ferroni%C3%A8re_-_Google_Arts.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "3934bc55470a.webp",
+      "rect": {
+        "x": 1759,
+        "y": 2220,
+        "size": 306
+      }
+    },
+    {
+      "file": "8472950fe114.webp",
+      "rect": {
+        "x": 1682,
+        "y": 2144,
+        "size": 460
+      }
+    },
+    {
+      "file": "4ac68bb6a202.webp",
+      "rect": {
+        "x": 1567,
+        "y": 2029,
+        "size": 690
+      }
+    },
+    {
+      "file": "6af3858cc2f4.webp",
+      "rect": {
+        "x": 1382,
+        "y": 1843,
+        "size": 1061
+      }
+    },
+    {
+      "file": "1e31a8e3adfa.webp",
+      "rect": {
+        "x": 1101,
+        "y": 1562,
+        "size": 1622
+      }
+    },
+    {
+      "file": "41b9a19ccbd3.webp",
+      "rect": {
+        "x": 460,
+        "y": 1224,
+        "size": 2298
+      }
+    },
+    {
+      "file": "a169d2c1d423.webp",
+      "rect": {
+        "x": -621,
+        "y": 0,
+        "size": 4000
+      }
+    }
+  ]
+}

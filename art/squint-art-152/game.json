@@ -1,0 +1,67 @@
+{
+  "a": "=QHanlmTgQXYgU2c19GSgUGdph2V",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Whitehousenight.jpg",
+  "photographer": "Hermitage Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "206d02ff3d15.webp",
+      "rect": {
+        "x": 3032,
+        "y": 1823,
+        "size": 354
+      }
+    },
+    {
+      "file": "2dc4863837bf.webp",
+      "rect": {
+        "x": 2944,
+        "y": 1735,
+        "size": 531
+      }
+    },
+    {
+      "file": "3b1131711631.webp",
+      "rect": {
+        "x": 2811,
+        "y": 1602,
+        "size": 797
+      }
+    },
+    {
+      "file": "0f2687cdef6f.webp",
+      "rect": {
+        "x": 2597,
+        "y": 1387,
+        "size": 1226
+      }
+    },
+    {
+      "file": "9b8439ea36fa.webp",
+      "rect": {
+        "x": 1965,
+        "y": 1063,
+        "size": 1875
+      }
+    },
+    {
+      "file": "b2c12066845f.webp",
+      "rect": {
+        "x": 1183,
+        "y": 531,
+        "size": 2657
+      }
+    },
+    {
+      "file": "bf0328057588.webp",
+      "rect": {
+        "x": 0,
+        "y": -326,
+        "size": 3840
+      }
+    }
+  ]
+}

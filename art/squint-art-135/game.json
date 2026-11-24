@@ -1,0 +1,67 @@
+{
+  "a": "lRHdlJXYnl2Qgcmbp5mc1JEIoRXa3BibvRXZsV2aTBSYgY2bgwGb1t2U",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Kop_van_een_skelet_met_brandende_sigaret_-_s0083V1962_-_Van_Gogh_Museum.jpg",
+  "photographer": "Van Gogh Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b414755e6b85.webp",
+      "rect": {
+        "x": 747,
+        "y": 746,
+        "size": 427
+      }
+    },
+    {
+      "file": "c3f33c6b1e05.webp",
+      "rect": {
+        "x": 640,
+        "y": 639,
+        "size": 640
+      }
+    },
+    {
+      "file": "f9995fb8aff8.webp",
+      "rect": {
+        "x": 480,
+        "y": 479,
+        "size": 960
+      }
+    },
+    {
+      "file": "0c210e967d37.webp",
+      "rect": {
+        "x": 222,
+        "y": 221,
+        "size": 1477
+      }
+    },
+    {
+      "file": "f54747ecb4f2.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2259
+      }
+    },
+    {
+      "file": "a918cac5a6a5.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "9ddb94c38ebb.webp",
+      "rect": {
+        "x": -627,
+        "y": 0,
+        "size": 5094
+      }
+    }
+  ]
+}

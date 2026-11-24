@@ -1,0 +1,67 @@
+{
+  "a": "zJXZuFWZsdEIlhGV",
+  "ar": "0VGbslWTgMXavd6wuFmcG1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_Des_glaneuses.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "1c99050b447f.webp",
+      "rect": {
+        "x": 2797,
+        "y": 877,
+        "size": 319
+      }
+    },
+    {
+      "file": "072044345163.webp",
+      "rect": {
+        "x": 2717,
+        "y": 797,
+        "size": 479
+      }
+    },
+    {
+      "file": "d038554ae80a.webp",
+      "rect": {
+        "x": 2598,
+        "y": 678,
+        "size": 718
+      }
+    },
+    {
+      "file": "8b39422ba7de.webp",
+      "rect": {
+        "x": 2404,
+        "y": 484,
+        "size": 1105
+      }
+    },
+    {
+      "file": "d6eb32a5ddea.webp",
+      "rect": {
+        "x": 2112,
+        "y": 192,
+        "size": 1691
+      }
+    },
+    {
+      "file": "d900cea194f6.webp",
+      "rect": {
+        "x": 1445,
+        "y": 0,
+        "size": 2395
+      }
+    },
+    {
+      "file": "26046e700d76.webp",
+      "rect": {
+        "x": 0,
+        "y": -483,
+        "size": 3840
+      }
+    }
+  ]
+}

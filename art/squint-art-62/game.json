@@ -1,0 +1,67 @@
+{
+  "a": "==wZulGdulWYQBiZvBCdyFEIlhGV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jan_Vermeer_-_The_Art_of_Painting_-_Google_Art_Project.jpg",
+  "photographer": "Kunsthistorisches Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c10547b46d1c.webp",
+      "rect": {
+        "x": 1171,
+        "y": 2874,
+        "size": 427
+      }
+    },
+    {
+      "file": "38269300aa60.webp",
+      "rect": {
+        "x": 1064,
+        "y": 2767,
+        "size": 640
+      }
+    },
+    {
+      "file": "f25f997bc96c.webp",
+      "rect": {
+        "x": 904,
+        "y": 2607,
+        "size": 960
+      }
+    },
+    {
+      "file": "c7145ec4c576.webp",
+      "rect": {
+        "x": 645,
+        "y": 2348,
+        "size": 1477
+      }
+    },
+    {
+      "file": "9e2d37e518ab.webp",
+      "rect": {
+        "x": 255,
+        "y": 1958,
+        "size": 2259
+      }
+    },
+    {
+      "file": "c8f527933f28.webp",
+      "rect": {
+        "x": 0,
+        "y": 1362,
+        "size": 3200
+      }
+    },
+    {
+      "file": "1608f84c1a9a.webp",
+      "rect": {
+        "x": -361,
+        "y": 0,
+        "size": 4562
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "5NHc5dEIn5WawVWZsNFIlhGV",
+  "ar": "=UXYlN3c19mUgkmcuVGS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg",
+  "photographer": "Museum of Modern Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "c1bfd169ff19.webp",
+      "rect": {
+        "x": 2760,
+        "y": 1417,
+        "size": 273
+      }
+    },
+    {
+      "file": "a64ffc523e4a.webp",
+      "rect": {
+        "x": 2692,
+        "y": 1349,
+        "size": 409
+      }
+    },
+    {
+      "file": "78f221a8cd6d.webp",
+      "rect": {
+        "x": 2589,
+        "y": 1247,
+        "size": 613
+      }
+    },
+    {
+      "file": "ce4ba3f88a1e.webp",
+      "rect": {
+        "x": 2424,
+        "y": 1081,
+        "size": 943
+      }
+    },
+    {
+      "file": "24d0e446c2e8.webp",
+      "rect": {
+        "x": 2175,
+        "y": 832,
+        "size": 1443
+      }
+    },
+    {
+      "file": "ebd8ad92e257.webp",
+      "rect": {
+        "x": 1796,
+        "y": 409,
+        "size": 2044
+      }
+    },
+    {
+      "file": "e55ebdbf1af8.webp",
+      "rect": {
+        "x": 0,
+        "y": -693,
+        "size": 3840
+      }
+    }
+  ]
+}

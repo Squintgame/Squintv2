@@ -1,0 +1,67 @@
+{
+  "a": "=MnclhGdhJEIldmchxEIlhGV",
+  "ar": "==QZu5WY6l6wDBCb1FGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Paul_C%C3%A9zanne,_French_-_The_Large_Bathers_-_Google_Art_Project.jpg",
+  "photographer": "Philadelphia Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "95c8b67ac242.webp",
+      "rect": {
+        "x": 3137,
+        "y": 2060,
+        "size": 357
+      }
+    },
+    {
+      "file": "d3fc6586fb6d.webp",
+      "rect": {
+        "x": 3048,
+        "y": 1971,
+        "size": 535
+      }
+    },
+    {
+      "file": "4a4dbe238a39.webp",
+      "rect": {
+        "x": 2914,
+        "y": 1837,
+        "size": 802
+      }
+    },
+    {
+      "file": "2c7e5ea40f3d.webp",
+      "rect": {
+        "x": 2605,
+        "y": 1621,
+        "size": 1235
+      }
+    },
+    {
+      "file": "337aa050a0c4.webp",
+      "rect": {
+        "x": 1952,
+        "y": 1294,
+        "size": 1888
+      }
+    },
+    {
+      "file": "7adb27631659.webp",
+      "rect": {
+        "x": 1165,
+        "y": 535,
+        "size": 2675
+      }
+    },
+    {
+      "file": "3252382f6fa0.webp",
+      "rect": {
+        "x": 0,
+        "y": -315,
+        "size": 3840
+      }
+    }
+  ]
+}

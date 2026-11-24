@@ -1,0 +1,67 @@
+{
+  "a": "=knc05WdvNEIlhGdg4WagU2YuFGR",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pierre_Auguste_Renoir_-_Country_Dance_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "79aeb8355d0f.webp",
+      "rect": {
+        "x": 1538,
+        "y": 1539,
+        "size": 325
+      }
+    },
+    {
+      "file": "73f3fbaae942.webp",
+      "rect": {
+        "x": 1457,
+        "y": 1457,
+        "size": 488
+      }
+    },
+    {
+      "file": "22bc5194baf7.webp",
+      "rect": {
+        "x": 1335,
+        "y": 1336,
+        "size": 732
+      }
+    },
+    {
+      "file": "87bb96c8120b.webp",
+      "rect": {
+        "x": 1138,
+        "y": 1139,
+        "size": 1125
+      }
+    },
+    {
+      "file": "44f4cf7344de.webp",
+      "rect": {
+        "x": 840,
+        "y": 841,
+        "size": 1721
+      }
+    },
+    {
+      "file": "de5cfb3d35e4.webp",
+      "rect": {
+        "x": 482,
+        "y": 482,
+        "size": 2438
+      }
+    },
+    {
+      "file": "58e83c5d3080.webp",
+      "rect": {
+        "x": -1575,
+        "y": 0,
+        "size": 6076
+      }
+    }
+  ]
+}

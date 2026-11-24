@@ -1,0 +1,67 @@
+{
+  "a": "=UmdhdFIoRnbp5EIlhGV",
+  "ar": "5t2c29mehZXaBBibhZXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Hovhannes_Aivazovsky_-_The_Ninth_Wave_-_Google_Art_Project.jpg",
+  "photographer": "Russian Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "913f406a5ae0.webp",
+      "rect": {
+        "x": 2330,
+        "y": 1909,
+        "size": 287
+      }
+    },
+    {
+      "file": "df1830423a35.webp",
+      "rect": {
+        "x": 2259,
+        "y": 1837,
+        "size": 430
+      }
+    },
+    {
+      "file": "62c559428524.webp",
+      "rect": {
+        "x": 2151,
+        "y": 1729,
+        "size": 645
+      }
+    },
+    {
+      "file": "5fdcbfa3cfa8.webp",
+      "rect": {
+        "x": 1977,
+        "y": 1556,
+        "size": 992
+      }
+    },
+    {
+      "file": "72b8f3942af9.webp",
+      "rect": {
+        "x": 1715,
+        "y": 1062,
+        "size": 1518
+      }
+    },
+    {
+      "file": "866244e250b1.webp",
+      "rect": {
+        "x": 1399,
+        "y": 430,
+        "size": 2150
+      }
+    },
+    {
+      "file": "066ab2cfdf63.webp",
+      "rect": {
+        "x": 0,
+        "y": -630,
+        "size": 3840
+      }
+    }
+  ]
+}

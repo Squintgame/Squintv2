@@ -1,0 +1,67 @@
+{
+  "a": "zNXZuJXZkxWaXBSZoRHIulGIl12byVmSgQnbpF2U",
+  "ar": "=k2YulmVgEGZg8GZyFmbvVGT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Leonardo_da_Vinci_%E2%80%94_Jerome.jpg",
+  "photographer": "Pinacoteca Vaticana",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "58188a9061bf.webp",
+      "rect": {
+        "x": 1426,
+        "y": 830,
+        "size": 307
+      }
+    },
+    {
+      "file": "18e67c9c6ebf.webp",
+      "rect": {
+        "x": 1349,
+        "y": 753,
+        "size": 460
+      }
+    },
+    {
+      "file": "f3dc24cb578b.webp",
+      "rect": {
+        "x": 1234,
+        "y": 638,
+        "size": 691
+      }
+    },
+    {
+      "file": "7a8412e93aa7.webp",
+      "rect": {
+        "x": 1048,
+        "y": 452,
+        "size": 1063
+      }
+    },
+    {
+      "file": "d4af1662ad7f.webp",
+      "rect": {
+        "x": 767,
+        "y": 171,
+        "size": 1625
+      }
+    },
+    {
+      "file": "b253211d89c7.webp",
+      "rect": {
+        "x": 428,
+        "y": 0,
+        "size": 2302
+      }
+    },
+    {
+      "file": "820fb8f382fa.webp",
+      "rect": {
+        "x": -566,
+        "y": 0,
+        "size": 3896
+      }
+    }
+  ]
+}

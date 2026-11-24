@@ -1,0 +1,67 @@
+{
+  "a": "==gbvNFIyVGSgQmbhBCdl52bNBSZtFGZh1EITCo4gw2bzFmchBFIhBCa0l2dg4WYt92V",
+  "ar": "0Vmbv1EIlRWdhx2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Woman_with_a_Parasol_-_Madame_Monet_and_Her_Son_-_Google_Art_Project.jpg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "0daa380ec540.webp",
+      "rect": {
+        "x": 963,
+        "y": 534,
+        "size": 427
+      }
+    },
+    {
+      "file": "fdacdef2f1a1.webp",
+      "rect": {
+        "x": 857,
+        "y": 427,
+        "size": 640
+      }
+    },
+    {
+      "file": "4030c652ba0b.webp",
+      "rect": {
+        "x": 697,
+        "y": 267,
+        "size": 960
+      }
+    },
+    {
+      "file": "ce7659c931e3.webp",
+      "rect": {
+        "x": 438,
+        "y": 9,
+        "size": 1477
+      }
+    },
+    {
+      "file": "434860e2d314.webp",
+      "rect": {
+        "x": 47,
+        "y": 0,
+        "size": 2259
+      }
+    },
+    {
+      "file": "7e86b7091feb.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "976c5c3746f4.webp",
+      "rect": {
+        "x": -465,
+        "y": 0,
+        "size": 4770
+      }
+    }
+  ]
+}

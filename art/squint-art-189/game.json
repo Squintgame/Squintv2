@@ -1,0 +1,67 @@
+{
+  "a": "yVGa0FmQg42bnOsbpBHbhZFIlhGV",
+  "ar": "=MXZydmbJBSZ1FXaulWbvRULlR3c1dWdB1ibhVmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jean-Auguste-Dominique_Ingres_-_La_Baigneuse_Valpin%C3%A7on.jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "4330ffd9843a.webp",
+      "rect": {
+        "x": 1353,
+        "y": 3566,
+        "size": 321
+      }
+    },
+    {
+      "file": "92faaf57cfc9.webp",
+      "rect": {
+        "x": 1272,
+        "y": 3485,
+        "size": 482
+      }
+    },
+    {
+      "file": "eaf9460afbed.webp",
+      "rect": {
+        "x": 1152,
+        "y": 3365,
+        "size": 722
+      }
+    },
+    {
+      "file": "dfd981e57234.webp",
+      "rect": {
+        "x": 958,
+        "y": 3171,
+        "size": 1112
+      }
+    },
+    {
+      "file": "b2e155ad6113.webp",
+      "rect": {
+        "x": 663,
+        "y": 2612,
+        "size": 1700
+      }
+    },
+    {
+      "file": "09494d674ecb.webp",
+      "rect": {
+        "x": 309,
+        "y": 1904,
+        "size": 2408
+      }
+    },
+    {
+      "file": "cbd6b95fa4c4.webp",
+      "rect": {
+        "x": -711,
+        "y": 0,
+        "size": 4312
+      }
+    }
+  ]
+}

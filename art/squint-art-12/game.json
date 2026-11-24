@@ -1,0 +1,67 @@
+{
+  "a": "=M3cptEIlhGV",
+  "ar": "01WastEI2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg",
+  "photographer": "Belvedere",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "130df6415ecc.webp",
+      "rect": {
+        "x": 1167,
+        "y": 2439,
+        "size": 427
+      }
+    },
+    {
+      "file": "df959e3d60df.webp",
+      "rect": {
+        "x": 1061,
+        "y": 2332,
+        "size": 640
+      }
+    },
+    {
+      "file": "5b7e83c13ebe.webp",
+      "rect": {
+        "x": 901,
+        "y": 2172,
+        "size": 960
+      }
+    },
+    {
+      "file": "596820dee431.webp",
+      "rect": {
+        "x": 642,
+        "y": 1914,
+        "size": 1477
+      }
+    },
+    {
+      "file": "fec718fda892.webp",
+      "rect": {
+        "x": 251,
+        "y": 1523,
+        "size": 2259
+      }
+    },
+    {
+      "file": "88cbcb7f4cc6.webp",
+      "rect": {
+        "x": 0,
+        "y": 653,
+        "size": 3200
+      }
+    },
+    {
+      "file": "b3f865e6c493.webp",
+      "rect": {
+        "x": -6,
+        "y": 0,
+        "size": 3853
+      }
+    }
+  ]
+}

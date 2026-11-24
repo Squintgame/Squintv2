@@ -1,0 +1,67 @@
+{
+  "a": "==wcllmclxWa1RFIlhGdg4WagMWazVXT",
+  "ar": "=QXZuFWTgQmchV3bkl4w",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:%C3%89douard_Manet_-_Music_in_the_Tuileries_Gardens.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "6642e32e7b94.webp",
+      "rect": {
+        "x": 1817,
+        "y": 1952,
+        "size": 270
+      }
+    },
+    {
+      "file": "c941a6e61da4.webp",
+      "rect": {
+        "x": 1750,
+        "y": 1885,
+        "size": 404
+      }
+    },
+    {
+      "file": "cf858db4d918.webp",
+      "rect": {
+        "x": 1649,
+        "y": 1783,
+        "size": 606
+      }
+    },
+    {
+      "file": "64c238149417.webp",
+      "rect": {
+        "x": 1485,
+        "y": 1493,
+        "size": 933
+      }
+    },
+    {
+      "file": "c447c94b0406.webp",
+      "rect": {
+        "x": 1238,
+        "y": 999,
+        "size": 1427
+      }
+    },
+    {
+      "file": "2a5aa902b6c2.webp",
+      "rect": {
+        "x": 941,
+        "y": 404,
+        "size": 2022
+      }
+    },
+    {
+      "file": "46af4237d760.webp",
+      "rect": {
+        "x": 0,
+        "y": -707,
+        "size": 3840
+      }
+    }
+  ]
+}

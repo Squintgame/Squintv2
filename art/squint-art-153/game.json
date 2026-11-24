@@ -1,0 +1,67 @@
+{
+  "a": "==QZtlGVgQmbhBSesx2bGBCLklGc1NEIsMXduVmV",
+  "ar": "=8mbppnbvJnQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Angelo_Bronzino_-_Venus,_Cupid,_Folly_and_Time_-_National_Gallery,_London.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "6b8292a2877b.webp",
+      "rect": {
+        "x": 466,
+        "y": 282,
+        "size": 372
+      }
+    },
+    {
+      "file": "3be32539b305.webp",
+      "rect": {
+        "x": 373,
+        "y": 189,
+        "size": 558
+      }
+    },
+    {
+      "file": "f7d6e6bcc910.webp",
+      "rect": {
+        "x": 234,
+        "y": 50,
+        "size": 837
+      }
+    },
+    {
+      "file": "3b3c5366dba5.webp",
+      "rect": {
+        "x": 8,
+        "y": 0,
+        "size": 1288
+      }
+    },
+    {
+      "file": "749256418747.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1970
+      }
+    },
+    {
+      "file": "077ef68e904f.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2791
+      }
+    },
+    {
+      "file": "11f5d983a15f.webp",
+      "rect": {
+        "x": -438,
+        "y": 0,
+        "size": 4226
+      }
+    }
+  ]
+}

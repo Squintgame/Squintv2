@@ -1,0 +1,67 @@
+{
+  "a": "==QYzVHZl1EIlhGdgY2bgQnZhJFIlhGV",
+  "ar": "=QHb1F2YpJXqDfEIlJ3bk9WqDjGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre,_1818-19).jpg",
+  "photographer": "Department of Paintings of the Louvre",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "24512c99b5f3.webp",
+      "rect": {
+        "x": 955,
+        "y": 1689,
+        "size": 291
+      }
+    },
+    {
+      "file": "594da0f6d05a.webp",
+      "rect": {
+        "x": 882,
+        "y": 1616,
+        "size": 437
+      }
+    },
+    {
+      "file": "4e649e8b6879.webp",
+      "rect": {
+        "x": 773,
+        "y": 1507,
+        "size": 655
+      }
+    },
+    {
+      "file": "674eaf05958e.webp",
+      "rect": {
+        "x": 597,
+        "y": 1331,
+        "size": 1008
+      }
+    },
+    {
+      "file": "ca3e9c800f41.webp",
+      "rect": {
+        "x": 330,
+        "y": 1064,
+        "size": 1542
+      }
+    },
+    {
+      "file": "2c6f9584ab94.webp",
+      "rect": {
+        "x": 9,
+        "y": 437,
+        "size": 2184
+      }
+    },
+    {
+      "file": "e8828c6b7639.webp",
+      "rect": {
+        "x": 0,
+        "y": -609,
+        "size": 3840
+      }
+    }
+  ]
+}

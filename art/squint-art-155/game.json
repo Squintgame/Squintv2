@@ -1,0 +1,67 @@
+{
+  "a": "rOcYuFGR",
+  "ar": "01WastEI2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt_010.jpg",
+  "photographer": "Leopold Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "42b7e30be2eb.webp",
+      "rect": {
+        "x": 1566,
+        "y": 810,
+        "size": 218
+      }
+    },
+    {
+      "file": "2efff846f49c.webp",
+      "rect": {
+        "x": 1512,
+        "y": 756,
+        "size": 327
+      }
+    },
+    {
+      "file": "8d57f0829965.webp",
+      "rect": {
+        "x": 1430,
+        "y": 674,
+        "size": 490
+      }
+    },
+    {
+      "file": "ddc5a14e1894.webp",
+      "rect": {
+        "x": 1270,
+        "y": 542,
+        "size": 754
+      }
+    },
+    {
+      "file": "ec8abc67d7b5.webp",
+      "rect": {
+        "x": 871,
+        "y": 343,
+        "size": 1153
+      }
+    },
+    {
+      "file": "e72d1ef1f236.webp",
+      "rect": {
+        "x": 391,
+        "y": 103,
+        "size": 1633
+      }
+    },
+    {
+      "file": "1b9a0cad7988.webp",
+      "rect": {
+        "x": 0,
+        "y": -32,
+        "size": 2024
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==wcz9mcDBSZoRHIn5Wa5JnchNEI0NXayh2Q",
+  "ar": "==AajN3bCByc11Weu9mcllGS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Bosch_-_Christ_Carrying_the_Cross,_ca._1510_-_ca._1516,_Inv._1902-H.jpg",
+  "photographer": "Museum of Fine Arts Ghent (MSK)",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "36fc1d328eda.webp",
+      "rect": {
+        "x": 438,
+        "y": 2352,
+        "size": 349
+      }
+    },
+    {
+      "file": "7a167323deac.webp",
+      "rect": {
+        "x": 351,
+        "y": 2265,
+        "size": 523
+      }
+    },
+    {
+      "file": "9568c57ab3c9.webp",
+      "rect": {
+        "x": 220,
+        "y": 2134,
+        "size": 784
+      }
+    },
+    {
+      "file": "495bc0b22197.webp",
+      "rect": {
+        "x": 9,
+        "y": 1923,
+        "size": 1207
+      }
+    },
+    {
+      "file": "3b5c9e14155a.webp",
+      "rect": {
+        "x": 0,
+        "y": 1292,
+        "size": 1846
+      }
+    },
+    {
+      "file": "311e491f24b2.webp",
+      "rect": {
+        "x": 0,
+        "y": 523,
+        "size": 2615
+      }
+    },
+    {
+      "file": "c09a40fe0b4f.webp",
+      "rect": {
+        "x": 0,
+        "y": -116,
+        "size": 3370
+      }
+    }
+  ]
+}

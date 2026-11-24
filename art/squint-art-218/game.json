@@ -1,0 +1,67 @@
+{
+  "a": "=42bpRXaz9GclREIlhGV",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Raffaello,_pala_baglioni,_deposizione.jpg",
+  "photographer": "Galleria Borghese",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f65ca441b219.webp",
+      "rect": {
+        "x": 1048,
+        "y": 385,
+        "size": 222
+      }
+    },
+    {
+      "file": "ffb36d7aafbd.webp",
+      "rect": {
+        "x": 992,
+        "y": 330,
+        "size": 333
+      }
+    },
+    {
+      "file": "1cf953d0eacf.webp",
+      "rect": {
+        "x": 909,
+        "y": 246,
+        "size": 500
+      }
+    },
+    {
+      "file": "6277a96e1501.webp",
+      "rect": {
+        "x": 774,
+        "y": 112,
+        "size": 769
+      }
+    },
+    {
+      "file": "28ce5c89e21c.webp",
+      "rect": {
+        "x": 570,
+        "y": 0,
+        "size": 1176
+      }
+    },
+    {
+      "file": "9cc46a81b941.webp",
+      "rect": {
+        "x": 325,
+        "y": 0,
+        "size": 1667
+      }
+    },
+    {
+      "file": "920067a59e7d.webp",
+      "rect": {
+        "x": -34,
+        "y": 0,
+        "size": 2068
+      }
+    }
+  ]
+}

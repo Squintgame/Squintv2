@@ -1,0 +1,67 @@
+{
+  "a": "==QYkVmcCBiZvBiclRmblJnc1NFIlhGV",
+  "ar": "==gelVXc6F6wsVmVg82ZllGR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Velazquez-The_Surrender_of_Breda.jpg",
+  "photographer": "Museo del Prado",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "dde58bd0b6e2.webp",
+      "rect": {
+        "x": 1993,
+        "y": 483,
+        "size": 280
+      }
+    },
+    {
+      "file": "88676097d940.webp",
+      "rect": {
+        "x": 1923,
+        "y": 413,
+        "size": 419
+      }
+    },
+    {
+      "file": "1c0300fe686c.webp",
+      "rect": {
+        "x": 1819,
+        "y": 308,
+        "size": 629
+      }
+    },
+    {
+      "file": "f11b2df3e3a2.webp",
+      "rect": {
+        "x": 1649,
+        "y": 139,
+        "size": 968
+      }
+    },
+    {
+      "file": "72a8ce608f76.webp",
+      "rect": {
+        "x": 1393,
+        "y": 0,
+        "size": 1480
+      }
+    },
+    {
+      "file": "9892fe622acb.webp",
+      "rect": {
+        "x": 954,
+        "y": 0,
+        "size": 2097
+      }
+    },
+    {
+      "file": "b915cd05d2dd.webp",
+      "rect": {
+        "x": 0,
+        "y": -267,
+        "size": 3051
+      }
+    }
+  ]
+}

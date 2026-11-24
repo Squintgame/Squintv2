@@ -1,0 +1,67 @@
+{
+  "a": "=E2Y1RmbhJ3RgwWZkBSYu52bkFWT",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Raffaello_(1483-1520)_-_La_Madonna_del_Granduca_-_178_-_Galleria_Palatina.jpg",
+  "photographer": "Galleria Palatina",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d1450814add6.webp",
+      "rect": {
+        "x": 1504,
+        "y": 1622,
+        "size": 247
+      }
+    },
+    {
+      "file": "5eaa7c888094.webp",
+      "rect": {
+        "x": 1443,
+        "y": 1561,
+        "size": 370
+      }
+    },
+    {
+      "file": "09d0668c57dd.webp",
+      "rect": {
+        "x": 1350,
+        "y": 1468,
+        "size": 555
+      }
+    },
+    {
+      "file": "15c1ff5ad581.webp",
+      "rect": {
+        "x": 1201,
+        "y": 1319,
+        "size": 853
+      }
+    },
+    {
+      "file": "f81371ebfa09.webp",
+      "rect": {
+        "x": 914,
+        "y": 1093,
+        "size": 1305
+      }
+    },
+    {
+      "file": "de9a1f6ef42d.webp",
+      "rect": {
+        "x": 370,
+        "y": 821,
+        "size": 1849
+      }
+    },
+    {
+      "file": "6bb74f015ff0.webp",
+      "rect": {
+        "x": -524,
+        "y": 0,
+        "size": 3268
+      }
+    }
+  ]
+}

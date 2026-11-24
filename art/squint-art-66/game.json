@@ -1,0 +1,67 @@
+{
+  "a": "zJXZwVWZsNFIlhGV",
+  "ar": "0VmYyV3bDBSZ2FGdzV3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Gustave_Courbet_-_Le_Sommeil_(1866),_Paris,_Petit_Palais.jpg",
+  "photographer": "Musée des Beaux-Arts de la ville de Paris",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "e4b068cacfe3.webp",
+      "rect": {
+        "x": 641,
+        "y": 2052,
+        "size": 286
+      }
+    },
+    {
+      "file": "226be6ab0ae5.webp",
+      "rect": {
+        "x": 569,
+        "y": 1980,
+        "size": 429
+      }
+    },
+    {
+      "file": "8993d90edd29.webp",
+      "rect": {
+        "x": 462,
+        "y": 1873,
+        "size": 644
+      }
+    },
+    {
+      "file": "6d29e8d9b81e.webp",
+      "rect": {
+        "x": 289,
+        "y": 1585,
+        "size": 991
+      }
+    },
+    {
+      "file": "02a054510e8a.webp",
+      "rect": {
+        "x": 26,
+        "y": 1061,
+        "size": 1515
+      }
+    },
+    {
+      "file": "34e8bd069a23.webp",
+      "rect": {
+        "x": 0,
+        "y": 429,
+        "size": 2147
+      }
+    },
+    {
+      "file": "ffdfe0f4750f.webp",
+      "rect": {
+        "x": 0,
+        "y": -632,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==gcl1Wb1NFIlhGdg4WS",
+  "ar": "yl2buVmUgUGdzV3Z1FULlJncllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Auguste_Renoir_-_En_%C3%A9t%C3%A9_-_La_boh%C3%A9mienne_-_Google_Art_Project.jpg",
+  "photographer": "Alte Nationalgalerie",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "55059b9e3844.webp",
+      "rect": {
+        "x": 226,
+        "y": 1698,
+        "size": 304
+      }
+    },
+    {
+      "file": "97e395b86ce6.webp",
+      "rect": {
+        "x": 150,
+        "y": 1622,
+        "size": 456
+      }
+    },
+    {
+      "file": "39920a9ff905.webp",
+      "rect": {
+        "x": 36,
+        "y": 1508,
+        "size": 684
+      }
+    },
+    {
+      "file": "723138f6a8da.webp",
+      "rect": {
+        "x": 0,
+        "y": 1324,
+        "size": 1053
+      }
+    },
+    {
+      "file": "c2a592bace3b.webp",
+      "rect": {
+        "x": 0,
+        "y": 1045,
+        "size": 1610
+      }
+    },
+    {
+      "file": "20bc16e9a270.webp",
+      "rect": {
+        "x": 0,
+        "y": 710,
+        "size": 2281
+      }
+    },
+    {
+      "file": "762bece67465.webp",
+      "rect": {
+        "x": -639,
+        "y": 0,
+        "size": 4015
+      }
+    }
+  ]
+}

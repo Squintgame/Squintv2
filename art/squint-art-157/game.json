@@ -1,0 +1,67 @@
+{
+  "a": "sxWZIBibpBCbpdmcpZFIk5WYgUGduFGR",
+  "ar": "=UXYlJXZ1dWdvJEIlhGcs9GZB1SbhlGbsl2V",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:William_Bouguereau_-_Dante_and_Virgile_-_Google_Art_Project_2.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d64595b26c27.webp",
+      "rect": {
+        "x": 1759,
+        "y": 1300,
+        "size": 311
+      }
+    },
+    {
+      "file": "d599f6ccf48c.webp",
+      "rect": {
+        "x": 1681,
+        "y": 1222,
+        "size": 467
+      }
+    },
+    {
+      "file": "b3d6fc7d15d3.webp",
+      "rect": {
+        "x": 1564,
+        "y": 1105,
+        "size": 701
+      }
+    },
+    {
+      "file": "08e093d1009e.webp",
+      "rect": {
+        "x": 1376,
+        "y": 917,
+        "size": 1078
+      }
+    },
+    {
+      "file": "b2c1ec3a9378.webp",
+      "rect": {
+        "x": 1090,
+        "y": 631,
+        "size": 1649
+      }
+    },
+    {
+      "file": "63e938cf7e33.webp",
+      "rect": {
+        "x": 467,
+        "y": 288,
+        "size": 2336
+      }
+    },
+    {
+      "file": "b742847ad37d.webp",
+      "rect": {
+        "x": -356,
+        "y": 0,
+        "size": 3515
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==wcl1WYHBycn4WZyRGbph2Q",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Children%E2%80%99s_Games_-_Google_Art_Project.jpg",
+  "photographer": "Kunsthistorisches Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "adad15ec9a5e.webp",
+      "rect": {
+        "x": 843,
+        "y": 1150,
+        "size": 310
+      }
+    },
+    {
+      "file": "477fe838c9dc.webp",
+      "rect": {
+        "x": 766,
+        "y": 1073,
+        "size": 465
+      }
+    },
+    {
+      "file": "631bd056fecf.webp",
+      "rect": {
+        "x": 650,
+        "y": 956,
+        "size": 697
+      }
+    },
+    {
+      "file": "e0a3417f6607.webp",
+      "rect": {
+        "x": 462,
+        "y": 769,
+        "size": 1073
+      }
+    },
+    {
+      "file": "77261d5e0324.webp",
+      "rect": {
+        "x": 178,
+        "y": 485,
+        "size": 1641
+      }
+    },
+    {
+      "file": "d0e84e712b12.webp",
+      "rect": {
+        "x": 0,
+        "y": 143,
+        "size": 2324
+      }
+    },
+    {
+      "file": "133ae78cb65b.webp",
+      "rect": {
+        "x": 0,
+        "y": -525,
+        "size": 3840
+      }
+    }
+  ]
+}

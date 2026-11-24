@@ -1,0 +1,67 @@
+{
+  "a": "==QeslWbhZEIpxGblxGblJEIlhGV",
+  "ar": "=MXYnVGRgIXYnRWR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Edgar_Degas_-_The_Bellelli_Family_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "411222b70885.webp",
+      "rect": {
+        "x": 421,
+        "y": 1420,
+        "size": 341
+      }
+    },
+    {
+      "file": "d5a50dced4e6.webp",
+      "rect": {
+        "x": 336,
+        "y": 1334,
+        "size": 512
+      }
+    },
+    {
+      "file": "df0531bd2435.webp",
+      "rect": {
+        "x": 208,
+        "y": 1206,
+        "size": 768
+      }
+    },
+    {
+      "file": "b9e0ae406e0f.webp",
+      "rect": {
+        "x": 1,
+        "y": 1000,
+        "size": 1182
+      }
+    },
+    {
+      "file": "1e201e4cdc80.webp",
+      "rect": {
+        "x": 0,
+        "y": 687,
+        "size": 1807
+      }
+    },
+    {
+      "file": "cd037685374d.webp",
+      "rect": {
+        "x": 0,
+        "y": 310,
+        "size": 2560
+      }
+    },
+    {
+      "file": "4b544c45e659.webp",
+      "rect": {
+        "x": 0,
+        "y": -384,
+        "size": 3840
+      }
+    }
+  ]
+}

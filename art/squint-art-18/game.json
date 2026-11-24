@@ -1,0 +1,67 @@
+{
+  "a": "zt2YhN3cvNEIuFWaop3by9GchpFIlhGdgY2bgkHbwVmU",
+  "ar": "==gbpBXZSBSY5xWS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ilja_Jefimowitsch_Repin_-_Reply_of_the_Zaporozhian_Cossacks_-_Yorck.jpg",
+  "photographer": "Russian Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "2d1ec7b58e78.webp",
+      "rect": {
+        "x": 1285,
+        "y": 1770,
+        "size": 252
+      }
+    },
+    {
+      "file": "077bdced516f.webp",
+      "rect": {
+        "x": 1222,
+        "y": 1707,
+        "size": 378
+      }
+    },
+    {
+      "file": "86d7d1ec7b8d.webp",
+      "rect": {
+        "x": 1127,
+        "y": 1612,
+        "size": 568
+      }
+    },
+    {
+      "file": "940b05007a4d.webp",
+      "rect": {
+        "x": 975,
+        "y": 1397,
+        "size": 873
+      }
+    },
+    {
+      "file": "5f24c8c5769a.webp",
+      "rect": {
+        "x": 744,
+        "y": 935,
+        "size": 1335
+      }
+    },
+    {
+      "file": "f22589d36b98.webp",
+      "rect": {
+        "x": 465,
+        "y": 378,
+        "size": 1892
+      }
+    },
+    {
+      "file": "115a4d076b03.webp",
+      "rect": {
+        "x": 0,
+        "y": -785,
+        "size": 3840
+      }
+    }
+  ]
+}

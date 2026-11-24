@@ -1,0 +1,67 @@
+{
+  "a": "==wc5FGRgY2bgQnbll2YuFEIlhGV",
+  "ar": "==QZrFGbCBSbhlGbsl2V",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Europe_a_Prophecy_copy_K_plate_01.jpg",
+  "photographer": "Library of Congress",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "db72f9da526d.webp",
+      "rect": {
+        "x": 1025,
+        "y": 1987,
+        "size": 246
+      }
+    },
+    {
+      "file": "3f78050b5da7.webp",
+      "rect": {
+        "x": 964,
+        "y": 1926,
+        "size": 370
+      }
+    },
+    {
+      "file": "93b3834d91a7.webp",
+      "rect": {
+        "x": 871,
+        "y": 1833,
+        "size": 554
+      }
+    },
+    {
+      "file": "e37c24794523.webp",
+      "rect": {
+        "x": 722,
+        "y": 1684,
+        "size": 853
+      }
+    },
+    {
+      "file": "05f2e62da6d8.webp",
+      "rect": {
+        "x": 496,
+        "y": 1458,
+        "size": 1304
+      }
+    },
+    {
+      "file": "75c9d6ad7664.webp",
+      "rect": {
+        "x": 225,
+        "y": 1156,
+        "size": 1848
+      }
+    },
+    {
+      "file": "0ee4eaa6c6c6.webp",
+      "rect": {
+        "x": -393,
+        "y": 0,
+        "size": 3004
+      }
+    }
+  ]
+}

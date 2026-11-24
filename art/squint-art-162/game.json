@@ -1,0 +1,67 @@
+{
+  "a": "oNWYlJEIlhGdg42bg4WZt92Vg4WYpRXaoFGV",
+  "ar": "ulWdnVXYHBCb1FGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Paul_Gauguin_056.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "6a5134720746.webp",
+      "rect": {
+        "x": 197,
+        "y": 593,
+        "size": 263
+      }
+    },
+    {
+      "file": "52a272043df2.webp",
+      "rect": {
+        "x": 131,
+        "y": 527,
+        "size": 395
+      }
+    },
+    {
+      "file": "6809b81958b5.webp",
+      "rect": {
+        "x": 32,
+        "y": 428,
+        "size": 592
+      }
+    },
+    {
+      "file": "ab9210694e25.webp",
+      "rect": {
+        "x": 0,
+        "y": 269,
+        "size": 911
+      }
+    },
+    {
+      "file": "2f66c35deecc.webp",
+      "rect": {
+        "x": 0,
+        "y": 28,
+        "size": 1394
+      }
+    },
+    {
+      "file": "fbd781f8df7d.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1974
+      }
+    },
+    {
+      "file": "32a419e3ac74.webp",
+      "rect": {
+        "x": 0,
+        "y": -403,
+        "size": 3176
+      }
+    }
+  ]
+}

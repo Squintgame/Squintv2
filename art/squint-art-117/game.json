@@ -1,0 +1,67 @@
+{
+  "a": "=kWalBXbvBFIm9GI5FGRgQ3chxEIlhGV",
+  "ar": "==gdvxGb1lncCBCbyF2S",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg",
+  "photographer": "Russian Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "10b430692499.webp",
+      "rect": {
+        "x": 1991,
+        "y": 2140,
+        "size": 300
+      }
+    },
+    {
+      "file": "fc2c7c930ebb.webp",
+      "rect": {
+        "x": 1916,
+        "y": 2065,
+        "size": 449
+      }
+    },
+    {
+      "file": "be7de2464812.webp",
+      "rect": {
+        "x": 1804,
+        "y": 1952,
+        "size": 674
+      }
+    },
+    {
+      "file": "7cafe327be9f.webp",
+      "rect": {
+        "x": 1622,
+        "y": 1659,
+        "size": 1037
+      }
+    },
+    {
+      "file": "546608b73e44.webp",
+      "rect": {
+        "x": 1348,
+        "y": 1110,
+        "size": 1586
+      }
+    },
+    {
+      "file": "0985919e6b6c.webp",
+      "rect": {
+        "x": 1017,
+        "y": 449,
+        "size": 2247
+      }
+    },
+    {
+      "file": "dff88d614194.webp",
+      "rect": {
+        "x": 0,
+        "y": -572,
+        "size": 3840
+      }
+    }
+  ]
+}

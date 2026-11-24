@@ -1,0 +1,67 @@
+{
+  "a": "yVGd0VGTgUmdvxEIlhGV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_%27De_liefdesbrief%27_-_Google_Art_Project.jpg",
+  "photographer": "Rijksmuseum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "415cf7b75477.webp",
+      "rect": {
+        "x": 1180,
+        "y": 3333,
+        "size": 427
+      }
+    },
+    {
+      "file": "86c30386ac43.webp",
+      "rect": {
+        "x": 1074,
+        "y": 3227,
+        "size": 640
+      }
+    },
+    {
+      "file": "28cf27b14d01.webp",
+      "rect": {
+        "x": 914,
+        "y": 3067,
+        "size": 960
+      }
+    },
+    {
+      "file": "3b1ea58f2962.webp",
+      "rect": {
+        "x": 655,
+        "y": 2808,
+        "size": 1477
+      }
+    },
+    {
+      "file": "f9e7c48be5f3.webp",
+      "rect": {
+        "x": 264,
+        "y": 2193,
+        "size": 2259
+      }
+    },
+    {
+      "file": "6c68bfb6617b.webp",
+      "rect": {
+        "x": 0,
+        "y": 1252,
+        "size": 3200
+      }
+    },
+    {
+      "file": "2d511eb69f24.webp",
+      "rect": {
+        "x": -306,
+        "y": 0,
+        "size": 4452
+      }
+    }
+  ]
+}

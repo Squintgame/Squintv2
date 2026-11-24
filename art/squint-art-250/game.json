@@ -1,0 +1,67 @@
+{
+  "a": "=8GdlJ3bMBSakBSYu52bkFWT",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Madonna_di_Loreto-Caravaggio_(c.1604-6).jpg",
+  "photographer": "Basilica of Saint Augustine in Campo Marzio",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9f3467531377.webp",
+      "rect": {
+        "x": 317,
+        "y": 2397,
+        "size": 427
+      }
+    },
+    {
+      "file": "91cddb7a4fbd.webp",
+      "rect": {
+        "x": 211,
+        "y": 2290,
+        "size": 640
+      }
+    },
+    {
+      "file": "1b5a989efd9d.webp",
+      "rect": {
+        "x": 51,
+        "y": 2130,
+        "size": 960
+      }
+    },
+    {
+      "file": "2ff2c7cbb38f.webp",
+      "rect": {
+        "x": 0,
+        "y": 1872,
+        "size": 1477
+      }
+    },
+    {
+      "file": "709584928191.webp",
+      "rect": {
+        "x": 0,
+        "y": 1481,
+        "size": 2259
+      }
+    },
+    {
+      "file": "58a4c4c4b485.webp",
+      "rect": {
+        "x": 0,
+        "y": 1010,
+        "size": 3200
+      }
+    },
+    {
+      "file": "40a0a8575dc8.webp",
+      "rect": {
+        "x": -1363,
+        "y": 0,
+        "size": 6566
+      }
+    }
+  ]
+}

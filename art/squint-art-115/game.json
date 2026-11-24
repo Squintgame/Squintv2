@@ -1,0 +1,67 @@
+{
+  "a": "rOcYuFGR",
+  "ar": "0RmbhJnYtVmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rembrandt_Harmensz._van_Rijn_026.jpg",
+  "photographer": "Hermitage Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "64bfc03c255b.webp",
+      "rect": {
+        "x": 2303,
+        "y": 874,
+        "size": 318
+      }
+    },
+    {
+      "file": "ce1132011e71.webp",
+      "rect": {
+        "x": 2223,
+        "y": 794,
+        "size": 477
+      }
+    },
+    {
+      "file": "aece60779fd4.webp",
+      "rect": {
+        "x": 2104,
+        "y": 675,
+        "size": 715
+      }
+    },
+    {
+      "file": "910ed4d67fe5.webp",
+      "rect": {
+        "x": 1911,
+        "y": 483,
+        "size": 1100
+      }
+    },
+    {
+      "file": "00581098df91.webp",
+      "rect": {
+        "x": 1494,
+        "y": 192,
+        "size": 1682
+      }
+    },
+    {
+      "file": "5a4d508e429f.webp",
+      "rect": {
+        "x": 793,
+        "y": 0,
+        "size": 2383
+      }
+    },
+    {
+      "file": "b9241c3e130b.webp",
+      "rect": {
+        "x": 0,
+        "y": -158,
+        "size": 3176
+      }
+    }
+  ]
+}

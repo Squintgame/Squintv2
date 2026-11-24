@@ -1,0 +1,67 @@
+{
+  "a": "=MHcyFGazRmchNEIlhGV",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Caravaggio_-_The_Cardsharps_(1596-97)_Kimbell_Art_Museum.jpg",
+  "photographer": "Kimbell Art Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "f9b5cc4b602e.webp",
+      "rect": {
+        "x": 538,
+        "y": 999,
+        "size": 307
+      }
+    },
+    {
+      "file": "c1fb5ea2ef7d.webp",
+      "rect": {
+        "x": 461,
+        "y": 923,
+        "size": 460
+      }
+    },
+    {
+      "file": "bd680906f59b.webp",
+      "rect": {
+        "x": 346,
+        "y": 808,
+        "size": 690
+      }
+    },
+    {
+      "file": "562c73d86d30.webp",
+      "rect": {
+        "x": 160,
+        "y": 622,
+        "size": 1062
+      }
+    },
+    {
+      "file": "d4f6933ef24a.webp",
+      "rect": {
+        "x": 0,
+        "y": 341,
+        "size": 1624
+      }
+    },
+    {
+      "file": "36baca08229b.webp",
+      "rect": {
+        "x": 0,
+        "y": 3,
+        "size": 2300
+      }
+    },
+    {
+      "file": "f40c7cbe3091.webp",
+      "rect": {
+        "x": 0,
+        "y": -540,
+        "size": 3840
+      }
+    }
+  ]
+}

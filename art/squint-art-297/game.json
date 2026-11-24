@@ -1,0 +1,67 @@
+{
+  "a": "lB3byhGduF2cp1EIlhGV",
+  "ar": "yVGZsVEIlhGdgwWZnVWdyJEIyVGdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._035-2.jpg",
+  "photographer": "Museo di Capodimonte",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "cee07c02d983.webp",
+      "rect": {
+        "x": 777,
+        "y": 355,
+        "size": 284
+      }
+    },
+    {
+      "file": "b32e9755410c.webp",
+      "rect": {
+        "x": 706,
+        "y": 284,
+        "size": 426
+      }
+    },
+    {
+      "file": "0b0b89b3cfdf.webp",
+      "rect": {
+        "x": 599,
+        "y": 177,
+        "size": 640
+      }
+    },
+    {
+      "file": "dedb98aedca2.webp",
+      "rect": {
+        "x": 427,
+        "y": 5,
+        "size": 984
+      }
+    },
+    {
+      "file": "05b1eb0a8ef5.webp",
+      "rect": {
+        "x": 166,
+        "y": 0,
+        "size": 1505
+      }
+    },
+    {
+      "file": "8e82ce8474d9.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2132
+      }
+    },
+    {
+      "file": "87d90aa36b5e.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2558
+      }
+    }
+  ]
+}

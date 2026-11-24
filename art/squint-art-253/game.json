@@ -1,0 +1,67 @@
+{
+  "a": "oRXahZEIjlGbvhGdhNEIlhGdgY2bgkncvdWZsxWQ",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer,_Allegory_of_the_Catholic_Faith,_The_Metropolitan_Museum_of_Art.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "9e98e2fd5e78.webp",
+      "rect": {
+        "x": 533,
+        "y": 748,
+        "size": 427
+      }
+    },
+    {
+      "file": "a9516860d694.webp",
+      "rect": {
+        "x": 427,
+        "y": 641,
+        "size": 640
+      }
+    },
+    {
+      "file": "e2af8e3fcc5a.webp",
+      "rect": {
+        "x": 267,
+        "y": 481,
+        "size": 960
+      }
+    },
+    {
+      "file": "bb714a23527b.webp",
+      "rect": {
+        "x": 8,
+        "y": 222,
+        "size": 1477
+      }
+    },
+    {
+      "file": "c4bdf8455d48.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2259
+      }
+    },
+    {
+      "file": "5d5cbc273a23.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "2ac422138706.webp",
+      "rect": {
+        "x": -544,
+        "y": 0,
+        "size": 4928
+      }
+    }
+  ]
+}

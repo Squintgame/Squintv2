@@ -1,0 +1,67 @@
+{
+  "a": "==QZpd2bvdFIll2Zv9mQgkXY3RWYvJnQ",
+  "ar": "==gbhlmck52bNBCdllGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Piet_Mondrian,_1942_-_Broadway_Boogie_Woogie.jpg",
+  "photographer": "Museum of Modern Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d2d528e7bef0.webp",
+      "rect": {
+        "x": 2649,
+        "y": 2015,
+        "size": 427
+      }
+    },
+    {
+      "file": "1dc92a3b06cf.webp",
+      "rect": {
+        "x": 2542,
+        "y": 1908,
+        "size": 640
+      }
+    },
+    {
+      "file": "a937be4e3a24.webp",
+      "rect": {
+        "x": 2382,
+        "y": 1748,
+        "size": 960
+      }
+    },
+    {
+      "file": "ec1888640744.webp",
+      "rect": {
+        "x": 2124,
+        "y": 1490,
+        "size": 1477
+      }
+    },
+    {
+      "file": "1a32e2a41367.webp",
+      "rect": {
+        "x": 1581,
+        "y": 1099,
+        "size": 2259
+      }
+    },
+    {
+      "file": "a8bf98ac0b7d.webp",
+      "rect": {
+        "x": 640,
+        "y": 628,
+        "size": 3200
+      }
+    },
+    {
+      "file": "5985c48f9eb8.webp",
+      "rect": {
+        "x": -3,
+        "y": 0,
+        "size": 3847
+      }
+    }
+  ]
+}

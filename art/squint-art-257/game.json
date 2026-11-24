@@ -1,0 +1,67 @@
+{
+  "a": "==wc0VGbvlmVgY2bgQXZ1FXdvJEIhBCa0l2dgQ3bzlmcv1EIlhGdyVmQ",
+  "ar": "=QXZuFWTgQmchV3bkl4w",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Berthe_Morisot_With_a_Bouquet_of_Violets_-_Google_Art_Project.jpg",
+  "photographer": "Musée d'Orsay",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "7771406a56b8.webp",
+      "rect": {
+        "x": 1640,
+        "y": 219,
+        "size": 291
+      }
+    },
+    {
+      "file": "f31b2f1ae3b9.webp",
+      "rect": {
+        "x": 1567,
+        "y": 146,
+        "size": 436
+      }
+    },
+    {
+      "file": "643d26136f0c.webp",
+      "rect": {
+        "x": 1458,
+        "y": 37,
+        "size": 654
+      }
+    },
+    {
+      "file": "e8064170923d.webp",
+      "rect": {
+        "x": 1282,
+        "y": 0,
+        "size": 1007
+      }
+    },
+    {
+      "file": "39d30719374e.webp",
+      "rect": {
+        "x": 1015,
+        "y": 0,
+        "size": 1539
+      }
+    },
+    {
+      "file": "8f7a69245cf0.webp",
+      "rect": {
+        "x": 436,
+        "y": 0,
+        "size": 2181
+      }
+    },
+    {
+      "file": "4c3f47facfee.webp",
+      "rect": {
+        "x": -467,
+        "y": 0,
+        "size": 3552
+      }
+    }
+  ]
+}

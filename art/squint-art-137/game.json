@@ -1,0 +1,67 @@
+{
+  "a": "==gbvN3clxEIjl2c11EIlhGV",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Lady_at_the_Virginal_with_a_Gentleman,_%27The_Music_Lesson%27_-_Google_Art_Project.jpg",
+  "photographer": "Royal Collection",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "d32c76ff218c.webp",
+      "rect": {
+        "x": 1814,
+        "y": 3308,
+        "size": 427
+      }
+    },
+    {
+      "file": "32651fd6760b.webp",
+      "rect": {
+        "x": 1707,
+        "y": 3201,
+        "size": 640
+      }
+    },
+    {
+      "file": "c164cc77f6ed.webp",
+      "rect": {
+        "x": 1547,
+        "y": 3041,
+        "size": 960
+      }
+    },
+    {
+      "file": "e178f2a28ecb.webp",
+      "rect": {
+        "x": 1288,
+        "y": 2783,
+        "size": 1477
+      }
+    },
+    {
+      "file": "f26d94d63704.webp",
+      "rect": {
+        "x": 897,
+        "y": 2161,
+        "size": 2259
+      }
+    },
+    {
+      "file": "b751843b5c93.webp",
+      "rect": {
+        "x": 427,
+        "y": 1220,
+        "size": 3200
+      }
+    },
+    {
+      "file": "cd01b6aa5ebf.webp",
+      "rect": {
+        "x": -290,
+        "y": 0,
+        "size": 4420
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "0NXayh2QgY2bgQnbl1mYt9GduVEIlhGV",
+  "ar": "==wbpd2ZhZXYyF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Entombment_of_Christ-Caravaggio_(c.1602-3).jpg",
+  "photographer": "Pinacoteca Vaticana",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "7ce100d0403f.webp",
+      "rect": {
+        "x": 1160,
+        "y": 3461,
+        "size": 427
+      }
+    },
+    {
+      "file": "c13d6f479b97.webp",
+      "rect": {
+        "x": 1053,
+        "y": 3354,
+        "size": 640
+      }
+    },
+    {
+      "file": "78c50ebde264.webp",
+      "rect": {
+        "x": 893,
+        "y": 3194,
+        "size": 960
+      }
+    },
+    {
+      "file": "27c92f482e9f.webp",
+      "rect": {
+        "x": 635,
+        "y": 2936,
+        "size": 1477
+      }
+    },
+    {
+      "file": "849f8b6d816c.webp",
+      "rect": {
+        "x": 244,
+        "y": 2545,
+        "size": 2259
+      }
+    },
+    {
+      "file": "f5b4969e1dc4.webp",
+      "rect": {
+        "x": 0,
+        "y": 2074,
+        "size": 3200
+      }
+    },
+    {
+      "file": "34f0467c5dff.webp",
+      "rect": {
+        "x": -932,
+        "y": 0,
+        "size": 5704
+      }
+    }
+  ]
+}

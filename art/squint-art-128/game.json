@@ -1,0 +1,67 @@
+{
+  "a": "lN3clJHZB1SZ05WahNFI0FGIuVGZyF2R",
+  "ar": "0Vmbv1EIlRWdhx2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Jardin_%C3%A0_Sainte-Adresse.jpg",
+  "photographer": "Metropolitan Museum of Art",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "29d5824beb5e.webp",
+      "rect": {
+        "x": 1683,
+        "y": 2003,
+        "size": 320
+      }
+    },
+    {
+      "file": "f15a350bff75.webp",
+      "rect": {
+        "x": 1603,
+        "y": 1923,
+        "size": 480
+      }
+    },
+    {
+      "file": "3ddac4b38889.webp",
+      "rect": {
+        "x": 1483,
+        "y": 1803,
+        "size": 720
+      }
+    },
+    {
+      "file": "d17ae15897a7.webp",
+      "rect": {
+        "x": 1290,
+        "y": 1609,
+        "size": 1107
+      }
+    },
+    {
+      "file": "29c47a88b050.webp",
+      "rect": {
+        "x": 996,
+        "y": 1185,
+        "size": 1694
+      }
+    },
+    {
+      "file": "deb7d4b8930e.webp",
+      "rect": {
+        "x": 644,
+        "y": 480,
+        "size": 2399
+      }
+    },
+    {
+      "file": "ca8b66a1bfee.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

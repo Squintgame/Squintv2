@@ -1,0 +1,67 @@
+{
+  "a": "=U2YuFGbhJEIhByZulGZs9GSg4WYt92V",
+  "ar": "==gclVWbyVmVgMXZu5WYo9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Woman_Holding_a_Balance_-_Google_Art_Project.jpg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "fd09a6fce6c4.webp",
+      "rect": {
+        "x": 2625,
+        "y": 738,
+        "size": 427
+      }
+    },
+    {
+      "file": "f1f12ff7c5bf.webp",
+      "rect": {
+        "x": 2518,
+        "y": 632,
+        "size": 640
+      }
+    },
+    {
+      "file": "09d050c1bd57.webp",
+      "rect": {
+        "x": 2358,
+        "y": 472,
+        "size": 960
+      }
+    },
+    {
+      "file": "928faeb68224.webp",
+      "rect": {
+        "x": 2100,
+        "y": 213,
+        "size": 1477
+      }
+    },
+    {
+      "file": "bba98137465c.webp",
+      "rect": {
+        "x": 1581,
+        "y": 0,
+        "size": 2259
+      }
+    },
+    {
+      "file": "5e95585a9125.webp",
+      "rect": {
+        "x": 640,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "ed50db834c4b.webp",
+      "rect": {
+        "x": -251,
+        "y": 0,
+        "size": 4342
+      }
+    }
+  ]
+}

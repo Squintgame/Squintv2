@@ -1,0 +1,67 @@
+{
+  "a": "l5WdKByZulWbhxmR",
+  "ar": "=42b0h2ZpVGTgMWayVGZlJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Flaming_June,_by_Frederic_Lord_Leighton_(1830-1896).jpg",
+  "photographer": "Museo de Arte de Ponce",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "820732a5cfb8.webp",
+      "rect": {
+        "x": 1195,
+        "y": 494,
+        "size": 283
+      }
+    },
+    {
+      "file": "651e48b4ac4d.webp",
+      "rect": {
+        "x": 1124,
+        "y": 423,
+        "size": 425
+      }
+    },
+    {
+      "file": "999a899708a4.webp",
+      "rect": {
+        "x": 1018,
+        "y": 317,
+        "size": 638
+      }
+    },
+    {
+      "file": "7172ca4f7fef.webp",
+      "rect": {
+        "x": 846,
+        "y": 145,
+        "size": 981
+      }
+    },
+    {
+      "file": "cc83f9209d8a.webp",
+      "rect": {
+        "x": 587,
+        "y": 0,
+        "size": 1500
+      }
+    },
+    {
+      "file": "3e41eae581b5.webp",
+      "rect": {
+        "x": 274,
+        "y": 0,
+        "size": 2125
+      }
+    },
+    {
+      "file": "28b14755c949.webp",
+      "rect": {
+        "x": -1,
+        "y": 0,
+        "size": 2552
+      }
+    }
+  ]
+}

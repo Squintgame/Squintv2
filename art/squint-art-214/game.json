@@ -1,0 +1,67 @@
+{
+  "a": "=8GdhJHUgwWZkBSYu52bkFWT",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Raphael_-_Madonna_in_the_Meadow_-_Google_Art_Project.jpg",
+  "photographer": "Kunsthistorisches Museum",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "2969ee6ec05a.webp",
+      "rect": {
+        "x": 2022,
+        "y": 4155,
+        "size": 427
+      }
+    },
+    {
+      "file": "7c525bdd60e2.webp",
+      "rect": {
+        "x": 1915,
+        "y": 4048,
+        "size": 640
+      }
+    },
+    {
+      "file": "21d67f8261cc.webp",
+      "rect": {
+        "x": 1755,
+        "y": 3888,
+        "size": 960
+      }
+    },
+    {
+      "file": "144b1d705b0c.webp",
+      "rect": {
+        "x": 1497,
+        "y": 3440,
+        "size": 1477
+      }
+    },
+    {
+      "file": "ec42b756ceb8.webp",
+      "rect": {
+        "x": 1106,
+        "y": 2658,
+        "size": 2259
+      }
+    },
+    {
+      "file": "bf9f17dbb55a.webp",
+      "rect": {
+        "x": 635,
+        "y": 1717,
+        "size": 3200
+      }
+    },
+    {
+      "file": "d0b3b2983876.webp",
+      "rect": {
+        "x": -538,
+        "y": 0,
+        "size": 4917
+      }
+    }
+  ]
+}

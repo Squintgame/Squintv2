@@ -1,0 +1,67 @@
+{
+  "a": "=IXdvpWYtRnbv1EI0FGI0V2cuV3U",
+  "ar": "==Aan92Rg4WY2BCduV2YulmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Sunset_at_Montmajour_1888_Van_Gogh.jpg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "5248360f8389.webp",
+      "rect": {
+        "x": 3246,
+        "y": 751,
+        "size": 337
+      }
+    },
+    {
+      "file": "3d9ad7971727.webp",
+      "rect": {
+        "x": 3162,
+        "y": 667,
+        "size": 505
+      }
+    },
+    {
+      "file": "d8649fd46fde.webp",
+      "rect": {
+        "x": 3036,
+        "y": 540,
+        "size": 757
+      }
+    },
+    {
+      "file": "8eea03e0c2e4.webp",
+      "rect": {
+        "x": 2675,
+        "y": 336,
+        "size": 1165
+      }
+    },
+    {
+      "file": "de0b72c10ae8.webp",
+      "rect": {
+        "x": 2058,
+        "y": 28,
+        "size": 1782
+      }
+    },
+    {
+      "file": "24871d88458d.webp",
+      "rect": {
+        "x": 1316,
+        "y": 0,
+        "size": 2524
+      }
+    },
+    {
+      "file": "71c083156c47.webp",
+      "rect": {
+        "x": 0,
+        "y": -405,
+        "size": 3840
+      }
+    }
+  ]
+}

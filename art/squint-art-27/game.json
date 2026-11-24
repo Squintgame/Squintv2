@@ -1,0 +1,67 @@
+{
+  "a": "==AdpFmc0J3bQBSaulmZs9mbyFEIlhGV",
+  "ar": "rNWeFBibhZHIuFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Van_Eyck_-_Arnolfini_Portrait.jpg",
+  "photographer": "National Gallery",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "8e8579801037.webp",
+      "rect": {
+        "x": 2844,
+        "y": 1166,
+        "size": 427
+      }
+    },
+    {
+      "file": "05f4e1c19ccb.webp",
+      "rect": {
+        "x": 2737,
+        "y": 1059,
+        "size": 640
+      }
+    },
+    {
+      "file": "301924d79622.webp",
+      "rect": {
+        "x": 2577,
+        "y": 899,
+        "size": 960
+      }
+    },
+    {
+      "file": "860266930fa2.webp",
+      "rect": {
+        "x": 2319,
+        "y": 640,
+        "size": 1477
+      }
+    },
+    {
+      "file": "98d12cc470a7.webp",
+      "rect": {
+        "x": 1581,
+        "y": 250,
+        "size": 2259
+      }
+    },
+    {
+      "file": "04a85633f70e.webp",
+      "rect": {
+        "x": 640,
+        "y": 0,
+        "size": 3200
+      }
+    },
+    {
+      "file": "0355e263bb06.webp",
+      "rect": {
+        "x": -706,
+        "y": 0,
+        "size": 5253
+      }
+    }
+  ]
+}

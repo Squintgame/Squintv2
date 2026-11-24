@@ -1,0 +1,67 @@
+{
+  "a": "h5mbvRWYNBSZulGdzl2U",
+  "ar": "==AblFGawFmU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Raphael_-_The_Sistine_Madonna_-_Google_Arts_%26_Culture.jpg",
+  "photographer": "Staatliche Kunstsammlungen Dresden",
+  "creditPrefix": "Image from",
+  "levels": [
+    {
+      "file": "b57b3b21504c.webp",
+      "rect": {
+        "x": 529,
+        "y": 2407,
+        "size": 427
+      }
+    },
+    {
+      "file": "b3deeed828ac.webp",
+      "rect": {
+        "x": 423,
+        "y": 2301,
+        "size": 640
+      }
+    },
+    {
+      "file": "3bd293eef7e1.webp",
+      "rect": {
+        "x": 263,
+        "y": 2141,
+        "size": 960
+      }
+    },
+    {
+      "file": "4c90a73e0827.webp",
+      "rect": {
+        "x": 4,
+        "y": 1882,
+        "size": 1477
+      }
+    },
+    {
+      "file": "3e15dce98289.webp",
+      "rect": {
+        "x": 0,
+        "y": 1491,
+        "size": 2259
+      }
+    },
+    {
+      "file": "57b0616fa98f.webp",
+      "rect": {
+        "x": 0,
+        "y": 1021,
+        "size": 3200
+      }
+    },
+    {
+      "file": "bad8b83bf023.webp",
+      "rect": {
+        "x": -687,
+        "y": 0,
+        "size": 5215
+      }
+    }
+  ]
+}
