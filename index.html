@@ -167,6 +167,8 @@
   .pips li.now { background: var(--muted); opacity: 0.55; }
 
   .hint { margin: 14px 0 0; color: var(--muted); }
+  .artist-chip { margin: 12px 0 0; padding: 10px 14px; border-radius: 12px; background: var(--surface); border: 1px solid var(--close); color: var(--muted); font-size: 0.92rem; }
+  .artist-chip strong { color: var(--ink); margin-right: 6px; }
   .hint strong { color: var(--ink); font-weight: 600; }
 
   .play { position: relative; margin-top: 14px; display: flex; gap: 8px; align-items: stretch; }
@@ -271,6 +273,7 @@
   <nav class="tabs" aria-label="Game mode">
     <a href="./" id="tabDaily">Daily</a>
     <a href="./#flags" id="tabFlags">Flags</a>
+    <a href="./#art" id="tabArt">Paintings</a>
   </nav>
   <div class="flag-tools" id="modeTools" hidden>
     <button class="btn ghost small" id="archiveBtn">Archive</button>
@@ -287,6 +290,7 @@
     <p class="category" id="category" hidden></p>
     <ol class="pips" id="pips" aria-label="Guesses used"></ol>
     <p class="hint" id="hint" hidden></p>
+    <p class="artist-chip" id="artistChip" hidden></p>
 
     <div class="play" id="play">
       <div class="combo">
@@ -334,9 +338,9 @@
     <div><span class="chip close"></span><span><strong>Close.</strong> Right idea, not quite it.</span></div>
     <div><span class="chip miss"></span><span><strong>Not it.</strong></span></div>
   </div>
-  <p class="help-foot">A new picture every day at midnight, plus a daily flag in the Flags tab. Share your result and keep your streak going.</p>
+  <p class="help-foot">A new picture every day at midnight, plus a daily flag and a daily painting in their own tabs. In Paintings, naming another work by the right artist turns yellow and narrows the list to that artist.</p>
   <button class="btn primary" id="helpGo">Let's play</button>
-  <p class="version">Version 2026.11.24b</p>
+  <p class="version">Version 2026.11.24c</p>
 </dialog>
 
 <dialog id="archive" aria-labelledby="archiveTitle">
@@ -369,6 +373,7 @@
 const SITE_URL = "playsquint.com";       // shown at the end of the share text
 const LAUNCH = Date.UTC(2026, 10, 18);   // date of puzzle #1 (months are 0-based: 10 = November)
 const FLAGS_LAUNCH = Date.UTC(2026, 10, 24);   // date of Flags puzzle #1 (must match the Worker)
+const ART_LAUNCH = Date.UTC(2026, 11, 1);      // date of Paintings puzzle #1, Dec 1 (must match the Worker)
 const MAX_GUESSES = 6;
 const MAX_SUGGESTIONS = 4;               // how many autocomplete suggestions to show at once
 const STATS_API = "https://squint-stats.e27920001.workers.dev";  // global results server; set to "" to turn global results off
@@ -380,14 +385,17 @@ const VERDICTS = ["Eagle eye.", "Sharp.", "Nicely spotted.", "Solid.", "Got ther
    WHICH DAY IS IT
    ========================================================= */
 function dayIndexFor(d) {
-  const launch = MODE === "flags" ? FLAGS_LAUNCH : LAUNCH;
-  return Math.floor((Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) - launch) / 86400000);
+  return Math.floor((Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()) - MODE_LAUNCH) / 86400000);
 }
-/* Two modes: the main daily puzzle, and the Flags tab (playsquint.com/#flags). */
-const MODE = location.hash === "#flags" ? "flags" : "daily";
-const KEY = MODE === "flags"
-  ? { state: "squint-flags-state", stats: "squint-flags-stats" }
-  : { state: "squint-state", stats: "squint-stats" };      // daily keeps its original keys, so nothing is lost
+/* Three tabs: the main daily puzzle, Flags (playsquint.com/#flags) and Paintings (playsquint.com/#art). */
+const MODE = location.hash === "#flags" ? "flags" : location.hash === "#art" ? "art" : "daily";
+const MODE_HASH = MODE === "daily" ? "" : "#" + MODE;
+const MODE_LAUNCH = { daily: LAUNCH, flags: FLAGS_LAUNCH, art: ART_LAUNCH }[MODE];
+const MODE_NAME = { daily: "Squint", flags: "Squint Flags", art: "Squint Paintings" }[MODE];
+const MODE_ICON = { daily: "🔍", flags: "🏳️", art: "🎨" }[MODE];
+const KEY = MODE === "daily"
+  ? { state: "squint-state", stats: "squint-stats" }        // daily keeps its original keys, so nothing is lost
+  : { state: `squint-${MODE}-state`, stats: `squint-${MODE}-stats` };
 
 const params = new URLSearchParams(location.search);
 const testMode = params.has("day");
@@ -401,7 +409,7 @@ let dayIndex = testMode ? (parseInt(params.get("day"), 10) || 1) - 1 : archiveMo
 if (dayIndex < 0) dayIndex = 0;
 const puzzleNum = dayIndex + 1;
 // Archive games are saved per day; today's game is also copied there so the archive remembers it.
-const archiveKey = n => (MODE === "flags" ? `squint-flags-a${n}` : `squint-a${n}`);
+const archiveKey = n => (MODE === "daily" ? `squint-a${n}` : `squint-${MODE}-a${n}`);
 const STATE_KEY = archiveMode ? archiveKey(puzzleNum) : KEY.state;
 
 /* =========================================================
@@ -468,11 +476,15 @@ function indexAnswers() {
     const k = fold(a);
     if (!byFold.has(k)) byFold.set(k, a);
   }
-  searchIndex = ANSWERS.map(a => { const f = expandWords(foldBasic(a)); return { a, f, c: f.replace(/ /g, "") }; });
+  searchIndex = ANSWERS.map(a => {
+    const extra = SEARCH_EXTRA.get(a);
+    const f = expandWords(foldBasic(extra ? `${a} ${extra}` : a));
+    return { a, f, c: f.replace(/ /g, "") };
+  });
 }
 function resolve(text) {
   const t = text.trim();
-  return byExact.get(t.toLowerCase()) || byFold.get(fold(t)) || null;
+  return byExact.get(t.toLowerCase()) || byFold.get(fold(t)) || (MODE === "art" && artTitleKey.get(fold(t))) || null;
 }
 
 /* =========================================================
@@ -537,7 +549,7 @@ async function getJSON(url) {
 
 async function start() {
   try {
-    const ready = MODE === "flags" ? await loadFlags() : await loadDaily();
+    const ready = MODE === "flags" ? await loadFlags() : await loadDaily();   // Paintings uses loadDaily with its own folder
     if (!ready) return;
     indexAnswers();
 
@@ -565,10 +577,16 @@ async function start() {
 
 /* The main daily puzzle: today's scheduled puzzle, or a replay of a past one. */
 async function loadDaily() {
+    const art = MODE === "art";
+    const dir = art ? "art" : "puzzles";
+    if (art && !testMode && dayIndexFor(new Date()) < 0) {
+      $("loading").textContent = `Paintings starts on ${puzzleDate(1)}. Check back then!`;
+      return false;
+    }
     const [answers, schedule, similar] = await Promise.all([
-      getJSON("answers.json"),
-      getJSON("puzzles/schedule.json"),
-      getJSON("similar.json").catch(() => ({}))   // optional: the game still works without it
+      art ? getJSON("paintings.json") : getJSON("answers.json"),
+      getJSON(`${dir}/schedule.json`),
+      art ? Promise.resolve({}) : getJSON("similar.json").catch(() => ({}))   // optional: the game still works without it
     ]);
     SIM = buildSimilar(similar);
 
@@ -581,11 +599,11 @@ async function loadDaily() {
     }
     // Today's scheduled puzzle, or a replay of a past one if nothing is queued (or it fails to load).
     let folder = schedule[dayIndex];
-    let g = folder ? await getJSON(`puzzles/${folder}/game.json`).catch(err => { console.warn(err); return null; }) : null;
+    let g = folder ? await getJSON(`${dir}/${folder}/game.json`).catch(err => { console.warn(err); return null; }) : null;
     if (!g) {
       for (const pick of replayOrder(schedule.length, dayIndex)) {
         folder = schedule[pick];
-        g = await getJSON(`puzzles/${folder}/game.json`).catch(() => null);
+        g = await getJSON(`${dir}/${folder}/game.json`).catch(() => null);
         if (g) {
           if (!archiveMode && !randomMode) {
             $("replay").textContent = `From the archive: today is a replay of puzzle #${pick + 1}.`;
@@ -603,8 +621,9 @@ async function loadDaily() {
       answer: unobscure(g.a), hint: (g.hint || "").trim(), accept: g.accept || [],
       category: (g.category || "").trim(),
       source: (g.source || "").trim(), photographer: (g.photographer || "").trim(),
-      levels: g.levels, base: `puzzles/${folder}/`
+      levels: g.levels, base: `${dir}/${folder}/`
     };
+    if (art) return setupPaintings(answers.paintings, g);
 
     ANSWERS = answers.slice();
     for (const extra of [puzzle.answer, ...puzzle.accept]) {
@@ -612,6 +631,54 @@ async function loadDaily() {
     }
     ANSWERS.sort((x, y) => x.localeCompare(y));
     return true;
+}
+
+/* =========================================================
+   PAINTINGS: guesses are "Title — Artist". Guessing another work by the right artist
+   is marked "Right artist", and from then on suggestions only show that artist's works.
+   ========================================================= */
+let PAINTING_OF = new Map();      // lower-case "Title — Artist" (or an alternate title) -> painting
+let artTitleKey = new Map();      // typed title alone (folded) -> its "Title — Artist" entry
+let SEARCH_EXTRA = new Map();     // entry -> extra words to match while typing (alternate titles)
+const paintingLabel = (title, artist) => `${title} — ${artist}`;
+
+function setupPaintings(list, g) {
+  const artist = g.ar ? unobscure(g.ar) : "";
+  const found = list.find(p => p.title.toLowerCase() === puzzle.answer.toLowerCase() &&
+    (!artist || p.artist.toLowerCase() === artist.toLowerCase()));
+  puzzle.artist = found ? found.artist : artist;
+  puzzle.year = found ? found.year : "";
+  if (!found) list = [...list, { title: puzzle.answer, artist: puzzle.artist, year: "", aliases: [] }];
+  ANSWERS = [];
+  for (const p of list) {
+    const label = paintingLabel(p.title, p.artist);
+    ANSWERS.push(label);
+    PAINTING_OF.set(label.toLowerCase(), p);
+    if (p.aliases && p.aliases.length) SEARCH_EXTRA.set(label, p.aliases.join(" "));
+    for (const t of [p.title, ...(p.aliases || [])]) {
+      artTitleKey.set(fold(t), label);
+      artTitleKey.set(fold(paintingLabel(t, p.artist)), label);
+    }
+  }
+  ANSWERS.sort((x, y) => x.localeCompare(y));
+  return true;
+}
+
+const artistFound = () => MODE === "art" && state.guesses.some(g => g.artist);
+
+function judgePainting(label) {
+  const p = PAINTING_OF.get(label.toLowerCase());
+  if (!p) return "wrong";
+  const sameArtist = p.artist.toLowerCase() === (puzzle.artist || "").toLowerCase();
+  if (sameArtist && p.title.toLowerCase() === puzzle.answer.toLowerCase()) return "correct";
+  return sameArtist ? "artist" : "wrong";
+}
+
+function renderArtistChip() {
+  const el = $("artistChip");
+  if (!artistFound() || state.status !== "playing") { el.hidden = true; return; }
+  el.innerHTML = `<strong>✓ Artist: ${escapeHTML(puzzle.artist)}</strong> Suggestions now show only their works.`;
+  el.hidden = false;
 }
 
 /* Flags: one country a day, in a fixed shuffled order, drawn from flag-icons. No puzzle files needed. */
@@ -818,7 +885,7 @@ function render() {
 
   $("history").innerHTML = state.guesses.slice().reverse().map(g => {
     const r = resultOf(g);
-    const tag = { hit: "Correct", close: "Close", skip: "Skipped", miss: "Not it" }[r];
+    const tag = { hit: "Correct", close: g.artist ? "Right artist" : "Close", skip: "Skipped", miss: "Not it" }[r];
     return `<li class="${r}"><span class="word">${g.skip ? "—" : escapeHTML(g.text)}</span><span class="tag">${tag}</span></li>`;
   }).join("");
 
@@ -827,12 +894,15 @@ function render() {
   if (!playing && revealDone) {
     const won = state.status === "won";
     $("verdict").textContent = won ? VERDICTS[n - 1] : "Not this time.";
+    const shown = MODE === "art" && puzzle.artist
+      ? `${puzzle.answer} by ${puzzle.artist}${puzzle.year ? ` (${puzzle.year})` : ""}` : puzzle.answer;
     $("answerLine").textContent = won
-      ? `The answer: ${puzzle.answer}. Solved in ${n} of ${MAX_GUESSES}.`
-      : `The answer was ${puzzle.answer}. We've all been there.`;
+      ? `The answer: ${shown}. Solved in ${n} of ${MAX_GUESSES}.`
+      : `The answer was ${shown}. We've all been there.`;
     tickCountdown();
   }
   renderCredit(!playing && revealDone);
+  if (MODE === "art") renderArtistChip();
 }
 
 /* =========================================================
@@ -968,20 +1038,23 @@ function submitGuess(raw) {
   if (!match) { say("Pick an answer from the list."); return; }
   if (state.guesses.some(g => g.text === match)) { say("You already guessed that."); return; }
 
-  const verdict = judge(match, puzzle.answer, puzzle.accept);
+  const verdict = MODE === "art" ? judgePainting(match) : judge(match, puzzle.answer, puzzle.accept);
   const correct = verdict === "correct";
-  state.guesses.push({ text: match, correct, close: verdict === "close" });
+  const firstArtistHit = verdict === "artist" && !artistFound();
+  state.guesses.push({ text: match, correct, close: verdict === "close" || verdict === "artist", artist: verdict === "artist" || undefined });
   input.value = "";
   closeOptions();
 
   if (correct) {
     finish(true);
-    if (match.toLowerCase() !== puzzle.answer.toLowerCase()) say(`Correct! The answer is ${puzzle.answer}.`, 4000);
+    if (MODE !== "art" && match.toLowerCase() !== puzzle.answer.toLowerCase()) say(`Correct! The answer is ${puzzle.answer}.`, 4000);
   } else {
     if (verdict === "close") say("Close! You're on the right track.");
+    if (verdict === "artist") say(firstArtistHit ? `Right artist! Now find which of ${puzzle.artist}'s works it is.` : "Right artist, wrong painting.", 4000);
     if (state.guesses.length >= MAX_GUESSES) finish(false);
   }
   afterGuess(correct);
+  if (verdict === "artist" && state.status === "playing") setTimeout(() => { input.focus(); updateOptions(); }, 50);
 }
 
 function skip() {
@@ -1017,11 +1090,9 @@ function shareText() {
     if (!g) return "⬜";
     return g.correct ? "🟩" : g.close ? "🟨" : "🟥";
   }).join("");
-  const name = MODE === "flags" ? "Squint Flags" : "Squint";
-  const icon = MODE === "flags" ? "🏳️" : "🔍";
-  const title = randomMode ? `${name} 🎲 Random ${MODE === "flags" ? "flag" : "puzzle"}`
-    : `${name} #${puzzleNum}${archiveMode ? " (archive)" : ""} ${icon}`;
-  const link = MODE === "flags" ? `${SITE_URL}/#flags` : SITE_URL;
+  const title = randomMode ? `${MODE_NAME} 🎲 Random ${{ daily: "puzzle", flags: "flag", art: "painting" }[MODE]}`
+    : `${MODE_NAME} #${puzzleNum}${archiveMode ? " (archive)" : ""} ${MODE_ICON}`;
+  const link = SITE_URL + (MODE_HASH ? "/" + MODE_HASH : "");
   return `${title} ${won ? state.guesses.length : "X"}/${MAX_GUESSES}\n${row}\n${link}`;
 }
 
@@ -1056,17 +1127,19 @@ let matches = [], active = -1;
 
 function updateOptions() {
   const q = expandWords(foldBasic(input.value));
-  if (!q) { closeOptions(); return; }
+  if (!q && !artistFound()) { closeOptions(); return; }
   const qc = q.replace(/ /g, "");          // spacing doesn't matter: "cellph" finds "Cell phone"
   const guessed = new Set(state.guesses.map(g => g.text));
+  const onlyArtist = artistFound() ? puzzle.artist.toLowerCase() : null;
   const starts = [], words = [], contains = [];
   for (const { a, f, c } of searchIndex) {
     if (guessed.has(a)) continue;
+    if (onlyArtist && PAINTING_OF.get(a.toLowerCase())?.artist.toLowerCase() !== onlyArtist) continue;
     if (f.startsWith(q) || c.startsWith(qc)) starts.push(a);
     else if (f.includes(" " + q)) words.push(a);
     else if (f.includes(q) || c.includes(qc)) contains.push(a);
   }
-  matches = [...starts, ...words, ...contains].slice(0, MAX_SUGGESTIONS);
+  matches = [...starts, ...words, ...contains].slice(0, artistFound() ? 20 : MAX_SUGGESTIONS);   // all of the artist's works
   active = matches.length ? 0 : -1;
   drawOptions();
 }
@@ -1105,6 +1178,8 @@ function closeOptions() {
 }
 
 input.addEventListener("input", updateOptions);
+input.addEventListener("focus", () => { if (artistFound()) updateOptions(); });
+input.addEventListener("click", () => { if (artistFound() && !input.value) updateOptions(); });
 input.addEventListener("keydown", e => {
   if (e.key === "ArrowDown" && matches.length) { e.preventDefault(); active = (active + 1) % matches.length; drawOptions(); }
   else if (e.key === "ArrowUp" && matches.length) { e.preventDefault(); active = (active - 1 + matches.length) % matches.length; drawOptions(); }
@@ -1181,18 +1256,18 @@ $("themeBtn").addEventListener("click", () => {
 systemDark.addEventListener("change", updateThemeButton);
 updateThemeButton();
 
-$(MODE === "flags" ? "tabFlags" : "tabDaily").setAttribute("aria-current", "page");
+$({ daily: "tabDaily", flags: "tabFlags", art: "tabArt" }[MODE]).setAttribute("aria-current", "page");
 
 /* Archive and Random (both tabs), and the note above the picture. */
-const homeUrl = MODE === "flags" ? "./#flags" : "./";
-const randomUrl = () => `./?random=${Date.now()}${MODE === "flags" ? "#flags" : ""}`;   // always a fresh puzzle
+const homeUrl = "./" + MODE_HASH;
+const randomUrl = () => `./?random=${Date.now()}${MODE_HASH}`;   // always a fresh puzzle
 if (!testMode) {
   $("modeTools").hidden = false;
   $("archiveBtn").addEventListener("click", openArchive);
   $("randomBtn").addEventListener("click", () => { location.href = randomUrl(); });
-  const what = MODE === "flags" ? "flag" : "puzzle";
+  const what = { daily: "puzzle", flags: "flag", art: "painting" }[MODE];
   if (archiveMode) {
-    $("replay").innerHTML = `Archive: ${MODE === "flags" ? "Flags " : ""}#${puzzleNum} from ${puzzleDate(puzzleNum)}. Doesn't affect your streak.<a href="${homeUrl}">Back to today</a>`;
+    $("replay").innerHTML = `Archive: ${{ daily: "", flags: "Flags ", art: "Paintings " }[MODE]}#${puzzleNum} from ${puzzleDate(puzzleNum)}. Doesn't affect your streak.<a href="${homeUrl}">Back to today</a>`;
     $("replay").hidden = false;
   } else if (randomMode) {
     $("num").textContent = "🎲";
@@ -1203,20 +1278,19 @@ if (!testMode) {
 }
 
 function puzzleDate(n) {
-  const launch = MODE === "flags" ? FLAGS_LAUNCH : LAUNCH;
-  return new Date(launch + (n - 1) * 86400000).toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+  return new Date(MODE_LAUNCH + (n - 1) * 86400000).toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
 }
 
 function openArchive() {
   const today = todayIndex + 1, rows = [];
-  $("archiveTitle").textContent = MODE === "flags" ? "Flags archive" : "Archive";
+  $("archiveTitle").textContent = { daily: "Archive", flags: "Flags archive", art: "Paintings archive" }[MODE];
   for (let n = today; n >= 1; n--) {
     const st = load(archiveKey(n), null);
     let label = "Not played", cls = "";
     if (st && st.status === "won") { label = `Solved in ${st.guesses.length}/6`; cls = "won"; }
     else if (st && st.status === "lost") { label = "Missed"; cls = "lost"; }
     else if (st && st.guesses && st.guesses.length) { label = "In progress"; cls = "going"; }
-    const href = n === today ? homeUrl : `./?archive=${n}${MODE === "flags" ? "#flags" : ""}`;
+    const href = n === today ? homeUrl : `./?archive=${n}${MODE_HASH}`;
     rows.push(`<a class="arch-row" href="${href}"><span class="n">#${n}</span><span class="d">${n === today ? "Today" : puzzleDate(n)}</span><span class="st ${cls}">${label}</span></a>`);
   }
   $("archList").innerHTML = rows.join("");
@@ -1224,6 +1298,7 @@ function openArchive() {
 }
 window.addEventListener("hashchange", () => location.reload());
 if (MODE === "flags") document.title = "Squint Flags — a daily flag puzzle";
+if (MODE === "art") document.title = "Squint Paintings — a daily art puzzle";
 
 let seenHelp = false;
 try { seenHelp = localStorage.getItem("squint-seen-help") === "1"; } catch {}

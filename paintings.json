@@ -1,0 +1,1614 @@
+{
+ "paintings": [
+  {
+   "title": "Mona Lisa",
+   "artist": "Leonardo da Vinci",
+   "year": "c. 1503–1519",
+   "aliases": [
+    "La Gioconda",
+    "La Joconde"
+   ]
+  },
+  {
+   "title": "The Last Supper",
+   "artist": "Leonardo da Vinci",
+   "year": "1495–1498",
+   "aliases": []
+  },
+  {
+   "title": "Lady with an Ermine",
+   "artist": "Leonardo da Vinci",
+   "year": "c. 1489–1491",
+   "aliases": []
+  },
+  {
+   "title": "Salvator Mundi",
+   "artist": "Leonardo da Vinci",
+   "year": "c. 1500",
+   "aliases": []
+  },
+  {
+   "title": "The Annunciation",
+   "artist": "Leonardo da Vinci",
+   "year": "c. 1472–1476",
+   "aliases": []
+  },
+  {
+   "title": "Virgin of the Rocks",
+   "artist": "Leonardo da Vinci",
+   "year": "c. 1483–1486",
+   "aliases": []
+  },
+  {
+   "title": "Ginevra de' Benci",
+   "artist": "Leonardo da Vinci",
+   "year": "c. 1474–1478",
+   "aliases": []
+  },
+  {
+   "title": "The Creation of Adam",
+   "artist": "Michelangelo",
+   "year": "c. 1512",
+   "aliases": []
+  },
+  {
+   "title": "The Last Judgment",
+   "artist": "Michelangelo",
+   "year": "1536–1541",
+   "aliases": []
+  },
+  {
+   "title": "Doni Tondo",
+   "artist": "Michelangelo",
+   "year": "c. 1507",
+   "aliases": []
+  },
+  {
+   "title": "The School of Athens",
+   "artist": "Raphael",
+   "year": "1509–1511",
+   "aliases": []
+  },
+  {
+   "title": "Sistine Madonna",
+   "artist": "Raphael",
+   "year": "1512",
+   "aliases": []
+  },
+  {
+   "title": "The Transfiguration",
+   "artist": "Raphael",
+   "year": "1516–1520",
+   "aliases": []
+  },
+  {
+   "title": "Portrait of Baldassare Castiglione",
+   "artist": "Raphael",
+   "year": "c. 1515",
+   "aliases": []
+  },
+  {
+   "title": "La Fornarina",
+   "artist": "Raphael",
+   "year": "1518–1520",
+   "aliases": []
+  },
+  {
+   "title": "The Birth of Venus",
+   "artist": "Sandro Botticelli",
+   "year": "c. 1485",
+   "aliases": []
+  },
+  {
+   "title": "Primavera",
+   "artist": "Sandro Botticelli",
+   "year": "c. 1480",
+   "aliases": []
+  },
+  {
+   "title": "Venus and Mars",
+   "artist": "Sandro Botticelli",
+   "year": "c. 1485",
+   "aliases": []
+  },
+  {
+   "title": "Venus of Urbino",
+   "artist": "Titian",
+   "year": "1538",
+   "aliases": []
+  },
+  {
+   "title": "Bacchus and Ariadne",
+   "artist": "Titian",
+   "year": "1520–1523",
+   "aliases": []
+  },
+  {
+   "title": "Assumption of the Virgin",
+   "artist": "Titian",
+   "year": "1516–1518",
+   "aliases": []
+  },
+  {
+   "title": "The Calling of Saint Matthew",
+   "artist": "Caravaggio",
+   "year": "1599–1600",
+   "aliases": []
+  },
+  {
+   "title": "Judith Beheading Holofernes",
+   "artist": "Caravaggio",
+   "year": "c. 1599",
+   "aliases": []
+  },
+  {
+   "title": "Bacchus",
+   "artist": "Caravaggio",
+   "year": "c. 1596",
+   "aliases": []
+  },
+  {
+   "title": "Medusa",
+   "artist": "Caravaggio",
+   "year": "1597",
+   "aliases": []
+  },
+  {
+   "title": "Supper at Emmaus",
+   "artist": "Caravaggio",
+   "year": "1601",
+   "aliases": []
+  },
+  {
+   "title": "Boy Bitten by a Lizard",
+   "artist": "Caravaggio",
+   "year": "c. 1594",
+   "aliases": []
+  },
+  {
+   "title": "The Conversion of Saint Paul",
+   "artist": "Caravaggio",
+   "year": "1601",
+   "aliases": []
+  },
+  {
+   "title": "The Arnolfini Portrait",
+   "artist": "Jan van Eyck",
+   "year": "1434",
+   "aliases": [
+    "Arnolfini Wedding"
+   ]
+  },
+  {
+   "title": "Ghent Altarpiece",
+   "artist": "Jan van Eyck",
+   "year": "1432",
+   "aliases": [
+    "Adoration of the Mystic Lamb"
+   ]
+  },
+  {
+   "title": "Portrait of a Man in a Red Turban",
+   "artist": "Jan van Eyck",
+   "year": "1433",
+   "aliases": []
+  },
+  {
+   "title": "The Garden of Earthly Delights",
+   "artist": "Hieronymus Bosch",
+   "year": "c. 1490–1510",
+   "aliases": []
+  },
+  {
+   "title": "The Haywain Triptych",
+   "artist": "Hieronymus Bosch",
+   "year": "c. 1516",
+   "aliases": []
+  },
+  {
+   "title": "The Hunters in the Snow",
+   "artist": "Pieter Bruegel the Elder",
+   "year": "1565",
+   "aliases": []
+  },
+  {
+   "title": "The Tower of Babel",
+   "artist": "Pieter Bruegel the Elder",
+   "year": "1563",
+   "aliases": []
+  },
+  {
+   "title": "Netherlandish Proverbs",
+   "artist": "Pieter Bruegel the Elder",
+   "year": "1559",
+   "aliases": []
+  },
+  {
+   "title": "The Peasant Wedding",
+   "artist": "Pieter Bruegel the Elder",
+   "year": "1567",
+   "aliases": []
+  },
+  {
+   "title": "Landscape with the Fall of Icarus",
+   "artist": "Pieter Bruegel the Elder",
+   "year": "c. 1560",
+   "aliases": []
+  },
+  {
+   "title": "Self-Portrait at Twenty-Eight",
+   "artist": "Albrecht Dürer",
+   "year": "1500",
+   "aliases": []
+  },
+  {
+   "title": "Young Hare",
+   "artist": "Albrecht Dürer",
+   "year": "1502",
+   "aliases": []
+  },
+  {
+   "title": "The Ambassadors",
+   "artist": "Hans Holbein the Younger",
+   "year": "1533",
+   "aliases": []
+  },
+  {
+   "title": "Portrait of Henry VIII",
+   "artist": "Hans Holbein the Younger",
+   "year": "1537",
+   "aliases": []
+  },
+  {
+   "title": "View of Toledo",
+   "artist": "El Greco",
+   "year": "c. 1600",
+   "aliases": []
+  },
+  {
+   "title": "The Burial of the Count of Orgaz",
+   "artist": "El Greco",
+   "year": "1586",
+   "aliases": []
+  },
+  {
+   "title": "Las Meninas",
+   "artist": "Diego Velázquez",
+   "year": "1656",
+   "aliases": []
+  },
+  {
+   "title": "Portrait of Innocent X",
+   "artist": "Diego Velázquez",
+   "year": "1650",
+   "aliases": []
+  },
+  {
+   "title": "The Rokeby Venus",
+   "artist": "Diego Velázquez",
+   "year": "1647–1651",
+   "aliases": []
+  },
+  {
+   "title": "The Surrender of Breda",
+   "artist": "Diego Velázquez",
+   "year": "1635",
+   "aliases": []
+  },
+  {
+   "title": "The Night Watch",
+   "artist": "Rembrandt",
+   "year": "1642",
+   "aliases": []
+  },
+  {
+   "title": "The Anatomy Lesson of Dr. Nicolaes Tulp",
+   "artist": "Rembrandt",
+   "year": "1632",
+   "aliases": []
+  },
+  {
+   "title": "The Return of the Prodigal Son",
+   "artist": "Rembrandt",
+   "year": "c. 1669",
+   "aliases": []
+  },
+  {
+   "title": "Self-Portrait with Two Circles",
+   "artist": "Rembrandt",
+   "year": "c. 1665",
+   "aliases": []
+  },
+  {
+   "title": "The Storm on the Sea of Galilee",
+   "artist": "Rembrandt",
+   "year": "1633",
+   "aliases": []
+  },
+  {
+   "title": "Belshazzar's Feast",
+   "artist": "Rembrandt",
+   "year": "c. 1635",
+   "aliases": []
+  },
+  {
+   "title": "Girl with a Pearl Earring",
+   "artist": "Johannes Vermeer",
+   "year": "c. 1665",
+   "aliases": []
+  },
+  {
+   "title": "The Milkmaid",
+   "artist": "Johannes Vermeer",
+   "year": "c. 1658",
+   "aliases": []
+  },
+  {
+   "title": "View of Delft",
+   "artist": "Johannes Vermeer",
+   "year": "c. 1660",
+   "aliases": []
+  },
+  {
+   "title": "The Art of Painting",
+   "artist": "Johannes Vermeer",
+   "year": "c. 1666",
+   "aliases": []
+  },
+  {
+   "title": "Girl Reading a Letter at an Open Window",
+   "artist": "Johannes Vermeer",
+   "year": "c. 1657",
+   "aliases": []
+  },
+  {
+   "title": "The Astronomer",
+   "artist": "Johannes Vermeer",
+   "year": "c. 1668",
+   "aliases": []
+  },
+  {
+   "title": "The Little Street",
+   "artist": "Johannes Vermeer",
+   "year": "c. 1658",
+   "aliases": []
+  },
+  {
+   "title": "The Elevation of the Cross",
+   "artist": "Peter Paul Rubens",
+   "year": "1610–1611",
+   "aliases": []
+  },
+  {
+   "title": "The Three Graces",
+   "artist": "Peter Paul Rubens",
+   "year": "1635",
+   "aliases": []
+  },
+  {
+   "title": "Massacre of the Innocents",
+   "artist": "Peter Paul Rubens",
+   "year": "c. 1611",
+   "aliases": []
+  },
+  {
+   "title": "The Laughing Cavalier",
+   "artist": "Frans Hals",
+   "year": "1624",
+   "aliases": []
+  },
+  {
+   "title": "Judith Slaying Holofernes",
+   "artist": "Artemisia Gentileschi",
+   "year": "c. 1620",
+   "aliases": []
+  },
+  {
+   "title": "Self-Portrait as the Allegory of Painting",
+   "artist": "Artemisia Gentileschi",
+   "year": "1638–1639",
+   "aliases": []
+  },
+  {
+   "title": "The Third of May 1808",
+   "artist": "Francisco Goya",
+   "year": "1814",
+   "aliases": []
+  },
+  {
+   "title": "Saturn Devouring His Son",
+   "artist": "Francisco Goya",
+   "year": "1819–1823",
+   "aliases": []
+  },
+  {
+   "title": "The Nude Maja",
+   "artist": "Francisco Goya",
+   "year": "c. 1797–1800",
+   "aliases": []
+  },
+  {
+   "title": "The Clothed Maja",
+   "artist": "Francisco Goya",
+   "year": "c. 1800–1805",
+   "aliases": []
+  },
+  {
+   "title": "Charles IV of Spain and His Family",
+   "artist": "Francisco Goya",
+   "year": "1800",
+   "aliases": []
+  },
+  {
+   "title": "The Death of Marat",
+   "artist": "Jacques-Louis David",
+   "year": "1793",
+   "aliases": []
+  },
+  {
+   "title": "Napoleon Crossing the Alps",
+   "artist": "Jacques-Louis David",
+   "year": "1801",
+   "aliases": []
+  },
+  {
+   "title": "Oath of the Horatii",
+   "artist": "Jacques-Louis David",
+   "year": "1784",
+   "aliases": []
+  },
+  {
+   "title": "The Death of Socrates",
+   "artist": "Jacques-Louis David",
+   "year": "1787",
+   "aliases": []
+  },
+  {
+   "title": "Grande Odalisque",
+   "artist": "Jean-Auguste-Dominique Ingres",
+   "year": "1814",
+   "aliases": []
+  },
+  {
+   "title": "The Valpinçon Bather",
+   "artist": "Jean-Auguste-Dominique Ingres",
+   "year": "1808",
+   "aliases": []
+  },
+  {
+   "title": "Liberty Leading the People",
+   "artist": "Eugène Delacroix",
+   "year": "1830",
+   "aliases": []
+  },
+  {
+   "title": "The Death of Sardanapalus",
+   "artist": "Eugène Delacroix",
+   "year": "1827",
+   "aliases": []
+  },
+  {
+   "title": "The Raft of the Medusa",
+   "artist": "Théodore Géricault",
+   "year": "1818–1819",
+   "aliases": []
+  },
+  {
+   "title": "The Fighting Temeraire",
+   "artist": "J. M. W. Turner",
+   "year": "1839",
+   "aliases": []
+  },
+  {
+   "title": "Rain, Steam and Speed",
+   "artist": "J. M. W. Turner",
+   "year": "1844",
+   "aliases": []
+  },
+  {
+   "title": "The Slave Ship",
+   "artist": "J. M. W. Turner",
+   "year": "1840",
+   "aliases": []
+  },
+  {
+   "title": "The Hay Wain",
+   "artist": "John Constable",
+   "year": "1821",
+   "aliases": []
+  },
+  {
+   "title": "Salisbury Cathedral from the Bishop's Grounds",
+   "artist": "John Constable",
+   "year": "1823",
+   "aliases": []
+  },
+  {
+   "title": "Wanderer above the Sea of Fog",
+   "artist": "Caspar David Friedrich",
+   "year": "c. 1818",
+   "aliases": []
+  },
+  {
+   "title": "The Sea of Ice",
+   "artist": "Caspar David Friedrich",
+   "year": "1823–1824",
+   "aliases": []
+  },
+  {
+   "title": "Chalk Cliffs on Rügen",
+   "artist": "Caspar David Friedrich",
+   "year": "1818",
+   "aliases": []
+  },
+  {
+   "title": "The Blue Boy",
+   "artist": "Thomas Gainsborough",
+   "year": "c. 1770",
+   "aliases": []
+  },
+  {
+   "title": "Mr and Mrs Andrews",
+   "artist": "Thomas Gainsborough",
+   "year": "c. 1750",
+   "aliases": []
+  },
+  {
+   "title": "The Swing",
+   "artist": "Jean-Honoré Fragonard",
+   "year": "1767",
+   "aliases": []
+  },
+  {
+   "title": "Pilgrimage to Cythera",
+   "artist": "Antoine Watteau",
+   "year": "1717",
+   "aliases": []
+  },
+  {
+   "title": "Ophelia",
+   "artist": "John Everett Millais",
+   "year": "1851–1852",
+   "aliases": []
+  },
+  {
+   "title": "The Lady of Shalott",
+   "artist": "John William Waterhouse",
+   "year": "1888",
+   "aliases": []
+  },
+  {
+   "title": "Proserpine",
+   "artist": "Dante Gabriel Rossetti",
+   "year": "1874",
+   "aliases": []
+  },
+  {
+   "title": "The Ancient of Days",
+   "artist": "William Blake",
+   "year": "1794",
+   "aliases": []
+  },
+  {
+   "title": "Isle of the Dead",
+   "artist": "Arnold Böcklin",
+   "year": "1880",
+   "aliases": []
+  },
+  {
+   "title": "Barge Haulers on the Volga",
+   "artist": "Ilya Repin",
+   "year": "1870–1873",
+   "aliases": []
+  },
+  {
+   "title": "The Ninth Wave",
+   "artist": "Ivan Aivazovsky",
+   "year": "1850",
+   "aliases": []
+  },
+  {
+   "title": "The Desperate Man",
+   "artist": "Gustave Courbet",
+   "year": "1843–1845",
+   "aliases": []
+  },
+  {
+   "title": "A Burial at Ornans",
+   "artist": "Gustave Courbet",
+   "year": "1849–1850",
+   "aliases": []
+  },
+  {
+   "title": "The Stone Breakers",
+   "artist": "Gustave Courbet",
+   "year": "1849",
+   "aliases": []
+  },
+  {
+   "title": "The Gleaners",
+   "artist": "Jean-François Millet",
+   "year": "1857",
+   "aliases": []
+  },
+  {
+   "title": "The Angelus",
+   "artist": "Jean-François Millet",
+   "year": "1857–1859",
+   "aliases": []
+  },
+  {
+   "title": "Olympia",
+   "artist": "Édouard Manet",
+   "year": "1863",
+   "aliases": []
+  },
+  {
+   "title": "Le Déjeuner sur l'herbe",
+   "artist": "Édouard Manet",
+   "year": "1863",
+   "aliases": [
+    "Luncheon on the Grass"
+   ]
+  },
+  {
+   "title": "A Bar at the Folies-Bergère",
+   "artist": "Édouard Manet",
+   "year": "1882",
+   "aliases": []
+  },
+  {
+   "title": "The Fifer",
+   "artist": "Édouard Manet",
+   "year": "1866",
+   "aliases": []
+  },
+  {
+   "title": "Impression, Sunrise",
+   "artist": "Claude Monet",
+   "year": "1872",
+   "aliases": []
+  },
+  {
+   "title": "Water Lilies",
+   "artist": "Claude Monet",
+   "year": "1914–1926",
+   "aliases": []
+  },
+  {
+   "title": "The Water Lily Pond",
+   "artist": "Claude Monet",
+   "year": "1899",
+   "aliases": [
+    "Bridge over a Pond of Water Lilies",
+    "The Japanese Footbridge"
+   ]
+  },
+  {
+   "title": "Woman with a Parasol",
+   "artist": "Claude Monet",
+   "year": "1875",
+   "aliases": []
+  },
+  {
+   "title": "Rouen Cathedral",
+   "artist": "Claude Monet",
+   "year": "1892–1894",
+   "aliases": []
+  },
+  {
+   "title": "Haystacks",
+   "artist": "Claude Monet",
+   "year": "1890–1891",
+   "aliases": [
+    "Wheatstacks"
+   ]
+  },
+  {
+   "title": "Houses of Parliament, Sunset",
+   "artist": "Claude Monet",
+   "year": "1903",
+   "aliases": []
+  },
+  {
+   "title": "Poppies",
+   "artist": "Claude Monet",
+   "year": "1873",
+   "aliases": []
+  },
+  {
+   "title": "Bal du moulin de la Galette",
+   "artist": "Pierre-Auguste Renoir",
+   "year": "1876",
+   "aliases": [
+    "Dance at Le Moulin de la Galette"
+   ]
+  },
+  {
+   "title": "Luncheon of the Boating Party",
+   "artist": "Pierre-Auguste Renoir",
+   "year": "1880–1881",
+   "aliases": []
+  },
+  {
+   "title": "Two Sisters (On the Terrace)",
+   "artist": "Pierre-Auguste Renoir",
+   "year": "1881",
+   "aliases": []
+  },
+  {
+   "title": "The Dance Class",
+   "artist": "Edgar Degas",
+   "year": "1874",
+   "aliases": []
+  },
+  {
+   "title": "L'Absinthe",
+   "artist": "Edgar Degas",
+   "year": "1876",
+   "aliases": [
+    "In a Café"
+   ]
+  },
+  {
+   "title": "The Star",
+   "artist": "Edgar Degas",
+   "year": "c. 1878",
+   "aliases": []
+  },
+  {
+   "title": "Blue Dancers",
+   "artist": "Edgar Degas",
+   "year": "c. 1897",
+   "aliases": []
+  },
+  {
+   "title": "The Cradle",
+   "artist": "Berthe Morisot",
+   "year": "1872",
+   "aliases": []
+  },
+  {
+   "title": "The Child's Bath",
+   "artist": "Mary Cassatt",
+   "year": "1893",
+   "aliases": []
+  },
+  {
+   "title": "Little Girl in a Blue Armchair",
+   "artist": "Mary Cassatt",
+   "year": "1878",
+   "aliases": []
+  },
+  {
+   "title": "A Sunday Afternoon on the Island of La Grande Jatte",
+   "artist": "Georges Seurat",
+   "year": "1884–1886",
+   "aliases": [
+    "A Sunday on La Grande Jatte"
+   ]
+  },
+  {
+   "title": "Bathers at Asnières",
+   "artist": "Georges Seurat",
+   "year": "1884",
+   "aliases": []
+  },
+  {
+   "title": "Paris Street; Rainy Day",
+   "artist": "Gustave Caillebotte",
+   "year": "1877",
+   "aliases": []
+  },
+  {
+   "title": "The Floor Scrapers",
+   "artist": "Gustave Caillebotte",
+   "year": "1875",
+   "aliases": []
+  },
+  {
+   "title": "Boulevard Montmartre at Night",
+   "artist": "Camille Pissarro",
+   "year": "1897",
+   "aliases": []
+  },
+  {
+   "title": "The Card Players",
+   "artist": "Paul Cézanne",
+   "year": "1890–1895",
+   "aliases": []
+  },
+  {
+   "title": "Mont Sainte-Victoire",
+   "artist": "Paul Cézanne",
+   "year": "c. 1904",
+   "aliases": []
+  },
+  {
+   "title": "The Large Bathers",
+   "artist": "Paul Cézanne",
+   "year": "1898–1905",
+   "aliases": []
+  },
+  {
+   "title": "Still Life with Apples",
+   "artist": "Paul Cézanne",
+   "year": "1895–1898",
+   "aliases": []
+  },
+  {
+   "title": "The Starry Night",
+   "artist": "Vincent van Gogh",
+   "year": "1889",
+   "aliases": [
+    "Starry Night"
+   ]
+  },
+  {
+   "title": "Sunflowers",
+   "artist": "Vincent van Gogh",
+   "year": "1888",
+   "aliases": []
+  },
+  {
+   "title": "Café Terrace at Night",
+   "artist": "Vincent van Gogh",
+   "year": "1888",
+   "aliases": []
+  },
+  {
+   "title": "The Bedroom",
+   "artist": "Vincent van Gogh",
+   "year": "1888",
+   "aliases": [
+    "Bedroom in Arles"
+   ]
+  },
+  {
+   "title": "Irises",
+   "artist": "Vincent van Gogh",
+   "year": "1889",
+   "aliases": []
+  },
+  {
+   "title": "Wheatfield with Crows",
+   "artist": "Vincent van Gogh",
+   "year": "1890",
+   "aliases": []
+  },
+  {
+   "title": "The Potato Eaters",
+   "artist": "Vincent van Gogh",
+   "year": "1885",
+   "aliases": []
+  },
+  {
+   "title": "Self-Portrait with Bandaged Ear",
+   "artist": "Vincent van Gogh",
+   "year": "1889",
+   "aliases": []
+  },
+  {
+   "title": "Starry Night Over the Rhône",
+   "artist": "Vincent van Gogh",
+   "year": "1888",
+   "aliases": []
+  },
+  {
+   "title": "Almond Blossoms",
+   "artist": "Vincent van Gogh",
+   "year": "1890",
+   "aliases": []
+  },
+  {
+   "title": "The Night Café",
+   "artist": "Vincent van Gogh",
+   "year": "1888",
+   "aliases": []
+  },
+  {
+   "title": "Portrait of Dr. Gachet",
+   "artist": "Vincent van Gogh",
+   "year": "1890",
+   "aliases": []
+  },
+  {
+   "title": "Where Do We Come From? What Are We? Where Are We Going?",
+   "artist": "Paul Gauguin",
+   "year": "1897–1898",
+   "aliases": []
+  },
+  {
+   "title": "Vision After the Sermon",
+   "artist": "Paul Gauguin",
+   "year": "1888",
+   "aliases": []
+  },
+  {
+   "title": "Spirit of the Dead Watching",
+   "artist": "Paul Gauguin",
+   "year": "1892",
+   "aliases": []
+  },
+  {
+   "title": "Tahitian Women on the Beach",
+   "artist": "Paul Gauguin",
+   "year": "1891",
+   "aliases": []
+  },
+  {
+   "title": "At the Moulin Rouge",
+   "artist": "Henri de Toulouse-Lautrec",
+   "year": "1892–1895",
+   "aliases": []
+  },
+  {
+   "title": "Moulin Rouge: La Goulue",
+   "artist": "Henri de Toulouse-Lautrec",
+   "year": "1891",
+   "aliases": []
+  },
+  {
+   "title": "The Kiss",
+   "artist": "Gustav Klimt",
+   "year": "1907–1908",
+   "aliases": []
+  },
+  {
+   "title": "Portrait of Adele Bloch-Bauer I",
+   "artist": "Gustav Klimt",
+   "year": "1907",
+   "aliases": [
+    "The Woman in Gold"
+   ]
+  },
+  {
+   "title": "The Tree of Life",
+   "artist": "Gustav Klimt",
+   "year": "1909",
+   "aliases": []
+  },
+  {
+   "title": "Judith and the Head of Holofernes",
+   "artist": "Gustav Klimt",
+   "year": "1901",
+   "aliases": []
+  },
+  {
+   "title": "Danaë",
+   "artist": "Gustav Klimt",
+   "year": "1907",
+   "aliases": []
+  },
+  {
+   "title": "Self-Portrait with Physalis",
+   "artist": "Egon Schiele",
+   "year": "1912",
+   "aliases": []
+  },
+  {
+   "title": "Death and the Maiden",
+   "artist": "Egon Schiele",
+   "year": "1915",
+   "aliases": []
+  },
+  {
+   "title": "The Scream",
+   "artist": "Edvard Munch",
+   "year": "1893",
+   "aliases": []
+  },
+  {
+   "title": "Madonna",
+   "artist": "Edvard Munch",
+   "year": "1894",
+   "aliases": []
+  },
+  {
+   "title": "The Sick Child",
+   "artist": "Edvard Munch",
+   "year": "1885–1886",
+   "aliases": []
+  },
+  {
+   "title": "Vampire",
+   "artist": "Edvard Munch",
+   "year": "1895",
+   "aliases": [
+    "Love and Pain"
+   ]
+  },
+  {
+   "title": "The Sleeping Gypsy",
+   "artist": "Henri Rousseau",
+   "year": "1897",
+   "aliases": []
+  },
+  {
+   "title": "The Dream",
+   "artist": "Henri Rousseau",
+   "year": "1910",
+   "aliases": []
+  },
+  {
+   "title": "Tiger in a Tropical Storm",
+   "artist": "Henri Rousseau",
+   "year": "1891",
+   "aliases": [
+    "Surprised!"
+   ]
+  },
+  {
+   "title": "The Dance",
+   "artist": "Henri Matisse",
+   "year": "1910",
+   "aliases": []
+  },
+  {
+   "title": "The Joy of Life",
+   "artist": "Henri Matisse",
+   "year": "1905–1906",
+   "aliases": []
+  },
+  {
+   "title": "Woman with a Hat",
+   "artist": "Henri Matisse",
+   "year": "1905",
+   "aliases": []
+  },
+  {
+   "title": "The Red Room",
+   "artist": "Henri Matisse",
+   "year": "1908",
+   "aliases": [
+    "Harmony in Red"
+   ]
+  },
+  {
+   "title": "The Snail",
+   "artist": "Henri Matisse",
+   "year": "1953",
+   "aliases": []
+  },
+  {
+   "title": "Guernica",
+   "artist": "Pablo Picasso",
+   "year": "1937",
+   "aliases": []
+  },
+  {
+   "title": "Les Demoiselles d'Avignon",
+   "artist": "Pablo Picasso",
+   "year": "1907",
+   "aliases": []
+  },
+  {
+   "title": "The Old Guitarist",
+   "artist": "Pablo Picasso",
+   "year": "1903–1904",
+   "aliases": []
+  },
+  {
+   "title": "The Weeping Woman",
+   "artist": "Pablo Picasso",
+   "year": "1937",
+   "aliases": []
+  },
+  {
+   "title": "Girl before a Mirror",
+   "artist": "Pablo Picasso",
+   "year": "1932",
+   "aliases": []
+  },
+  {
+   "title": "Three Musicians",
+   "artist": "Pablo Picasso",
+   "year": "1921",
+   "aliases": []
+  },
+  {
+   "title": "Portrait of Gertrude Stein",
+   "artist": "Pablo Picasso",
+   "year": "1905–1906",
+   "aliases": []
+  },
+  {
+   "title": "Boy with a Pipe",
+   "artist": "Pablo Picasso",
+   "year": "1905",
+   "aliases": []
+  },
+  {
+   "title": "Le Rêve",
+   "artist": "Pablo Picasso",
+   "year": "1932",
+   "aliases": [
+    "The Dream (Picasso)"
+   ]
+  },
+  {
+   "title": "Violin and Candlestick",
+   "artist": "Georges Braque",
+   "year": "1910",
+   "aliases": []
+  },
+  {
+   "title": "Houses at L'Estaque",
+   "artist": "Georges Braque",
+   "year": "1908",
+   "aliases": []
+  },
+  {
+   "title": "Composition VII",
+   "artist": "Wassily Kandinsky",
+   "year": "1913",
+   "aliases": []
+  },
+  {
+   "title": "Composition VIII",
+   "artist": "Wassily Kandinsky",
+   "year": "1923",
+   "aliases": []
+  },
+  {
+   "title": "Several Circles",
+   "artist": "Wassily Kandinsky",
+   "year": "1926",
+   "aliases": []
+  },
+  {
+   "title": "Yellow-Red-Blue",
+   "artist": "Wassily Kandinsky",
+   "year": "1925",
+   "aliases": []
+  },
+  {
+   "title": "Composition with Red, Blue and Yellow",
+   "artist": "Piet Mondrian",
+   "year": "1930",
+   "aliases": []
+  },
+  {
+   "title": "Broadway Boogie Woogie",
+   "artist": "Piet Mondrian",
+   "year": "1942–1943",
+   "aliases": []
+  },
+  {
+   "title": "Victory Boogie Woogie",
+   "artist": "Piet Mondrian",
+   "year": "1942–1944",
+   "aliases": []
+  },
+  {
+   "title": "Black Square",
+   "artist": "Kazimir Malevich",
+   "year": "1915",
+   "aliases": []
+  },
+  {
+   "title": "White on White",
+   "artist": "Kazimir Malevich",
+   "year": "1918",
+   "aliases": [
+    "Suprematist Composition: White on White"
+   ]
+  },
+  {
+   "title": "I and the Village",
+   "artist": "Marc Chagall",
+   "year": "1911",
+   "aliases": []
+  },
+  {
+   "title": "The Birthday",
+   "artist": "Marc Chagall",
+   "year": "1915",
+   "aliases": []
+  },
+  {
+   "title": "Over the Town",
+   "artist": "Marc Chagall",
+   "year": "1918",
+   "aliases": []
+  },
+  {
+   "title": "The Tilled Field",
+   "artist": "Joan Miró",
+   "year": "1923–1924",
+   "aliases": []
+  },
+  {
+   "title": "Harlequin's Carnival",
+   "artist": "Joan Miró",
+   "year": "1924–1925",
+   "aliases": []
+  },
+  {
+   "title": "The Persistence of Memory",
+   "artist": "Salvador Dalí",
+   "year": "1931",
+   "aliases": [
+    "Melting Clocks"
+   ]
+  },
+  {
+   "title": "The Elephants",
+   "artist": "Salvador Dalí",
+   "year": "1948",
+   "aliases": []
+  },
+  {
+   "title": "Swans Reflecting Elephants",
+   "artist": "Salvador Dalí",
+   "year": "1937",
+   "aliases": []
+  },
+  {
+   "title": "The Burning Giraffe",
+   "artist": "Salvador Dalí",
+   "year": "1937",
+   "aliases": []
+  },
+  {
+   "title": "Galatea of the Spheres",
+   "artist": "Salvador Dalí",
+   "year": "1952",
+   "aliases": []
+  },
+  {
+   "title": "Christ of Saint John of the Cross",
+   "artist": "Salvador Dalí",
+   "year": "1951",
+   "aliases": []
+  },
+  {
+   "title": "The Son of Man",
+   "artist": "René Magritte",
+   "year": "1964",
+   "aliases": []
+  },
+  {
+   "title": "The Treachery of Images",
+   "artist": "René Magritte",
+   "year": "1929",
+   "aliases": [
+    "This Is Not a Pipe"
+   ]
+  },
+  {
+   "title": "Golconda",
+   "artist": "René Magritte",
+   "year": "1953",
+   "aliases": []
+  },
+  {
+   "title": "The Lovers",
+   "artist": "René Magritte",
+   "year": "1928",
+   "aliases": []
+  },
+  {
+   "title": "Empire of Light",
+   "artist": "René Magritte",
+   "year": "1953–1954",
+   "aliases": []
+  },
+  {
+   "title": "Time Transfixed",
+   "artist": "René Magritte",
+   "year": "1938",
+   "aliases": []
+  },
+  {
+   "title": "The Two Fridas",
+   "artist": "Frida Kahlo",
+   "year": "1939",
+   "aliases": []
+  },
+  {
+   "title": "Self-Portrait with Thorn Necklace and Hummingbird",
+   "artist": "Frida Kahlo",
+   "year": "1940",
+   "aliases": []
+  },
+  {
+   "title": "The Broken Column",
+   "artist": "Frida Kahlo",
+   "year": "1944",
+   "aliases": []
+  },
+  {
+   "title": "Frida and Diego Rivera",
+   "artist": "Frida Kahlo",
+   "year": "1931",
+   "aliases": []
+  },
+  {
+   "title": "The Flower Carrier",
+   "artist": "Diego Rivera",
+   "year": "1935",
+   "aliases": []
+  },
+  {
+   "title": "Detroit Industry Murals",
+   "artist": "Diego Rivera",
+   "year": "1932–1933",
+   "aliases": []
+  },
+  {
+   "title": "Nighthawks",
+   "artist": "Edward Hopper",
+   "year": "1942",
+   "aliases": []
+  },
+  {
+   "title": "Automat",
+   "artist": "Edward Hopper",
+   "year": "1927",
+   "aliases": []
+  },
+  {
+   "title": "Early Sunday Morning",
+   "artist": "Edward Hopper",
+   "year": "1930",
+   "aliases": []
+  },
+  {
+   "title": "Chop Suey",
+   "artist": "Edward Hopper",
+   "year": "1929",
+   "aliases": []
+  },
+  {
+   "title": "Morning Sun",
+   "artist": "Edward Hopper",
+   "year": "1952",
+   "aliases": []
+  },
+  {
+   "title": "American Gothic",
+   "artist": "Grant Wood",
+   "year": "1930",
+   "aliases": []
+  },
+  {
+   "title": "Jimson Weed/White Flower No. 1",
+   "artist": "Georgia O'Keeffe",
+   "year": "1932",
+   "aliases": []
+  },
+  {
+   "title": "Black Iris",
+   "artist": "Georgia O'Keeffe",
+   "year": "1926",
+   "aliases": []
+  },
+  {
+   "title": "Red Canna",
+   "artist": "Georgia O'Keeffe",
+   "year": "1924",
+   "aliases": []
+  },
+  {
+   "title": "Ram's Head, White Hollyhock-Hills",
+   "artist": "Georgia O'Keeffe",
+   "year": "1935",
+   "aliases": []
+  },
+  {
+   "title": "Christina's World",
+   "artist": "Andrew Wyeth",
+   "year": "1948",
+   "aliases": []
+  },
+  {
+   "title": "Freedom from Want",
+   "artist": "Norman Rockwell",
+   "year": "1943",
+   "aliases": []
+  },
+  {
+   "title": "The Problem We All Live With",
+   "artist": "Norman Rockwell",
+   "year": "1964",
+   "aliases": []
+  },
+  {
+   "title": "Rosie the Riveter",
+   "artist": "Norman Rockwell",
+   "year": "1943",
+   "aliases": []
+  },
+  {
+   "title": "Whistler's Mother",
+   "artist": "James McNeill Whistler",
+   "year": "1871",
+   "aliases": [
+    "Arrangement in Grey and Black No. 1"
+   ]
+  },
+  {
+   "title": "Nocturne in Black and Gold – The Falling Rocket",
+   "artist": "James McNeill Whistler",
+   "year": "1875",
+   "aliases": []
+  },
+  {
+   "title": "Madame X",
+   "artist": "John Singer Sargent",
+   "year": "1884",
+   "aliases": []
+  },
+  {
+   "title": "Carnation, Lily, Lily, Rose",
+   "artist": "John Singer Sargent",
+   "year": "1885–1886",
+   "aliases": []
+  },
+  {
+   "title": "The Daughters of Edward Darley Boit",
+   "artist": "John Singer Sargent",
+   "year": "1882",
+   "aliases": []
+  },
+  {
+   "title": "The Gulf Stream",
+   "artist": "Winslow Homer",
+   "year": "1899",
+   "aliases": []
+  },
+  {
+   "title": "Snap the Whip",
+   "artist": "Winslow Homer",
+   "year": "1872",
+   "aliases": []
+  },
+  {
+   "title": "Lavender Mist",
+   "artist": "Jackson Pollock",
+   "year": "1950",
+   "aliases": [
+    "Number 1, 1950"
+   ]
+  },
+  {
+   "title": "Autumn Rhythm",
+   "artist": "Jackson Pollock",
+   "year": "1950",
+   "aliases": [
+    "Number 30"
+   ]
+  },
+  {
+   "title": "Blue Poles",
+   "artist": "Jackson Pollock",
+   "year": "1952",
+   "aliases": []
+  },
+  {
+   "title": "Convergence",
+   "artist": "Jackson Pollock",
+   "year": "1952",
+   "aliases": []
+  },
+  {
+   "title": "No. 61 (Rust and Blue)",
+   "artist": "Mark Rothko",
+   "year": "1953",
+   "aliases": []
+  },
+  {
+   "title": "Orange, Red, Yellow",
+   "artist": "Mark Rothko",
+   "year": "1961",
+   "aliases": []
+  },
+  {
+   "title": "Campbell's Soup Cans",
+   "artist": "Andy Warhol",
+   "year": "1962",
+   "aliases": []
+  },
+  {
+   "title": "Marilyn Diptych",
+   "artist": "Andy Warhol",
+   "year": "1962",
+   "aliases": []
+  },
+  {
+   "title": "Whaam!",
+   "artist": "Roy Lichtenstein",
+   "year": "1963",
+   "aliases": []
+  },
+  {
+   "title": "Drowning Girl",
+   "artist": "Roy Lichtenstein",
+   "year": "1963",
+   "aliases": []
+  },
+  {
+   "title": "Hollywood Africans",
+   "artist": "Jean-Michel Basquiat",
+   "year": "1983",
+   "aliases": []
+  },
+  {
+   "title": "Untitled (Skull)",
+   "artist": "Jean-Michel Basquiat",
+   "year": "1981",
+   "aliases": []
+  },
+  {
+   "title": "A Bigger Splash",
+   "artist": "David Hockney",
+   "year": "1967",
+   "aliases": []
+  },
+  {
+   "title": "Portrait of an Artist (Pool with Two Figures)",
+   "artist": "David Hockney",
+   "year": "1972",
+   "aliases": []
+  },
+  {
+   "title": "The Great Wave off Kanagawa",
+   "artist": "Katsushika Hokusai",
+   "year": "c. 1831",
+   "aliases": [
+    "The Great Wave"
+   ]
+  },
+  {
+   "title": "Fine Wind, Clear Morning",
+   "artist": "Katsushika Hokusai",
+   "year": "c. 1831",
+   "aliases": [
+    "Red Fuji"
+   ]
+  },
+  {
+   "title": "Sudden Shower over Shin-Ōhashi Bridge and Atake",
+   "artist": "Utagawa Hiroshige",
+   "year": "1857",
+   "aliases": []
+  },
+  {
+   "title": "Reclining Nude",
+   "artist": "Amedeo Modigliani",
+   "year": "1917",
+   "aliases": []
+  },
+  {
+   "title": "Portrait of Jeanne Hébuterne",
+   "artist": "Amedeo Modigliani",
+   "year": "1919",
+   "aliases": []
+  },
+  {
+   "title": "Twittering Machine",
+   "artist": "Paul Klee",
+   "year": "1922",
+   "aliases": []
+  },
+  {
+   "title": "Senecio",
+   "artist": "Paul Klee",
+   "year": "1922",
+   "aliases": []
+  },
+  {
+   "title": "The Large Blue Horses",
+   "artist": "Franz Marc",
+   "year": "1911",
+   "aliases": []
+  },
+  {
+   "title": "Blue Horse I",
+   "artist": "Franz Marc",
+   "year": "1911",
+   "aliases": []
+  }
+ ]
+}
