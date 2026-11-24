@@ -216,7 +216,9 @@
   .credit a:hover { color: var(--ink); }
 
   .history { list-style: none; padding: 0; margin: 18px 0 0; }
-  .history li { display: flex; justify-content: space-between; padding: 10px 2px; border-bottom: 1px solid var(--line); }
+  .history li { display: flex; justify-content: space-between; align-items: baseline; gap: 14px; padding: 10px 2px; border-bottom: 1px solid var(--line); }
+  .history .word { min-width: 0; overflow-wrap: anywhere; }      /* long guesses wrap */
+  .history .tag { flex: none; white-space: nowrap; }              /* "Not it", "Right artist" never wrap */
   .history li:last-child { border-bottom: 0; }
   .history .tag { color: var(--miss); }
   .history .close .tag { color: var(--close); }
@@ -340,7 +342,7 @@
   </div>
   <p class="help-foot">A new picture every day at midnight, plus a daily flag and a daily painting in their own tabs. In Paintings, naming another work by the right artist turns yellow and narrows the list to that artist.</p>
   <button class="btn primary" id="helpGo">Let's play</button>
-  <p class="version">Version 2026.11.24e</p>
+  <p class="version">Version 2026.11.24f</p>
 </dialog>
 
 <dialog id="archive" aria-labelledby="archiveTitle">
