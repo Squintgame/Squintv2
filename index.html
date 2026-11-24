@@ -123,6 +123,18 @@
   .tabs a:hover { color: var(--ink); }
   .tabs a[aria-current="page"] { background: var(--accent); color: var(--accent-ink); }
   /* The space around a flag gets a faint diagonal pattern, so it never looks like part of the flag. */
+  .flag-tools { display: flex; justify-content: center; gap: 8px; margin: -6px 0 14px; }
+  .btn.small { padding: 7px 16px; font-size: 0.9rem; border-radius: 10px; text-decoration: none; color: var(--ink); text-align: center; }
+  .replay a { color: var(--accent); font-weight: 600; text-decoration: none; margin-left: 6px; white-space: nowrap; }
+  .arch-note { color: var(--muted); margin: 8px 0 12px; font-size: 0.92rem; }
+  .arch-list { display: grid; gap: 6px; max-height: 60vh; overflow-y: auto; }
+  .arch-row { display: grid; grid-template-columns: 3.2em 1fr auto; gap: 10px; align-items: center; padding: 10px 12px;
+    border: 1px solid var(--line); border-radius: 12px; text-decoration: none; color: var(--ink); }
+  .arch-row:hover { border-color: var(--muted); }
+  .arch-row .n { font-weight: 800; }
+  .arch-row .d { color: var(--muted); }
+  .arch-row .st { font-size: 0.9rem; color: var(--muted); }
+  .arch-row .st.won { color: var(--hit); } .arch-row .st.lost { color: var(--miss); } .arch-row .st.going { color: var(--close); }
   .frame.flag-mode { background: repeating-linear-gradient(45deg, var(--line) 0 6px, var(--bg) 6px 14px); }
   .frame.flag-mode img { inset: auto; object-fit: fill; will-change: auto; box-shadow: 0 0 0 1px rgba(0,0,0,0.12); }
   .frame {
@@ -256,9 +268,13 @@
   </header>
 
   <nav class="tabs" aria-label="Game mode">
-    <a href="#" id="tabDaily">Daily</a>
-    <a href="#flags" id="tabFlags">Flags</a>
+    <a href="./" id="tabDaily">Daily</a>
+    <a href="./#flags" id="tabFlags">Flags</a>
   </nav>
+  <div class="flag-tools" id="flagTools" hidden>
+    <button class="btn ghost small" id="archiveBtn">Archive</button>
+    <a class="btn ghost small" href="./?random=1#flags" id="randomBtn">Random</a>
+  </div>
 
   <main>
     <p class="replay" id="replay" hidden></p>
@@ -321,6 +337,17 @@
   <button class="btn primary" id="helpGo">Let's play</button>
 </dialog>
 
+<dialog id="archive" aria-labelledby="archiveTitle">
+  <div class="dialog-head">
+    <h2 id="archiveTitle">Flags archive</h2>
+    <button class="icon-btn" data-close aria-label="Close">
+      <svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+  </div>
+  <p class="arch-note">Play any past flag. Archive games don't count toward your streak or stats.</p>
+  <div class="arch-list" id="archList"></div>
+</dialog>
+
 <dialog id="stats" aria-labelledby="statsTitle">
   <div class="dialog-head">
     <h2 id="statsTitle">Your stats</h2>
@@ -362,9 +389,17 @@ const KEY = MODE === "flags"
 
 const params = new URLSearchParams(location.search);
 const testMode = params.has("day");
-let dayIndex = testMode ? (parseInt(params.get("day"), 10) || 1) - 1 : dayIndexFor(new Date());
+const todayIndex = Math.max(0, dayIndexFor(new Date()));
+const archiveNum = parseInt(params.get("archive"), 10);
+// Flags extras: a past day from the archive, or a random flag. Neither counts toward stats or streaks.
+const archiveMode = MODE === "flags" && !testMode && archiveNum >= 1 && archiveNum - 1 < todayIndex;
+const randomMode = MODE === "flags" && !testMode && params.has("random");
+const OFF_RECORD = testMode || archiveMode || randomMode;
+let dayIndex = testMode ? (parseInt(params.get("day"), 10) || 1) - 1 : archiveMode ? archiveNum - 1 : todayIndex;
 if (dayIndex < 0) dayIndex = 0;
 const puzzleNum = dayIndex + 1;
+// Archive games are saved per day; today's flag is also copied there so the archive remembers it.
+const STATE_KEY = archiveMode ? `squint-flags-a${puzzleNum}` : KEY.state;
 
 /* =========================================================
    STATE
@@ -380,7 +415,7 @@ function load(key, fallback) {
   catch { return fallback; }
 }
 function save(key, value) {
-  if (testMode) return;
+  if (testMode || randomMode) return;
   try { localStorage.setItem(key, JSON.stringify(value)); } catch {}
 }
 
@@ -503,8 +538,8 @@ async function start() {
     if (!ready) return;
     indexAnswers();
 
-    state = load(KEY.state, null);
-    if (!state || state.puzzle !== puzzleNum || testMode) {
+    state = load(STATE_KEY, null);
+    if (!state || state.puzzle !== puzzleNum || testMode || randomMode) {   // a random flag always starts fresh
       state = { puzzle: puzzleNum, guesses: [], status: "playing" };
     }
 
@@ -570,7 +605,9 @@ async function loadFlags() {
   const data = await getJSON("flags.json");
   const countries = data.countries;
   const n = data.order.length;
-  const code = data.order[((dayIndex % n) + n) % n];
+  const code = randomMode
+    ? countries[Math.floor(Math.random() * countries.length)].code
+    : data.order[((dayIndex % n) + n) % n];
   const c = countries.find(x => x.code === code);
   SIM = buildSimilar({
     same: countries.filter(x => x.aliases.length).map(x => [x.name, ...x.aliases]),
@@ -807,7 +844,7 @@ async function apiFetch(path, options = {}) {
 }
 
 async function reportResult() {
-  if (!STATS_API || testMode || state.reported) return;
+  if (!STATS_API || OFF_RECORD || state.reported) return;
   const id = clientId();
   if (!id) return;
   const first = state.guesses.find(g => !g.skip);
@@ -823,12 +860,12 @@ async function reportResult() {
         first: first ? first.text : null
       })
     });
-    if (res.ok) { state.reported = true; save(KEY.state, state); }
+    if (res.ok) { state.reported = true; saveState(); }
   } catch {}
 }
 
 async function loadGlobal() {
-  if (!STATS_API) return;
+  if (!STATS_API || randomMode) return;
   try {
     const res = await apiFetch(`/api/stats?puzzle=${puzzleNum}&mode=${MODE}`);
     if (res.ok) renderGlobal(await res.json());
@@ -887,6 +924,11 @@ function say(text, ms = 2600) {
   msgTimer = setTimeout(() => ($("message").textContent = ""), ms);
 }
 
+function saveState() {
+  save(STATE_KEY, state);
+  if (MODE === "flags" && !archiveMode) save(`squint-flags-a${puzzleNum}`, state);
+}
+
 function shake() {
   frame.classList.remove("shake");
   void frame.offsetWidth;
@@ -894,7 +936,7 @@ function shake() {
 }
 
 function afterGuess(wasCorrect) {
-  save(KEY.state, state);
+  saveState();
   render();
   if (state.status === "playing") {
     if (!wasCorrect) shake();
@@ -937,7 +979,7 @@ function skip() {
 
 function finish(won) {
   state.status = won ? "won" : "lost";
-  if (testMode) return;
+  if (OFF_RECORD) return;
   stats.played++;
   if (won) {
     stats.won++;
@@ -961,7 +1003,9 @@ function shareText() {
     if (!g) return "⬜";
     return g.correct ? "🟩" : g.close ? "🟨" : "🟥";
   }).join("");
-  const title = MODE === "flags" ? `Squint Flags #${puzzleNum} 🏳️` : `Squint #${puzzleNum} 🔍`;
+  const title = randomMode ? "Squint Flags 🎲 Random flag"
+    : MODE === "flags" ? `Squint Flags #${puzzleNum}${archiveMode ? " (archive)" : ""} 🏳️`
+    : `Squint #${puzzleNum} 🔍`;
   const link = MODE === "flags" ? `${SITE_URL}/#flags` : SITE_URL;
   return `${title} ${won ? state.guesses.length : "X"}/${MAX_GUESSES}\n${row}\n${link}`;
 }
@@ -1123,6 +1167,39 @@ systemDark.addEventListener("change", updateThemeButton);
 updateThemeButton();
 
 $(MODE === "flags" ? "tabFlags" : "tabDaily").setAttribute("aria-current", "page");
+
+/* Flags extras: archive list, random flag, and the note above the picture. */
+if (MODE === "flags" && !testMode) {
+  $("flagTools").hidden = false;
+  $("archiveBtn").addEventListener("click", openArchive);
+  if (archiveMode) {
+    $("replay").innerHTML = `Archive: Flags #${puzzleNum} from ${flagDate(puzzleNum)}. Doesn't affect your streak.<a href="./#flags">Back to today</a>`;
+    $("replay").hidden = false;
+  } else if (randomMode) {
+    $("num").textContent = "🎲";
+    $("replay").innerHTML = `Random flag, just for fun. Doesn't affect your stats.<a href="./?random=${Date.now()}#flags">New random flag</a>`;
+    $("replay").hidden = false;
+  }
+}
+
+function flagDate(n) {
+  return new Date(FLAGS_LAUNCH + (n - 1) * 86400000).toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+}
+
+function openArchive() {
+  const today = todayIndex + 1, rows = [];
+  for (let n = today; n >= 1; n--) {
+    const st = load(`squint-flags-a${n}`, null);
+    let label = "Not played", cls = "";
+    if (st && st.status === "won") { label = `Solved in ${st.guesses.length}/6`; cls = "won"; }
+    else if (st && st.status === "lost") { label = "Missed"; cls = "lost"; }
+    else if (st && st.guesses && st.guesses.length) { label = "In progress"; cls = "going"; }
+    const href = n === today ? "./#flags" : `./?archive=${n}#flags`;
+    rows.push(`<a class="arch-row" href="${href}"><span class="n">#${n}</span><span class="d">${n === today ? "Today" : flagDate(n)}</span><span class="st ${cls}">${label}</span></a>`);
+  }
+  $("archList").innerHTML = rows.join("");
+  $("archive").showModal();
+}
 window.addEventListener("hashchange", () => location.reload());
 if (MODE === "flags") document.title = "Squint Flags — a daily flag puzzle";
 
