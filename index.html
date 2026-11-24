@@ -385,8 +385,13 @@ function foldBasic(s) {
     .replace(/œ/g, "oe").replace(/æ/g, "ae").replace(/[’']/g, "").replace(/&/g, " and ")
     .replace(/[^a-z0-9]+/g, " ").trim();
 }
+const ABBREVIATIONS = { mt: "mount", st: "saint", ft: "fort" };   // "Mt. Fuji" = "Mount Fuji"
+function expandWords(s) { return s.split(" ").map(w => ABBREVIATIONS[w] || w).join(" "); }
+
+/* Typed-guess key: ignores case, accents, punctuation, "the", abbreviations, a plural ending, and spaces,
+   so "sea horses", "Seahorse" and "the sea horse" all find the same entry. */
 function fold(s) {
-  const w = foldBasic(s).replace(/^the /, "").split(" ");
+  const w = expandWords(foldBasic(s).replace(/^the /, "")).split(" ");
   let last = w[w.length - 1];
   if (last.length > 3) {
     if (last.endsWith("ies")) last = last.slice(0, -3) + "y";
@@ -394,7 +399,7 @@ function fold(s) {
     else if (last.endsWith("s") && !/(ss|us|is)$/.test(last)) last = last.slice(0, -1);
   }
   w[w.length - 1] = last;
-  return w.join(" ");
+  return w.join("");
 }
 
 let byExact = new Map(), byFold = new Map(), searchIndex = [];
@@ -405,7 +410,7 @@ function indexAnswers() {
     const k = fold(a);
     if (!byFold.has(k)) byFold.set(k, a);
   }
-  searchIndex = ANSWERS.map(a => ({ a, f: foldBasic(a) }));
+  searchIndex = ANSWERS.map(a => { const f = expandWords(foldBasic(a)); return { a, f, c: f.replace(/ /g, "") }; });
 }
 function resolve(text) {
   const t = text.trim();
@@ -870,15 +875,16 @@ setInterval(() => { if (state && state.status !== "playing") tickCountdown(); },
 let matches = [], active = -1;
 
 function updateOptions() {
-  const q = foldBasic(input.value);
+  const q = expandWords(foldBasic(input.value));
   if (!q) { closeOptions(); return; }
+  const qc = q.replace(/ /g, "");          // spacing doesn't matter: "cellph" finds "Cell phone"
   const guessed = new Set(state.guesses.map(g => g.text));
   const starts = [], words = [], contains = [];
-  for (const { a, f } of searchIndex) {
+  for (const { a, f, c } of searchIndex) {
     if (guessed.has(a)) continue;
-    if (f.startsWith(q)) starts.push(a);
+    if (f.startsWith(q) || c.startsWith(qc)) starts.push(a);
     else if (f.includes(" " + q)) words.push(a);
-    else if (f.includes(q)) contains.push(a);
+    else if (f.includes(q) || c.includes(qc)) contains.push(a);
   }
   matches = [...starts, ...words, ...contains].slice(0, MAX_SUGGESTIONS);
   active = matches.length ? 0 : -1;

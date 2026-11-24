@@ -3,7 +3,8 @@
   [
    "Airplane",
    "Plane",
-   "Aeroplane"
+   "Aeroplane",
+   "Aircraft"
   ],
   [
    "Hippopotamus",
@@ -24,7 +25,8 @@
   ],
   [
    "Couch",
-   "Sofa"
+   "Sofa",
+   "Settee"
   ],
   [
    "Donut",
@@ -77,11 +79,14 @@
   [
    "Garbage can",
    "Trash can",
-   "Wastebasket"
+   "Wastebasket",
+   "Rubbish bin",
+   "Dustbin"
   ],
   [
    "Squirt gun",
-   "Water gun"
+   "Water gun",
+   "Water pistol"
   ],
   [
    "Graduation cap",
@@ -90,11 +95,14 @@
   [
    "Smartphone",
    "Cell phone",
-   "Mobile phone"
+   "Mobile phone",
+   "Telephone",
+   "Phone"
   ],
   [
    "Television",
-   "TV"
+   "TV",
+   "Telly"
   ],
   [
    "Refrigerator",
@@ -106,7 +114,8 @@
   ],
   [
    "Bubble tea",
-   "Boba"
+   "Boba",
+   "Boba tea"
   ],
   [
    "Soda",
@@ -138,11 +147,13 @@
   ],
   [
    "Bell pepper",
-   "Capsicum"
+   "Capsicum",
+   "Sweet pepper"
   ],
   [
    "Scallion",
-   "Spring onion"
+   "Spring onion",
+   "Green onion"
   ],
   [
    "Beet",
@@ -159,7 +170,8 @@
   ],
   [
    "Crayfish",
-   "Crawfish"
+   "Crawfish",
+   "Crawdad"
   ],
   [
    "Tangerine",
@@ -179,7 +191,8 @@
   ],
   [
    "Hot dog",
-   "Frankfurter"
+   "Frankfurter",
+   "Wiener"
   ],
   [
    "Gyro",
@@ -196,7 +209,8 @@
   ],
   [
    "Popsicle",
-   "Ice pop"
+   "Ice pop",
+   "Ice lolly"
   ],
   [
    "Cotton candy",
@@ -216,19 +230,23 @@
   ],
   [
    "Sweater",
-   "Jumper"
+   "Jumper",
+   "Pullover"
   ],
   [
    "Pants",
-   "Trousers"
+   "Trousers",
+   "Slacks"
   ],
   [
    "Sneakers",
-   "Trainers"
+   "Trainers",
+   "Tennis shoes"
   ],
   [
    "Glasses",
-   "Eyeglasses"
+   "Eyeglasses",
+   "Spectacles"
   ],
   [
    "Necktie",
@@ -236,7 +254,9 @@
   ],
   [
    "Rubber boots",
-   "Rain boots"
+   "Rain boots",
+   "Wellington boots",
+   "Wellies"
   ],
   [
    "Overalls",
@@ -244,7 +264,8 @@
   ],
   [
    "Clothes hanger",
-   "Coat hanger"
+   "Coat hanger",
+   "Hanger"
   ],
   [
    "Nightstand",
@@ -264,7 +285,8 @@
   ],
   [
    "Remote control",
-   "Remote"
+   "Remote",
+   "TV remote"
   ],
   [
    "Video camera",
@@ -308,10 +330,6 @@
    "Quadcopter"
   ],
   [
-   "Telephone",
-   "Phone"
-  ],
-  [
    "Desktop computer",
    "Computer"
   ],
@@ -325,7 +343,8 @@
   ],
   [
    "Thumbtack",
-   "Pushpin"
+   "Pushpin",
+   "Drawing pin"
   ],
   [
    "Chalkboard",
@@ -366,7 +385,8 @@
   ],
   [
    "Gift box",
-   "Present"
+   "Present",
+   "Gift"
   ],
   [
    "Firework",
@@ -484,11 +504,13 @@
   ],
   [
    "Shooting star",
-   "Meteor"
+   "Meteor",
+   "Falling star"
   ],
   [
    "North Star",
-   "Polaris"
+   "Polaris",
+   "Pole star"
   ],
   [
    "UFO",
@@ -508,7 +530,8 @@
   ],
   [
    "Budgie",
-   "Parakeet"
+   "Parakeet",
+   "Budgerigar"
   ],
   [
    "Groundhog",
@@ -524,7 +547,8 @@
   ],
   [
    "Tyrannosaurus rex",
-   "T-rex"
+   "T-rex",
+   "T. rex"
   ],
   [
    "Statue of Liberty",
@@ -532,7 +556,8 @@
   ],
   [
    "Great Pyramid of Giza",
-   "Pyramids of Giza"
+   "Pyramids of Giza",
+   "Egyptian pyramids"
   ],
   [
    "Western Wall",
@@ -641,7 +666,8 @@
   ],
   [
    "Tumble dryer",
-   "Clothes dryer"
+   "Clothes dryer",
+   "Dryer"
   ],
   [
    "Hair straightener",
@@ -658,7 +684,8 @@
   ],
   [
    "Bin bag",
-   "Trash bag"
+   "Trash bag",
+   "Garbage bag"
   ],
   [
    "Tupperware",
@@ -678,7 +705,8 @@
   ],
   [
    "Tractor trailer",
-   "Semi truck"
+   "Semi truck",
+   "Eighteen-wheeler"
   ],
   [
    "Steam locomotive",
@@ -808,6 +836,290 @@
   [
    "International Space Station",
    "Space station"
+  ],
+  [
+   "Helicopter",
+   "Chopper"
+  ],
+  [
+   "Jumbo jet",
+   "Airliner"
+  ],
+  [
+   "Engine",
+   "Motor"
+  ],
+  [
+   "Gear",
+   "Cogwheel",
+   "Cog"
+  ],
+  [
+   "Smokestack",
+   "Factory chimney"
+  ],
+  [
+   "Oil derrick",
+   "Oil pump"
+  ],
+  [
+   "Arch of St. Louis",
+   "Gateway Arch"
+  ],
+  [
+   "Pearl Harbor",
+   "USS Arizona Memorial"
+  ],
+  [
+   "Alcatraz",
+   "Alcatraz Island"
+  ],
+  [
+   "Yellowstone",
+   "Old Faithful"
+  ],
+  [
+   "Arches National Park",
+   "Delicate Arch"
+  ],
+  [
+   "Redwood forest",
+   "Redwood tree"
+  ],
+  [
+   "Giant panda",
+   "Panda",
+   "Panda bear"
+  ],
+  [
+   "Koala",
+   "Koala bear"
+  ],
+  [
+   "Ladybug",
+   "Ladybird",
+   "Lady beetle"
+  ],
+  [
+   "Pill bug",
+   "Roly-poly",
+   "Woodlouse"
+  ],
+  [
+   "Manatee",
+   "Sea cow"
+  ],
+  [
+   "Alligator",
+   "Gator"
+  ],
+  [
+   "Rooster",
+   "Cockerel"
+  ],
+  [
+   "Donkey",
+   "Burro"
+  ],
+  [
+   "Hog",
+   "Swine"
+  ],
+  [
+   "Praying mantis",
+   "Mantis"
+  ],
+  [
+   "Daddy longlegs",
+   "Harvestman"
+  ],
+  [
+   "Seahorse",
+   "Sea horse"
+  ],
+  [
+   "Woolly mammoth",
+   "Mammoth"
+  ],
+  [
+   "Mount Everest",
+   "Everest"
+  ],
+  [
+   "Mount Fuji",
+   "Fuji",
+   "Fujisan"
+  ],
+  [
+   "Mount Kilimanjaro",
+   "Kilimanjaro"
+  ],
+  [
+   "Golden Gate Bridge",
+   "Golden Gate"
+  ],
+  [
+   "Leaning Tower of Pisa",
+   "Tower of Pisa"
+  ],
+  [
+   "Great Wall of China",
+   "Great Wall"
+  ],
+  [
+   "Great Sphinx of Giza",
+   "Sphinx"
+  ],
+  [
+   "Christ the Redeemer",
+   "Cristo Redentor"
+  ],
+  [
+   "Sydney Opera House",
+   "Opera House"
+  ],
+  [
+   "Empire State Building",
+   "Empire State"
+  ],
+  [
+   "Eiffel Tower",
+   "Tour Eiffel"
+  ],
+  [
+   "Notre-Dame de Paris",
+   "Notre-Dame",
+   "Notre Dame Cathedral"
+  ],
+  [
+   "Arc de Triomphe",
+   "Arch of Triumph"
+  ],
+  [
+   "Sagrada Familia",
+   "La Sagrada Familia"
+  ],
+  [
+   "Taj Mahal",
+   "Taj"
+  ],
+  [
+   "Niagara Falls",
+   "Niagara"
+  ],
+  [
+   "Milky Way",
+   "Milky Way galaxy"
+  ],
+  [
+   "Microwave",
+   "Microwave oven"
+  ],
+  [
+   "Vacuum cleaner",
+   "Vacuum",
+   "Hoover"
+  ],
+  [
+   "Faucet",
+   "Tap"
+  ],
+  [
+   "Elevator",
+   "Lift"
+  ],
+  [
+   "Flashlight",
+   "Electric torch"
+  ],
+  [
+   "Stroller",
+   "Pram",
+   "Baby carriage"
+  ],
+  [
+   "Diaper",
+   "Nappy"
+  ],
+  [
+   "Clothespin",
+   "Clothes peg"
+  ],
+  [
+   "Adhesive bandage",
+   "Band-Aid",
+   "Bandage"
+  ],
+  [
+   "Cotton swab",
+   "Q-tip"
+  ],
+  [
+   "Sunglasses",
+   "Shades"
+  ],
+  [
+   "Purse",
+   "Handbag"
+  ],
+  [
+   "Pajamas",
+   "Pyjamas",
+   "PJs"
+  ],
+  [
+   "Movie theater",
+   "Cinema",
+   "Movie theatre"
+  ],
+  [
+   "Gas station",
+   "Petrol station",
+   "Filling station"
+  ],
+  [
+   "Parking lot",
+   "Car park"
+  ],
+  [
+   "Train station",
+   "Railway station"
+  ],
+  [
+   "Subway train",
+   "Metro train",
+   "Underground train"
+  ],
+  [
+   "Candy",
+   "Sweets"
+  ],
+  [
+   "Barbecue grill",
+   "BBQ",
+   "Barbecue"
+  ],
+  [
+   "Sandwich",
+   "Sub sandwich"
+  ],
+  [
+   "Hoagie",
+   "Sub",
+   "Hero sandwich"
+  ],
+  [
+   "Ice cream",
+   "Ice-cream"
+  ],
+  [
+   "Rubik's Cube",
+   "Puzzle cube",
+   "Magic cube"
+  ],
+  [
+   "Earth",
+   "Planet Earth"
   ]
  ],
  "kinds": {
@@ -886,7 +1198,8 @@
    "Cockatiel",
    "Budgie",
    "Lovebird",
-   "Lorikeet"
+   "Lorikeet",
+   "Conure"
   ],
   "Macaw": [
    "Scarlet macaw"
@@ -1455,7 +1768,10 @@
    "Hand saw",
    "Hacksaw",
    "Chainsaw",
-   "Bow saw"
+   "Bow saw",
+   "Circular saw",
+   "Table saw",
+   "Miter saw"
   ],
   "Hammer": [
    "Sledgehammer"
@@ -1847,7 +2163,9 @@
    "Hand mirror",
    "Vanity mirror",
    "Makeup mirror",
-   "Pocket mirror"
+   "Pocket mirror",
+   "Side mirror",
+   "Rearview mirror"
   ],
   "Spoon": [
    "Tablespoon",
@@ -1953,6 +2271,25 @@
   ],
   "Wreath": [
    "Christmas wreath"
+  ],
+  "Engine": [
+   "Car engine",
+   "Jet engine",
+   "Steam engine",
+   "Outboard motor",
+   "Ship engine",
+   "Electric motor"
+  ],
+  "Wheel": [
+   "Bicycle wheel",
+   "Train wheel",
+   "Ferris wheel"
+  ],
+  "Pump": [
+   "Water pump",
+   "Air pump",
+   "Bike pump",
+   "Gas pump"
   ]
  },
  "broad": {
@@ -2256,12 +2593,22 @@
    "Half Dome",
    "Mount Etna",
    "Mount Vesuvius",
-   "Rocky Mountains"
+   "Rocky Mountains",
+   "Mount Denali",
+   "Mount Rainier",
+   "Mount Hood",
+   "Mount St. Helens",
+   "Swiss Alps",
+   "Grand Teton",
+   "Devils Tower"
   ],
   "Volcano": [
    "Mount Vesuvius",
    "Mount Etna",
-   "Mount Fuji"
+   "Mount Fuji",
+   "Mount St. Helens",
+   "Kilauea",
+   "Diamond Head"
   ],
   "Waterfall": [
    "Niagara Falls",
@@ -2645,7 +2992,10 @@
   ],
   "Beach": [
    "Shore",
-   "Coastline"
+   "Coastline",
+   "Bondi Beach",
+   "Santa Monica Pier",
+   "Coney Island"
   ],
   "Weasel family": [
    "Ferret",
@@ -2753,6 +3103,207 @@
    "Coffee grinder",
    "Milk frother",
    "Coffee mug"
+  ],
+  "Spinning blades": [
+   "Helicopter",
+   "Propeller",
+   "Rotor",
+   "Tail rotor",
+   "Rotor blade",
+   "Fan",
+   "Ceiling fan",
+   "Electric fan",
+   "Cooling fan",
+   "Wind turbine",
+   "Windmill",
+   "Pinwheel",
+   "Ship propeller",
+   "Turbine",
+   "Jet engine"
+  ],
+  "Machine part": [
+   "Gear",
+   "Sprocket",
+   "Piston",
+   "Crankshaft",
+   "Spark plug",
+   "Gearbox",
+   "Transmission",
+   "Carburetor",
+   "Ball bearing",
+   "Axle",
+   "Flywheel",
+   "Valve",
+   "Spring",
+   "Bolt",
+   "Nut",
+   "Washer",
+   "Rivet",
+   "Clockwork",
+   "Watch movement",
+   "Bicycle chain",
+   "Chain",
+   "Pulley",
+   "Lever",
+   "Crank"
+  ],
+  "Engine": [
+   "Car engine",
+   "Jet engine",
+   "Steam engine",
+   "Outboard motor",
+   "Ship engine",
+   "Electric motor",
+   "Turbine",
+   "Generator"
+  ],
+  "Car part": [
+   "Dashboard",
+   "Speedometer",
+   "Fuel gauge",
+   "Gear shift",
+   "Headlight",
+   "Taillight",
+   "Windshield",
+   "Windshield wiper",
+   "Side mirror",
+   "Rearview mirror",
+   "Bumper",
+   "Hubcap",
+   "Rim",
+   "Tire",
+   "Car door",
+   "Car seat",
+   "Seatbelt",
+   "Car horn",
+   "License plate",
+   "Car key",
+   "Steering wheel",
+   "Car engine",
+   "Exhaust pipe",
+   "Muffler",
+   "Brake disc"
+  ],
+  "Bike part": [
+   "Handlebars",
+   "Bicycle pedal",
+   "Kickstand",
+   "Bicycle bell",
+   "Bicycle wheel",
+   "Spokes",
+   "Bicycle chain",
+   "Sprocket",
+   "Saddle"
+  ],
+  "Power tool": [
+   "Drill",
+   "Power drill",
+   "Chainsaw",
+   "Circular saw",
+   "Table saw",
+   "Miter saw",
+   "Nail gun",
+   "Staple gun",
+   "Glue gun",
+   "Soldering iron",
+   "Angle grinder",
+   "Belt sander",
+   "Jackhammer",
+   "Leaf blower",
+   "Drill press",
+   "Lathe",
+   "Welding torch"
+  ],
+  "Construction machine": [
+   "Bulldozer",
+   "Excavator",
+   "Backhoe",
+   "Crane",
+   "Crane truck",
+   "Cement mixer",
+   "Steamroller",
+   "Forklift",
+   "Dump truck",
+   "Tractor",
+   "Wood chipper"
+  ],
+  "Electronics part": [
+   "Circuit board",
+   "Motherboard",
+   "Microchip",
+   "Computer chip",
+   "Processor",
+   "Transistor",
+   "Vacuum tube",
+   "Circuit",
+   "Fuse",
+   "Circuit breaker",
+   "Transformer",
+   "Battery"
+  ],
+  "Temple": [
+   "Angkor Wat",
+   "Borobudur",
+   "Wat Arun",
+   "Lotus Temple",
+   "Golden Temple",
+   "Temple of Heaven",
+   "Karnak Temple",
+   "Parthenon",
+   "Pantheon",
+   "Fushimi Inari Shrine",
+   "Itsukushima Shrine",
+   "Golden Pavilion",
+   "Shwedagon Pagoda",
+   "Bagan temples",
+   "Abu Simbel"
+  ],
+  "Palace": [
+   "Buckingham Palace",
+   "Palace of Versailles",
+   "Forbidden City",
+   "Potala Palace",
+   "Grand Palace",
+   "Kremlin",
+   "Alhambra",
+   "Palace of Westminster",
+   "Hawa Mahal",
+   "Red Fort",
+   "Prague Castle"
+  ],
+  "Mosque": [
+   "Blue Mosque",
+   "Sheikh Zayed Grand Mosque",
+   "Hagia Sophia",
+   "Dome of the Rock"
+  ],
+  "Canyon": [
+   "Grand Canyon",
+   "Antelope Canyon",
+   "Bryce Canyon",
+   "Horseshoe Bend"
+  ],
+  "Island": [
+   "Santorini",
+   "Bora Bora",
+   "Galápagos Islands",
+   "Maldives",
+   "Easter Island statues",
+   "Alcatraz Island",
+   "Mont Saint-Michel"
+  ],
+  "Dam": [
+   "Hoover Dam",
+   "Glen Canyon Dam"
+  ],
+  "Lighthouse": [
+   "Cape Hatteras Lighthouse",
+   "Portland Head Light"
+  ],
+  "Hot spring": [
+   "Grand Prismatic Spring",
+   "Old Faithful",
+   "Pamukkale"
   ]
  },
  "close": [
@@ -3388,6 +3939,1003 @@
   [
    "Axolotl",
    "Newt"
+  ],
+  [
+   "Helicopter",
+   "Drone",
+   "Airplane",
+   "Propeller",
+   "Rotor",
+   "Tail rotor",
+   "Rotor blade",
+   "Helipad",
+   "Ceiling fan",
+   "Fan"
+  ],
+  [
+   "Helicopter",
+   "Cockpit",
+   "Blade"
+  ],
+  [
+   "Airplane",
+   "Jet engine",
+   "Airplane wing",
+   "Wing",
+   "Cockpit",
+   "Landing gear",
+   "Tail fin",
+   "Fuselage",
+   "Propeller"
+  ],
+  [
+   "Engine",
+   "Turbine",
+   "Generator"
+  ],
+  [
+   "Car",
+   "Car engine",
+   "Steering wheel",
+   "Dashboard",
+   "Headlight",
+   "Tire",
+   "Hubcap",
+   "Bumper",
+   "Windshield"
+  ],
+  [
+   "Bicycle",
+   "Bicycle chain",
+   "Handlebars",
+   "Bicycle pedal",
+   "Kickstand",
+   "Bicycle bell",
+   "Bicycle wheel",
+   "Spokes",
+   "Sprocket"
+  ],
+  [
+   "Clock",
+   "Clockwork",
+   "Watch movement",
+   "Gear"
+  ],
+  [
+   "Big Ben",
+   "Clock",
+   "Clock tower",
+   "Building",
+   "Palace of Westminster"
+  ],
+  [
+   "Eiffel Tower",
+   "Tower",
+   "Building"
+  ],
+  [
+   "Statue of Liberty",
+   "Statue",
+   "Monument"
+  ],
+  [
+   "Leaning Tower of Pisa",
+   "Bell tower"
+  ],
+  [
+   "Windmill",
+   "Wind turbine",
+   "Watermill"
+  ],
+  [
+   "Oil derrick",
+   "Oil rig"
+  ],
+  [
+   "Smokestack",
+   "Chimney",
+   "Cooling tower"
+  ],
+  [
+   "Power plant",
+   "Cooling tower",
+   "Nuclear reactor"
+  ],
+  [
+   "Solar farm",
+   "Solar panel"
+  ],
+  [
+   "Gumball machine",
+   "Vending machine"
+  ],
+  [
+   "Espresso machine",
+   "Coffee maker"
+  ],
+  [
+   "Printing press",
+   "Typewriter"
+  ],
+  [
+   "Lathe",
+   "Drill press"
+  ],
+  [
+   "Hand mixer",
+   "Stand mixer",
+   "Egg beater"
+  ],
+  [
+   "Car jack",
+   "Tire iron"
+  ],
+  [
+   "Socket wrench",
+   "Wrench"
+  ],
+  [
+   "Turnstile",
+   "Gate"
+  ],
+  [
+   "Foghorn",
+   "Car horn"
+  ],
+  [
+   "Siren",
+   "Alarm bell"
+  ],
+  [
+   "Gateway Arch",
+   "Arch"
+  ],
+  [
+   "Golden Gate Bridge",
+   "Brooklyn Bridge",
+   "Bridge"
+  ],
+  [
+   "Mount Rushmore",
+   "Monument",
+   "Mountain"
+  ],
+  [
+   "Hoover Dam",
+   "Dam"
+  ],
+  [
+   "Las Vegas sign",
+   "Las Vegas Strip"
+  ],
+  [
+   "Charging Bull",
+   "Wall Street"
+  ],
+  [
+   "Hollywood Sign",
+   "Hollywood Walk of Fame"
+  ],
+  [
+   "Kennedy Space Center",
+   "Rocket",
+   "Space shuttle"
+  ],
+  [
+   "Times Square",
+   "Shibuya Crossing",
+   "Piccadilly Circus"
+  ],
+  [
+   "Grand Prismatic Spring",
+   "Old Faithful",
+   "Yellowstone"
+  ],
+  [
+   "Half Dome",
+   "El Capitan",
+   "Yosemite"
+  ],
+  [
+   "Old Faithful",
+   "Geyser"
+  ],
+  [
+   "Twelve Apostles",
+   "Sea stack"
+  ],
+  [
+   "Washer",
+   "Washing machine"
+  ],
+  [
+   "Landmark",
+   "Statue of Liberty"
+  ],
+  [
+   "Landmark",
+   "Eiffel Tower"
+  ],
+  [
+   "Landmark",
+   "Big Ben"
+  ],
+  [
+   "Landmark",
+   "Taj Mahal"
+  ],
+  [
+   "Landmark",
+   "Colosseum"
+  ],
+  [
+   "Landmark",
+   "Great Wall of China"
+  ],
+  [
+   "Landmark",
+   "Pyramids of Giza"
+  ],
+  [
+   "Landmark",
+   "Christ the Redeemer"
+  ],
+  [
+   "Landmark",
+   "Sydney Opera House"
+  ],
+  [
+   "Landmark",
+   "Golden Gate Bridge"
+  ],
+  [
+   "Landmark",
+   "Mount Rushmore"
+  ],
+  [
+   "Landmark",
+   "Machu Picchu"
+  ],
+  [
+   "Landmark",
+   "Stonehenge"
+  ],
+  [
+   "Landmark",
+   "Leaning Tower of Pisa"
+  ],
+  [
+   "Landmark",
+   "Empire State Building"
+  ],
+  [
+   "Landmark",
+   "Burj Khalifa"
+  ],
+  [
+   "Landmark",
+   "Gateway Arch"
+  ],
+  [
+   "Landmark",
+   "Space Needle"
+  ],
+  [
+   "Landmark",
+   "Hollywood Sign"
+  ],
+  [
+   "Landmark",
+   "Tower Bridge"
+  ],
+  [
+   "Landmark",
+   "Arc de Triomphe"
+  ],
+  [
+   "Landmark",
+   "Acropolis"
+  ],
+  [
+   "Landmark",
+   "Petra"
+  ],
+  [
+   "Landmark",
+   "Angkor Wat"
+  ],
+  [
+   "Landmark",
+   "Chichen Itza"
+  ],
+  [
+   "Landmark",
+   "Easter Island statues"
+  ],
+  [
+   "Landmark",
+   "Brandenburg Gate"
+  ],
+  [
+   "Landmark",
+   "Washington Monument"
+  ],
+  [
+   "Landmark",
+   "Lincoln Memorial"
+  ],
+  [
+   "Landmark",
+   "White House"
+  ],
+  [
+   "Landmark",
+   "Times Square"
+  ],
+  [
+   "Landmark",
+   "Niagara Falls"
+  ],
+  [
+   "Landmark",
+   "Grand Canyon"
+  ],
+  [
+   "Landmark",
+   "Mount Fuji"
+  ],
+  [
+   "Landmark",
+   "Uluru"
+  ],
+  [
+   "Building",
+   "Big Ben"
+  ],
+  [
+   "Building",
+   "Empire State Building"
+  ],
+  [
+   "Building",
+   "Chrysler Building"
+  ],
+  [
+   "Building",
+   "Flatiron Building"
+  ],
+  [
+   "Building",
+   "One World Trade Center"
+  ],
+  [
+   "Building",
+   "Willis Tower"
+  ],
+  [
+   "Building",
+   "Burj Khalifa"
+  ],
+  [
+   "Building",
+   "Burj Al Arab"
+  ],
+  [
+   "Building",
+   "Petronas Towers"
+  ],
+  [
+   "Building",
+   "Shanghai Tower"
+  ],
+  [
+   "Building",
+   "The Shard"
+  ],
+  [
+   "Building",
+   "The Gherkin"
+  ],
+  [
+   "Building",
+   "White House"
+  ],
+  [
+   "Building",
+   "United States Capitol"
+  ],
+  [
+   "Building",
+   "Buckingham Palace"
+  ],
+  [
+   "Building",
+   "Palace of Westminster"
+  ],
+  [
+   "Building",
+   "Taj Mahal"
+  ],
+  [
+   "Building",
+   "Sydney Opera House"
+  ],
+  [
+   "Building",
+   "Notre-Dame de Paris"
+  ],
+  [
+   "Building",
+   "Sagrada Familia"
+  ],
+  [
+   "Building",
+   "St. Peter's Basilica"
+  ],
+  [
+   "Building",
+   "Saint Basil's Cathedral"
+  ],
+  [
+   "Building",
+   "Hagia Sophia"
+  ],
+  [
+   "Building",
+   "Blue Mosque"
+  ],
+  [
+   "Building",
+   "Kremlin"
+  ],
+  [
+   "Building",
+   "Forbidden City"
+  ],
+  [
+   "Building",
+   "Potala Palace"
+  ],
+  [
+   "Building",
+   "Himeji Castle"
+  ],
+  [
+   "Building",
+   "Osaka Castle"
+  ],
+  [
+   "Building",
+   "Neuschwanstein Castle"
+  ],
+  [
+   "Building",
+   "Windsor Castle"
+  ],
+  [
+   "Building",
+   "Edinburgh Castle"
+  ],
+  [
+   "Building",
+   "Tower of London"
+  ],
+  [
+   "Building",
+   "Westminster Abbey"
+  ],
+  [
+   "Building",
+   "St. Paul's Cathedral"
+  ],
+  [
+   "Building",
+   "Cologne Cathedral"
+  ],
+  [
+   "Building",
+   "Florence Cathedral"
+  ],
+  [
+   "Building",
+   "Milan Cathedral"
+  ],
+  [
+   "Building",
+   "Palace of Versailles"
+  ],
+  [
+   "Building",
+   "Château Frontenac"
+  ],
+  [
+   "Building",
+   "Hungarian Parliament Building"
+  ],
+  [
+   "Building",
+   "Independence Hall"
+  ],
+  [
+   "Building",
+   "Leaning Tower of Pisa"
+  ],
+  [
+   "Building",
+   "Eiffel Tower"
+  ],
+  [
+   "Building",
+   "CN Tower"
+  ],
+  [
+   "Building",
+   "Space Needle"
+  ],
+  [
+   "Building",
+   "Tokyo Tower"
+  ],
+  [
+   "Building",
+   "Tokyo Skytree"
+  ],
+  [
+   "Building",
+   "Oriental Pearl Tower"
+  ],
+  [
+   "Building",
+   "Marina Bay Sands"
+  ],
+  [
+   "Building",
+   "Lotus Temple"
+  ],
+  [
+   "Building",
+   "Golden Temple"
+  ],
+  [
+   "Building",
+   "Golden Pavilion"
+  ],
+  [
+   "Building",
+   "Temple of Heaven"
+  ],
+  [
+   "Building",
+   "Pantheon"
+  ],
+  [
+   "Building",
+   "Parthenon"
+  ],
+  [
+   "Building",
+   "Colosseum"
+  ],
+  [
+   "Building",
+   "Alamo"
+  ],
+  [
+   "Building",
+   "Smithsonian Castle"
+  ],
+  [
+   "Building",
+   "Griffith Observatory"
+  ],
+  [
+   "Building",
+   "Hawa Mahal"
+  ],
+  [
+   "Building",
+   "Red Fort"
+  ],
+  [
+   "Building",
+   "Sacré-Cœur"
+  ],
+  [
+   "Building",
+   "Moulin Rouge"
+  ],
+  [
+   "Building",
+   "Hearst Castle"
+  ],
+  [
+   "Building",
+   "Biltmore Estate"
+  ],
+  [
+   "Building",
+   "Monticello"
+  ],
+  [
+   "Building",
+   "Mount Vernon"
+  ],
+  [
+   "Building",
+   "Graceland"
+  ],
+  [
+   "Building",
+   "Madison Square Garden"
+  ],
+  [
+   "Building",
+   "Radio City Music Hall"
+  ],
+  [
+   "Building",
+   "Wrigley Field"
+  ],
+  [
+   "Building",
+   "Fenway Park"
+  ],
+  [
+   "Monument",
+   "Washington Monument"
+  ],
+  [
+   "Monument",
+   "Lincoln Memorial"
+  ],
+  [
+   "Monument",
+   "Jefferson Memorial"
+  ],
+  [
+   "Monument",
+   "Vietnam Veterans Memorial"
+  ],
+  [
+   "Monument",
+   "Martin Luther King Jr. Memorial"
+  ],
+  [
+   "Monument",
+   "World War II Memorial"
+  ],
+  [
+   "Monument",
+   "9/11 Memorial"
+  ],
+  [
+   "Monument",
+   "USS Arizona Memorial"
+  ],
+  [
+   "Monument",
+   "Mount Rushmore"
+  ],
+  [
+   "Monument",
+   "Statue of Liberty"
+  ],
+  [
+   "Monument",
+   "Arc de Triomphe"
+  ],
+  [
+   "Monument",
+   "Brandenburg Gate"
+  ],
+  [
+   "Monument",
+   "India Gate"
+  ],
+  [
+   "Monument",
+   "Gateway of India"
+  ],
+  [
+   "Monument",
+   "Gateway Arch"
+  ],
+  [
+   "Monument",
+   "Arch of St. Louis"
+  ],
+  [
+   "Monument",
+   "Christ the Redeemer"
+  ],
+  [
+   "Monument",
+   "Statue of Unity"
+  ],
+  [
+   "Monument",
+   "Stonehenge"
+  ],
+  [
+   "Monument",
+   "Easter Island statues"
+  ],
+  [
+   "Monument",
+   "Moai"
+  ],
+  [
+   "Monument",
+   "Little Mermaid statue"
+  ],
+  [
+   "Monument",
+   "Manneken Pis"
+  ],
+  [
+   "Monument",
+   "Atomium"
+  ],
+  [
+   "Monument",
+   "Merlion"
+  ],
+  [
+   "Monument",
+   "Charging Bull"
+  ],
+  [
+   "Monument",
+   "Cloud Gate"
+  ],
+  [
+   "Monument",
+   "Plymouth Rock"
+  ],
+  [
+   "Monument",
+   "Hadrian's Wall"
+  ],
+  [
+   "Monument",
+   "Berlin Wall"
+  ],
+  [
+   "Monument",
+   "Terracotta Army"
+  ],
+  [
+   "Aircraft",
+   "Airplane"
+  ],
+  [
+   "Aircraft",
+   "Helicopter"
+  ],
+  [
+   "Aircraft",
+   "Jet"
+  ],
+  [
+   "Aircraft",
+   "Jumbo jet"
+  ],
+  [
+   "Aircraft",
+   "Fighter jet"
+  ],
+  [
+   "Aircraft",
+   "Biplane"
+  ],
+  [
+   "Aircraft",
+   "Seaplane"
+  ],
+  [
+   "Aircraft",
+   "Cargo plane"
+  ],
+  [
+   "Aircraft",
+   "Concorde"
+  ],
+  [
+   "Aircraft",
+   "Private jet"
+  ],
+  [
+   "Aircraft",
+   "Glider"
+  ],
+  [
+   "Aircraft",
+   "Blimp"
+  ],
+  [
+   "Aircraft",
+   "Airship"
+  ],
+  [
+   "Aircraft",
+   "Zeppelin"
+  ],
+  [
+   "Aircraft",
+   "Hot air balloon"
+  ],
+  [
+   "Aircraft",
+   "Drone"
+  ],
+  [
+   "Aircraft",
+   "Hang glider"
+  ],
+  [
+   "Aircraft",
+   "Space shuttle"
+  ],
+  [
+   "National park",
+   "Yellowstone"
+  ],
+  [
+   "National park",
+   "Yosemite"
+  ],
+  [
+   "National park",
+   "Grand Canyon"
+  ],
+  [
+   "National park",
+   "Grand Teton"
+  ],
+  [
+   "National park",
+   "Zion National Park"
+  ],
+  [
+   "National park",
+   "Arches National Park"
+  ],
+  [
+   "National park",
+   "Bryce Canyon"
+  ],
+  [
+   "National park",
+   "Badlands"
+  ],
+  [
+   "National park",
+   "Great Smoky Mountains"
+  ],
+  [
+   "National park",
+   "Everglades"
+  ],
+  [
+   "National park",
+   "Death Valley"
+  ],
+  [
+   "National park",
+   "Redwood forest"
+  ],
+  [
+   "National park",
+   "Carlsbad Caverns"
+  ],
+  [
+   "National park",
+   "Mammoth Cave"
+  ],
+  [
+   "National park",
+   "Crater Lake"
+  ],
+  [
+   "National park",
+   "Mount Rainier"
+  ],
+  [
+   "National park",
+   "Torres del Paine"
+  ],
+  [
+   "National park",
+   "Serengeti"
+  ],
+  [
+   "National park",
+   "Milford Sound"
+  ],
+  [
+   "Street",
+   "Lombard Street"
+  ],
+  [
+   "Street",
+   "Champs-Élysées"
+  ],
+  [
+   "Street",
+   "Wall Street"
+  ],
+  [
+   "Street",
+   "Route 66"
+  ],
+  [
+   "Street",
+   "Las Vegas Strip"
+  ],
+  [
+   "Street",
+   "Abbey Road"
+  ],
+  [
+   "Street",
+   "Shibuya Crossing"
+  ],
+  [
+   "Street",
+   "Times Square"
+  ],
+  [
+   "Street",
+   "Piccadilly Circus"
+  ],
+  [
+   "Street",
+   "Trafalgar Square"
+  ],
+  [
+   "Street",
+   "Red Square"
+  ],
+  [
+   "Street",
+   "Tiananmen Square"
+  ],
+  [
+   "Street",
+   "French Quarter"
+  ],
+  [
+   "Stadium",
+   "Wrigley Field"
+  ],
+  [
+   "Stadium",
+   "Fenway Park"
+  ],
+  [
+   "Stadium",
+   "Madison Square Garden"
+  ],
+  [
+   "Stadium",
+   "Colosseum"
+  ],
+  [
+   "Car engine",
+   "Piston",
+   "Spark plug",
+   "Crankshaft",
+   "Gear",
+   "Gearbox",
+   "Carburetor"
+  ],
+  [
+   "Helicopter",
+   "Jet",
+   "Blimp",
+   "Airship",
+   "Fighter jet",
+   "Glider"
   ]
  ]
 }
