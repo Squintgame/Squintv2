@@ -271,9 +271,9 @@
     <a href="./" id="tabDaily">Daily</a>
     <a href="./#flags" id="tabFlags">Flags</a>
   </nav>
-  <div class="flag-tools" id="flagTools" hidden>
+  <div class="flag-tools" id="modeTools" hidden>
     <button class="btn ghost small" id="archiveBtn">Archive</button>
-    <a class="btn ghost small" href="./?random=1#flags" id="randomBtn">Random</a>
+    <button class="btn ghost small" id="randomBtn">Random</button>
   </div>
 
   <main>
@@ -339,12 +339,12 @@
 
 <dialog id="archive" aria-labelledby="archiveTitle">
   <div class="dialog-head">
-    <h2 id="archiveTitle">Flags archive</h2>
+    <h2 id="archiveTitle">Archive</h2>
     <button class="icon-btn" data-close aria-label="Close">
       <svg width="14" height="14" viewBox="0 0 14 14" aria-hidden="true"><path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
     </button>
   </div>
-  <p class="arch-note">Play any past flag. Archive games don't count toward your streak or stats.</p>
+  <p class="arch-note" id="archNote">Play any past puzzle. Archive games don't count toward your streak or stats.</p>
   <div class="arch-list" id="archList"></div>
 </dialog>
 
@@ -391,15 +391,16 @@ const params = new URLSearchParams(location.search);
 const testMode = params.has("day");
 const todayIndex = Math.max(0, dayIndexFor(new Date()));
 const archiveNum = parseInt(params.get("archive"), 10);
-// Flags extras: a past day from the archive, or a random flag. Neither counts toward stats or streaks.
-const archiveMode = MODE === "flags" && !testMode && archiveNum >= 1 && archiveNum - 1 < todayIndex;
-const randomMode = MODE === "flags" && !testMode && params.has("random");
+// Extras in both tabs: a past day from the archive, or a random puzzle. Neither counts toward stats or streaks.
+const archiveMode = !testMode && archiveNum >= 1 && archiveNum - 1 < todayIndex;
+const randomMode = !testMode && params.has("random");
 const OFF_RECORD = testMode || archiveMode || randomMode;
 let dayIndex = testMode ? (parseInt(params.get("day"), 10) || 1) - 1 : archiveMode ? archiveNum - 1 : todayIndex;
 if (dayIndex < 0) dayIndex = 0;
 const puzzleNum = dayIndex + 1;
-// Archive games are saved per day; today's flag is also copied there so the archive remembers it.
-const STATE_KEY = archiveMode ? `squint-flags-a${puzzleNum}` : KEY.state;
+// Archive games are saved per day; today's game is also copied there so the archive remembers it.
+const archiveKey = n => (MODE === "flags" ? `squint-flags-a${n}` : `squint-a${n}`);
+const STATE_KEY = archiveMode ? archiveKey(puzzleNum) : KEY.state;
 
 /* =========================================================
    STATE
@@ -542,6 +543,8 @@ async function start() {
     if (!state || state.puzzle !== puzzleNum || testMode || randomMode) {   // a random flag always starts fresh
       state = { puzzle: puzzleNum, guesses: [], status: "playing" };
     }
+    // Make sure today's game (even one finished before the archive existed) shows up in the archive.
+    if (!OFF_RECORD && state.guesses.length) save(archiveKey(puzzleNum), state);
 
     await showLevel(currentLevel(), false);
     $("loading").hidden = true;
@@ -567,6 +570,13 @@ async function loadDaily() {
     ]);
     SIM = buildSimilar(similar);
 
+    // Random: any past puzzle (never today's or a future one, so nothing is spoiled).
+    if (randomMode) {
+      const pastCount = Math.min(todayIndex, schedule.length);
+      const pool = pastCount > 0 ? pastCount : Math.min(1, schedule.length);
+      if (!pool) { $("loading").textContent = "There are no past puzzles to play yet."; return false; }
+      dayIndex = Math.floor(Math.random() * pool);
+    }
     // Today's scheduled puzzle, or a replay of a past one if nothing is queued (or it fails to load).
     let folder = schedule[dayIndex];
     let g = folder ? await getJSON(`puzzles/${folder}/game.json`).catch(err => { console.warn(err); return null; }) : null;
@@ -575,8 +585,10 @@ async function loadDaily() {
         folder = schedule[pick];
         g = await getJSON(`puzzles/${folder}/game.json`).catch(() => null);
         if (g) {
-          $("replay").textContent = `From the archive: today is a replay of puzzle #${pick + 1}.`;
-          $("replay").hidden = false;
+          if (!archiveMode && !randomMode) {
+            $("replay").textContent = `From the archive: today is a replay of puzzle #${pick + 1}.`;
+            $("replay").hidden = false;
+          }
           break;
         }
       }
@@ -926,7 +938,7 @@ function say(text, ms = 2600) {
 
 function saveState() {
   save(STATE_KEY, state);
-  if (MODE === "flags" && !archiveMode) save(`squint-flags-a${puzzleNum}`, state);
+  if (!archiveMode) save(archiveKey(puzzleNum), state);
 }
 
 function shake() {
@@ -1003,9 +1015,10 @@ function shareText() {
     if (!g) return "⬜";
     return g.correct ? "🟩" : g.close ? "🟨" : "🟥";
   }).join("");
-  const title = randomMode ? "Squint Flags 🎲 Random flag"
-    : MODE === "flags" ? `Squint Flags #${puzzleNum}${archiveMode ? " (archive)" : ""} 🏳️`
-    : `Squint #${puzzleNum} 🔍`;
+  const name = MODE === "flags" ? "Squint Flags" : "Squint";
+  const icon = MODE === "flags" ? "🏳️" : "🔍";
+  const title = randomMode ? `${name} 🎲 Random ${MODE === "flags" ? "flag" : "puzzle"}`
+    : `${name} #${puzzleNum}${archiveMode ? " (archive)" : ""} ${icon}`;
   const link = MODE === "flags" ? `${SITE_URL}/#flags` : SITE_URL;
   return `${title} ${won ? state.guesses.length : "X"}/${MAX_GUESSES}\n${row}\n${link}`;
 }
@@ -1168,34 +1181,41 @@ updateThemeButton();
 
 $(MODE === "flags" ? "tabFlags" : "tabDaily").setAttribute("aria-current", "page");
 
-/* Flags extras: archive list, random flag, and the note above the picture. */
-if (MODE === "flags" && !testMode) {
-  $("flagTools").hidden = false;
+/* Archive and Random (both tabs), and the note above the picture. */
+const homeUrl = MODE === "flags" ? "./#flags" : "./";
+const randomUrl = () => `./?random=${Date.now()}${MODE === "flags" ? "#flags" : ""}`;   // always a fresh puzzle
+if (!testMode) {
+  $("modeTools").hidden = false;
   $("archiveBtn").addEventListener("click", openArchive);
+  $("randomBtn").addEventListener("click", () => { location.href = randomUrl(); });
+  const what = MODE === "flags" ? "flag" : "puzzle";
   if (archiveMode) {
-    $("replay").innerHTML = `Archive: Flags #${puzzleNum} from ${flagDate(puzzleNum)}. Doesn't affect your streak.<a href="./#flags">Back to today</a>`;
+    $("replay").innerHTML = `Archive: ${MODE === "flags" ? "Flags " : ""}#${puzzleNum} from ${puzzleDate(puzzleNum)}. Doesn't affect your streak.<a href="${homeUrl}">Back to today</a>`;
     $("replay").hidden = false;
   } else if (randomMode) {
     $("num").textContent = "🎲";
-    $("replay").innerHTML = `Random flag, just for fun. Doesn't affect your stats.<a href="./?random=${Date.now()}#flags">New random flag</a>`;
+    $("replay").innerHTML = `Random ${what}, just for fun. Doesn't affect your stats.<a href="#" id="newRandom">New random ${what}</a>`;
     $("replay").hidden = false;
+    $("newRandom").addEventListener("click", e => { e.preventDefault(); location.href = randomUrl(); });
   }
 }
 
-function flagDate(n) {
-  return new Date(FLAGS_LAUNCH + (n - 1) * 86400000).toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+function puzzleDate(n) {
+  const launch = MODE === "flags" ? FLAGS_LAUNCH : LAUNCH;
+  return new Date(launch + (n - 1) * 86400000).toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
 }
 
 function openArchive() {
   const today = todayIndex + 1, rows = [];
+  $("archiveTitle").textContent = MODE === "flags" ? "Flags archive" : "Archive";
   for (let n = today; n >= 1; n--) {
-    const st = load(`squint-flags-a${n}`, null);
+    const st = load(archiveKey(n), null);
     let label = "Not played", cls = "";
     if (st && st.status === "won") { label = `Solved in ${st.guesses.length}/6`; cls = "won"; }
     else if (st && st.status === "lost") { label = "Missed"; cls = "lost"; }
     else if (st && st.guesses && st.guesses.length) { label = "In progress"; cls = "going"; }
-    const href = n === today ? "./#flags" : `./?archive=${n}#flags`;
-    rows.push(`<a class="arch-row" href="${href}"><span class="n">#${n}</span><span class="d">${n === today ? "Today" : flagDate(n)}</span><span class="st ${cls}">${label}</span></a>`);
+    const href = n === today ? homeUrl : `./?archive=${n}${MODE === "flags" ? "#flags" : ""}`;
+    rows.push(`<a class="arch-row" href="${href}"><span class="n">#${n}</span><span class="d">${n === today ? "Today" : puzzleDate(n)}</span><span class="st ${cls}">${label}</span></a>`);
   }
   $("archList").innerHTML = rows.join("");
   $("archive").showModal();
