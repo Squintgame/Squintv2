@@ -1,0 +1,67 @@
+{
+  "a": "=4WYnFmQ",
+  "ar": "==gch1mbhlXT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Old_Bagan,_Myanmar,_Bagan_plains_at_sunset.jpg",
+  "photographer": "Vyacheslav Argenberg (CC BY 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "62d362c39364.webp",
+      "rect": {
+        "x": 869,
+        "y": 1676,
+        "size": 240
+      }
+    },
+    {
+      "file": "2adddbf565ee.webp",
+      "rect": {
+        "x": 809,
+        "y": 1616,
+        "size": 360
+      }
+    },
+    {
+      "file": "a100cb07bc6d.webp",
+      "rect": {
+        "x": 719,
+        "y": 1526,
+        "size": 540
+      }
+    },
+    {
+      "file": "1127a6dfcd7a.webp",
+      "rect": {
+        "x": 574,
+        "y": 1328,
+        "size": 830
+      }
+    },
+    {
+      "file": "557f94b8b584.webp",
+      "rect": {
+        "x": 354,
+        "y": 889,
+        "size": 1269
+      }
+    },
+    {
+      "file": "50c5c6bd5029.webp",
+      "rect": {
+        "x": 90,
+        "y": 360,
+        "size": 1798
+      }
+    },
+    {
+      "file": "8eedf2bdbd3e.webp",
+      "rect": {
+        "x": 0,
+        "y": -841,
+        "size": 3840
+      }
+    }
+  ]
+}

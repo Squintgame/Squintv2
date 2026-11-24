@@ -1,0 +1,67 @@
+{
+  "a": "=Umcv1GazVnUgQnb19WT",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Mount_Rushmore_detail_view_(100MP).jpg",
+  "photographer": "Thomas Wolf, www.foto-tw.de (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b605e0fc0d01.webp",
+      "rect": {
+        "x": 1765,
+        "y": 2047,
+        "size": 290
+      }
+    },
+    {
+      "file": "248417ba8c03.webp",
+      "rect": {
+        "x": 1693,
+        "y": 1974,
+        "size": 435
+      }
+    },
+    {
+      "file": "2e28cba4fbab.webp",
+      "rect": {
+        "x": 1584,
+        "y": 1865,
+        "size": 653
+      }
+    },
+    {
+      "file": "1dc1f06152c1.webp",
+      "rect": {
+        "x": 1408,
+        "y": 1607,
+        "size": 1004
+      }
+    },
+    {
+      "file": "f6e94b17d2ce.webp",
+      "rect": {
+        "x": 1142,
+        "y": 1075,
+        "size": 1536
+      }
+    },
+    {
+      "file": "dcd89fdee8e2.webp",
+      "rect": {
+        "x": 822,
+        "y": 435,
+        "size": 2176
+      }
+    },
+    {
+      "file": "ac59a2d69957.webp",
+      "rect": {
+        "x": 0,
+        "y": -614,
+        "size": 3840
+      }
+    }
+  ]
+}

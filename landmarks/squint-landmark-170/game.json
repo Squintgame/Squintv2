@@ -1,0 +1,67 @@
+{
+  "a": "==QZ0F2RgQWdvx2Q",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:A_public_square_in_Chicago_(9326033069).jpg",
+  "photographer": "orangemania from Montréal, QC (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "8df4eba81e46.webp",
+      "rect": {
+        "x": 1055,
+        "y": 773,
+        "size": 284
+      }
+    },
+    {
+      "file": "a375cb3bd211.webp",
+      "rect": {
+        "x": 983,
+        "y": 702,
+        "size": 427
+      }
+    },
+    {
+      "file": "80ca8e4cd988.webp",
+      "rect": {
+        "x": 877,
+        "y": 595,
+        "size": 640
+      }
+    },
+    {
+      "file": "9f5b28679b1a.webp",
+      "rect": {
+        "x": 704,
+        "y": 423,
+        "size": 985
+      }
+    },
+    {
+      "file": "0fcdf8105184.webp",
+      "rect": {
+        "x": 444,
+        "y": 162,
+        "size": 1506
+      }
+    },
+    {
+      "file": "962c8f1f85d4.webp",
+      "rect": {
+        "x": 130,
+        "y": 0,
+        "size": 2133
+      }
+    },
+    {
+      "file": "5c5afad27506.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

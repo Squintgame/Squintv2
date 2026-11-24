@@ -1,0 +1,67 @@
+{
+  "a": "==AajFWZCBSYuFmYhNWYw92Q",
+  "ar": "slmehJnQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Copacabana_Sunny_Day_-)_-_panoramio.jpg",
+  "photographer": "Yas.Iwamoto (CC BY 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "67e64e449001.webp",
+      "rect": {
+        "x": 343,
+        "y": 1703,
+        "size": 272
+      }
+    },
+    {
+      "file": "78a1bcc50207.webp",
+      "rect": {
+        "x": 275,
+        "y": 1635,
+        "size": 408
+      }
+    },
+    {
+      "file": "6e59f9c3121b.webp",
+      "rect": {
+        "x": 173,
+        "y": 1533,
+        "size": 612
+      }
+    },
+    {
+      "file": "8e237f02958a.webp",
+      "rect": {
+        "x": 8,
+        "y": 1368,
+        "size": 942
+      }
+    },
+    {
+      "file": "a9b3a9bdff67.webp",
+      "rect": {
+        "x": 0,
+        "y": 1008,
+        "size": 1440
+      }
+    },
+    {
+      "file": "dbbf2c298c4a.webp",
+      "rect": {
+        "x": 0,
+        "y": 408,
+        "size": 2040
+      }
+    },
+    {
+      "file": "99bd39ae69dd.webp",
+      "rect": {
+        "x": 0,
+        "y": -408,
+        "size": 3264
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==AblJWbpNFI1JWQ",
+  "ar": "=QHc5dWR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Gro%C3%9Fer_Tempel_(Abu_Simbel)_31.jpg",
+  "photographer": "Olaf Tausch",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "d6757b7ca3b1.webp",
+      "rect": {
+        "x": 243,
+        "y": 1043,
+        "size": 320
+      }
+    },
+    {
+      "file": "745c7a4a01bc.webp",
+      "rect": {
+        "x": 163,
+        "y": 963,
+        "size": 480
+      }
+    },
+    {
+      "file": "aaa4848e2a6e.webp",
+      "rect": {
+        "x": 43,
+        "y": 843,
+        "size": 720
+      }
+    },
+    {
+      "file": "5c7a8778d549.webp",
+      "rect": {
+        "x": 0,
+        "y": 649,
+        "size": 1107
+      }
+    },
+    {
+      "file": "2ed7e46d6ed0.webp",
+      "rect": {
+        "x": 0,
+        "y": 356,
+        "size": 1694
+      }
+    },
+    {
+      "file": "3c89693ee4b7.webp",
+      "rect": {
+        "x": 0,
+        "y": 3,
+        "size": 2399
+      }
+    },
+    {
+      "file": "0e58d2081ac5.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

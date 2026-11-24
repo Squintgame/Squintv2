@@ -1,0 +1,67 @@
+{
+  "a": "==wcpJXYQBSZkBSZtFGRtUmc09mT",
+  "ar": "lNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_2013-07-24.jpg",
+  "photographer": "P e z i (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "e521edee795e.webp",
+      "rect": {
+        "x": 457,
+        "y": 3712,
+        "size": 372
+      }
+    },
+    {
+      "file": "995ba55ebbf6.webp",
+      "rect": {
+        "x": 364,
+        "y": 3619,
+        "size": 558
+      }
+    },
+    {
+      "file": "873e7e5008ce.webp",
+      "rect": {
+        "x": 225,
+        "y": 3479,
+        "size": 837
+      }
+    },
+    {
+      "file": "89b52478b090.webp",
+      "rect": {
+        "x": 0,
+        "y": 3231,
+        "size": 1288
+      }
+    },
+    {
+      "file": "8b4d7e73fa69.webp",
+      "rect": {
+        "x": 0,
+        "y": 2550,
+        "size": 1969
+      }
+    },
+    {
+      "file": "8053940694d7.webp",
+      "rect": {
+        "x": 0,
+        "y": 1729,
+        "size": 2790
+      }
+    },
+    {
+      "file": "088e8a427a08.webp",
+      "rect": {
+        "x": -585,
+        "y": 0,
+        "size": 4519
+      }
+    }
+  ]
+}

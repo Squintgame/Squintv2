@@ -1,0 +1,67 @@
+{
+  "a": "yV2dvRFIzxWa2VGR",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Flaganddevilstower.jpg",
+  "photographer": "Ealdgyth (CC BY 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "378ab5d047cf.webp",
+      "rect": {
+        "x": 887,
+        "y": 888,
+        "size": 271
+      }
+    },
+    {
+      "file": "0ed557a70ca3.webp",
+      "rect": {
+        "x": 819,
+        "y": 820,
+        "size": 406
+      }
+    },
+    {
+      "file": "32b5c07d632d.webp",
+      "rect": {
+        "x": 718,
+        "y": 718,
+        "size": 609
+      }
+    },
+    {
+      "file": "4e7a0c29faf2.webp",
+      "rect": {
+        "x": 554,
+        "y": 555,
+        "size": 937
+      }
+    },
+    {
+      "file": "0c20ec667277.webp",
+      "rect": {
+        "x": 306,
+        "y": 307,
+        "size": 1433
+      }
+    },
+    {
+      "file": "ad29072f28a8.webp",
+      "rect": {
+        "x": 7,
+        "y": 8,
+        "size": 2030
+      }
+    },
+    {
+      "file": "a8df523c7184.webp",
+      "rect": {
+        "x": -487,
+        "y": 0,
+        "size": 3410
+      }
+    }
+  ]
+}

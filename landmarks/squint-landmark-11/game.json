@@ -1,0 +1,67 @@
+{
+  "a": "tVXZzN3bs92Q",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+  "photographer": "FeaturedPics (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "6ca78dfe7e73.webp",
+      "rect": {
+        "x": 225,
+        "y": 1551,
+        "size": 299
+      }
+    },
+    {
+      "file": "39d427ac2a2c.webp",
+      "rect": {
+        "x": 150,
+        "y": 1476,
+        "size": 448
+      }
+    },
+    {
+      "file": "ead9b49e2d62.webp",
+      "rect": {
+        "x": 38,
+        "y": 1364,
+        "size": 672
+      }
+    },
+    {
+      "file": "6faa69c8cc36.webp",
+      "rect": {
+        "x": 0,
+        "y": 1183,
+        "size": 1035
+      }
+    },
+    {
+      "file": "e975740f0bae.webp",
+      "rect": {
+        "x": 0,
+        "y": 909,
+        "size": 1582
+      }
+    },
+    {
+      "file": "8a7b5dc68296.webp",
+      "rect": {
+        "x": 0,
+        "y": 448,
+        "size": 2242
+      }
+    },
+    {
+      "file": "a83a9e5b593b.webp",
+      "rect": {
+        "x": 0,
+        "y": -575,
+        "size": 3840
+      }
+    }
+  ]
+}

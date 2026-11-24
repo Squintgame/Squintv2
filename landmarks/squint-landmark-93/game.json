@@ -1,0 +1,67 @@
+{
+  "a": "==QZsBXblRFIrFmbyF2S",
+  "ar": "=QHc5dWR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Luxor,_Egypt,_Karnak.jpg",
+  "photographer": "Vyacheslav Argenberg (CC BY 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "63bf0fc81435.webp",
+      "rect": {
+        "x": 1069,
+        "y": 280,
+        "size": 228
+      }
+    },
+    {
+      "file": "f7d6ad96cfa5.webp",
+      "rect": {
+        "x": 1012,
+        "y": 224,
+        "size": 341
+      }
+    },
+    {
+      "file": "c21bc067cba6.webp",
+      "rect": {
+        "x": 927,
+        "y": 138,
+        "size": 512
+      }
+    },
+    {
+      "file": "09c2fcf646ef.webp",
+      "rect": {
+        "x": 789,
+        "y": 0,
+        "size": 788
+      }
+    },
+    {
+      "file": "9668cbf56d21.webp",
+      "rect": {
+        "x": 580,
+        "y": 0,
+        "size": 1205
+      }
+    },
+    {
+      "file": "1e2061c9d3a5.webp",
+      "rect": {
+        "x": 329,
+        "y": 0,
+        "size": 1707
+      }
+    },
+    {
+      "file": "96c9a476efe0.webp",
+      "rect": {
+        "x": 0,
+        "y": -512,
+        "size": 3072
+      }
+    }
+  ]
+}

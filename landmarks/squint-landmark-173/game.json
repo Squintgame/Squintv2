@@ -1,0 +1,67 @@
+{
+  "a": "==wboBFI0F2V",
+  "ar": "=QmbhxWahhGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Reclining_Buddha_statue_of_Wat_Pho9.jpg",
+  "photographer": "Wolfgang Holzem / https://ehalal.io/ (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "a2e42c498583.webp",
+      "rect": {
+        "x": 773,
+        "y": 773,
+        "size": 284
+      }
+    },
+    {
+      "file": "ee512ed8fbc0.webp",
+      "rect": {
+        "x": 702,
+        "y": 702,
+        "size": 427
+      }
+    },
+    {
+      "file": "2bf00485be18.webp",
+      "rect": {
+        "x": 595,
+        "y": 595,
+        "size": 640
+      }
+    },
+    {
+      "file": "fc14bb6c8d39.webp",
+      "rect": {
+        "x": 423,
+        "y": 423,
+        "size": 985
+      }
+    },
+    {
+      "file": "fec1e83d1145.webp",
+      "rect": {
+        "x": 162,
+        "y": 162,
+        "size": 1506
+      }
+    },
+    {
+      "file": "400be3d4bb80.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2133
+      }
+    },
+    {
+      "file": "545ecad5d358.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

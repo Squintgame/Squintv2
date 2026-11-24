@@ -1,0 +1,67 @@
+{
+  "a": "==AZuV3bTBCZy9mZslWT",
+  "ar": "=QmbhxWYlpFI3VmT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:00_1371_New_Zealand_-_Milford_Sound.jpg",
+  "photographer": "W. Bulach (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "3b45202fa064.webp",
+      "rect": {
+        "x": 1385,
+        "y": 1781,
+        "size": 267
+      }
+    },
+    {
+      "file": "727029793a96.webp",
+      "rect": {
+        "x": 1318,
+        "y": 1714,
+        "size": 400
+      }
+    },
+    {
+      "file": "a0845e7afa7d.webp",
+      "rect": {
+        "x": 1218,
+        "y": 1614,
+        "size": 600
+      }
+    },
+    {
+      "file": "26e17e3c3aad.webp",
+      "rect": {
+        "x": 1056,
+        "y": 1452,
+        "size": 923
+      }
+    },
+    {
+      "file": "fbf06a5a4d19.webp",
+      "rect": {
+        "x": 812,
+        "y": 988,
+        "size": 1412
+      }
+    },
+    {
+      "file": "9a5638118ca3.webp",
+      "rect": {
+        "x": 518,
+        "y": 400,
+        "size": 2000
+      }
+    },
+    {
+      "file": "edeef0e4259b.webp",
+      "rect": {
+        "x": 0,
+        "y": -600,
+        "size": 3600
+      }
+    }
+  ]
+}

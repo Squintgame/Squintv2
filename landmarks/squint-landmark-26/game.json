@@ -1,0 +1,67 @@
+{
+  "a": "=Umbu92czF2YyF2Q",
+  "ar": "lNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:1_carcassonne_aerial_2016.jpg",
+  "photographer": "Chensiyuan (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "6f4f20379b9e.webp",
+      "rect": {
+        "x": 3353,
+        "y": 1772,
+        "size": 252
+      }
+    },
+    {
+      "file": "abfccab6340a.webp",
+      "rect": {
+        "x": 3290,
+        "y": 1709,
+        "size": 378
+      }
+    },
+    {
+      "file": "c1bd2e9d4a1e.webp",
+      "rect": {
+        "x": 3195,
+        "y": 1615,
+        "size": 566
+      }
+    },
+    {
+      "file": "4ac107b04a93.webp",
+      "rect": {
+        "x": 2968,
+        "y": 1394,
+        "size": 872
+      }
+    },
+    {
+      "file": "7be23553cb6c.webp",
+      "rect": {
+        "x": 2507,
+        "y": 933,
+        "size": 1333
+      }
+    },
+    {
+      "file": "751c5803cd31.webp",
+      "rect": {
+        "x": 1952,
+        "y": 378,
+        "size": 1888
+      }
+    },
+    {
+      "file": "63e36f371819.webp",
+      "rect": {
+        "x": 0,
+        "y": -787,
+        "size": 3840
+      }
+    }
+  ]
+}

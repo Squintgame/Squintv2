@@ -1,0 +1,67 @@
+{
+  "a": "=kHdyVmYpxEIm9GIlVHdhR3U",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Statue_of_Liberty_and_a_sightseeing_boat,_Liberty_Island,_New_York.jpg",
+  "photographer": "Christian David (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "d4947b4c9fb4.webp",
+      "rect": {
+        "x": 2885,
+        "y": 2040,
+        "size": 284
+      }
+    },
+    {
+      "file": "7ae0ff70b698.webp",
+      "rect": {
+        "x": 2814,
+        "y": 1969,
+        "size": 427
+      }
+    },
+    {
+      "file": "8b2c8273b45c.webp",
+      "rect": {
+        "x": 2707,
+        "y": 1862,
+        "size": 640
+      }
+    },
+    {
+      "file": "5c2d24925716.webp",
+      "rect": {
+        "x": 2535,
+        "y": 1575,
+        "size": 985
+      }
+    },
+    {
+      "file": "6b3a3423da5b.webp",
+      "rect": {
+        "x": 2274,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "564fecf60f77.webp",
+      "rect": {
+        "x": 1707,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "300abd40496d.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

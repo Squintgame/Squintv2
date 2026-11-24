@@ -1,0 +1,67 @@
+{
+  "a": "==gby9GayVGd0FWT",
+  "ar": "=QmbhxmclpHdpd3U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Il_ghiacciao_del_Cervino.JPG",
+  "photographer": "Aliberat (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "dc82a6a2f3f7.webp",
+      "rect": {
+        "x": 2894,
+        "y": 1766,
+        "size": 286
+      }
+    },
+    {
+      "file": "66a55b9636f2.webp",
+      "rect": {
+        "x": 2823,
+        "y": 1695,
+        "size": 428
+      }
+    },
+    {
+      "file": "2aaf744dbb37.webp",
+      "rect": {
+        "x": 2715,
+        "y": 1588,
+        "size": 643
+      }
+    },
+    {
+      "file": "f0414d288e69.webp",
+      "rect": {
+        "x": 2542,
+        "y": 1415,
+        "size": 989
+      }
+    },
+    {
+      "file": "ae0b5876b234.webp",
+      "rect": {
+        "x": 2281,
+        "y": 1059,
+        "size": 1512
+      }
+    },
+    {
+      "file": "34e53625da8c.webp",
+      "rect": {
+        "x": 1698,
+        "y": 428,
+        "size": 2142
+      }
+    },
+    {
+      "file": "26eea0dd765e.webp",
+      "rect": {
+        "x": 0,
+        "y": -634,
+        "size": 3840
+      }
+    }
+  ]
+}

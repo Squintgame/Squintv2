@@ -1,0 +1,67 @@
+{
+  "a": "p5Way9GduF2U",
+  "ar": "lNWZlJ3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Santor%C3%ADni_aerial.jpg",
+  "photographer": "kallerna (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "f963fe24113b.webp",
+      "rect": {
+        "x": 1473,
+        "y": 1601,
+        "size": 264
+      }
+    },
+    {
+      "file": "ef2d6530c6cb.webp",
+      "rect": {
+        "x": 1407,
+        "y": 1535,
+        "size": 396
+      }
+    },
+    {
+      "file": "68b43bcd3fcc.webp",
+      "rect": {
+        "x": 1309,
+        "y": 1436,
+        "size": 594
+      }
+    },
+    {
+      "file": "6ca96582685f.webp",
+      "rect": {
+        "x": 1149,
+        "y": 1277,
+        "size": 913
+      }
+    },
+    {
+      "file": "383e6a5db982.webp",
+      "rect": {
+        "x": 907,
+        "y": 978,
+        "size": 1397
+      }
+    },
+    {
+      "file": "2086852ffc8b.webp",
+      "rect": {
+        "x": 616,
+        "y": 396,
+        "size": 1979
+      }
+    },
+    {
+      "file": "15859805a02c.webp",
+      "rect": {
+        "x": 0,
+        "y": -727,
+        "size": 3830
+      }
+    }
+  ]
+}

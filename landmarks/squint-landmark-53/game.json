@@ -1,0 +1,67 @@
+{
+  "a": "==QZ0F2Rgcmc1JmblRmbhJnQ",
+  "ar": "==QeuFWbyV2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_morgens.jpg",
+  "photographer": "Thomas Wolf, www.foto-tw.de (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "7e3d834e1197.webp",
+      "rect": {
+        "x": 1902,
+        "y": 494,
+        "size": 285
+      }
+    },
+    {
+      "file": "6be259604242.webp",
+      "rect": {
+        "x": 1831,
+        "y": 423,
+        "size": 428
+      }
+    },
+    {
+      "file": "f1744e6635b2.webp",
+      "rect": {
+        "x": 1724,
+        "y": 316,
+        "size": 642
+      }
+    },
+    {
+      "file": "c8366289a8bc.webp",
+      "rect": {
+        "x": 1551,
+        "y": 143,
+        "size": 987
+      }
+    },
+    {
+      "file": "9befce8fc61d.webp",
+      "rect": {
+        "x": 1290,
+        "y": 0,
+        "size": 1509
+      }
+    },
+    {
+      "file": "15aaddfb7a25.webp",
+      "rect": {
+        "x": 976,
+        "y": 0,
+        "size": 2138
+      }
+    },
+    {
+      "file": "18be573fefd6.webp",
+      "rect": {
+        "x": 0,
+        "y": -637,
+        "size": 3840
+      }
+    }
+  ]
+}

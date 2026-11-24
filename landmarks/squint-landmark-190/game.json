@@ -1,0 +1,67 @@
+{
+  "a": "sVnZoRXahZEIkx2T",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Old_Faithful_Geyser_of_California_(9317201078).jpg",
+  "photographer": "Rennett Stowe from USA (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "d5448e22d471.webp",
+      "rect": {
+        "x": 783,
+        "y": 2493,
+        "size": 288
+      }
+    },
+    {
+      "file": "b9fef0732044.webp",
+      "rect": {
+        "x": 711,
+        "y": 2421,
+        "size": 432
+      }
+    },
+    {
+      "file": "7278cb79a85f.webp",
+      "rect": {
+        "x": 603,
+        "y": 2313,
+        "size": 648
+      }
+    },
+    {
+      "file": "81932a7fc698.webp",
+      "rect": {
+        "x": 428,
+        "y": 2139,
+        "size": 997
+      }
+    },
+    {
+      "file": "0d62715ad8df.webp",
+      "rect": {
+        "x": 164,
+        "y": 1875,
+        "size": 1525
+      }
+    },
+    {
+      "file": "09537c7f9763.webp",
+      "rect": {
+        "x": 0,
+        "y": 1557,
+        "size": 2160
+      }
+    },
+    {
+      "file": "24df48da56be.webp",
+      "rect": {
+        "x": -648,
+        "y": 0,
+        "size": 3888
+      }
+    }
+  ]
+}

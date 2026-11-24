@@ -1,0 +1,67 @@
+{
+  "a": "=wWYuF2QgQmbhJ3R",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Panorama_of_Canal_Grande_and_Ponte_di_Rialto,_Venice_-_September_2017.jpg",
+  "photographer": "Martin Falbisoner (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "f7b9a20123f1.webp",
+      "rect": {
+        "x": 430,
+        "y": 334,
+        "size": 190
+      }
+    },
+    {
+      "file": "019bd2c956f7.webp",
+      "rect": {
+        "x": 383,
+        "y": 286,
+        "size": 284
+      }
+    },
+    {
+      "file": "f964dc4a766e.webp",
+      "rect": {
+        "x": 311,
+        "y": 215,
+        "size": 427
+      }
+    },
+    {
+      "file": "54fc31109e84.webp",
+      "rect": {
+        "x": 197,
+        "y": 100,
+        "size": 657
+      }
+    },
+    {
+      "file": "dce72fd51d27.webp",
+      "rect": {
+        "x": 23,
+        "y": 0,
+        "size": 1004
+      }
+    },
+    {
+      "file": "7a76cfc039fb.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1422
+      }
+    },
+    {
+      "file": "288c74cb5103.webp",
+      "rect": {
+        "x": 0,
+        "y": -1066,
+        "size": 3840
+      }
+    }
+  ]
+}

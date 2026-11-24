@@ -1,0 +1,67 @@
+{
+  "a": "==QYjlGbpNXYCBycnsmch1EIuQ3U",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Venice_-_St._Marc%27s_Basilica_01.jpg",
+  "photographer": "Nino Barbieri (CC BY-SA 2.5)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "1b6bd8749ac8.webp",
+      "rect": {
+        "x": 2083,
+        "y": 1294,
+        "size": 228
+      }
+    },
+    {
+      "file": "66b58d06b885.webp",
+      "rect": {
+        "x": 2026,
+        "y": 1237,
+        "size": 341
+      }
+    },
+    {
+      "file": "7307e322388e.webp",
+      "rect": {
+        "x": 1940,
+        "y": 1152,
+        "size": 512
+      }
+    },
+    {
+      "file": "4ba15ca9f82c.webp",
+      "rect": {
+        "x": 1803,
+        "y": 1014,
+        "size": 788
+      }
+    },
+    {
+      "file": "851834495cbc.webp",
+      "rect": {
+        "x": 1594,
+        "y": 806,
+        "size": 1205
+      }
+    },
+    {
+      "file": "654591ad60e1.webp",
+      "rect": {
+        "x": 1343,
+        "y": 341,
+        "size": 1707
+      }
+    },
+    {
+      "file": "618941a12859.webp",
+      "rect": {
+        "x": 0,
+        "y": -512,
+        "size": 3072
+      }
+    }
+  ]
+}

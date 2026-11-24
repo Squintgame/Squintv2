@@ -1,0 +1,67 @@
+{
+  "a": "==QZjFGbhBFIyVGdul2V",
+  "ar": "hl2czVnU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:00_2038_Winter_Palace_-_Hermitage_Museum_(St._Petersburg).jpg",
+  "photographer": "W. Bulach (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "847bbda5cb67.webp",
+      "rect": {
+        "x": 543,
+        "y": 1027,
+        "size": 244
+      }
+    },
+    {
+      "file": "f45b575c1e07.webp",
+      "rect": {
+        "x": 482,
+        "y": 966,
+        "size": 367
+      }
+    },
+    {
+      "file": "369dc882659e.webp",
+      "rect": {
+        "x": 390,
+        "y": 874,
+        "size": 550
+      }
+    },
+    {
+      "file": "04ce7c664118.webp",
+      "rect": {
+        "x": 242,
+        "y": 726,
+        "size": 846
+      }
+    },
+    {
+      "file": "09801957bd41.webp",
+      "rect": {
+        "x": 18,
+        "y": 502,
+        "size": 1294
+      }
+    },
+    {
+      "file": "d733c1a4104b.webp",
+      "rect": {
+        "x": 0,
+        "y": 233,
+        "size": 1833
+      }
+    },
+    {
+      "file": "df010d19f9a4.webp",
+      "rect": {
+        "x": 0,
+        "y": -550,
+        "size": 3300
+      }
+    }
+  ]
+}

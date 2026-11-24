@@ -1,0 +1,67 @@
+{
+  "a": "=IXZ39GVg8Wer9GV",
+  "ar": "=4WYwFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_2023.jpg",
+  "photographer": "Akonnchiroll (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "6196d8805c3b.webp",
+      "rect": {
+        "x": 2212,
+        "y": 2788,
+        "size": 384
+      }
+    },
+    {
+      "file": "85814738c681.webp",
+      "rect": {
+        "x": 2116,
+        "y": 2692,
+        "size": 576
+      }
+    },
+    {
+      "file": "b7c8c7fc4217.webp",
+      "rect": {
+        "x": 1972,
+        "y": 2548,
+        "size": 864
+      }
+    },
+    {
+      "file": "9f074c6f358d.webp",
+      "rect": {
+        "x": 1739,
+        "y": 2315,
+        "size": 1329
+      }
+    },
+    {
+      "file": "a01846a2cdce.webp",
+      "rect": {
+        "x": 1387,
+        "y": 1963,
+        "size": 2033
+      }
+    },
+    {
+      "file": "98304d5efb61.webp",
+      "rect": {
+        "x": 576,
+        "y": 1540,
+        "size": 2880
+      }
+    },
+    {
+      "file": "421ade88ce23.webp",
+      "rect": {
+        "x": -576,
+        "y": 0,
+        "size": 4608
+      }
+    }
+  ]
+}

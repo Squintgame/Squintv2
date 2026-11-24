@@ -1,0 +1,67 @@
+{
+  "a": "=U2ZklmcCBibpFGaDBSa55WZoNWqDr3U",
+  "ar": "==QeyF2ZuVHS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Budapest_-_Chain_Bridge_-_panoramio.jpg",
+  "photographer": "Alireza Javaheri (CC BY 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "08d3f2b7b5e5.webp",
+      "rect": {
+        "x": 2182,
+        "y": 352,
+        "size": 282
+      }
+    },
+    {
+      "file": "6b5b28da820f.webp",
+      "rect": {
+        "x": 2112,
+        "y": 282,
+        "size": 422
+      }
+    },
+    {
+      "file": "a613e33f79a9.webp",
+      "rect": {
+        "x": 2006,
+        "y": 176,
+        "size": 634
+      }
+    },
+    {
+      "file": "3900d999de2f.webp",
+      "rect": {
+        "x": 1836,
+        "y": 5,
+        "size": 975
+      }
+    },
+    {
+      "file": "54c7ce7e6ed9.webp",
+      "rect": {
+        "x": 1578,
+        "y": 0,
+        "size": 1491
+      }
+    },
+    {
+      "file": "cda8458142ae.webp",
+      "rect": {
+        "x": 1267,
+        "y": 0,
+        "size": 2112
+      }
+    },
+    {
+      "file": "ec0186080633.webp",
+      "rect": {
+        "x": 0,
+        "y": -653,
+        "size": 3840
+      }
+    }
+  ]
+}

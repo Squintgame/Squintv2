@@ -1,0 +1,67 @@
+{
+  "a": "=IXYulWTgIWd0VXU",
+  "ar": "=EWak5WS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Madrasa_and_tomb_of_Alauddin_Khalji_2.jpg",
+  "photographer": "Akbarzoda (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "cc5eba338052.webp",
+      "rect": {
+        "x": 909,
+        "y": 1869,
+        "size": 213
+      }
+    },
+    {
+      "file": "00dfc320ec23.webp",
+      "rect": {
+        "x": 855,
+        "y": 1815,
+        "size": 320
+      }
+    },
+    {
+      "file": "fd9170f4f3ca.webp",
+      "rect": {
+        "x": 775,
+        "y": 1735,
+        "size": 480
+      }
+    },
+    {
+      "file": "209d3c969f52.webp",
+      "rect": {
+        "x": 646,
+        "y": 1606,
+        "size": 738
+      }
+    },
+    {
+      "file": "cb192aff2d92.webp",
+      "rect": {
+        "x": 451,
+        "y": 1411,
+        "size": 1129
+      }
+    },
+    {
+      "file": "b86c9d75cd8b.webp",
+      "rect": {
+        "x": 215,
+        "y": 960,
+        "size": 1600
+      }
+    },
+    {
+      "file": "9babebbee94c.webp",
+      "rect": {
+        "x": -320,
+        "y": 0,
+        "size": 2560
+      }
+    }
+  ]
+}

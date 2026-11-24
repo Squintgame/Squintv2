@@ -1,0 +1,67 @@
+{
+  "a": "==QZ5VEIu9GZu9GT",
+  "ar": "=02bkdmbptEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:London_Eye_seen_from_the_north_bank_of_the_Thames,_London.jpg",
+  "photographer": "Christian David (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "197fb2441129.webp",
+      "rect": {
+        "x": 2803,
+        "y": 1683,
+        "size": 320
+      }
+    },
+    {
+      "file": "651771e1856d.webp",
+      "rect": {
+        "x": 2723,
+        "y": 1603,
+        "size": 480
+      }
+    },
+    {
+      "file": "b77cea761cb5.webp",
+      "rect": {
+        "x": 2603,
+        "y": 1483,
+        "size": 720
+      }
+    },
+    {
+      "file": "f7b1293bcafb.webp",
+      "rect": {
+        "x": 2409,
+        "y": 1289,
+        "size": 1108
+      }
+    },
+    {
+      "file": "2f43412ad0a7.webp",
+      "rect": {
+        "x": 2116,
+        "y": 996,
+        "size": 1694
+      }
+    },
+    {
+      "file": "449efd82dbd4.webp",
+      "rect": {
+        "x": 1440,
+        "y": 480,
+        "size": 2400
+      }
+    },
+    {
+      "file": "e30400d29fc9.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

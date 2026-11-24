@@ -1,0 +1,67 @@
+{
+  "a": "==Abhlmcv1WZNBibs92YulGT",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lincoln_Memorial_-_east_side_EDIT.jpeg",
+  "photographer": "Wikimedia Commons",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "28afe68e9096.webp",
+      "rect": {
+        "x": 420,
+        "y": 538,
+        "size": 240
+      }
+    },
+    {
+      "file": "4c95f0cdbe0a.webp",
+      "rect": {
+        "x": 360,
+        "y": 478,
+        "size": 360
+      }
+    },
+    {
+      "file": "fd8522195637.webp",
+      "rect": {
+        "x": 270,
+        "y": 388,
+        "size": 540
+      }
+    },
+    {
+      "file": "e8da50844f0b.webp",
+      "rect": {
+        "x": 125,
+        "y": 243,
+        "size": 830
+      }
+    },
+    {
+      "file": "6ac3bd8e72fd.webp",
+      "rect": {
+        "x": 0,
+        "y": 23,
+        "size": 1269
+      }
+    },
+    {
+      "file": "f5db783fcc19.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1798
+      }
+    },
+    {
+      "file": "edaf2184cbee.webp",
+      "rect": {
+        "x": 0,
+        "y": -532,
+        "size": 3222
+      }
+    }
+  ]
+}

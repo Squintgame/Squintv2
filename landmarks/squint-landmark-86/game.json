@@ -1,0 +1,67 @@
+{
+  "a": "vFmYslmQg0WdlNXdNBSbpVGauV2ZnV3R",
+  "ar": "=4WahB3U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Museo_Guggenheim,_Bilbao_(31273245344).jpg",
+  "photographer": "Naotake Murayama (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "a49cbd6adf5d.webp",
+      "rect": {
+        "x": 2885,
+        "y": 1477,
+        "size": 284
+      }
+    },
+    {
+      "file": "cc3a1fead51f.webp",
+      "rect": {
+        "x": 2814,
+        "y": 1406,
+        "size": 427
+      }
+    },
+    {
+      "file": "900a93a83f12.webp",
+      "rect": {
+        "x": 2707,
+        "y": 1299,
+        "size": 640
+      }
+    },
+    {
+      "file": "661a0bdf9a42.webp",
+      "rect": {
+        "x": 2535,
+        "y": 1127,
+        "size": 985
+      }
+    },
+    {
+      "file": "5dc01c4608b3.webp",
+      "rect": {
+        "x": 2274,
+        "y": 866,
+        "size": 1506
+      }
+    },
+    {
+      "file": "13fb1d85bf0d.webp",
+      "rect": {
+        "x": 1707,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "731fdff44be4.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

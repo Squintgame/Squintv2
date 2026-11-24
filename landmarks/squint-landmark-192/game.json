@@ -1,0 +1,67 @@
+{
+  "a": "=UmbpJHaTBSayFmbJBSatlGazVnR",
+  "ar": "=4WYwFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Fushimi_Inari_(Higashi-Ogu,_Arakawa)_03.jpg",
+  "photographer": "Higa4",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "8d14ba9a9e16.webp",
+      "rect": {
+        "x": 1843,
+        "y": 723,
+        "size": 320
+      }
+    },
+    {
+      "file": "01c4238bbec8.webp",
+      "rect": {
+        "x": 1763,
+        "y": 643,
+        "size": 480
+      }
+    },
+    {
+      "file": "93c747039947.webp",
+      "rect": {
+        "x": 1643,
+        "y": 523,
+        "size": 720
+      }
+    },
+    {
+      "file": "a5cc43d0f87c.webp",
+      "rect": {
+        "x": 1449,
+        "y": 329,
+        "size": 1108
+      }
+    },
+    {
+      "file": "0ecb1c171d2c.webp",
+      "rect": {
+        "x": 1156,
+        "y": 36,
+        "size": 1694
+      }
+    },
+    {
+      "file": "2d4164561b4e.webp",
+      "rect": {
+        "x": 803,
+        "y": 0,
+        "size": 2400
+      }
+    },
+    {
+      "file": "79b8e54b7633.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

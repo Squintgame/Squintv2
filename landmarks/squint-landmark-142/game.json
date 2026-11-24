@@ -1,0 +1,67 @@
+{
+  "a": "==AZpJHZh1EIm9GIlNWYsFGUgwWY59mU",
+  "ar": "=4WahB3U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Palacio_Real_de_Madrid_Julio_2016_(cropped).jpg",
+  "photographer": "Tim Adams (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "1a3d7897fabb.webp",
+      "rect": {
+        "x": 1915,
+        "y": 176,
+        "size": 234
+      }
+    },
+    {
+      "file": "b4ec01eece5d.webp",
+      "rect": {
+        "x": 1857,
+        "y": 117,
+        "size": 351
+      }
+    },
+    {
+      "file": "3fd238913451.webp",
+      "rect": {
+        "x": 1769,
+        "y": 30,
+        "size": 526
+      }
+    },
+    {
+      "file": "2eb26b56aa79.webp",
+      "rect": {
+        "x": 1628,
+        "y": 0,
+        "size": 809
+      }
+    },
+    {
+      "file": "47c56fcbf5f2.webp",
+      "rect": {
+        "x": 1413,
+        "y": 0,
+        "size": 1238
+      }
+    },
+    {
+      "file": "7d20ae731814.webp",
+      "rect": {
+        "x": 1031,
+        "y": 0,
+        "size": 1753
+      }
+    },
+    {
+      "file": "f2638ecf8693.webp",
+      "rect": {
+        "x": 0,
+        "y": -340,
+        "size": 2784
+      }
+    }
+  ]
+}

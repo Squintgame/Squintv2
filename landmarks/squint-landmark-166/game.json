@@ -1,0 +1,67 @@
+{
+  "a": "==wZulmcwNFIjlGdh12cpJHUgQmbhJ3R",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Yellowstone_National_Park_(WY,_USA),_Grand_Prismatic_Spring_--_2022_--_2514.jpg",
+  "photographer": "Dietmar Rabich (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "2e94e44a20d9.webp",
+      "rect": {
+        "x": 1761,
+        "y": 1621,
+        "size": 280
+      }
+    },
+    {
+      "file": "40b12fe25665.webp",
+      "rect": {
+        "x": 1691,
+        "y": 1551,
+        "size": 419
+      }
+    },
+    {
+      "file": "c244dab3b7ea.webp",
+      "rect": {
+        "x": 1586,
+        "y": 1446,
+        "size": 629
+      }
+    },
+    {
+      "file": "b5952a691574.webp",
+      "rect": {
+        "x": 1417,
+        "y": 1277,
+        "size": 968
+      }
+    },
+    {
+      "file": "dc50acf72f6f.webp",
+      "rect": {
+        "x": 1161,
+        "y": 1021,
+        "size": 1480
+      }
+    },
+    {
+      "file": "411e25a04b2f.webp",
+      "rect": {
+        "x": 852,
+        "y": 419,
+        "size": 2097
+      }
+    },
+    {
+      "file": "0ed333f3e544.webp",
+      "rect": {
+        "x": 0,
+        "y": -662,
+        "size": 3840
+      }
+    }
+  ]
+}

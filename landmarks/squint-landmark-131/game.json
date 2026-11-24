@@ -1,0 +1,67 @@
+{
+  "a": "=UGb0NXYDBibhJnQ",
+  "ar": "==QYp5WYt9mU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Bran_Castle_TB1.jpg",
+  "photographer": "Todor Bozhinov (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "494d04651ae3.webp",
+      "rect": {
+        "x": 1903,
+        "y": 383,
+        "size": 304
+      }
+    },
+    {
+      "file": "560f9b7deb3f.webp",
+      "rect": {
+        "x": 1827,
+        "y": 307,
+        "size": 456
+      }
+    },
+    {
+      "file": "faf520e031bb.webp",
+      "rect": {
+        "x": 1713,
+        "y": 193,
+        "size": 684
+      }
+    },
+    {
+      "file": "a89acef97f9a.webp",
+      "rect": {
+        "x": 1529,
+        "y": 9,
+        "size": 1052
+      }
+    },
+    {
+      "file": "9dcc88e49b4b.webp",
+      "rect": {
+        "x": 1250,
+        "y": 0,
+        "size": 1609
+      }
+    },
+    {
+      "file": "0d9b668bbdac.webp",
+      "rect": {
+        "x": 915,
+        "y": 0,
+        "size": 2280
+      }
+    },
+    {
+      "file": "891362faa7b2.webp",
+      "rect": {
+        "x": 0,
+        "y": -456,
+        "size": 3648
+      }
+    }
+  ]
+}

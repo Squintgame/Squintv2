@@ -1,0 +1,67 @@
+{
+  "a": "=wWYpJ3btVWTgEWay9GdjlmV",
+  "ar": "=EWak5WS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Victoria_Memorial_situated_in_Kolkata.jpg",
+  "photographer": "Subhrajyoti07 (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "22b1af146cea.webp",
+      "rect": {
+        "x": 525,
+        "y": 815,
+        "size": 191
+      }
+    },
+    {
+      "file": "cc8f83355bc6.webp",
+      "rect": {
+        "x": 478,
+        "y": 767,
+        "size": 286
+      }
+    },
+    {
+      "file": "a1cdae740177.webp",
+      "rect": {
+        "x": 406,
+        "y": 696,
+        "size": 430
+      }
+    },
+    {
+      "file": "b1c8d252645f.webp",
+      "rect": {
+        "x": 290,
+        "y": 580,
+        "size": 661
+      }
+    },
+    {
+      "file": "70724b1c31c9.webp",
+      "rect": {
+        "x": 116,
+        "y": 405,
+        "size": 1011
+      }
+    },
+    {
+      "file": "4f0b6c5ac1f6.webp",
+      "rect": {
+        "x": 0,
+        "y": 194,
+        "size": 1432
+      }
+    },
+    {
+      "file": "56b2a6efe24d.webp",
+      "rect": {
+        "x": 0,
+        "y": -1061,
+        "size": 3840
+      }
+    }
+  ]
+}

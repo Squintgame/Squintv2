@@ -1,0 +1,67 @@
+{
+  "a": "sFmckVGa0F2QgU2YuVmcvxmR",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Florence_Duomo_from_Michelangelo_hill.jpg",
+  "photographer": "Petar Milošević (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "4983d8777fef.webp",
+      "rect": {
+        "x": 2315,
+        "y": 1256,
+        "size": 267
+      }
+    },
+    {
+      "file": "f530002374a4.webp",
+      "rect": {
+        "x": 2248,
+        "y": 1190,
+        "size": 400
+      }
+    },
+    {
+      "file": "a7b69adb7a97.webp",
+      "rect": {
+        "x": 2148,
+        "y": 1090,
+        "size": 600
+      }
+    },
+    {
+      "file": "34b7bfff44b4.webp",
+      "rect": {
+        "x": 1987,
+        "y": 928,
+        "size": 923
+      }
+    },
+    {
+      "file": "dc77081d1930.webp",
+      "rect": {
+        "x": 1742,
+        "y": 684,
+        "size": 1411
+      }
+    },
+    {
+      "file": "7deb1c748073.webp",
+      "rect": {
+        "x": 1309,
+        "y": 390,
+        "size": 1999
+      }
+    },
+    {
+      "file": "d0bfd88c0e48.webp",
+      "rect": {
+        "x": 0,
+        "y": -454,
+        "size": 3308
+      }
+    }
+  ]
+}

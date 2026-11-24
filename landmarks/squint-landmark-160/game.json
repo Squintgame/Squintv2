@@ -1,0 +1,67 @@
+{
+  "a": "==gbvlGbyVWT",
+  "ar": "lJ3bwF2Zul2U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Singapore_Skyline_2019-10.jpg",
+  "photographer": "Unwicked (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "5cc9f01883fb.webp",
+      "rect": {
+        "x": 723,
+        "y": 1363,
+        "size": 320
+      }
+    },
+    {
+      "file": "8b17c0e78a71.webp",
+      "rect": {
+        "x": 643,
+        "y": 1283,
+        "size": 480
+      }
+    },
+    {
+      "file": "9453b6348658.webp",
+      "rect": {
+        "x": 523,
+        "y": 1163,
+        "size": 720
+      }
+    },
+    {
+      "file": "acf520354455.webp",
+      "rect": {
+        "x": 329,
+        "y": 969,
+        "size": 1108
+      }
+    },
+    {
+      "file": "14e2a6144e86.webp",
+      "rect": {
+        "x": 36,
+        "y": 676,
+        "size": 1694
+      }
+    },
+    {
+      "file": "e2aeecdbf0df.webp",
+      "rect": {
+        "x": 0,
+        "y": 323,
+        "size": 2400
+      }
+    },
+    {
+      "file": "df380e0f1f6d.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=kmb1lXVgUGZgIXYsF2U",
+  "ar": "==QYpZXas9mQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Salar_de_Uyuni_-_panoramio_(10).jpg",
+  "photographer": "Pavel Špindler (CC BY 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "c610df84f5e1.webp",
+      "rect": {
+        "x": 2604,
+        "y": 351,
+        "size": 284
+      }
+    },
+    {
+      "file": "8cc014b0c0b5.webp",
+      "rect": {
+        "x": 2533,
+        "y": 280,
+        "size": 426
+      }
+    },
+    {
+      "file": "4f935d957028.webp",
+      "rect": {
+        "x": 2426,
+        "y": 174,
+        "size": 639
+      }
+    },
+    {
+      "file": "1f50a7383001.webp",
+      "rect": {
+        "x": 2254,
+        "y": 2,
+        "size": 983
+      }
+    },
+    {
+      "file": "5f2753dc8864.webp",
+      "rect": {
+        "x": 1994,
+        "y": 0,
+        "size": 1503
+      }
+    },
+    {
+      "file": "165fc2174e70.webp",
+      "rect": {
+        "x": 1681,
+        "y": 0,
+        "size": 2129
+      }
+    },
+    {
+      "file": "37a6e5372510.webp",
+      "rect": {
+        "x": 0,
+        "y": -642,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==wclZXYDBSd0FmQ",
+  "ar": "=EWazlXYsFWT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Batu_Caves_KTM_Station_outview_(220714)_01.jpg",
+  "photographer": "*angys* (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "481ae06c9f1c.webp",
+      "rect": {
+        "x": 3123,
+        "y": 1043,
+        "size": 320
+      }
+    },
+    {
+      "file": "35c13384196d.webp",
+      "rect": {
+        "x": 3043,
+        "y": 963,
+        "size": 480
+      }
+    },
+    {
+      "file": "73d460cea934.webp",
+      "rect": {
+        "x": 2923,
+        "y": 843,
+        "size": 720
+      }
+    },
+    {
+      "file": "59cc709c0403.webp",
+      "rect": {
+        "x": 2729,
+        "y": 649,
+        "size": 1108
+      }
+    },
+    {
+      "file": "730c8c635eaa.webp",
+      "rect": {
+        "x": 2146,
+        "y": 356,
+        "size": 1694
+      }
+    },
+    {
+      "file": "cbf7e42a8563.webp",
+      "rect": {
+        "x": 1440,
+        "y": 3,
+        "size": 2400
+      }
+    },
+    {
+      "file": "8a28295fd683.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

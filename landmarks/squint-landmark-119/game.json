@@ -1,0 +1,67 @@
+{
+  "a": "==QYk92ZhBFIu92ZhRWZ3h2U",
+  "ar": "==gch1mbhlXT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Yangon_-_Shwedagon_Pagoda_03.jpg",
+  "photographer": "Stefan Fussan (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "0cf21891c797.webp",
+      "rect": {
+        "x": 2623,
+        "y": 1415,
+        "size": 277
+      }
+    },
+    {
+      "file": "840e6623e4ff.webp",
+      "rect": {
+        "x": 2554,
+        "y": 1346,
+        "size": 415
+      }
+    },
+    {
+      "file": "47ab9dbba6ee.webp",
+      "rect": {
+        "x": 2450,
+        "y": 1242,
+        "size": 623
+      }
+    },
+    {
+      "file": "b80865551d6d.webp",
+      "rect": {
+        "x": 2282,
+        "y": 1074,
+        "size": 958
+      }
+    },
+    {
+      "file": "0ae39abbc037.webp",
+      "rect": {
+        "x": 2029,
+        "y": 821,
+        "size": 1466
+      }
+    },
+    {
+      "file": "ce23b01d3ab6.webp",
+      "rect": {
+        "x": 1723,
+        "y": 415,
+        "size": 2077
+      }
+    },
+    {
+      "file": "eaa1db1103ba.webp",
+      "rect": {
+        "x": 0,
+        "y": -674,
+        "size": 3840
+      }
+    }
+  ]
+}

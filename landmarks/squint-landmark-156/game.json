@@ -1,0 +1,67 @@
+{
+  "a": "wlmc0NFIzF2ZlZFIzFGT",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Las_Vegas_63.jpg",
+  "photographer": "Lasvegaslover (CC BY 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "89a3c34efe3b.webp",
+      "rect": {
+        "x": 2745,
+        "y": 1761,
+        "size": 283
+      }
+    },
+    {
+      "file": "1ac72bc70470.webp",
+      "rect": {
+        "x": 2674,
+        "y": 1690,
+        "size": 425
+      }
+    },
+    {
+      "file": "b0c89d12ee59.webp",
+      "rect": {
+        "x": 2568,
+        "y": 1584,
+        "size": 638
+      }
+    },
+    {
+      "file": "add91103deaf.webp",
+      "rect": {
+        "x": 2396,
+        "y": 1413,
+        "size": 981
+      }
+    },
+    {
+      "file": "7a96da43d4c7.webp",
+      "rect": {
+        "x": 2136,
+        "y": 1050,
+        "size": 1500
+      }
+    },
+    {
+      "file": "e9d20a244a04.webp",
+      "rect": {
+        "x": 1715,
+        "y": 425,
+        "size": 2125
+      }
+    },
+    {
+      "file": "8efc38cb42c2.webp",
+      "rect": {
+        "x": 0,
+        "y": -645,
+        "size": 3840
+      }
+    }
+  ]
+}

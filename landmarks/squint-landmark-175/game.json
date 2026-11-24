@@ -1,0 +1,67 @@
+{
+  "a": "==gc19mYyFGSgEWay9GdjlmV",
+  "ar": "=Embph2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:HK_YTM_%E8%A5%BF%E4%B9%9D%E9%BE%8D%E6%96%87%E5%8C%96%E5%8D%80_West_Kowloon_Cultural_District_M%2B_Plus_Museum_%E5%A4%A9%E5%8F%B0%E8%8A%B1%E5%9C%92_roof_garden_view_Victoria_Harbour_July_2022_Px3_13.jpg",
+  "photographer": "Bkemaoe HOMA (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "eee4bd81dcd0.webp",
+      "rect": {
+        "x": 2963,
+        "y": 2163,
+        "size": 320
+      }
+    },
+    {
+      "file": "33d9436cb78c.webp",
+      "rect": {
+        "x": 2883,
+        "y": 2083,
+        "size": 480
+      }
+    },
+    {
+      "file": "bd4c9f9d1000.webp",
+      "rect": {
+        "x": 2763,
+        "y": 1963,
+        "size": 720
+      }
+    },
+    {
+      "file": "723c6e95add3.webp",
+      "rect": {
+        "x": 2569,
+        "y": 1769,
+        "size": 1108
+      }
+    },
+    {
+      "file": "fbfcefa7d3cb.webp",
+      "rect": {
+        "x": 2146,
+        "y": 1186,
+        "size": 1694
+      }
+    },
+    {
+      "file": "6d3b22221e21.webp",
+      "rect": {
+        "x": 1440,
+        "y": 480,
+        "size": 2400
+      }
+    },
+    {
+      "file": "ff839ccf4f0e.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

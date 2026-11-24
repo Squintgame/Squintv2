@@ -1,0 +1,67 @@
+{
+  "a": "k5WYsNXSgoXYyRXYjxWQ",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_as_seen_from_the_East.jpg",
+  "photographer": "Frank Schulenburg (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "e70347fb55d1.webp",
+      "rect": {
+        "x": 2887,
+        "y": 1140,
+        "size": 267
+      }
+    },
+    {
+      "file": "bdcf7eb3c532.webp",
+      "rect": {
+        "x": 2821,
+        "y": 1074,
+        "size": 400
+      }
+    },
+    {
+      "file": "8a3638b647d0.webp",
+      "rect": {
+        "x": 2721,
+        "y": 974,
+        "size": 600
+      }
+    },
+    {
+      "file": "feb8fe9aaa3a.webp",
+      "rect": {
+        "x": 2559,
+        "y": 812,
+        "size": 923
+      }
+    },
+    {
+      "file": "78e1710f47e2.webp",
+      "rect": {
+        "x": 2315,
+        "y": 568,
+        "size": 1412
+      }
+    },
+    {
+      "file": "f3c2abd1fa0c.webp",
+      "rect": {
+        "x": 1840,
+        "y": 274,
+        "size": 2000
+      }
+    },
+    {
+      "file": "8fbc1d1e3a48.webp",
+      "rect": {
+        "x": 0,
+        "y": -720,
+        "size": 3840
+      }
+    }
+  ]
+}

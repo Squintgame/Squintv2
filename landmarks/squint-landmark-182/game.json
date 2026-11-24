@@ -1,0 +1,67 @@
+{
+  "a": "==QYxOcYwNXRgUGZgEmehxGU",
+  "ar": "=4WahB3U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Estacion_de_Plaza_de_Espa%C3%B1a,_L3,_2025_(02).jpg",
+  "photographer": "Draceane (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "48abd17678c2.webp",
+      "rect": {
+        "x": 1055,
+        "y": 773,
+        "size": 284
+      }
+    },
+    {
+      "file": "fb6f12d50377.webp",
+      "rect": {
+        "x": 983,
+        "y": 702,
+        "size": 427
+      }
+    },
+    {
+      "file": "7131205fb951.webp",
+      "rect": {
+        "x": 877,
+        "y": 595,
+        "size": 640
+      }
+    },
+    {
+      "file": "794d22eafa11.webp",
+      "rect": {
+        "x": 704,
+        "y": 423,
+        "size": 985
+      }
+    },
+    {
+      "file": "98f1e2be638c.webp",
+      "rect": {
+        "x": 444,
+        "y": 162,
+        "size": 1506
+      }
+    },
+    {
+      "file": "5e20d4cf2790.webp",
+      "rect": {
+        "x": 130,
+        "y": 0,
+        "size": 2133
+      }
+    },
+    {
+      "file": "d4aa85dfe9c1.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

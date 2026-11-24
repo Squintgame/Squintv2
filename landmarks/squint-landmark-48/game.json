@@ -1,0 +1,67 @@
+{
+  "a": "==QZsBXblRFIuVGZs92R",
+  "ar": "=EWak5WS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Hamandir_Sahib_(Golden_Temple).jpg",
+  "photographer": "Wikimedia Commons contributor (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b4e03653ebbb.webp",
+      "rect": {
+        "x": 351,
+        "y": 1759,
+        "size": 284
+      }
+    },
+    {
+      "file": "ff34adffa9af.webp",
+      "rect": {
+        "x": 279,
+        "y": 1687,
+        "size": 427
+      }
+    },
+    {
+      "file": "7cdf6246f717.webp",
+      "rect": {
+        "x": 173,
+        "y": 1581,
+        "size": 640
+      }
+    },
+    {
+      "file": "1438d7fb0808.webp",
+      "rect": {
+        "x": 0,
+        "y": 1408,
+        "size": 985
+      }
+    },
+    {
+      "file": "d60179eaa222.webp",
+      "rect": {
+        "x": 0,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "873fecb7dca2.webp",
+      "rect": {
+        "x": 0,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "c2aa8e8f3d4f.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==QZ1F3cv1EIJlEIuF2czFGS",
+  "ar": "==wbjN2by9WT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Sunshine_on_mosque_Hassan_II_in_Casablanca,_Morocco_-_Flickr_-_Milamber%27s_portfolio.jpg",
+  "photographer": "Milamber's portfolio (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "7d3c7335f390.webp",
+      "rect": {
+        "x": 1709,
+        "y": 1598,
+        "size": 222
+      }
+    },
+    {
+      "file": "90f008a1cc75.webp",
+      "rect": {
+        "x": 1653,
+        "y": 1543,
+        "size": 333
+      }
+    },
+    {
+      "file": "e49e27f4e769.webp",
+      "rect": {
+        "x": 1570,
+        "y": 1459,
+        "size": 500
+      }
+    },
+    {
+      "file": "0273125a6bda.webp",
+      "rect": {
+        "x": 1435,
+        "y": 1231,
+        "size": 769
+      }
+    },
+    {
+      "file": "6eb7808920d4.webp",
+      "rect": {
+        "x": 1232,
+        "y": 824,
+        "size": 1176
+      }
+    },
+    {
+      "file": "92bd7b87fa9d.webp",
+      "rect": {
+        "x": 987,
+        "y": 333,
+        "size": 1667
+      }
+    },
+    {
+      "file": "71ceef88e372.webp",
+      "rect": {
+        "x": 0,
+        "y": -504,
+        "size": 3008
+      }
+    }
+  ]
+}

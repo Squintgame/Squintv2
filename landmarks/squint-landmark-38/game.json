@@ -1,0 +1,67 @@
+{
+  "a": "lxGdzF2Qg4WalR3cuF2doN2c1VmT",
+  "ar": "==QeuFWbyV2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Neuschwanstein_Castle_2024-02.jpg",
+  "photographer": "Wilfredor",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "c763525c327f.webp",
+      "rect": {
+        "x": 1061,
+        "y": 919,
+        "size": 291
+      }
+    },
+    {
+      "file": "9ca9c82aa6b8.webp",
+      "rect": {
+        "x": 988,
+        "y": 847,
+        "size": 436
+      }
+    },
+    {
+      "file": "2c686cf4d8db.webp",
+      "rect": {
+        "x": 880,
+        "y": 738,
+        "size": 654
+      }
+    },
+    {
+      "file": "45eaa2d6136a.webp",
+      "rect": {
+        "x": 704,
+        "y": 562,
+        "size": 1006
+      }
+    },
+    {
+      "file": "24fbe1ce39f8.webp",
+      "rect": {
+        "x": 437,
+        "y": 295,
+        "size": 1538
+      }
+    },
+    {
+      "file": "d732a505a93d.webp",
+      "rect": {
+        "x": 117,
+        "y": 0,
+        "size": 2179
+      }
+    },
+    {
+      "file": "7f9a34ab7b39.webp",
+      "rect": {
+        "x": 0,
+        "y": -612,
+        "size": 3840
+      }
+    }
+  ]
+}

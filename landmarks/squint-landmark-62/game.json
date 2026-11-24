@@ -1,0 +1,67 @@
+{
+  "a": "zVGdp12bs9GR",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:1_dolomites_santa_magdalena_2024_val_di_funes.jpg",
+  "photographer": "Chensiyuan (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "97ce5189c2f8.webp",
+      "rect": {
+        "x": 2181,
+        "y": 1899,
+        "size": 284
+      }
+    },
+    {
+      "file": "d0a1b43d4bab.webp",
+      "rect": {
+        "x": 2110,
+        "y": 1828,
+        "size": 427
+      }
+    },
+    {
+      "file": "7b24e1b7471a.webp",
+      "rect": {
+        "x": 2003,
+        "y": 1722,
+        "size": 640
+      }
+    },
+    {
+      "file": "cfc842172238.webp",
+      "rect": {
+        "x": 1831,
+        "y": 1549,
+        "size": 985
+      }
+    },
+    {
+      "file": "36d0e7abb2d9.webp",
+      "rect": {
+        "x": 1570,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "bf1cde3d30aa.webp",
+      "rect": {
+        "x": 1257,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "b33fac596acc.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

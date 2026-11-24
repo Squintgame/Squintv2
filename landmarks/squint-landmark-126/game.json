@@ -1,0 +1,67 @@
+{
+  "a": "==Abh5WatJXZUBCbhJHduV2QgQmbhJ3R",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:NYC_GC.jpg",
+  "photographer": "Gianluca Miscione (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "3a73b1c33a74.webp",
+      "rect": {
+        "x": 484,
+        "y": 2104,
+        "size": 215
+      }
+    },
+    {
+      "file": "746d76cd4717.webp",
+      "rect": {
+        "x": 431,
+        "y": 2051,
+        "size": 323
+      }
+    },
+    {
+      "file": "2f72e60764e0.webp",
+      "rect": {
+        "x": 350,
+        "y": 1970,
+        "size": 484
+      }
+    },
+    {
+      "file": "c4b127f3c966.webp",
+      "rect": {
+        "x": 220,
+        "y": 1840,
+        "size": 745
+      }
+    },
+    {
+      "file": "426aca3a8414.webp",
+      "rect": {
+        "x": 23,
+        "y": 1453,
+        "size": 1139
+      }
+    },
+    {
+      "file": "97551947e6f6.webp",
+      "rect": {
+        "x": 0,
+        "y": 979,
+        "size": 1613
+      }
+    },
+    {
+      "file": "2c50b2ae8486.webp",
+      "rect": {
+        "x": -328,
+        "y": 0,
+        "size": 2592
+      }
+    }
+  ]
+}

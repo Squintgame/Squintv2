@@ -1,0 +1,67 @@
+{
+  "a": "kJXYoNFIlhGV",
+  "ar": "=02bkdmbptEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Shard_from_the_Sky_Garden_2015.jpg",
+  "photographer": "Colin (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b8addc22ad8b.webp",
+      "rect": {
+        "x": 936,
+        "y": 6898,
+        "size": 427
+      }
+    },
+    {
+      "file": "ecaadbe3e8b2.webp",
+      "rect": {
+        "x": 829,
+        "y": 6792,
+        "size": 640
+      }
+    },
+    {
+      "file": "d51bedcf71e8.webp",
+      "rect": {
+        "x": 669,
+        "y": 6632,
+        "size": 960
+      }
+    },
+    {
+      "file": "bf988e21080f.webp",
+      "rect": {
+        "x": 411,
+        "y": 6232,
+        "size": 1477
+      }
+    },
+    {
+      "file": "43e4bd62641b.webp",
+      "rect": {
+        "x": 20,
+        "y": 5450,
+        "size": 2259
+      }
+    },
+    {
+      "file": "15a7bf583c9a.webp",
+      "rect": {
+        "x": 0,
+        "y": 4509,
+        "size": 3200
+      }
+    },
+    {
+      "file": "853239424eaa.webp",
+      "rect": {
+        "x": -1934,
+        "y": 0,
+        "size": 7709
+      }
+    }
+  ]
+}

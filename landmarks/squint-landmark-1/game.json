@@ -1,0 +1,67 @@
+{
+  "a": "==AdyV2clREIhJXYoF2U",
+  "ar": "==QYpJXZnxWQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Sahara_real_color.jpg",
+  "photographer": "Project Apollo Archive",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "de789ee20f78.webp",
+      "rect": {
+        "x": 2608,
+        "y": 1611,
+        "size": 222
+      }
+    },
+    {
+      "file": "459e7a522da0.webp",
+      "rect": {
+        "x": 2553,
+        "y": 1556,
+        "size": 333
+      }
+    },
+    {
+      "file": "eb6bf4d37e61.webp",
+      "rect": {
+        "x": 2470,
+        "y": 1472,
+        "size": 500
+      }
+    },
+    {
+      "file": "a28a9c5867d9.webp",
+      "rect": {
+        "x": 2335,
+        "y": 1231,
+        "size": 769
+      }
+    },
+    {
+      "file": "48faae73ff11.webp",
+      "rect": {
+        "x": 2131,
+        "y": 824,
+        "size": 1176
+      }
+    },
+    {
+      "file": "6a74e0fd85f3.webp",
+      "rect": {
+        "x": 1886,
+        "y": 333,
+        "size": 1667
+      }
+    },
+    {
+      "file": "07f62747921b.webp",
+      "rect": {
+        "x": 0,
+        "y": -850,
+        "size": 3700
+      }
+    }
+  ]
+}

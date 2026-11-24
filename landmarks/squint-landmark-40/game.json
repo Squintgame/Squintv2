@@ -1,0 +1,67 @@
+{
+  "a": "=kXZiJWQgIXZ0Nnbp1GdzV2V",
+  "ar": "=02bkdmbptEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Westminster-Abbey.JPG",
+  "photographer": "Σπάρτακος (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "0c5b6c37cd58.webp",
+      "rect": {
+        "x": 587,
+        "y": 1920,
+        "size": 333
+      }
+    },
+    {
+      "file": "b8cf1414d681.webp",
+      "rect": {
+        "x": 503,
+        "y": 1837,
+        "size": 500
+      }
+    },
+    {
+      "file": "e13d5e7ba37f.webp",
+      "rect": {
+        "x": 378,
+        "y": 1712,
+        "size": 750
+      }
+    },
+    {
+      "file": "726eed60cc22.webp",
+      "rect": {
+        "x": 176,
+        "y": 1510,
+        "size": 1154
+      }
+    },
+    {
+      "file": "d3028619e81a.webp",
+      "rect": {
+        "x": 0,
+        "y": 1204,
+        "size": 1765
+      }
+    },
+    {
+      "file": "68987b8d236f.webp",
+      "rect": {
+        "x": 0,
+        "y": 837,
+        "size": 2500
+      }
+    },
+    {
+      "file": "f5c988192b6a.webp",
+      "rect": {
+        "x": -500,
+        "y": 0,
+        "size": 4000
+      }
+    }
+  ]
+}

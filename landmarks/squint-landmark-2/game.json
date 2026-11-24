@@ -1,0 +1,67 @@
+{
+  "a": "==QYulGaDBiZvBCbsF2VgQXYlJ3R",
+  "ar": "=Embph2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+  "photographer": "Severin.stalder (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "8d8227c58659.webp",
+      "rect": {
+        "x": 3026,
+        "y": 1620,
+        "size": 283
+      }
+    },
+    {
+      "file": "03f0827d0321.webp",
+      "rect": {
+        "x": 2956,
+        "y": 1549,
+        "size": 425
+      }
+    },
+    {
+      "file": "dca6d943c7d9.webp",
+      "rect": {
+        "x": 2849,
+        "y": 1443,
+        "size": 638
+      }
+    },
+    {
+      "file": "d3944869a358.webp",
+      "rect": {
+        "x": 2678,
+        "y": 1272,
+        "size": 981
+      }
+    },
+    {
+      "file": "d242cdfa00f9.webp",
+      "rect": {
+        "x": 2340,
+        "y": 1012,
+        "size": 1500
+      }
+    },
+    {
+      "file": "806189fc55fd.webp",
+      "rect": {
+        "x": 1715,
+        "y": 425,
+        "size": 2125
+      }
+    },
+    {
+      "file": "d310e5940079.webp",
+      "rect": {
+        "x": 0,
+        "y": -645,
+        "size": 3840
+      }
+    }
+  ]
+}

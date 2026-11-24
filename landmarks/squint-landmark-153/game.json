@@ -1,0 +1,67 @@
+{
+  "a": "uVGbvR3cltWalJHU",
+  "ar": "5F2dy9mT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Preikestolen_Norge.jpg",
+  "photographer": "Stefan Krause, Germany (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "404b3cd87542.webp",
+      "rect": {
+        "x": 503,
+        "y": 2082,
+        "size": 285
+      }
+    },
+    {
+      "file": "ca793a1a9a7a.webp",
+      "rect": {
+        "x": 432,
+        "y": 2011,
+        "size": 427
+      }
+    },
+    {
+      "file": "8ed3a083bbfc.webp",
+      "rect": {
+        "x": 325,
+        "y": 1904,
+        "size": 641
+      }
+    },
+    {
+      "file": "c8d7266f9225.webp",
+      "rect": {
+        "x": 152,
+        "y": 1732,
+        "size": 986
+      }
+    },
+    {
+      "file": "a625ab7f0f66.webp",
+      "rect": {
+        "x": 0,
+        "y": 1471,
+        "size": 1508
+      }
+    },
+    {
+      "file": "297a7b8e96bc.webp",
+      "rect": {
+        "x": 0,
+        "y": 1157,
+        "size": 2136
+      }
+    },
+    {
+      "file": "6f24a301dc85.webp",
+      "rect": {
+        "x": -512,
+        "y": 0,
+        "size": 3588
+      }
+    }
+  ]
+}

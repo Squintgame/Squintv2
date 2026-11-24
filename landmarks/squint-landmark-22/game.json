@@ -1,0 +1,67 @@
+{
+  "a": "ldGZpJnQgUGdhdEIuVGZs92R",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:GoldenGateBridge-001.jpg",
+  "photographer": "Rich Niewiroski Jr. (CC BY 2.5)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "c56717258048.webp",
+      "rect": {
+        "x": 751,
+        "y": 479,
+        "size": 272
+      }
+    },
+    {
+      "file": "9bfebfce69a5.webp",
+      "rect": {
+        "x": 683,
+        "y": 411,
+        "size": 408
+      }
+    },
+    {
+      "file": "167359783c9f.webp",
+      "rect": {
+        "x": 581,
+        "y": 309,
+        "size": 612
+      }
+    },
+    {
+      "file": "65b73f3f3210.webp",
+      "rect": {
+        "x": 416,
+        "y": 144,
+        "size": 942
+      }
+    },
+    {
+      "file": "5ad1395bf4d8.webp",
+      "rect": {
+        "x": 167,
+        "y": 0,
+        "size": 1440
+      }
+    },
+    {
+      "file": "572c7bd49c7c.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2040
+      }
+    },
+    {
+      "file": "f89140ee4c93.webp",
+      "rect": {
+        "x": 0,
+        "y": -408,
+        "size": 3264
+      }
+    }
+  ]
+}

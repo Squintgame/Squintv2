@@ -1,0 +1,67 @@
+{
+  "a": "lNWYsFGUg4mb1JnYuZ7woN2U",
+  "ar": "==QYpJHdzVXQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Wien_-_Schloss_Sch%C3%B6nbrunn.JPG",
+  "photographer": "C.Stadler/Bwag (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "cb7f39359535.webp",
+      "rect": {
+        "x": 513,
+        "y": 1838,
+        "size": 291
+      }
+    },
+    {
+      "file": "ef9eaa519b45.webp",
+      "rect": {
+        "x": 441,
+        "y": 1765,
+        "size": 437
+      }
+    },
+    {
+      "file": "4b928cf470da.webp",
+      "rect": {
+        "x": 331,
+        "y": 1655,
+        "size": 656
+      }
+    },
+    {
+      "file": "6928b847eead.webp",
+      "rect": {
+        "x": 155,
+        "y": 1479,
+        "size": 1009
+      }
+    },
+    {
+      "file": "82f5382aaa6c.webp",
+      "rect": {
+        "x": 0,
+        "y": 1080,
+        "size": 1543
+      }
+    },
+    {
+      "file": "e42971fea0e0.webp",
+      "rect": {
+        "x": 0,
+        "y": 437,
+        "size": 2186
+      }
+    },
+    {
+      "file": "0b9a8b956405.webp",
+      "rect": {
+        "x": 0,
+        "y": -608,
+        "size": 3840
+      }
+    }
+  ]
+}

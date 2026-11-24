@@ -1,0 +1,67 @@
+{
+  "a": "uFmbvREIuFWZslWR",
+  "ar": "=02bkdmbptEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Eilean_Donan_Castle,_Scotland_-_Jan_2011.jpg",
+  "photographer": "Diliff (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "bc786dc8d183.webp",
+      "rect": {
+        "x": 2495,
+        "y": 1280,
+        "size": 251
+      }
+    },
+    {
+      "file": "3630bed83073.webp",
+      "rect": {
+        "x": 2432,
+        "y": 1217,
+        "size": 377
+      }
+    },
+    {
+      "file": "03d176ba6319.webp",
+      "rect": {
+        "x": 2338,
+        "y": 1123,
+        "size": 565
+      }
+    },
+    {
+      "file": "2af7f582e330.webp",
+      "rect": {
+        "x": 2186,
+        "y": 971,
+        "size": 869
+      }
+    },
+    {
+      "file": "563f295f4150.webp",
+      "rect": {
+        "x": 1956,
+        "y": 741,
+        "size": 1329
+      }
+    },
+    {
+      "file": "792b1556ecb0.webp",
+      "rect": {
+        "x": 1679,
+        "y": 377,
+        "size": 1883
+      }
+    },
+    {
+      "file": "44ba2a1d6fec.webp",
+      "rect": {
+        "x": 0,
+        "y": -790,
+        "size": 3840
+      }
+    }
+  ]
+}

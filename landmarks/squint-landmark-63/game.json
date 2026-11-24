@@ -1,0 +1,67 @@
+{
+  "a": "=wWYyRWZoRXYDBycnwWazFmQgQnbpF2U",
+  "ar": "hl2czVnU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:00_0568_Saint_Basil%27s_Cathedral_-_Moscow.jpg",
+  "photographer": "W. Bulach (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "36277dea1033.webp",
+      "rect": {
+        "x": 494,
+        "y": 2364,
+        "size": 222
+      }
+    },
+    {
+      "file": "1142632df675.webp",
+      "rect": {
+        "x": 438,
+        "y": 2308,
+        "size": 333
+      }
+    },
+    {
+      "file": "0d1ea2b50f43.webp",
+      "rect": {
+        "x": 355,
+        "y": 2225,
+        "size": 500
+      }
+    },
+    {
+      "file": "07d2bb5e2be2.webp",
+      "rect": {
+        "x": 220,
+        "y": 2090,
+        "size": 769
+      }
+    },
+    {
+      "file": "72625a541dc6.webp",
+      "rect": {
+        "x": 17,
+        "y": 1824,
+        "size": 1176
+      }
+    },
+    {
+      "file": "7fcdd66ef820.webp",
+      "rect": {
+        "x": 0,
+        "y": 1333,
+        "size": 1667
+      }
+    },
+    {
+      "file": "135d2a36885b.webp",
+      "rect": {
+        "x": -500,
+        "y": 0,
+        "size": 3000
+      }
+    }
+  ]
+}

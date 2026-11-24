@@ -1,0 +1,67 @@
+{
+  "a": "==QMwEDIpVGcpFGV",
+  "ar": "uF2dpFGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Taipei_101_from_Xiangshan_20250731.jpg",
+  "photographer": "User:Sinsyuan (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "f4ad97b6b5f0.webp",
+      "rect": {
+        "x": 1707,
+        "y": 3355,
+        "size": 250
+      }
+    },
+    {
+      "file": "b7cba447a532.webp",
+      "rect": {
+        "x": 1645,
+        "y": 3292,
+        "size": 375
+      }
+    },
+    {
+      "file": "bf677bcc362e.webp",
+      "rect": {
+        "x": 1551,
+        "y": 3198,
+        "size": 563
+      }
+    },
+    {
+      "file": "6070f71a081b.webp",
+      "rect": {
+        "x": 1386,
+        "y": 3047,
+        "size": 866
+      }
+    },
+    {
+      "file": "21f5cb9a1fa2.webp",
+      "rect": {
+        "x": 927,
+        "y": 2675,
+        "size": 1325
+      }
+    },
+    {
+      "file": "41ef18f5a728.webp",
+      "rect": {
+        "x": 375,
+        "y": 2123,
+        "size": 1877
+      }
+    },
+    {
+      "file": "5c9c780fe3df.webp",
+      "rect": {
+        "x": -874,
+        "y": 0,
+        "size": 4000
+      }
+    }
+  ]
+}

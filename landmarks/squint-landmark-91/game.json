@@ -1,0 +1,67 @@
+{
+  "a": "lJXY1F3UgM3JyVGdlBFIuQ3U",
+  "ar": "5RXaDBibhNWa0FmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:St_Peter%27s_Square,_Vatican_City_-_April_2007.jpg",
+  "photographer": "Diliff (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "31da5809298f.webp",
+      "rect": {
+        "x": 2827,
+        "y": 1215,
+        "size": 240
+      }
+    },
+    {
+      "file": "1c985a8deee8.webp",
+      "rect": {
+        "x": 2767,
+        "y": 1155,
+        "size": 360
+      }
+    },
+    {
+      "file": "b5af5afc1e0f.webp",
+      "rect": {
+        "x": 2678,
+        "y": 1065,
+        "size": 539
+      }
+    },
+    {
+      "file": "c4fd1e2b351c.webp",
+      "rect": {
+        "x": 2532,
+        "y": 920,
+        "size": 830
+      }
+    },
+    {
+      "file": "97fc9e3b7f0d.webp",
+      "rect": {
+        "x": 2313,
+        "y": 700,
+        "size": 1269
+      }
+    },
+    {
+      "file": "fe4e51d31901.webp",
+      "rect": {
+        "x": 2042,
+        "y": 360,
+        "size": 1798
+      }
+    },
+    {
+      "file": "75172eac3e9d.webp",
+      "rect": {
+        "x": 0,
+        "y": -841,
+        "size": 3840
+      }
+    }
+  ]
+}

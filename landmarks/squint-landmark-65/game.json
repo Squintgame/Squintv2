@@ -1,0 +1,67 @@
+{
+  "a": "=4WYjFWdolGdvVGV",
+  "ar": "vNWa4VWT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg",
+  "photographer": "Hdlrosa (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b899bbea57bb.webp",
+      "rect": {
+        "x": 165,
+        "y": 716,
+        "size": 222
+      }
+    },
+    {
+      "file": "edafebe7baee.webp",
+      "rect": {
+        "x": 109,
+        "y": 660,
+        "size": 333
+      }
+    },
+    {
+      "file": "8372fa3e11ce.webp",
+      "rect": {
+        "x": 26,
+        "y": 577,
+        "size": 500
+      }
+    },
+    {
+      "file": "dbf7ec3bf206.webp",
+      "rect": {
+        "x": 0,
+        "y": 442,
+        "size": 769
+      }
+    },
+    {
+      "file": "77e79ec7aa7b.webp",
+      "rect": {
+        "x": 0,
+        "y": 239,
+        "size": 1176
+      }
+    },
+    {
+      "file": "60fb1e9efedd.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1667
+      }
+    },
+    {
+      "file": "d62224cc668e.webp",
+      "rect": {
+        "x": 0,
+        "y": -504,
+        "size": 3008
+      }
+    }
+  ]
+}

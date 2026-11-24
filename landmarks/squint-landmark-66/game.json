@@ -1,0 +1,67 @@
+{
+  "a": "sFmckVGa0F2Qg4WYslWT",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:20110724_Milan_Cathedral_5260.jpg",
+  "photographer": "Jakub Hałun (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "881597a5e000.webp",
+      "rect": {
+        "x": 984,
+        "y": 2199,
+        "size": 303
+      }
+    },
+    {
+      "file": "9bc0365e5f11.webp",
+      "rect": {
+        "x": 908,
+        "y": 2124,
+        "size": 455
+      }
+    },
+    {
+      "file": "121d68540815.webp",
+      "rect": {
+        "x": 795,
+        "y": 2010,
+        "size": 682
+      }
+    },
+    {
+      "file": "ded41be6f0fb.webp",
+      "rect": {
+        "x": 611,
+        "y": 1679,
+        "size": 1049
+      }
+    },
+    {
+      "file": "af0073bb3284.webp",
+      "rect": {
+        "x": 333,
+        "y": 1123,
+        "size": 1605
+      }
+    },
+    {
+      "file": "672790a2bf11.webp",
+      "rect": {
+        "x": 0,
+        "y": 455,
+        "size": 2273
+      }
+    },
+    {
+      "file": "f31afddb2750.webp",
+      "rect": {
+        "x": 0,
+        "y": -206,
+        "size": 3140
+      }
+    }
+  ]
+}

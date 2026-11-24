@@ -1,0 +1,67 @@
+{
+  "a": "==Aa0FmbhhGZ19mQ",
+  "ar": "=wWYwVmT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Boudha_Stupa_2018_04.jpg",
+  "photographer": "Nabin K. Sapkota (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "90456ec47a31.webp",
+      "rect": {
+        "x": 2322,
+        "y": 773,
+        "size": 284
+      }
+    },
+    {
+      "file": "bd6b639a0d77.webp",
+      "rect": {
+        "x": 2251,
+        "y": 702,
+        "size": 427
+      }
+    },
+    {
+      "file": "ec2fd10e2c34.webp",
+      "rect": {
+        "x": 2144,
+        "y": 595,
+        "size": 640
+      }
+    },
+    {
+      "file": "b5f1735fc32c.webp",
+      "rect": {
+        "x": 1972,
+        "y": 423,
+        "size": 985
+      }
+    },
+    {
+      "file": "cb69452b27b3.webp",
+      "rect": {
+        "x": 1711,
+        "y": 162,
+        "size": 1506
+      }
+    },
+    {
+      "file": "aef20fffefed.webp",
+      "rect": {
+        "x": 1397,
+        "y": 0,
+        "size": 2133
+      }
+    },
+    {
+      "file": "373f489a7403.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

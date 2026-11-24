@@ -1,0 +1,67 @@
+{
+  "a": "hNXaQBiZvBicld3bUByZulmbhVGT",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Campanile_D%C3%B4me_-_Pise_(IT52)_-_2022-08-31_-_20.jpg",
+  "photographer": "Chabe01 (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "59f90e43ea3d.webp",
+      "rect": {
+        "x": 940,
+        "y": 942,
+        "size": 289
+      }
+    },
+    {
+      "file": "7e8eff43f99e.webp",
+      "rect": {
+        "x": 868,
+        "y": 869,
+        "size": 434
+      }
+    },
+    {
+      "file": "ccb58736321d.webp",
+      "rect": {
+        "x": 759,
+        "y": 761,
+        "size": 650
+      }
+    },
+    {
+      "file": "15fb664dba69.webp",
+      "rect": {
+        "x": 584,
+        "y": 586,
+        "size": 1000
+      }
+    },
+    {
+      "file": "9d1dcbee64f7.webp",
+      "rect": {
+        "x": 320,
+        "y": 321,
+        "size": 1530
+      }
+    },
+    {
+      "file": "47eb43c2a7bc.webp",
+      "rect": {
+        "x": 1,
+        "y": 2,
+        "size": 2168
+      }
+    },
+    {
+      "file": "2c8f15644cf2.webp",
+      "rect": {
+        "x": -1583,
+        "y": 0,
+        "size": 5767
+      }
+    }
+  ]
+}

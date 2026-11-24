@@ -1,0 +1,67 @@
+{
+  "a": "=42ZpNFIk92b3lHbs9GS",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Hollywood_Sign_(Zuschnitt).jpg",
+  "photographer": "Thomas Wolf, www.foto-tw.de (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "c59851fb9269.webp",
+      "rect": {
+        "x": 1006,
+        "y": 1140,
+        "size": 267
+      }
+    },
+    {
+      "file": "6d7a8c68afbe.webp",
+      "rect": {
+        "x": 939,
+        "y": 1074,
+        "size": 400
+      }
+    },
+    {
+      "file": "77ed51adce68.webp",
+      "rect": {
+        "x": 839,
+        "y": 974,
+        "size": 600
+      }
+    },
+    {
+      "file": "e905c48dc866.webp",
+      "rect": {
+        "x": 678,
+        "y": 812,
+        "size": 923
+      }
+    },
+    {
+      "file": "99dead5575a0.webp",
+      "rect": {
+        "x": 433,
+        "y": 568,
+        "size": 1412
+      }
+    },
+    {
+      "file": "7b5229246282.webp",
+      "rect": {
+        "x": 139,
+        "y": 274,
+        "size": 2000
+      }
+    },
+    {
+      "file": "15e412d8e79b.webp",
+      "rect": {
+        "x": 0,
+        "y": -720,
+        "size": 3840
+      }
+    }
+  ]
+}

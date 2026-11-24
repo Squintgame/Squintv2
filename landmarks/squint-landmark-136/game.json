@@ -1,0 +1,67 @@
+{
+  "a": "=M3cvZGbsV3R",
+  "ar": "==AZuFGblNWS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:GullfossOverview.jpg",
+  "photographer": "Andreas Tille (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "6cddb3c0f002.webp",
+      "rect": {
+        "x": 2212,
+        "y": 1393,
+        "size": 213
+      }
+    },
+    {
+      "file": "ffa0c5dae941.webp",
+      "rect": {
+        "x": 2159,
+        "y": 1340,
+        "size": 319
+      }
+    },
+    {
+      "file": "97871bb44e79.webp",
+      "rect": {
+        "x": 2080,
+        "y": 1260,
+        "size": 478
+      }
+    },
+    {
+      "file": "edf497917c8b.webp",
+      "rect": {
+        "x": 1951,
+        "y": 1132,
+        "size": 736
+      }
+    },
+    {
+      "file": "16965239474d.webp",
+      "rect": {
+        "x": 1756,
+        "y": 788,
+        "size": 1125
+      }
+    },
+    {
+      "file": "999c50a892b5.webp",
+      "rect": {
+        "x": 1338,
+        "y": 319,
+        "size": 1594
+      }
+    },
+    {
+      "file": "3b9e9bfd5f81.webp",
+      "rect": {
+        "x": 0,
+        "y": -509,
+        "size": 2932
+      }
+    }
+  ]
+}

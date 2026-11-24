@@ -1,0 +1,67 @@
+{
+  "a": "l5Wayh2UgEWbph2c1tWdzRXS",
+  "ar": "=4WYwFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Itsukushima_Gate.jpg",
+  "photographer": "JordyMeow (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "d3304b4fde0d.webp",
+      "rect": {
+        "x": 1336,
+        "y": 1620,
+        "size": 285
+      }
+    },
+    {
+      "file": "803cec3e4169.webp",
+      "rect": {
+        "x": 1265,
+        "y": 1548,
+        "size": 427
+      }
+    },
+    {
+      "file": "64f98bee3e49.webp",
+      "rect": {
+        "x": 1158,
+        "y": 1442,
+        "size": 641
+      }
+    },
+    {
+      "file": "25d13f279561.webp",
+      "rect": {
+        "x": 986,
+        "y": 1269,
+        "size": 986
+      }
+    },
+    {
+      "file": "3e4daf83563f.webp",
+      "rect": {
+        "x": 725,
+        "y": 1008,
+        "size": 1508
+      }
+    },
+    {
+      "file": "f6a6fb1edfeb.webp",
+      "rect": {
+        "x": 410,
+        "y": 427,
+        "size": 2136
+      }
+    },
+    {
+      "file": "f919b8f94e6a.webp",
+      "rect": {
+        "x": 0,
+        "y": -638,
+        "size": 3840
+      }
+    }
+  ]
+}

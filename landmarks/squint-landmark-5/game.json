@@ -1,0 +1,67 @@
+{
+  "a": "sFGah1EIqFGV",
+  "ar": "=EWak5WS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit3.jpg",
+  "photographer": "Wikimedia Commons contributor (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "0f6e523b02ea.webp",
+      "rect": {
+        "x": 304,
+        "y": 1508,
+        "size": 241
+      }
+    },
+    {
+      "file": "f89a640fda91.webp",
+      "rect": {
+        "x": 243,
+        "y": 1447,
+        "size": 362
+      }
+    },
+    {
+      "file": "187c0258ef92.webp",
+      "rect": {
+        "x": 153,
+        "y": 1357,
+        "size": 543
+      }
+    },
+    {
+      "file": "391e017e2e61.webp",
+      "rect": {
+        "x": 7,
+        "y": 1211,
+        "size": 836
+      }
+    },
+    {
+      "file": "89a32124e4c1.webp",
+      "rect": {
+        "x": 0,
+        "y": 895,
+        "size": 1278
+      }
+    },
+    {
+      "file": "bc9e955ce919.webp",
+      "rect": {
+        "x": 0,
+        "y": 362,
+        "size": 1811
+      }
+    },
+    {
+      "file": "28d2c2b8feb8.webp",
+      "rect": {
+        "x": 0,
+        "y": -485,
+        "size": 3144
+      }
+    }
+  ]
+}

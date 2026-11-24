@@ -1,0 +1,67 @@
+{
+  "a": "=UWaqFWaqdmbhhmW",
+  "ar": "=Embph2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:%E6%96%87%E6%98%8E%E5%AE%9E%E8%B7%B5%E4%B8%AD%E5%BF%836%E6%A5%BC%E5%8D%97%E6%9C%9B_20240224.jpg",
+  "photographer": "Uuongkinghe (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "47583744fd91.webp",
+      "rect": {
+        "x": 632,
+        "y": 1054,
+        "size": 284
+      }
+    },
+    {
+      "file": "d5ca6319449b.webp",
+      "rect": {
+        "x": 561,
+        "y": 983,
+        "size": 426
+      }
+    },
+    {
+      "file": "5f45745be7b0.webp",
+      "rect": {
+        "x": 455,
+        "y": 876,
+        "size": 640
+      }
+    },
+    {
+      "file": "46cac7c19074.webp",
+      "rect": {
+        "x": 282,
+        "y": 704,
+        "size": 984
+      }
+    },
+    {
+      "file": "27ba81afdbf2.webp",
+      "rect": {
+        "x": 22,
+        "y": 444,
+        "size": 1505
+      }
+    },
+    {
+      "file": "1997d02e200b.webp",
+      "rect": {
+        "x": 0,
+        "y": 130,
+        "size": 2132
+      }
+    },
+    {
+      "file": "38e978b91b1c.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

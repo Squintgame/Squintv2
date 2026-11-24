@@ -1,0 +1,67 @@
+{
+  "a": "==QapVGct9GU",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pompeii_(4873744179).jpg",
+  "photographer": "Glen Scarborough from The Central Coast, Australia (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "e7c13d35d657.webp",
+      "rect": {
+        "x": 2744,
+        "y": 1618,
+        "size": 284
+      }
+    },
+    {
+      "file": "ebf74e4a9011.webp",
+      "rect": {
+        "x": 2673,
+        "y": 1547,
+        "size": 427
+      }
+    },
+    {
+      "file": "6ffba23e9dc2.webp",
+      "rect": {
+        "x": 2566,
+        "y": 1440,
+        "size": 640
+      }
+    },
+    {
+      "file": "483bce259376.webp",
+      "rect": {
+        "x": 2394,
+        "y": 1268,
+        "size": 985
+      }
+    },
+    {
+      "file": "ae3ceee00fb0.webp",
+      "rect": {
+        "x": 2133,
+        "y": 1007,
+        "size": 1506
+      }
+    },
+    {
+      "file": "7f0bec452dc7.webp",
+      "rect": {
+        "x": 1707,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "d9b61967628c.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

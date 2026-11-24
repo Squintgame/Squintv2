@@ -1,0 +1,67 @@
+{
+  "a": "==QZ1F3cv1EIk5WYydEIkVWehpFIotWalh2U",
+  "ar": "=MXZ0Fmcp1WRgIWYyFEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Sheikh_Zayed_Mosque_Silhouette.jpg",
+  "photographer": "PotatoWitch (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "cae25b93d692.webp",
+      "rect": {
+        "x": 1762,
+        "y": 1637,
+        "size": 240
+      }
+    },
+    {
+      "file": "e3c79dd753f0.webp",
+      "rect": {
+        "x": 1702,
+        "y": 1577,
+        "size": 360
+      }
+    },
+    {
+      "file": "93a94fbcc75d.webp",
+      "rect": {
+        "x": 1612,
+        "y": 1487,
+        "size": 540
+      }
+    },
+    {
+      "file": "5431ed4725c5.webp",
+      "rect": {
+        "x": 1466,
+        "y": 1329,
+        "size": 831
+      }
+    },
+    {
+      "file": "123469127ea8.webp",
+      "rect": {
+        "x": 1246,
+        "y": 889,
+        "size": 1271
+      }
+    },
+    {
+      "file": "5a9fee634845.webp",
+      "rect": {
+        "x": 982,
+        "y": 360,
+        "size": 1800
+      }
+    },
+    {
+      "file": "64f76a371423.webp",
+      "rect": {
+        "x": 0,
+        "y": -840,
+        "size": 3840
+      }
+    }
+  ]
+}

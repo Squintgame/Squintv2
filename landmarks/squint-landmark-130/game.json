@@ -1,0 +1,67 @@
+{
+  "a": "==QZulWTgQHbhNFIhtmejlGbll2V",
+  "ar": "k5WYs9GU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5021.jpg",
+  "photographer": "C messier (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "639372ddad25.webp",
+      "rect": {
+        "x": 1759,
+        "y": 1899,
+        "size": 284
+      }
+    },
+    {
+      "file": "bba2b17ed871.webp",
+      "rect": {
+        "x": 1687,
+        "y": 1828,
+        "size": 427
+      }
+    },
+    {
+      "file": "6fd1a28801ab.webp",
+      "rect": {
+        "x": 1581,
+        "y": 1722,
+        "size": 640
+      }
+    },
+    {
+      "file": "bdfc4d567326.webp",
+      "rect": {
+        "x": 1408,
+        "y": 1549,
+        "size": 985
+      }
+    },
+    {
+      "file": "4d5915896c10.webp",
+      "rect": {
+        "x": 1148,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "f3bd0d012960.webp",
+      "rect": {
+        "x": 834,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "ee63d868be3b.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

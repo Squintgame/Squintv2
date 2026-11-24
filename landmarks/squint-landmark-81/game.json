@@ -1,0 +1,67 @@
+{
+  "a": "=0WdlNXdtN3aqlmU",
+  "ar": "=MHZuFGbyVGa0VmT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rijksmuseum_in_Amsterdam.jpg",
+  "photographer": "Marco Almbauer (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "94ab77f28551.webp",
+      "rect": {
+        "x": 3269,
+        "y": 1477,
+        "size": 264
+      }
+    },
+    {
+      "file": "c19fa78ee772.webp",
+      "rect": {
+        "x": 3203,
+        "y": 1411,
+        "size": 397
+      }
+    },
+    {
+      "file": "e473e587670f.webp",
+      "rect": {
+        "x": 3104,
+        "y": 1312,
+        "size": 595
+      }
+    },
+    {
+      "file": "963117537f7b.webp",
+      "rect": {
+        "x": 2925,
+        "y": 1151,
+        "size": 915
+      }
+    },
+    {
+      "file": "a4cff18cf515.webp",
+      "rect": {
+        "x": 2440,
+        "y": 909,
+        "size": 1400
+      }
+    },
+    {
+      "file": "9c55968ba7f8.webp",
+      "rect": {
+        "x": 1857,
+        "y": 397,
+        "size": 1983
+      }
+    },
+    {
+      "file": "5c2774967b1e.webp",
+      "rect": {
+        "x": 0,
+        "y": -730,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "yV2dvRFItl6wsVmQ",
+  "ar": "=wWYnVHdy9GU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Belem_Tower_-_April_2019_(2).jpg",
+  "photographer": "Rehman Abubakr (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "1255064b1ad9.webp",
+      "rect": {
+        "x": 1683,
+        "y": 2163,
+        "size": 320
+      }
+    },
+    {
+      "file": "5beed0a3f6a9.webp",
+      "rect": {
+        "x": 1603,
+        "y": 2083,
+        "size": 480
+      }
+    },
+    {
+      "file": "f2e95db40c41.webp",
+      "rect": {
+        "x": 1483,
+        "y": 1963,
+        "size": 720
+      }
+    },
+    {
+      "file": "db61ad9eb9cd.webp",
+      "rect": {
+        "x": 1289,
+        "y": 1769,
+        "size": 1108
+      }
+    },
+    {
+      "file": "9db1486d5649.webp",
+      "rect": {
+        "x": 996,
+        "y": 1186,
+        "size": 1694
+      }
+    },
+    {
+      "file": "d61cf0290a3c.webp",
+      "rect": {
+        "x": 643,
+        "y": 480,
+        "size": 2400
+      }
+    },
+    {
+      "file": "577e397dcccd.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

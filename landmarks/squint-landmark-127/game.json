@@ -1,0 +1,67 @@
+{
+  "a": "zOMbsRXYCBSYzF2Q",
+  "ar": "=4WahB3U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Casa_Batllo_Overview_Barcelona_Spain_cut.jpg",
+  "photographer": "ChristianSchd (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "905161839806.webp",
+      "rect": {
+        "x": 313,
+        "y": 1433,
+        "size": 249
+      }
+    },
+    {
+      "file": "993c46f7f657.webp",
+      "rect": {
+        "x": 251,
+        "y": 1371,
+        "size": 374
+      }
+    },
+    {
+      "file": "763b1a2559fc.webp",
+      "rect": {
+        "x": 157,
+        "y": 1277,
+        "size": 561
+      }
+    },
+    {
+      "file": "99ad707cbc01.webp",
+      "rect": {
+        "x": 6,
+        "y": 1126,
+        "size": 863
+      }
+    },
+    {
+      "file": "c8caa3ad9985.webp",
+      "rect": {
+        "x": 0,
+        "y": 898,
+        "size": 1320
+      }
+    },
+    {
+      "file": "614ec51380b7.webp",
+      "rect": {
+        "x": 0,
+        "y": 623,
+        "size": 1870
+      }
+    },
+    {
+      "file": "09c64fe6a535.webp",
+      "rect": {
+        "x": -260,
+        "y": 0,
+        "size": 2765
+      }
+    }
+  ]
+}

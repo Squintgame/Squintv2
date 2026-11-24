@@ -1,0 +1,67 @@
+{
+  "a": "=g2YhVmQgkGZu9mQ",
+  "ar": "hlGbhJHdzVXQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:2022-10-22_Bondi_Beach.jpg",
+  "photographer": "Maksym Kozlenko (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "2a9140389dc1.webp",
+      "rect": {
+        "x": 167,
+        "y": 710,
+        "size": 223
+      }
+    },
+    {
+      "file": "150792de00bd.webp",
+      "rect": {
+        "x": 111,
+        "y": 654,
+        "size": 334
+      }
+    },
+    {
+      "file": "09bd906035b5.webp",
+      "rect": {
+        "x": 28,
+        "y": 570,
+        "size": 502
+      }
+    },
+    {
+      "file": "60e73c9abdcd.webp",
+      "rect": {
+        "x": 0,
+        "y": 435,
+        "size": 772
+      }
+    },
+    {
+      "file": "07afcaacb9da.webp",
+      "rect": {
+        "x": 0,
+        "y": 231,
+        "size": 1181
+      }
+    },
+    {
+      "file": "6b853381c217.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1672
+      }
+    },
+    {
+      "file": "3b3e367828d2.webp",
+      "rect": {
+        "x": 0,
+        "y": -916,
+        "size": 3840
+      }
+    }
+  ]
+}

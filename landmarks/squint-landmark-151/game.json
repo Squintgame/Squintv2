@@ -1,0 +1,67 @@
+{
+  "a": "sFWay9Wbl1EIu92cyVmZmVmS",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Jefferson_Memorial_Washington_April_2017_002.jpg",
+  "photographer": "King of Hearts (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "0bb87e3159f6.webp",
+      "rect": {
+        "x": 2744,
+        "y": 1761,
+        "size": 285
+      }
+    },
+    {
+      "file": "cd57c1e71987.webp",
+      "rect": {
+        "x": 2673,
+        "y": 1689,
+        "size": 427
+      }
+    },
+    {
+      "file": "5e1a166e8704.webp",
+      "rect": {
+        "x": 2566,
+        "y": 1583,
+        "size": 641
+      }
+    },
+    {
+      "file": "33511554dbe9.webp",
+      "rect": {
+        "x": 2394,
+        "y": 1410,
+        "size": 986
+      }
+    },
+    {
+      "file": "18a165ffb8ac.webp",
+      "rect": {
+        "x": 2133,
+        "y": 1055,
+        "size": 1508
+      }
+    },
+    {
+      "file": "9236eb1abe7b.webp",
+      "rect": {
+        "x": 1704,
+        "y": 427,
+        "size": 2136
+      }
+    },
+    {
+      "file": "f00ce67c526d.webp",
+      "rect": {
+        "x": 0,
+        "y": -638,
+        "size": 3840
+      }
+    }
+  ]
+}

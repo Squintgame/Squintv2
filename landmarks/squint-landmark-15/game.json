@@ -1,0 +1,67 @@
+{
+  "a": "==wcsxWYGBSYyF2ZhlmT",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Niagara_Falls_USA_Canada_from_Skylon_Tower_on_2002-05-28,_full_size.jpg",
+  "photographer": "Robert F. Tobler (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "756634da5989.webp",
+      "rect": {
+        "x": 3559,
+        "y": 590,
+        "size": 107
+      }
+    },
+    {
+      "file": "1a57783aacb9.webp",
+      "rect": {
+        "x": 3533,
+        "y": 563,
+        "size": 160
+      }
+    },
+    {
+      "file": "c8ab7fe0401e.webp",
+      "rect": {
+        "x": 3493,
+        "y": 523,
+        "size": 240
+      }
+    },
+    {
+      "file": "6e685220b0e0.webp",
+      "rect": {
+        "x": 3428,
+        "y": 459,
+        "size": 369
+      }
+    },
+    {
+      "file": "a355b3c6e651.webp",
+      "rect": {
+        "x": 3275,
+        "y": 361,
+        "size": 565
+      }
+    },
+    {
+      "file": "018e3a79782d.webp",
+      "rect": {
+        "x": 3040,
+        "y": 160,
+        "size": 800
+      }
+    },
+    {
+      "file": "9b1cdee63981.webp",
+      "rect": {
+        "x": 0,
+        "y": -1440,
+        "size": 3840
+      }
+    }
+  ]
+}

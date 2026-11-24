@@ -1,0 +1,67 @@
+{
+  "a": "==wcwVGdTBCazlmbhB3U",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Scalinata_della_Trinit%C3%A0_dei_Monti.jpg",
+  "photographer": "Hugo DK (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "58f95e20248c.webp",
+      "rect": {
+        "x": 723,
+        "y": 2163,
+        "size": 321
+      }
+    },
+    {
+      "file": "7b58ee2c7647.webp",
+      "rect": {
+        "x": 643,
+        "y": 2083,
+        "size": 481
+      }
+    },
+    {
+      "file": "d5efba7b35e0.webp",
+      "rect": {
+        "x": 522,
+        "y": 1963,
+        "size": 722
+      }
+    },
+    {
+      "file": "20790c4b2ea6.webp",
+      "rect": {
+        "x": 328,
+        "y": 1768,
+        "size": 1110
+      }
+    },
+    {
+      "file": "63fb81074e02.webp",
+      "rect": {
+        "x": 34,
+        "y": 1189,
+        "size": 1698
+      }
+    },
+    {
+      "file": "09e6b967123c.webp",
+      "rect": {
+        "x": 0,
+        "y": 481,
+        "size": 2406
+      }
+    },
+    {
+      "file": "b8769a81608e.webp",
+      "rect": {
+        "x": 0,
+        "y": -476,
+        "size": 3840
+      }
+    }
+  ]
+}

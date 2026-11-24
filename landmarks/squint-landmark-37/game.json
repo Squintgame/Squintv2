@@ -1,0 +1,67 @@
+{
+  "a": "==gcl1WZlRWZSBSZoRHI0NXayh2Q",
+  "ar": "slmehJnQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg",
+  "photographer": "Arne Müseler (CC BY-SA 3.0 de)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "3318474c0c89.webp",
+      "rect": {
+        "x": 479,
+        "y": 2950,
+        "size": 277
+      }
+    },
+    {
+      "file": "99256fbe81fb.webp",
+      "rect": {
+        "x": 410,
+        "y": 2881,
+        "size": 416
+      }
+    },
+    {
+      "file": "bcb86fd4b677.webp",
+      "rect": {
+        "x": 306,
+        "y": 2777,
+        "size": 624
+      }
+    },
+    {
+      "file": "f8680b8c0034.webp",
+      "rect": {
+        "x": 138,
+        "y": 2609,
+        "size": 960
+      }
+    },
+    {
+      "file": "2ef0128d8809.webp",
+      "rect": {
+        "x": 0,
+        "y": 2275,
+        "size": 1469
+      }
+    },
+    {
+      "file": "83f29eb6261a.webp",
+      "rect": {
+        "x": 0,
+        "y": 1663,
+        "size": 2081
+      }
+    },
+    {
+      "file": "3899aaecaf2c.webp",
+      "rect": {
+        "x": -623,
+        "y": 0,
+        "size": 3744
+      }
+    }
+  ]
+}

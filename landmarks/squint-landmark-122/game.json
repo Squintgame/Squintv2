@@ -1,0 +1,67 @@
+{
+  "a": "==Qb1lWbvRXQ",
+  "ar": "==Qb1l2ZsVmQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Laeken_Atomium_06.jpg",
+  "photographer": "Zairon (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "dbb2e7ff07dd.webp",
+      "rect": {
+        "x": 1518,
+        "y": 2413,
+        "size": 359
+      }
+    },
+    {
+      "file": "9fc1741ed372.webp",
+      "rect": {
+        "x": 1428,
+        "y": 2323,
+        "size": 539
+      }
+    },
+    {
+      "file": "2b3d3055b3d2.webp",
+      "rect": {
+        "x": 1293,
+        "y": 2188,
+        "size": 809
+      }
+    },
+    {
+      "file": "3e118c563894.webp",
+      "rect": {
+        "x": 1075,
+        "y": 1970,
+        "size": 1244
+      }
+    },
+    {
+      "file": "a2e9f33ca493.webp",
+      "rect": {
+        "x": 746,
+        "y": 1332,
+        "size": 1903
+      }
+    },
+    {
+      "file": "a54857c6a379.webp",
+      "rect": {
+        "x": 349,
+        "y": 539,
+        "size": 2696
+      }
+    },
+    {
+      "file": "b8c95168daa8.webp",
+      "rect": {
+        "x": 0,
+        "y": -57,
+        "size": 3350
+      }
+    }
+  ]
+}

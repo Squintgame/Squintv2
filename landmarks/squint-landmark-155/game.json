@@ -1,0 +1,67 @@
+{
+  "a": "5FmQgUGa0BSeiBycuVGZyF2R",
+  "ar": "lJ3bwF2Zul2U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore_-_20120712-02.jpg",
+  "photographer": "Shiny Things. (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "6fa4de8c386e.webp",
+      "rect": {
+        "x": 1759,
+        "y": 351,
+        "size": 284
+      }
+    },
+    {
+      "file": "afbad1678b99.webp",
+      "rect": {
+        "x": 1687,
+        "y": 279,
+        "size": 427
+      }
+    },
+    {
+      "file": "62affe2b545d.webp",
+      "rect": {
+        "x": 1581,
+        "y": 173,
+        "size": 640
+      }
+    },
+    {
+      "file": "9e4d535c63a7.webp",
+      "rect": {
+        "x": 1408,
+        "y": 0,
+        "size": 985
+      }
+    },
+    {
+      "file": "406c161e18c8.webp",
+      "rect": {
+        "x": 1148,
+        "y": 0,
+        "size": 1506
+      }
+    },
+    {
+      "file": "04da90ec4ade.webp",
+      "rect": {
+        "x": 834,
+        "y": 0,
+        "size": 2133
+      }
+    },
+    {
+      "file": "f2202b4288f9.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

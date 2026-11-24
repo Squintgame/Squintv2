@@ -1,0 +1,67 @@
+{
+  "a": "=cmbpRGbpVnQgQnbl1WYpxmchBFIuFWayF2ZuVHS",
+  "ar": "==QeyF2ZuVHS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Budapest-Parliament-0001.jpg",
+  "photographer": "Source: User:Godot13 Derivative: User:MathKnight (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "962ff2b6c843.webp",
+      "rect": {
+        "x": 1004,
+        "y": 1464,
+        "size": 316
+      }
+    },
+    {
+      "file": "12c0ff45a1a7.webp",
+      "rect": {
+        "x": 925,
+        "y": 1385,
+        "size": 473
+      }
+    },
+    {
+      "file": "bb65ca3c2938.webp",
+      "rect": {
+        "x": 807,
+        "y": 1266,
+        "size": 710
+      }
+    },
+    {
+      "file": "b4690c4a4b4c.webp",
+      "rect": {
+        "x": 615,
+        "y": 1075,
+        "size": 1092
+      }
+    },
+    {
+      "file": "193c8a08d88e.webp",
+      "rect": {
+        "x": 326,
+        "y": 786,
+        "size": 1671
+      }
+    },
+    {
+      "file": "f6ef57fb9d92.webp",
+      "rect": {
+        "x": 0,
+        "y": 438,
+        "size": 2367
+      }
+    },
+    {
+      "file": "f90d8a53f843.webp",
+      "rect": {
+        "x": 0,
+        "y": -500,
+        "size": 3840
+      }
+    }
+  ]
+}

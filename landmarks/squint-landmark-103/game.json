@@ -1,0 +1,67 @@
+{
+  "a": "==AbhhWYNBSY3FGS",
+  "ar": "=EWak5WS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg",
+  "photographer": "Chainwit. (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "ddcdda14598e.webp",
+      "rect": {
+        "x": 1466,
+        "y": 1606,
+        "size": 279
+      }
+    },
+    {
+      "file": "73329f279f63.webp",
+      "rect": {
+        "x": 1397,
+        "y": 1536,
+        "size": 418
+      }
+    },
+    {
+      "file": "f7f8971385c7.webp",
+      "rect": {
+        "x": 1292,
+        "y": 1432,
+        "size": 627
+      }
+    },
+    {
+      "file": "6d2792df348f.webp",
+      "rect": {
+        "x": 1123,
+        "y": 1263,
+        "size": 965
+      }
+    },
+    {
+      "file": "6a4a5539080f.webp",
+      "rect": {
+        "x": 868,
+        "y": 1007,
+        "size": 1476
+      }
+    },
+    {
+      "file": "5aeef980fc38.webp",
+      "rect": {
+        "x": 560,
+        "y": 418,
+        "size": 2091
+      }
+    },
+    {
+      "file": "84c607f92bfe.webp",
+      "rect": {
+        "x": 0,
+        "y": -418,
+        "size": 3345
+      }
+    }
+  ]
+}

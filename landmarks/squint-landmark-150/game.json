@@ -1,0 +1,67 @@
+{
+  "a": "=U2YhxWYQBSYuVGU",
+  "ar": "=wWYnVHdy9GU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Sintra_-_Palacio_da_Pena_(20332995770).jpg",
+  "photographer": "Singa Hitam (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "3ca531124ff5.webp",
+      "rect": {
+        "x": 2603,
+        "y": 1477,
+        "size": 284
+      }
+    },
+    {
+      "file": "541f69a67857.webp",
+      "rect": {
+        "x": 2532,
+        "y": 1406,
+        "size": 427
+      }
+    },
+    {
+      "file": "9aaafbff23e4.webp",
+      "rect": {
+        "x": 2426,
+        "y": 1299,
+        "size": 640
+      }
+    },
+    {
+      "file": "65ed35d7e74d.webp",
+      "rect": {
+        "x": 2253,
+        "y": 1127,
+        "size": 985
+      }
+    },
+    {
+      "file": "dacf799e4e3a.webp",
+      "rect": {
+        "x": 1993,
+        "y": 866,
+        "size": 1506
+      }
+    },
+    {
+      "file": "8e42a2df9242.webp",
+      "rect": {
+        "x": 1679,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "23dcc5654c6a.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==QdvRGZhhmblJEI0lWQ",
+  "ar": "==wbjN2by9WT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ksar_A%C3%AFt_Benhaddou,_Marocco_(%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93).jpg",
+  "photographer": "Petar Milošević (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "dee4e2777235.webp",
+      "rect": {
+        "x": 1222,
+        "y": 710,
+        "size": 264
+      }
+    },
+    {
+      "file": "ecfdc1cbe014.webp",
+      "rect": {
+        "x": 1156,
+        "y": 644,
+        "size": 396
+      }
+    },
+    {
+      "file": "e9e11cdd56d0.webp",
+      "rect": {
+        "x": 1057,
+        "y": 545,
+        "size": 594
+      }
+    },
+    {
+      "file": "ef5d777d63ec.webp",
+      "rect": {
+        "x": 897,
+        "y": 385,
+        "size": 914
+      }
+    },
+    {
+      "file": "a0a4c2807708.webp",
+      "rect": {
+        "x": 655,
+        "y": 143,
+        "size": 1398
+      }
+    },
+    {
+      "file": "3bf2ee5d3b94.webp",
+      "rect": {
+        "x": 364,
+        "y": 0,
+        "size": 1980
+      }
+    },
+    {
+      "file": "31ece3556e80.webp",
+      "rect": {
+        "x": 0,
+        "y": -732,
+        "size": 3840
+      }
+    }
+  ]
+}

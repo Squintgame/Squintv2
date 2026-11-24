@@ -1,0 +1,67 @@
+{
+  "a": "=42b0lmYi9GS",
+  "ar": "=QmbhxWYlpFI3VmT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Hobbit_holes_reflected_in_water.jpg",
+  "photographer": "Jackie.lck (photos · photo sets) (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "c0299aafdce5.webp",
+      "rect": {
+        "x": 2885,
+        "y": 210,
+        "size": 284
+      }
+    },
+    {
+      "file": "539167623d49.webp",
+      "rect": {
+        "x": 2814,
+        "y": 139,
+        "size": 427
+      }
+    },
+    {
+      "file": "9b6614b84e79.webp",
+      "rect": {
+        "x": 2707,
+        "y": 32,
+        "size": 640
+      }
+    },
+    {
+      "file": "59208b8879c0.webp",
+      "rect": {
+        "x": 2535,
+        "y": 0,
+        "size": 985
+      }
+    },
+    {
+      "file": "3d2c1b861019.webp",
+      "rect": {
+        "x": 2274,
+        "y": 0,
+        "size": 1506
+      }
+    },
+    {
+      "file": "535d0bb48d1a.webp",
+      "rect": {
+        "x": 1707,
+        "y": 0,
+        "size": 2133
+      }
+    },
+    {
+      "file": "6f254978ff9f.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

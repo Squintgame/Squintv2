@@ -1,0 +1,67 @@
+{
+  "a": "=UGb0NXYDBSel5mchxmQ",
+  "ar": "==AZuFGblJXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Blarney_Castle-02-2017-gje.jpg",
+  "photographer": "Gerd Eichmann (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "3f0e9fd971e7.webp",
+      "rect": {
+        "x": 210,
+        "y": 773,
+        "size": 284
+      }
+    },
+    {
+      "file": "d79e4f8f9b6c.webp",
+      "rect": {
+        "x": 139,
+        "y": 702,
+        "size": 427
+      }
+    },
+    {
+      "file": "415843963428.webp",
+      "rect": {
+        "x": 32,
+        "y": 595,
+        "size": 640
+      }
+    },
+    {
+      "file": "395393e0d30c.webp",
+      "rect": {
+        "x": 0,
+        "y": 423,
+        "size": 985
+      }
+    },
+    {
+      "file": "ce3857a6b0c3.webp",
+      "rect": {
+        "x": 0,
+        "y": 162,
+        "size": 1506
+      }
+    },
+    {
+      "file": "db148a55cd09.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2133
+      }
+    },
+    {
+      "file": "ea6156c4e348.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

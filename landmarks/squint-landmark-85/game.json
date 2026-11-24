@@ -1,0 +1,67 @@
+{
+  "a": "=4WahRnb19mRgkmdlJHV",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg",
+  "photographer": "NikonZ7II (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "42126fba567b.webp",
+      "rect": {
+        "x": 1785,
+        "y": 403,
+        "size": 231
+      }
+    },
+    {
+      "file": "cf451c0f7dcf.webp",
+      "rect": {
+        "x": 1727,
+        "y": 346,
+        "size": 347
+      }
+    },
+    {
+      "file": "21e1426f727d.webp",
+      "rect": {
+        "x": 1640,
+        "y": 259,
+        "size": 521
+      }
+    },
+    {
+      "file": "d3d8a3082bec.webp",
+      "rect": {
+        "x": 1500,
+        "y": 119,
+        "size": 801
+      }
+    },
+    {
+      "file": "e75e9c066d3c.webp",
+      "rect": {
+        "x": 1288,
+        "y": 0,
+        "size": 1225
+      }
+    },
+    {
+      "file": "086b0d9a19cb.webp",
+      "rect": {
+        "x": 1033,
+        "y": 0,
+        "size": 1736
+      }
+    },
+    {
+      "file": "b4f0b92994e0.webp",
+      "rect": {
+        "x": 0,
+        "y": -878,
+        "size": 3840
+      }
+    }
+  ]
+}

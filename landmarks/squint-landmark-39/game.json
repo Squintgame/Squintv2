@@ -1,0 +1,67 @@
+{
+  "a": "=MHbsFmRgwWZn5WQ",
+  "ar": "hxWZ1pXZuVmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:SaltoAngel4.jpg",
+  "photographer": "Paulo Capiotti (CC BY-SA 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "be11571f3b0e.webp",
+      "rect": {
+        "x": 858,
+        "y": 3354,
+        "size": 315
+      }
+    },
+    {
+      "file": "92f7fdc26c22.webp",
+      "rect": {
+        "x": 779,
+        "y": 3275,
+        "size": 472
+      }
+    },
+    {
+      "file": "b690433e9bd5.webp",
+      "rect": {
+        "x": 661,
+        "y": 3157,
+        "size": 708
+      }
+    },
+    {
+      "file": "8649449c0dfa.webp",
+      "rect": {
+        "x": 470,
+        "y": 2967,
+        "size": 1089
+      }
+    },
+    {
+      "file": "e3d682965b88.webp",
+      "rect": {
+        "x": 182,
+        "y": 2590,
+        "size": 1666
+      }
+    },
+    {
+      "file": "244894ae19a6.webp",
+      "rect": {
+        "x": 0,
+        "y": 1896,
+        "size": 2360
+      }
+    },
+    {
+      "file": "e669fcb34e00.webp",
+      "rect": {
+        "x": -712,
+        "y": 0,
+        "size": 4256
+      }
+    }
+  ]
+}

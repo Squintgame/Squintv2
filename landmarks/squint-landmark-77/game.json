@@ -1,0 +1,67 @@
+{
+  "a": "lJXY1F3UgMXZtlGV",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:New_york_times_square-terabass.jpg",
+  "photographer": "Terabass (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "646b1a1474c3.webp",
+      "rect": {
+        "x": 1759,
+        "y": 2039,
+        "size": 284
+      }
+    },
+    {
+      "file": "dd0cfaff8c7e.webp",
+      "rect": {
+        "x": 1688,
+        "y": 1968,
+        "size": 426
+      }
+    },
+    {
+      "file": "6518a0aefc0a.webp",
+      "rect": {
+        "x": 1581,
+        "y": 1862,
+        "size": 640
+      }
+    },
+    {
+      "file": "e732209d013e.webp",
+      "rect": {
+        "x": 1409,
+        "y": 1575,
+        "size": 984
+      }
+    },
+    {
+      "file": "c5e0b2ca7738.webp",
+      "rect": {
+        "x": 1148,
+        "y": 1054,
+        "size": 1505
+      }
+    },
+    {
+      "file": "329a23aca16f.webp",
+      "rect": {
+        "x": 835,
+        "y": 426,
+        "size": 2132
+      }
+    },
+    {
+      "file": "cd307f6ed37e.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

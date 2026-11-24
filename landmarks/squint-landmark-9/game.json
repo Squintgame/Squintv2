@@ -1,0 +1,67 @@
+{
+  "a": "hlGaw92UgEWanFGS",
+  "ar": "5V2ayVHV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg",
+  "photographer": "Arild Vågen (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "4a6ed3fdb462.webp",
+      "rect": {
+        "x": 3307,
+        "y": 1620,
+        "size": 285
+      }
+    },
+    {
+      "file": "13bd3a88a7f2.webp",
+      "rect": {
+        "x": 3236,
+        "y": 1548,
+        "size": 427
+      }
+    },
+    {
+      "file": "821d9e59e2e8.webp",
+      "rect": {
+        "x": 3129,
+        "y": 1442,
+        "size": 641
+      }
+    },
+    {
+      "file": "a81a51460dc8.webp",
+      "rect": {
+        "x": 2854,
+        "y": 1269,
+        "size": 986
+      }
+    },
+    {
+      "file": "bd1c4215598b.webp",
+      "rect": {
+        "x": 2332,
+        "y": 1008,
+        "size": 1508
+      }
+    },
+    {
+      "file": "becb5e36e478.webp",
+      "rect": {
+        "x": 1704,
+        "y": 427,
+        "size": 2136
+      }
+    },
+    {
+      "file": "e8829bf1fd1d.webp",
+      "rect": {
+        "x": 0,
+        "y": -638,
+        "size": 3840
+      }
+    }
+  ]
+}

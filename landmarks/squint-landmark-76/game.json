@@ -1,0 +1,67 @@
+{
+  "a": "=0Wdy9mRg4WYt9mU",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Foro_Romano_Musei_Capitolini_Roma.jpg",
+  "photographer": "Wikimedia Commons contributor (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "7a9c692975ef.webp",
+      "rect": {
+        "x": 959,
+        "y": 377,
+        "size": 175
+      }
+    },
+    {
+      "file": "94e7b4a87b7d.webp",
+      "rect": {
+        "x": 915,
+        "y": 333,
+        "size": 263
+      }
+    },
+    {
+      "file": "bdc6ceb17624.webp",
+      "rect": {
+        "x": 849,
+        "y": 268,
+        "size": 394
+      }
+    },
+    {
+      "file": "34daeb545a82.webp",
+      "rect": {
+        "x": 743,
+        "y": 161,
+        "size": 607
+      }
+    },
+    {
+      "file": "54cdf37c65c0.webp",
+      "rect": {
+        "x": 583,
+        "y": 1,
+        "size": 928
+      }
+    },
+    {
+      "file": "8e9f34a9fcb2.webp",
+      "rect": {
+        "x": 389,
+        "y": 0,
+        "size": 1314
+      }
+    },
+    {
+      "file": "651b001d27cf.webp",
+      "rect": {
+        "x": 0,
+        "y": -1131,
+        "size": 3840
+      }
+    }
+  ]
+}

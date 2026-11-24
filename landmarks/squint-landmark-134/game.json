@@ -1,0 +1,67 @@
+{
+  "a": "lNWYsFGUgQmbhJ3R",
+  "ar": "=QmbhxWahhGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:0005574-%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%A3%E0%B8%A1%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%A8%E0%B8%A3%E0%B8%B5%E0%B8%A3%E0%B8%B1%E0%B8%95%E0%B8%99%E0%B8%A3%E0%B8%B2%E0%B8%A8%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A1.jpg",
+  "photographer": "Preecha.MJ (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "3621dea242d1.webp",
+      "rect": {
+        "x": 914,
+        "y": 1478,
+        "size": 284
+      }
+    },
+    {
+      "file": "6769102e6213.webp",
+      "rect": {
+        "x": 843,
+        "y": 1407,
+        "size": 426
+      }
+    },
+    {
+      "file": "81e824837c51.webp",
+      "rect": {
+        "x": 737,
+        "y": 1301,
+        "size": 639
+      }
+    },
+    {
+      "file": "972182cae3da.webp",
+      "rect": {
+        "x": 565,
+        "y": 1129,
+        "size": 983
+      }
+    },
+    {
+      "file": "528532d03a15.webp",
+      "rect": {
+        "x": 305,
+        "y": 869,
+        "size": 1503
+      }
+    },
+    {
+      "file": "5b45dbca78ed.webp",
+      "rect": {
+        "x": 0,
+        "y": 426,
+        "size": 2129
+      }
+    },
+    {
+      "file": "40ad355900e7.webp",
+      "rect": {
+        "x": 0,
+        "y": -642,
+        "size": 3840
+      }
+    }
+  ]
+}

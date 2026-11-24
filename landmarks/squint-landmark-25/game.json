@@ -1,0 +1,67 @@
+{
+  "a": "=MXZsxWahNnclZFIm9GIlNWYsFGU",
+  "ar": "lNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg",
+  "photographer": "ToucanWings (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "2189ac622784.webp",
+      "rect": {
+        "x": 2163,
+        "y": 723,
+        "size": 320
+      }
+    },
+    {
+      "file": "dce75e530219.webp",
+      "rect": {
+        "x": 2083,
+        "y": 643,
+        "size": 480
+      }
+    },
+    {
+      "file": "68d62a9ddf14.webp",
+      "rect": {
+        "x": 1963,
+        "y": 523,
+        "size": 720
+      }
+    },
+    {
+      "file": "294456b70d5b.webp",
+      "rect": {
+        "x": 1769,
+        "y": 329,
+        "size": 1108
+      }
+    },
+    {
+      "file": "1b33c3eb2f9d.webp",
+      "rect": {
+        "x": 1476,
+        "y": 36,
+        "size": 1694
+      }
+    },
+    {
+      "file": "f4c4c4a81f53.webp",
+      "rect": {
+        "x": 1123,
+        "y": 0,
+        "size": 2400
+      }
+    },
+    {
+      "file": "393c6d77c95f.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

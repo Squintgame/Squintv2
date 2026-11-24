@@ -1,0 +1,67 @@
+{
+  "a": "=wGbhdFIulGbyVmQ",
+  "ar": "==QeuFWbyV2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Berlin_Wall_-_Sarah_Stierch_A_03.jpg",
+  "photographer": "Sarah Stierch (CC BY 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "f7d54fbefed3.webp",
+      "rect": {
+        "x": 914,
+        "y": 632,
+        "size": 284
+      }
+    },
+    {
+      "file": "477a80d94bb4.webp",
+      "rect": {
+        "x": 843,
+        "y": 561,
+        "size": 427
+      }
+    },
+    {
+      "file": "d8d44d3c362d.webp",
+      "rect": {
+        "x": 736,
+        "y": 454,
+        "size": 640
+      }
+    },
+    {
+      "file": "7d5ecf2aa858.webp",
+      "rect": {
+        "x": 564,
+        "y": 282,
+        "size": 985
+      }
+    },
+    {
+      "file": "d213196da6ba.webp",
+      "rect": {
+        "x": 303,
+        "y": 21,
+        "size": 1506
+      }
+    },
+    {
+      "file": "d318bfe3bcbb.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2133
+      }
+    },
+    {
+      "file": "1f5022d0a61c.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

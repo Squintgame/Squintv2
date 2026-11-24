@@ -1,0 +1,67 @@
+{
+  "a": "=UmdvJ3Rg82bi1WYCBSYtFWeph2chJXQ",
+  "ar": "=4WYwFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:2021_Sagano_Bamboo_forest_in_Arashiyama,_Kyoto,_Japan.jpg",
+  "photographer": "Naokijp (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "67d3bcb298e1.webp",
+      "rect": {
+        "x": 2866,
+        "y": 660,
+        "size": 291
+      }
+    },
+    {
+      "file": "2530409fec10.webp",
+      "rect": {
+        "x": 2794,
+        "y": 587,
+        "size": 437
+      }
+    },
+    {
+      "file": "fc790e55caf3.webp",
+      "rect": {
+        "x": 2684,
+        "y": 478,
+        "size": 656
+      }
+    },
+    {
+      "file": "47556622559e.webp",
+      "rect": {
+        "x": 2508,
+        "y": 302,
+        "size": 1008
+      }
+    },
+    {
+      "file": "91cbe6a0f2c6.webp",
+      "rect": {
+        "x": 2241,
+        "y": 35,
+        "size": 1542
+      }
+    },
+    {
+      "file": "184ed9bc31b5.webp",
+      "rect": {
+        "x": 1652,
+        "y": 0,
+        "size": 2185
+      }
+    },
+    {
+      "file": "953c9ce51fac.webp",
+      "rect": {
+        "x": 0,
+        "y": -607,
+        "size": 3837
+      }
+    }
+  ]
+}

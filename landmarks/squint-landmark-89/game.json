@@ -1,0 +1,67 @@
+{
+  "a": "lJnclRFIlVXcul2Q",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Manarola_NW_Cemetery_Corniglia_Monterosso_Cinque_Terre_Sep23_A7C_06872.jpg",
+  "photographer": "Wikimedia Commons contributor (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "51120c89cc4a.webp",
+      "rect": {
+        "x": 2181,
+        "y": 1618,
+        "size": 284
+      }
+    },
+    {
+      "file": "15fff618cc1b.webp",
+      "rect": {
+        "x": 2110,
+        "y": 1547,
+        "size": 427
+      }
+    },
+    {
+      "file": "caaea8ba95c4.webp",
+      "rect": {
+        "x": 2003,
+        "y": 1440,
+        "size": 640
+      }
+    },
+    {
+      "file": "44dc08f7058b.webp",
+      "rect": {
+        "x": 1831,
+        "y": 1268,
+        "size": 985
+      }
+    },
+    {
+      "file": "4c47af06183a.webp",
+      "rect": {
+        "x": 1570,
+        "y": 1007,
+        "size": 1506
+      }
+    },
+    {
+      "file": "707af946c30d.webp",
+      "rect": {
+        "x": 1257,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "39eebc8be35f.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

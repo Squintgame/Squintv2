@@ -1,0 +1,67 @@
+{
+  "a": "=EmYhF2S",
+  "ar": "hlmYhJXQgkGZ1F2U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Kaaba2.JPG",
+  "photographer": "Aiman titi (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "955596c0e5ee.webp",
+      "rect": {
+        "x": 380,
+        "y": 1352,
+        "size": 216
+      }
+    },
+    {
+      "file": "cce2fb04b258.webp",
+      "rect": {
+        "x": 326,
+        "y": 1298,
+        "size": 324
+      }
+    },
+    {
+      "file": "18fbb864d09d.webp",
+      "rect": {
+        "x": 245,
+        "y": 1217,
+        "size": 486
+      }
+    },
+    {
+      "file": "d0fcf6506ce8.webp",
+      "rect": {
+        "x": 114,
+        "y": 1086,
+        "size": 748
+      }
+    },
+    {
+      "file": "5172023ae384.webp",
+      "rect": {
+        "x": 0,
+        "y": 800,
+        "size": 1144
+      }
+    },
+    {
+      "file": "c3b63ce81a84.webp",
+      "rect": {
+        "x": 0,
+        "y": 324,
+        "size": 1620
+      }
+    },
+    {
+      "file": "e9c0ca66c048.webp",
+      "rect": {
+        "x": 0,
+        "y": -324,
+        "size": 2592
+      }
+    }
+  ]
+}

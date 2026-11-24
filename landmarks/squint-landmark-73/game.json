@@ -1,0 +1,67 @@
+{
+  "a": "n5WakxWa1JEInFGdzh2YpVmU",
+  "ar": "==QeuFWbyV2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Reichstagsgeb%C3%A4ude_von_Westen.jpg",
+  "photographer": "Jörg Braukmann (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "38da98acebfd.webp",
+      "rect": {
+        "x": 2988,
+        "y": 1527,
+        "size": 251
+      }
+    },
+    {
+      "file": "1cc37c4b132f.webp",
+      "rect": {
+        "x": 2925,
+        "y": 1464,
+        "size": 377
+      }
+    },
+    {
+      "file": "e6ac248b0041.webp",
+      "rect": {
+        "x": 2831,
+        "y": 1370,
+        "size": 566
+      }
+    },
+    {
+      "file": "e8ea52ec2861.webp",
+      "rect": {
+        "x": 2678,
+        "y": 1217,
+        "size": 870
+      }
+    },
+    {
+      "file": "3efd336aa21f.webp",
+      "rect": {
+        "x": 2448,
+        "y": 932,
+        "size": 1331
+      }
+    },
+    {
+      "file": "6b71b38e4608.webp",
+      "rect": {
+        "x": 1954,
+        "y": 377,
+        "size": 1886
+      }
+    },
+    {
+      "file": "600e71b704a3.webp",
+      "rect": {
+        "x": 0,
+        "y": -788,
+        "size": 3840
+      }
+    }
+  ]
+}

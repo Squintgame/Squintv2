@@ -1,0 +1,67 @@
+{
+  "a": "==wcll6wzlHbJOcLzBXbhh2Q",
+  "ar": "lNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Avenue_des_Champs-%C3%89lys%C3%A9es,_Paris_3_October_2010.jpg",
+  "photographer": "SoWhat (CC BY-SA 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "6c7e1b40f1b2.webp",
+      "rect": {
+        "x": 2364,
+        "y": 1264,
+        "size": 222
+      }
+    },
+    {
+      "file": "8010b577c03c.webp",
+      "rect": {
+        "x": 2308,
+        "y": 1208,
+        "size": 333
+      }
+    },
+    {
+      "file": "1e9b2b10805e.webp",
+      "rect": {
+        "x": 2225,
+        "y": 1125,
+        "size": 500
+      }
+    },
+    {
+      "file": "4fb3eccae479.webp",
+      "rect": {
+        "x": 2090,
+        "y": 990,
+        "size": 769
+      }
+    },
+    {
+      "file": "0170f8714b88.webp",
+      "rect": {
+        "x": 1824,
+        "y": 787,
+        "size": 1176
+      }
+    },
+    {
+      "file": "2db57b5cd7af.webp",
+      "rect": {
+        "x": 1333,
+        "y": 333,
+        "size": 1667
+      }
+    },
+    {
+      "file": "b6950eb67b84.webp",
+      "rect": {
+        "x": 0,
+        "y": -500,
+        "size": 3000
+      }
+    }
+  ]
+}

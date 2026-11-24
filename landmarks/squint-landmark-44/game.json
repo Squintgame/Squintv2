@@ -1,0 +1,67 @@
+{
+  "a": "=UWdxN3bNBSZ1xmQ",
+  "ar": "5V2ayVHV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg",
+  "photographer": "Moonik (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "ccd86d9edaf9.webp",
+      "rect": {
+        "x": 3029,
+        "y": 1900,
+        "size": 278
+      }
+    },
+    {
+      "file": "f7fc3e098e64.webp",
+      "rect": {
+        "x": 2959,
+        "y": 1830,
+        "size": 418
+      }
+    },
+    {
+      "file": "a5f14aa3554f.webp",
+      "rect": {
+        "x": 2855,
+        "y": 1726,
+        "size": 626
+      }
+    },
+    {
+      "file": "984daf7c3793.webp",
+      "rect": {
+        "x": 2686,
+        "y": 1542,
+        "size": 964
+      }
+    },
+    {
+      "file": "7819468f0078.webp",
+      "rect": {
+        "x": 2366,
+        "y": 1032,
+        "size": 1474
+      }
+    },
+    {
+      "file": "226b86b0e02e.webp",
+      "rect": {
+        "x": 1752,
+        "y": 418,
+        "size": 2088
+      }
+    },
+    {
+      "file": "55172789a741.webp",
+      "rect": {
+        "x": 0,
+        "y": -667,
+        "size": 3840
+      }
+    }
+  ]
+}

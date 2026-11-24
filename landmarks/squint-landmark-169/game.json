@@ -1,0 +1,67 @@
+{
+  "a": "uZXYolnT",
+  "ar": "==wayFWbuVGR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Nyhavn_Copenhagen_2.jpg",
+  "photographer": "kallerna (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "e4c0ec5a6110.webp",
+      "rect": {
+        "x": 2885,
+        "y": 1336,
+        "size": 284
+      }
+    },
+    {
+      "file": "4ae42a49a884.webp",
+      "rect": {
+        "x": 2814,
+        "y": 1265,
+        "size": 427
+      }
+    },
+    {
+      "file": "005bce0d7ed2.webp",
+      "rect": {
+        "x": 2707,
+        "y": 1158,
+        "size": 640
+      }
+    },
+    {
+      "file": "82f9074bf557.webp",
+      "rect": {
+        "x": 2535,
+        "y": 986,
+        "size": 985
+      }
+    },
+    {
+      "file": "3f08fdf1891a.webp",
+      "rect": {
+        "x": 2274,
+        "y": 725,
+        "size": 1506
+      }
+    },
+    {
+      "file": "8852e5b5f158.webp",
+      "rect": {
+        "x": 1707,
+        "y": 412,
+        "size": 2133
+      }
+    },
+    {
+      "file": "f7fd560c7e94.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==QaqVnRgQnb19WT",
+  "ar": "=4WYwFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Kodaki_fuji_frm_shojinko_refurb.jpg",
+  "photographer": "名古屋太郎, (edited by Hannes_24) (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "f376b78b54f4.webp",
+      "rect": {
+        "x": 1768,
+        "y": 2047,
+        "size": 286
+      }
+    },
+    {
+      "file": "33b69ddbc898.webp",
+      "rect": {
+        "x": 1696,
+        "y": 1975,
+        "size": 428
+      }
+    },
+    {
+      "file": "cd5e67631648.webp",
+      "rect": {
+        "x": 1589,
+        "y": 1868,
+        "size": 642
+      }
+    },
+    {
+      "file": "d2f70a4e902c.webp",
+      "rect": {
+        "x": 1416,
+        "y": 1582,
+        "size": 988
+      }
+    },
+    {
+      "file": "0bc1adca0be5.webp",
+      "rect": {
+        "x": 1155,
+        "y": 1058,
+        "size": 1512
+      }
+    },
+    {
+      "file": "59d9e300fae6.webp",
+      "rect": {
+        "x": 840,
+        "y": 428,
+        "size": 2142
+      }
+    },
+    {
+      "file": "5483ec0a4021.webp",
+      "rect": {
+        "x": 0,
+        "y": -635,
+        "size": 3840
+      }
+    }
+  ]
+}

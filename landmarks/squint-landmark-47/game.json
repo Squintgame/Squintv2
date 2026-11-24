@@ -1,0 +1,67 @@
+{
+  "a": "v12bDBSZrFGT",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Panoramic_view_of_Como_Lake_(Lago_di_Como),_seen_from_the_mountain_Monte_Grona_-_Plesio_(Como)_2015-10-25.JPG",
+  "photographer": "Mænsard vokser (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "6cb58896bd12.webp",
+      "rect": {
+        "x": 278,
+        "y": 1475,
+        "size": 224
+      }
+    },
+    {
+      "file": "4ea26c957e53.webp",
+      "rect": {
+        "x": 222,
+        "y": 1419,
+        "size": 337
+      }
+    },
+    {
+      "file": "612c0b5bfe39.webp",
+      "rect": {
+        "x": 138,
+        "y": 1335,
+        "size": 505
+      }
+    },
+    {
+      "file": "899457ff026a.webp",
+      "rect": {
+        "x": 2,
+        "y": 1199,
+        "size": 777
+      }
+    },
+    {
+      "file": "c55f4ae4d003.webp",
+      "rect": {
+        "x": 0,
+        "y": 832,
+        "size": 1188
+      }
+    },
+    {
+      "file": "f00485a70389.webp",
+      "rect": {
+        "x": 0,
+        "y": 337,
+        "size": 1683
+      }
+    },
+    {
+      "file": "67b5f04e5289.webp",
+      "rect": {
+        "x": 0,
+        "y": -806,
+        "size": 3632
+      }
+    }
+  ]
+}

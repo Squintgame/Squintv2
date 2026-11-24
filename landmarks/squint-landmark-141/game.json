@@ -1,0 +1,67 @@
+{
+  "a": "pRXZn5WZyV2U",
+  "ar": "=EWauFmeuFGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Eastern_Serengeti_2012_05_31_2828_(7522638524).jpg",
+  "photographer": "Harvey Barrison from Massapequa, NY, USA (CC BY-SA 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "37f6695c2013.webp",
+      "rect": {
+        "x": 923,
+        "y": 2048,
+        "size": 286
+      }
+    },
+    {
+      "file": "cad216f8ac81.webp",
+      "rect": {
+        "x": 851,
+        "y": 1976,
+        "size": 428
+      }
+    },
+    {
+      "file": "b12d21f0b58b.webp",
+      "rect": {
+        "x": 744,
+        "y": 1869,
+        "size": 643
+      }
+    },
+    {
+      "file": "7f6a3765c8b8.webp",
+      "rect": {
+        "x": 571,
+        "y": 1582,
+        "size": 989
+      }
+    },
+    {
+      "file": "89eb312abbe8.webp",
+      "rect": {
+        "x": 309,
+        "y": 1059,
+        "size": 1512
+      }
+    },
+    {
+      "file": "27cc8a1c42a3.webp",
+      "rect": {
+        "x": 0,
+        "y": 428,
+        "size": 2142
+      }
+    },
+    {
+      "file": "65f6002b68f4.webp",
+      "rect": {
+        "x": 0,
+        "y": -634,
+        "size": 3840
+      }
+    }
+  ]
+}

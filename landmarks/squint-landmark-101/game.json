@@ -1,0 +1,67 @@
+{
+  "a": "=0WdSBSakF2V",
+  "ar": "uFGZy9mS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Wadi_Rum_in_December.jpg",
+  "photographer": "Raya Sharbain (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "db5fa7efe755.webp",
+      "rect": {
+        "x": 1195,
+        "y": 351,
+        "size": 284
+      }
+    },
+    {
+      "file": "98557ee6edf6.webp",
+      "rect": {
+        "x": 1124,
+        "y": 279,
+        "size": 427
+      }
+    },
+    {
+      "file": "31a31f00513c.webp",
+      "rect": {
+        "x": 1018,
+        "y": 173,
+        "size": 640
+      }
+    },
+    {
+      "file": "d28aee8e1255.webp",
+      "rect": {
+        "x": 845,
+        "y": 0,
+        "size": 985
+      }
+    },
+    {
+      "file": "f54f07b99262.webp",
+      "rect": {
+        "x": 585,
+        "y": 0,
+        "size": 1506
+      }
+    },
+    {
+      "file": "0dd96bf4a613.webp",
+      "rect": {
+        "x": 271,
+        "y": 0,
+        "size": 2133
+      }
+    },
+    {
+      "file": "d40604bdb37e.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

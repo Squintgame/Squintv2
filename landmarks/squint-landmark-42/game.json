@@ -1,0 +1,67 @@
+{
+  "a": "zJXZ39GVgMXYu9mc0VGU",
+  "ar": "=EWazlXYsFWT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Kuala_Lumpur_-_panoramio_(18).jpg",
+  "photographer": "AwOiSoAk KaOsIoWa (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "9a5fd1a610b4.webp",
+      "rect": {
+        "x": 263,
+        "y": 1425,
+        "size": 213
+      }
+    },
+    {
+      "file": "5727f6bf2a0b.webp",
+      "rect": {
+        "x": 210,
+        "y": 1371,
+        "size": 320
+      }
+    },
+    {
+      "file": "858b122441bf.webp",
+      "rect": {
+        "x": 130,
+        "y": 1291,
+        "size": 480
+      }
+    },
+    {
+      "file": "401ffb3da52d.webp",
+      "rect": {
+        "x": 0,
+        "y": 1162,
+        "size": 738
+      }
+    },
+    {
+      "file": "5272d4703f2c.webp",
+      "rect": {
+        "x": 0,
+        "y": 966,
+        "size": 1129
+      }
+    },
+    {
+      "file": "65af622b4832.webp",
+      "rect": {
+        "x": 0,
+        "y": 731,
+        "size": 1600
+      }
+    },
+    {
+      "file": "c537b39650fb.webp",
+      "rect": {
+        "x": -480,
+        "y": 0,
+        "size": 2880
+      }
+    }
+  ]
+}

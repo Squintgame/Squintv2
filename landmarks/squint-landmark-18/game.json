@@ -1,0 +1,67 @@
+{
+  "a": "==QYuRXRgQnb19WT",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Etna_from_Reggio_Calabria_-_Italy_-_10_Feb._2017_-_(1).jpg",
+  "photographer": "Jacopo Werther (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "6e9216d9ce37.webp",
+      "rect": {
+        "x": 403,
+        "y": 1683,
+        "size": 320
+      }
+    },
+    {
+      "file": "a4cb6058d317.webp",
+      "rect": {
+        "x": 323,
+        "y": 1603,
+        "size": 480
+      }
+    },
+    {
+      "file": "ee247d2ed7b3.webp",
+      "rect": {
+        "x": 203,
+        "y": 1483,
+        "size": 720
+      }
+    },
+    {
+      "file": "ed505c059225.webp",
+      "rect": {
+        "x": 9,
+        "y": 1289,
+        "size": 1108
+      }
+    },
+    {
+      "file": "1f29c1557569.webp",
+      "rect": {
+        "x": 0,
+        "y": 996,
+        "size": 1694
+      }
+    },
+    {
+      "file": "8c72f2536282.webp",
+      "rect": {
+        "x": 0,
+        "y": 480,
+        "size": 2400
+      }
+    },
+    {
+      "file": "342d6db7d590.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

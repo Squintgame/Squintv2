@@ -1,0 +1,67 @@
+{
+  "a": "==QZulWYQBCblRGIzVmcy9GV",
+  "ar": "=UGbph2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Parque_nacional_Torres_del_Paine,_2019_0485.jpg",
+  "photographer": "Draceane (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "2330c0c89535.webp",
+      "rect": {
+        "x": 3167,
+        "y": 2040,
+        "size": 284
+      }
+    },
+    {
+      "file": "11fe098d09a9.webp",
+      "rect": {
+        "x": 3095,
+        "y": 1969,
+        "size": 427
+      }
+    },
+    {
+      "file": "3fa62c37bb70.webp",
+      "rect": {
+        "x": 2989,
+        "y": 1862,
+        "size": 640
+      }
+    },
+    {
+      "file": "2bc70d1a44b6.webp",
+      "rect": {
+        "x": 2816,
+        "y": 1575,
+        "size": 985
+      }
+    },
+    {
+      "file": "099c07b69fa5.webp",
+      "rect": {
+        "x": 2334,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "ddfa309022f2.webp",
+      "rect": {
+        "x": 1707,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "9c0fafd3baa9.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

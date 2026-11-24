@@ -1,0 +1,67 @@
+{
+  "a": "u9GZpV2cvBFIm9GIlxGctVGV",
+  "ar": "lNWZlJ3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:At_the_archaeological_site_of_Kalaureia_in_Poros_on_August_20,_2021.jpg",
+  "photographer": "George E. Koronaios (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "2208dedab333.webp",
+      "rect": {
+        "x": 2463,
+        "y": 1618,
+        "size": 284
+      }
+    },
+    {
+      "file": "51d56211f38a.webp",
+      "rect": {
+        "x": 2391,
+        "y": 1547,
+        "size": 427
+      }
+    },
+    {
+      "file": "c0eaee8c4ce1.webp",
+      "rect": {
+        "x": 2285,
+        "y": 1440,
+        "size": 640
+      }
+    },
+    {
+      "file": "4add52aaf472.webp",
+      "rect": {
+        "x": 2112,
+        "y": 1268,
+        "size": 985
+      }
+    },
+    {
+      "file": "084ac3851550.webp",
+      "rect": {
+        "x": 1852,
+        "y": 1007,
+        "size": 1506
+      }
+    },
+    {
+      "file": "b5ba7853aa62.webp",
+      "rect": {
+        "x": 1538,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "aa771d1b6030.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

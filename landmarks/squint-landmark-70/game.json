@@ -1,0 +1,67 @@
+{
+  "a": "==QYyVGZtUnep12b5l2S",
+  "ar": "=4WYwFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Kiyomizu-dera,_Kyoto,_November_2016_-02.jpg",
+  "photographer": "Martin Falbisoner (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "ebc3abfdda07.webp",
+      "rect": {
+        "x": 3027,
+        "y": 1338,
+        "size": 282
+      }
+    },
+    {
+      "file": "86a0734625e1.webp",
+      "rect": {
+        "x": 2957,
+        "y": 1268,
+        "size": 423
+      }
+    },
+    {
+      "file": "68fa02db2ebf.webp",
+      "rect": {
+        "x": 2851,
+        "y": 1162,
+        "size": 634
+      }
+    },
+    {
+      "file": "30350f027fcb.webp",
+      "rect": {
+        "x": 2680,
+        "y": 992,
+        "size": 975
+      }
+    },
+    {
+      "file": "ecfb7d25d9e6.webp",
+      "rect": {
+        "x": 2348,
+        "y": 733,
+        "size": 1492
+      }
+    },
+    {
+      "file": "088601fcf26f.webp",
+      "rect": {
+        "x": 1727,
+        "y": 423,
+        "size": 2113
+      }
+    },
+    {
+      "file": "4b4db223c917.webp",
+      "rect": {
+        "x": 0,
+        "y": -652,
+        "size": 3840
+      }
+    }
+  ]
+}

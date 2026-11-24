@@ -1,0 +1,67 @@
+{
+  "a": "ldGZpJnQg4West2bvJnQ",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Brooklyn_Bridge_and_the_Lower_Manhattan_skyline_from_Pebble_Beach,_New_York.jpg",
+  "photographer": "Christian David (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "1f77e1a902be.webp",
+      "rect": {
+        "x": 1657,
+        "y": 953,
+        "size": 142
+      }
+    },
+    {
+      "file": "f3c3dd2107bc.webp",
+      "rect": {
+        "x": 1621,
+        "y": 917,
+        "size": 213
+      }
+    },
+    {
+      "file": "fcb9a8dddfdd.webp",
+      "rect": {
+        "x": 1568,
+        "y": 864,
+        "size": 320
+      }
+    },
+    {
+      "file": "381ca02c2a81.webp",
+      "rect": {
+        "x": 1482,
+        "y": 778,
+        "size": 492
+      }
+    },
+    {
+      "file": "99575f581c55.webp",
+      "rect": {
+        "x": 1352,
+        "y": 527,
+        "size": 753
+      }
+    },
+    {
+      "file": "7a690166bdeb.webp",
+      "rect": {
+        "x": 1195,
+        "y": 213,
+        "size": 1067
+      }
+    },
+    {
+      "file": "7fc9125709f9.webp",
+      "rect": {
+        "x": 0,
+        "y": -1280,
+        "size": 3840
+      }
+    }
+  ]
+}

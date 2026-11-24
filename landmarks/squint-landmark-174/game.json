@@ -1,0 +1,67 @@
+{
+  "a": "==gbpFGduV3bNBydvJmbpFmU",
+  "ar": "==QdyVGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Montana_de_colores_Cusco_(Vinicunca)_y_Valle_Rojo_por_Inka_Time.jpg",
+  "photographer": "Christian Morales Callo (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "0a2c67d581b0.webp",
+      "rect": {
+        "x": 2613,
+        "y": 1395,
+        "size": 240
+      }
+    },
+    {
+      "file": "34095b004bd7.webp",
+      "rect": {
+        "x": 2553,
+        "y": 1335,
+        "size": 360
+      }
+    },
+    {
+      "file": "c9b257ac86dd.webp",
+      "rect": {
+        "x": 2463,
+        "y": 1245,
+        "size": 540
+      }
+    },
+    {
+      "file": "6a285fd1e14d.webp",
+      "rect": {
+        "x": 2317,
+        "y": 1099,
+        "size": 831
+      }
+    },
+    {
+      "file": "7acb5af350bd.webp",
+      "rect": {
+        "x": 2098,
+        "y": 879,
+        "size": 1271
+      }
+    },
+    {
+      "file": "2704348ef051.webp",
+      "rect": {
+        "x": 1833,
+        "y": 360,
+        "size": 1800
+      }
+    },
+    {
+      "file": "a974bac92e23.webp",
+      "rect": {
+        "x": 0,
+        "y": -840,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "lhGct9WayRFIlRGIjJXQ",
+  "ar": "lNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg",
+  "photographer": "ZeusUpsistos (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "f892d253decc.webp",
+      "rect": {
+        "x": 2181,
+        "y": 632,
+        "size": 285
+      }
+    },
+    {
+      "file": "2f2a95e98fd4.webp",
+      "rect": {
+        "x": 2110,
+        "y": 561,
+        "size": 427
+      }
+    },
+    {
+      "file": "517e68d0b1da.webp",
+      "rect": {
+        "x": 2003,
+        "y": 455,
+        "size": 640
+      }
+    },
+    {
+      "file": "320e1d11c5b3.webp",
+      "rect": {
+        "x": 1831,
+        "y": 282,
+        "size": 985
+      }
+    },
+    {
+      "file": "9ccb07e5bb59.webp",
+      "rect": {
+        "x": 1570,
+        "y": 21,
+        "size": 1506
+      }
+    },
+    {
+      "file": "e28c367a5ed9.webp",
+      "rect": {
+        "x": 1256,
+        "y": 0,
+        "size": 2134
+      }
+    },
+    {
+      "file": "2a64ab78f677.webp",
+      "rect": {
+        "x": 0,
+        "y": -639,
+        "size": 3840
+      }
+    }
+  ]
+}

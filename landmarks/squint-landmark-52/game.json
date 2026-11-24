@@ -1,0 +1,67 @@
+{
+  "a": "yVGdz5WatR3cldFIm9GIlNWYsFGU",
+  "ar": "=02bkdmbptEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Houses_of_Parliament_in_2022_(cropped).jpg",
+  "photographer": "Wikimedia Commons contributor (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b4d99491d815.webp",
+      "rect": {
+        "x": 487,
+        "y": 1356,
+        "size": 216
+      }
+    },
+    {
+      "file": "0f2eafb38b83.webp",
+      "rect": {
+        "x": 433,
+        "y": 1302,
+        "size": 324
+      }
+    },
+    {
+      "file": "adf05d1ee9e3.webp",
+      "rect": {
+        "x": 352,
+        "y": 1221,
+        "size": 486
+      }
+    },
+    {
+      "file": "9e3f591ee6ba.webp",
+      "rect": {
+        "x": 221,
+        "y": 1091,
+        "size": 748
+      }
+    },
+    {
+      "file": "179096c27d36.webp",
+      "rect": {
+        "x": 23,
+        "y": 800,
+        "size": 1144
+      }
+    },
+    {
+      "file": "72ea54b790a7.webp",
+      "rect": {
+        "x": 0,
+        "y": 324,
+        "size": 1620
+      }
+    },
+    {
+      "file": "8255cdb27b31.webp",
+      "rect": {
+        "x": 0,
+        "y": -948,
+        "size": 3840
+      }
+    }
+  ]
+}

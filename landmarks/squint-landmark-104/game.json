@@ -1,0 +1,67 @@
+{
+  "a": "kJXYHBSdkBCdu9GU",
+  "ar": "lNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg",
+  "photographer": "Benh LIEU SONG (Flickr) (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "8a7a635365f6.webp",
+      "rect": {
+        "x": 2702,
+        "y": 371,
+        "size": 165
+      }
+    },
+    {
+      "file": "c541bb2d766c.webp",
+      "rect": {
+        "x": 2660,
+        "y": 330,
+        "size": 247
+      }
+    },
+    {
+      "file": "2ac881ca53ca.webp",
+      "rect": {
+        "x": 2599,
+        "y": 268,
+        "size": 370
+      }
+    },
+    {
+      "file": "4f464d06b42e.webp",
+      "rect": {
+        "x": 2499,
+        "y": 169,
+        "size": 570
+      }
+    },
+    {
+      "file": "0bba18f92401.webp",
+      "rect": {
+        "x": 2348,
+        "y": 18,
+        "size": 872
+      }
+    },
+    {
+      "file": "584272799864.webp",
+      "rect": {
+        "x": 2166,
+        "y": 0,
+        "size": 1235
+      }
+    },
+    {
+      "file": "f8ad6888bcca.webp",
+      "rect": {
+        "x": 0,
+        "y": -1179,
+        "size": 3840
+      }
+    }
+  ]
+}

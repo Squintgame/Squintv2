@@ -1,0 +1,67 @@
+{
+  "a": "=kncvRXY2JXZzJ2TggGdpZmZpJ3R",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Griffith_Observatory_on_the_south-facing_slope_of_Mount_Hollywood_in_L.A.%27s_Griffith_Park_(LC-DIG-highsm-_22255).tif",
+  "photographer": "Carol M. Highsmith",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "795be4f82537.webp",
+      "rect": {
+        "x": 2603,
+        "y": 1477,
+        "size": 284
+      }
+    },
+    {
+      "file": "99c39e48c718.webp",
+      "rect": {
+        "x": 2532,
+        "y": 1406,
+        "size": 427
+      }
+    },
+    {
+      "file": "f00ab4c0573d.webp",
+      "rect": {
+        "x": 2426,
+        "y": 1299,
+        "size": 640
+      }
+    },
+    {
+      "file": "12a646029b62.webp",
+      "rect": {
+        "x": 2253,
+        "y": 1127,
+        "size": 985
+      }
+    },
+    {
+      "file": "a7023da6a286.webp",
+      "rect": {
+        "x": 1993,
+        "y": 866,
+        "size": 1506
+      }
+    },
+    {
+      "file": "70e76f2fc4ca.webp",
+      "rect": {
+        "x": 1679,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "f3c86c8611ee.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

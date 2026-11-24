@@ -1,0 +1,67 @@
+{
+  "a": "=Emci1WYoxWQ",
+  "ar": "=4WahB3U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Alhambra_detail.jpg",
+  "photographer": "Jebulon",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "94d28f4472a8.webp",
+      "rect": {
+        "x": 2265,
+        "y": 941,
+        "size": 226
+      }
+    },
+    {
+      "file": "3d7b334b74f3.webp",
+      "rect": {
+        "x": 2208,
+        "y": 884,
+        "size": 340
+      }
+    },
+    {
+      "file": "0e7efa2226e7.webp",
+      "rect": {
+        "x": 2123,
+        "y": 799,
+        "size": 510
+      }
+    },
+    {
+      "file": "0ddbfd9291ab.webp",
+      "rect": {
+        "x": 1986,
+        "y": 662,
+        "size": 784
+      }
+    },
+    {
+      "file": "099034a9e537.webp",
+      "rect": {
+        "x": 1779,
+        "y": 455,
+        "size": 1199
+      }
+    },
+    {
+      "file": "1239f3bfba37.webp",
+      "rect": {
+        "x": 1309,
+        "y": 205,
+        "size": 1698
+      }
+    },
+    {
+      "file": "215d55a2192a.webp",
+      "rect": {
+        "x": 0,
+        "y": -484,
+        "size": 3007
+      }
+    }
+  ]
+}

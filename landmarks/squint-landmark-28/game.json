@@ -1,0 +1,67 @@
+{
+  "a": "=kHdpNEIuVGZklmYy9mR",
+  "ar": "=Embph2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony_(20241127120000).jpg",
+  "photographer": "N509FZ (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "6b8730ecd768.webp",
+      "rect": {
+        "x": 1055,
+        "y": 1618,
+        "size": 284
+      }
+    },
+    {
+      "file": "0aa818bb3b26.webp",
+      "rect": {
+        "x": 983,
+        "y": 1547,
+        "size": 427
+      }
+    },
+    {
+      "file": "0bb435627c98.webp",
+      "rect": {
+        "x": 877,
+        "y": 1440,
+        "size": 640
+      }
+    },
+    {
+      "file": "f1d95522c60a.webp",
+      "rect": {
+        "x": 704,
+        "y": 1268,
+        "size": 985
+      }
+    },
+    {
+      "file": "70674e3fed3a.webp",
+      "rect": {
+        "x": 444,
+        "y": 1007,
+        "size": 1506
+      }
+    },
+    {
+      "file": "5a6bda9c00c4.webp",
+      "rect": {
+        "x": 130,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "70a849abc2d9.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

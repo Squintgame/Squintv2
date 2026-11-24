@@ -1,0 +1,67 @@
+{
+  "a": "ulWY05Wdv1EImF2bsJXYnV3U",
+  "ar": "slmehJnQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Vista_do_Morro_Dona_Marta.jpg",
+  "photographer": "Ccarelo (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "9b20e50238d2.webp",
+      "rect": {
+        "x": 491,
+        "y": 2040,
+        "size": 284
+      }
+    },
+    {
+      "file": "5dc31f557841.webp",
+      "rect": {
+        "x": 420,
+        "y": 1969,
+        "size": 427
+      }
+    },
+    {
+      "file": "488696a9b9af.webp",
+      "rect": {
+        "x": 314,
+        "y": 1862,
+        "size": 640
+      }
+    },
+    {
+      "file": "0709e40617d6.webp",
+      "rect": {
+        "x": 141,
+        "y": 1575,
+        "size": 985
+      }
+    },
+    {
+      "file": "078482ebffb6.webp",
+      "rect": {
+        "x": 0,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "44c55c254d09.webp",
+      "rect": {
+        "x": 0,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "37d6b5b831fe.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

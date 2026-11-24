@@ -1,0 +1,67 @@
+{
+  "a": "=wWYyRWZoRXYDBycn4WZoBXZ0NFIuQ3U",
+  "ar": "==QYpJHdzVXQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Wien_-_Stephansdom_(1).JPG",
+  "photographer": "C.Stadler/Bwag (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "a9f15fe96a1c.webp",
+      "rect": {
+        "x": 648,
+        "y": 2380,
+        "size": 292
+      }
+    },
+    {
+      "file": "1d306fc0abf3.webp",
+      "rect": {
+        "x": 575,
+        "y": 2307,
+        "size": 438
+      }
+    },
+    {
+      "file": "269c186d2663.webp",
+      "rect": {
+        "x": 466,
+        "y": 2198,
+        "size": 656
+      }
+    },
+    {
+      "file": "14735cdd6d76.webp",
+      "rect": {
+        "x": 289,
+        "y": 2021,
+        "size": 1010
+      }
+    },
+    {
+      "file": "c1437f815e8e.webp",
+      "rect": {
+        "x": 22,
+        "y": 1754,
+        "size": 1544
+      }
+    },
+    {
+      "file": "51b1f7bba17a.webp",
+      "rect": {
+        "x": 0,
+        "y": 1432,
+        "size": 2188
+      }
+    },
+    {
+      "file": "3218455e4f8c.webp",
+      "rect": {
+        "x": -656,
+        "y": 0,
+        "size": 3937
+      }
+    }
+  ]
+}

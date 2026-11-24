@@ -1,0 +1,67 @@
+{
+  "a": "==QbhREIyVmdv9GS",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Hoover_Dam_and_Black_Canyon_seen_from_the_Mike_O%27Callaghan%E2%80%93Pat_Tillman_Memorial_Bridge,_panorama,_Arizona%E2%80%93Nevada.jpg",
+  "photographer": "Christian David (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "4593c7aa7815.webp",
+      "rect": {
+        "x": 627,
+        "y": 986,
+        "size": 359
+      }
+    },
+    {
+      "file": "20cee0b35570.webp",
+      "rect": {
+        "x": 537,
+        "y": 896,
+        "size": 538
+      }
+    },
+    {
+      "file": "b64cf7dab01e.webp",
+      "rect": {
+        "x": 403,
+        "y": 762,
+        "size": 807
+      }
+    },
+    {
+      "file": "8f22ce1e5deb.webp",
+      "rect": {
+        "x": 186,
+        "y": 545,
+        "size": 1241
+      }
+    },
+    {
+      "file": "92e6d445e345.webp",
+      "rect": {
+        "x": 0,
+        "y": 216,
+        "size": 1898
+      }
+    },
+    {
+      "file": "626f706f33d5.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 2689
+      }
+    },
+    {
+      "file": "0de9f189bc43.webp",
+      "rect": {
+        "x": 0,
+        "y": -306,
+        "size": 3840
+      }
+    }
+  ]
+}

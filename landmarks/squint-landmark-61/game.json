@@ -1,0 +1,67 @@
+{
+  "a": "=IXZ39GVg40Q",
+  "ar": "hRWYuF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:CN_Tower_from_Puente_de_Luz,_Toronto,_Ontario,_2025-08-25_01.jpg",
+  "photographer": "Chris Woodrich (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "66aa08c322b4.webp",
+      "rect": {
+        "x": 2439,
+        "y": 8803,
+        "size": 427
+      }
+    },
+    {
+      "file": "33c2bcd3763a.webp",
+      "rect": {
+        "x": 2332,
+        "y": 8697,
+        "size": 640
+      }
+    },
+    {
+      "file": "819c4df55c01.webp",
+      "rect": {
+        "x": 2172,
+        "y": 8537,
+        "size": 960
+      }
+    },
+    {
+      "file": "c26bbd7a15bc.webp",
+      "rect": {
+        "x": 1914,
+        "y": 8278,
+        "size": 1477
+      }
+    },
+    {
+      "file": "398833fe63ec.webp",
+      "rect": {
+        "x": 1523,
+        "y": 7524,
+        "size": 2259
+      }
+    },
+    {
+      "file": "e55ee308270b.webp",
+      "rect": {
+        "x": 640,
+        "y": 6583,
+        "size": 3200
+      }
+    },
+    {
+      "file": "7a8d20004a0e.webp",
+      "rect": {
+        "x": -2971,
+        "y": 0,
+        "size": 9783
+      }
+    }
+  ]
+}

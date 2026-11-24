@@ -1,0 +1,67 @@
+{
+  "a": "==QZsR3chNEIlV3ZhJHU",
+  "ar": "==QYph2Ylp3Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Castillo_de_Praga,_Praga,_Rep%C3%BAblica_Checa,_2022-07-02,_DD_209.jpg",
+  "photographer": "Diego Delso (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "9a4ba9651de0.webp",
+      "rect": {
+        "x": 3167,
+        "y": 1899,
+        "size": 284
+      }
+    },
+    {
+      "file": "9f6f0765d268.webp",
+      "rect": {
+        "x": 3095,
+        "y": 1828,
+        "size": 427
+      }
+    },
+    {
+      "file": "5494935e1b52.webp",
+      "rect": {
+        "x": 2989,
+        "y": 1722,
+        "size": 640
+      }
+    },
+    {
+      "file": "305afe387535.webp",
+      "rect": {
+        "x": 2816,
+        "y": 1549,
+        "size": 985
+      }
+    },
+    {
+      "file": "168ed98c7f66.webp",
+      "rect": {
+        "x": 2334,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "db23ff0fda42.webp",
+      "rect": {
+        "x": 1707,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "8dee5eb10c2e.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "lxGdzF2QgE2ahN3T",
+  "ar": "=4WYwFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Osaka_Castle_02bs3200.jpg",
+  "photographer": "663highland (CC BY 2.5)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "aa63aa991f8d.webp",
+      "rect": {
+        "x": 776,
+        "y": 1619,
+        "size": 279
+      }
+    },
+    {
+      "file": "3da9450cb823.webp",
+      "rect": {
+        "x": 706,
+        "y": 1550,
+        "size": 419
+      }
+    },
+    {
+      "file": "4cd6d60b5614.webp",
+      "rect": {
+        "x": 601,
+        "y": 1445,
+        "size": 628
+      }
+    },
+    {
+      "file": "4118cea01131.webp",
+      "rect": {
+        "x": 432,
+        "y": 1276,
+        "size": 967
+      }
+    },
+    {
+      "file": "7c9f1c2141b7.webp",
+      "rect": {
+        "x": 176,
+        "y": 1020,
+        "size": 1479
+      }
+    },
+    {
+      "file": "95a37bcd413f.webp",
+      "rect": {
+        "x": 0,
+        "y": 419,
+        "size": 2095
+      }
+    },
+    {
+      "file": "b200479e4be2.webp",
+      "rect": {
+        "x": 0,
+        "y": -663,
+        "size": 3840
+      }
+    }
+  ]
+}

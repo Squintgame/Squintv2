@@ -1,0 +1,67 @@
+{
+  "a": "==wck5WYTBSehJEIh5WayFWT",
+  "ar": "lJ3bwF2Zul2U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_Hotel_3_(31345110894).jpg",
+  "photographer": "Tony Hisgett from Birmingham, UK (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "75a42d38f876.webp",
+      "rect": {
+        "x": 965,
+        "y": 1607,
+        "size": 265
+      }
+    },
+    {
+      "file": "a170bd88a75c.webp",
+      "rect": {
+        "x": 899,
+        "y": 1541,
+        "size": 397
+      }
+    },
+    {
+      "file": "4519aaeb9a3e.webp",
+      "rect": {
+        "x": 800,
+        "y": 1442,
+        "size": 596
+      }
+    },
+    {
+      "file": "46d5b013b2c3.webp",
+      "rect": {
+        "x": 639,
+        "y": 1281,
+        "size": 917
+      }
+    },
+    {
+      "file": "d1d0870ec5f0.webp",
+      "rect": {
+        "x": 396,
+        "y": 982,
+        "size": 1402
+      }
+    },
+    {
+      "file": "c63fc033edf4.webp",
+      "rect": {
+        "x": 104,
+        "y": 397,
+        "size": 1987
+      }
+    },
+    {
+      "file": "d3002ec5ab75.webp",
+      "rect": {
+        "x": 0,
+        "y": -728,
+        "size": 3840
+      }
+    }
+  ]
+}

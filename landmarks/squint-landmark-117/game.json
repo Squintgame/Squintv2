@@ -1,0 +1,67 @@
+{
+  "a": "ldWdvJFIulGb19WT",
+  "ar": "lNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Moulin_Rouge,_17_April_2011.jpg",
+  "photographer": "Juanedc from Zaragoza, España (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "ef68c07db516.webp",
+      "rect": {
+        "x": 632,
+        "y": 1759,
+        "size": 284
+      }
+    },
+    {
+      "file": "9ab91499bf49.webp",
+      "rect": {
+        "x": 561,
+        "y": 1687,
+        "size": 427
+      }
+    },
+    {
+      "file": "2a148631c05e.webp",
+      "rect": {
+        "x": 454,
+        "y": 1581,
+        "size": 640
+      }
+    },
+    {
+      "file": "ebf3bdee5e9d.webp",
+      "rect": {
+        "x": 282,
+        "y": 1408,
+        "size": 985
+      }
+    },
+    {
+      "file": "43b663aec53d.webp",
+      "rect": {
+        "x": 21,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "3e906c8fe678.webp",
+      "rect": {
+        "x": 0,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "f944d52ee626.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

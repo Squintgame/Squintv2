@@ -1,0 +1,67 @@
+{
+  "a": "=QmblJEIl9GazV2cy9GS",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Grand_Canyon_Horseshoe_Bend_(crop_2).jpg",
+  "photographer": "Thomas Wolf, www.foto-tw.de (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "90fa9d620ab3.webp",
+      "rect": {
+        "x": 917,
+        "y": 1902,
+        "size": 279
+      }
+    },
+    {
+      "file": "1b0ddb7c10fa.webp",
+      "rect": {
+        "x": 847,
+        "y": 1833,
+        "size": 418
+      }
+    },
+    {
+      "file": "a7ffea098f7e.webp",
+      "rect": {
+        "x": 742,
+        "y": 1728,
+        "size": 627
+      }
+    },
+    {
+      "file": "b440ead77136.webp",
+      "rect": {
+        "x": 574,
+        "y": 1544,
+        "size": 965
+      }
+    },
+    {
+      "file": "0dd4f265decc.webp",
+      "rect": {
+        "x": 318,
+        "y": 1033,
+        "size": 1476
+      }
+    },
+    {
+      "file": "a8c6b174fc2c.webp",
+      "rect": {
+        "x": 11,
+        "y": 418,
+        "size": 2091
+      }
+    },
+    {
+      "file": "08e0f4152258.webp",
+      "rect": {
+        "x": 0,
+        "y": -665,
+        "size": 3840
+      }
+    }
+  ]
+}

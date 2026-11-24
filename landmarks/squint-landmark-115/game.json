@@ -1,0 +1,67 @@
+{
+  "a": "kVGbCBSZrFGT",
+  "ar": "=EWauVmdvx2U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Lake_Bled_(view_from_the_southwest).jpg",
+  "photographer": "Carsten Steger (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "d008ca8a0f7c.webp",
+      "rect": {
+        "x": 3246,
+        "y": 1415,
+        "size": 330
+      }
+    },
+    {
+      "file": "597c5114f43a.webp",
+      "rect": {
+        "x": 3164,
+        "y": 1332,
+        "size": 494
+      }
+    },
+    {
+      "file": "687895d2f8c0.webp",
+      "rect": {
+        "x": 3040,
+        "y": 1209,
+        "size": 742
+      }
+    },
+    {
+      "file": "1bba79e0ed95.webp",
+      "rect": {
+        "x": 2699,
+        "y": 1009,
+        "size": 1141
+      }
+    },
+    {
+      "file": "0857be18b3c0.webp",
+      "rect": {
+        "x": 2095,
+        "y": 707,
+        "size": 1745
+      }
+    },
+    {
+      "file": "1cf066de9d69.webp",
+      "rect": {
+        "x": 1368,
+        "y": 343,
+        "size": 2472
+      }
+    },
+    {
+      "file": "f29a5f75181b.webp",
+      "rect": {
+        "x": 0,
+        "y": -436,
+        "size": 3840
+      }
+    }
+  ]
+}

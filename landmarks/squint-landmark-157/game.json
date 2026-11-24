@@ -1,0 +1,67 @@
+{
+  "a": "=8WbhxWQ",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:South_Downtown_Alamo_CA.jpg",
+  "photographer": "ShakataGaNai (CC BY 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "2131872f7a26.webp",
+      "rect": {
+        "x": 167,
+        "y": 166,
+        "size": 224
+      }
+    },
+    {
+      "file": "47a900456c8d.webp",
+      "rect": {
+        "x": 111,
+        "y": 110,
+        "size": 336
+      }
+    },
+    {
+      "file": "3c697f6a2a6a.webp",
+      "rect": {
+        "x": 27,
+        "y": 27,
+        "size": 504
+      }
+    },
+    {
+      "file": "d55b8963ddae.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 775
+      }
+    },
+    {
+      "file": "b03733b359c5.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1185
+      }
+    },
+    {
+      "file": "75fd52a2d9ea.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1678
+      }
+    },
+    {
+      "file": "25930fc9d9a9.webp",
+      "rect": {
+        "x": 0,
+        "y": -512,
+        "size": 3039
+      }
+    }
+  ]
+}

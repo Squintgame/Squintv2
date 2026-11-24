@@ -1,0 +1,67 @@
+{
+  "a": "09GTggWYuFGV",
+  "ar": "hl2cl52bk5WS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Bali_-_Pura_Tanah_Lot,_20220827_1005_1141.jpg",
+  "photographer": "Jakub Hałun (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "c7cec2b1c362.webp",
+      "rect": {
+        "x": 1191,
+        "y": 1416,
+        "size": 229
+      }
+    },
+    {
+      "file": "dfdecfa9d3dd.webp",
+      "rect": {
+        "x": 1134,
+        "y": 1359,
+        "size": 344
+      }
+    },
+    {
+      "file": "a021f6db2043.webp",
+      "rect": {
+        "x": 1048,
+        "y": 1273,
+        "size": 516
+      }
+    },
+    {
+      "file": "1d7fbab81361.webp",
+      "rect": {
+        "x": 909,
+        "y": 1134,
+        "size": 793
+      }
+    },
+    {
+      "file": "80590fcb8811.webp",
+      "rect": {
+        "x": 699,
+        "y": 849,
+        "size": 1214
+      }
+    },
+    {
+      "file": "428b7947b329.webp",
+      "rect": {
+        "x": 446,
+        "y": 344,
+        "size": 1719
+      }
+    },
+    {
+      "file": "c24e15248c2a.webp",
+      "rect": {
+        "x": 0,
+        "y": -513,
+        "size": 3090
+      }
+    }
+  ]
+}

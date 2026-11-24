@@ -1,0 +1,67 @@
+{
+  "a": "=42blhGduFGU",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg",
+  "photographer": "NikonZ7II (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "5ffe01b30ce0.webp",
+      "rect": {
+        "x": 3195,
+        "y": 1121,
+        "size": 344
+      }
+    },
+    {
+      "file": "916af25fe456.webp",
+      "rect": {
+        "x": 3109,
+        "y": 1035,
+        "size": 515
+      }
+    },
+    {
+      "file": "9f245d305514.webp",
+      "rect": {
+        "x": 2980,
+        "y": 907,
+        "size": 773
+      }
+    },
+    {
+      "file": "b698b6a521fb.webp",
+      "rect": {
+        "x": 2651,
+        "y": 699,
+        "size": 1189
+      }
+    },
+    {
+      "file": "8109a452dec9.webp",
+      "rect": {
+        "x": 2021,
+        "y": 384,
+        "size": 1819
+      }
+    },
+    {
+      "file": "80b5d5d0d0c9.webp",
+      "rect": {
+        "x": 1263,
+        "y": 5,
+        "size": 2577
+      }
+    },
+    {
+      "file": "230049f0fcdd.webp",
+      "rect": {
+        "x": 0,
+        "y": -374,
+        "size": 3840
+      }
+    }
+  ]
+}

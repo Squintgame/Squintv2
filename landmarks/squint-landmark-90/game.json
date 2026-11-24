@@ -1,0 +1,67 @@
+{
+  "a": "=EGblJWasFGT",
+  "ar": "=EWaw9WaoRXR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Bete_Giyorgis_01.jpg",
+  "photographer": "Bernard Gagnon (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "4a9a0006c293.webp",
+      "rect": {
+        "x": 824,
+        "y": 951,
+        "size": 258
+      }
+    },
+    {
+      "file": "726a0fc7964b.webp",
+      "rect": {
+        "x": 760,
+        "y": 887,
+        "size": 388
+      }
+    },
+    {
+      "file": "b56a85baddf5.webp",
+      "rect": {
+        "x": 663,
+        "y": 790,
+        "size": 582
+      }
+    },
+    {
+      "file": "d1ddac60ac83.webp",
+      "rect": {
+        "x": 506,
+        "y": 633,
+        "size": 895
+      }
+    },
+    {
+      "file": "0904c13d9594.webp",
+      "rect": {
+        "x": 269,
+        "y": 396,
+        "size": 1368
+      }
+    },
+    {
+      "file": "9f246e04b1ed.webp",
+      "rect": {
+        "x": 0,
+        "y": 111,
+        "size": 1938
+      }
+    },
+    {
+      "file": "b391f12dbdc5.webp",
+      "rect": {
+        "x": 0,
+        "y": -485,
+        "size": 3297
+      }
+    }
+  ]
+}

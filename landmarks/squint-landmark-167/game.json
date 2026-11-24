@@ -1,0 +1,67 @@
+{
+  "a": "==gcvRnblR3cs9GS",
+  "ar": "==QeuFWbyV2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:L%C3%BCbeck,_Holstentor_--_2017_--_0305.jpg",
+  "photographer": "Dietmar Rabich (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "4677093488bb.webp",
+      "rect": {
+        "x": 1639,
+        "y": 2671,
+        "size": 353
+      }
+    },
+    {
+      "file": "04a915d2c95e.webp",
+      "rect": {
+        "x": 1551,
+        "y": 2583,
+        "size": 529
+      }
+    },
+    {
+      "file": "39bd68c374be.webp",
+      "rect": {
+        "x": 1418,
+        "y": 2450,
+        "size": 794
+      }
+    },
+    {
+      "file": "51c8921bb16a.webp",
+      "rect": {
+        "x": 1205,
+        "y": 2237,
+        "size": 1221
+      }
+    },
+    {
+      "file": "ba49fa1a5793.webp",
+      "rect": {
+        "x": 882,
+        "y": 1914,
+        "size": 1867
+      }
+    },
+    {
+      "file": "a5d6e23e9b4e.webp",
+      "rect": {
+        "x": 493,
+        "y": 1323,
+        "size": 2645
+      }
+    },
+    {
+      "file": "0117957a1f98.webp",
+      "rect": {
+        "x": -397,
+        "y": 0,
+        "size": 3968
+      }
+    }
+  ]
+}

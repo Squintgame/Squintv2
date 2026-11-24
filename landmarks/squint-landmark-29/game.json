@@ -1,0 +1,67 @@
+{
+  "a": "==gbpxWblJ3S",
+  "ar": "hl2czVnU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Moscow_05-2012_Kremlin_22.jpg",
+  "photographer": "A.Savin (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "f0d05d478710.webp",
+      "rect": {
+        "x": 473,
+        "y": 1817,
+        "size": 269
+      }
+    },
+    {
+      "file": "5771f429ff5c.webp",
+      "rect": {
+        "x": 406,
+        "y": 1749,
+        "size": 404
+      }
+    },
+    {
+      "file": "0a205d1e64bf.webp",
+      "rect": {
+        "x": 305,
+        "y": 1648,
+        "size": 606
+      }
+    },
+    {
+      "file": "4fbc7f6db5a5.webp",
+      "rect": {
+        "x": 142,
+        "y": 1485,
+        "size": 933
+      }
+    },
+    {
+      "file": "13658b638834.webp",
+      "rect": {
+        "x": 0,
+        "y": 999,
+        "size": 1426
+      }
+    },
+    {
+      "file": "c2dfa97b3b54.webp",
+      "rect": {
+        "x": 0,
+        "y": 404,
+        "size": 2021
+      }
+    },
+    {
+      "file": "0176089c52bd.webp",
+      "rect": {
+        "x": 0,
+        "y": -707,
+        "size": 3840
+      }
+    }
+  ]
+}

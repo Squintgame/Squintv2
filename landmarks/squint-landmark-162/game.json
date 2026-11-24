@@ -1,0 +1,67 @@
+{
+  "a": "hhGZkVnQg4WYUBibhlGV",
+  "ar": "=Embph2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tian_Tan_Buddha_by_Beria.jpg",
+  "photographer": "Béria Lima de Rodríguez (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "2b70817cdd74.webp",
+      "rect": {
+        "x": 1374,
+        "y": 1593,
+        "size": 221
+      }
+    },
+    {
+      "file": "60efea9741a7.webp",
+      "rect": {
+        "x": 1319,
+        "y": 1537,
+        "size": 332
+      }
+    },
+    {
+      "file": "3edca5265405.webp",
+      "rect": {
+        "x": 1236,
+        "y": 1454,
+        "size": 498
+      }
+    },
+    {
+      "file": "44d66772be8a.webp",
+      "rect": {
+        "x": 1102,
+        "y": 1226,
+        "size": 767
+      }
+    },
+    {
+      "file": "f43b02d940c0.webp",
+      "rect": {
+        "x": 899,
+        "y": 821,
+        "size": 1172
+      }
+    },
+    {
+      "file": "ba291404f2f0.webp",
+      "rect": {
+        "x": 655,
+        "y": 332,
+        "size": 1661
+      }
+    },
+    {
+      "file": "d0d8bc32af52.webp",
+      "rect": {
+        "x": 0,
+        "y": -503,
+        "size": 3000
+      }
+    }
+  ]
+}

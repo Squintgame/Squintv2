@@ -1,0 +1,67 @@
+{
+  "a": "rJXYQBCbhJHduV2Q",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Southwest_corner_of_Central_Park,_looking_east,_NYC.jpg",
+  "photographer": "Ed Yourdon from New York City, USA (CC BY-SA 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "0f63417a1d83.webp",
+      "rect": {
+        "x": 3168,
+        "y": 634,
+        "size": 282
+      }
+    },
+    {
+      "file": "60ed213e4eb5.webp",
+      "rect": {
+        "x": 3097,
+        "y": 563,
+        "size": 424
+      }
+    },
+    {
+      "file": "6c50d6ed99e4.webp",
+      "rect": {
+        "x": 2991,
+        "y": 457,
+        "size": 636
+      }
+    },
+    {
+      "file": "32a9049524a5.webp",
+      "rect": {
+        "x": 2820,
+        "y": 286,
+        "size": 978
+      }
+    },
+    {
+      "file": "696130bde64c.webp",
+      "rect": {
+        "x": 2345,
+        "y": 27,
+        "size": 1495
+      }
+    },
+    {
+      "file": "18d712bfd2ee.webp",
+      "rect": {
+        "x": 1722,
+        "y": 0,
+        "size": 2118
+      }
+    },
+    {
+      "file": "cc7209399743.webp",
+      "rect": {
+        "x": 0,
+        "y": -649,
+        "size": 3840
+      }
+    }
+  ]
+}

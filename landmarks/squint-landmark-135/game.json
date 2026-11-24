@@ -1,0 +1,67 @@
+{
+  "a": "==QZsR3chNEIuJXZsx2b65WZo9GS",
+  "ar": "==QeuFWbyV2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Burg_Hohenzollern_ak.jpg",
+  "photographer": "A. Kniesel (= User:-donald-), Lauffen (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "78d4d55de204.webp",
+      "rect": {
+        "x": 962,
+        "y": 834,
+        "size": 260
+      }
+    },
+    {
+      "file": "661128432aaf.webp",
+      "rect": {
+        "x": 897,
+        "y": 769,
+        "size": 389
+      }
+    },
+    {
+      "file": "04eac6afed37.webp",
+      "rect": {
+        "x": 800,
+        "y": 672,
+        "size": 584
+      }
+    },
+    {
+      "file": "28030abc27a2.webp",
+      "rect": {
+        "x": 643,
+        "y": 514,
+        "size": 898
+      }
+    },
+    {
+      "file": "4dca9f007f62.webp",
+      "rect": {
+        "x": 405,
+        "y": 277,
+        "size": 1374
+      }
+    },
+    {
+      "file": "6a6ed4327873.webp",
+      "rect": {
+        "x": 119,
+        "y": 0,
+        "size": 1947
+      }
+    },
+    {
+      "file": "2d45a7fa280a.webp",
+      "rect": {
+        "x": 0,
+        "y": -584,
+        "size": 3504
+      }
+    }
+  ]
+}

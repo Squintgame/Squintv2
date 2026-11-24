@@ -1,0 +1,67 @@
+{
+  "a": "51mcBBSY0R3bjFmcyVGV",
+  "ar": "=Embph2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg",
+  "photographer": "xiquinhosilva (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "77598d76d659.webp",
+      "rect": {
+        "x": 2475,
+        "y": 165,
+        "size": 221
+      }
+    },
+    {
+      "file": "20730dd45b4c.webp",
+      "rect": {
+        "x": 2419,
+        "y": 110,
+        "size": 331
+      }
+    },
+    {
+      "file": "bfaf4cd0ef63.webp",
+      "rect": {
+        "x": 2337,
+        "y": 27,
+        "size": 497
+      }
+    },
+    {
+      "file": "6e18fbaf61e3.webp",
+      "rect": {
+        "x": 2203,
+        "y": 0,
+        "size": 764
+      }
+    },
+    {
+      "file": "9ec8f2ea7fbd.webp",
+      "rect": {
+        "x": 1831,
+        "y": 0,
+        "size": 1169
+      }
+    },
+    {
+      "file": "e6093ac4276c.webp",
+      "rect": {
+        "x": 1344,
+        "y": 0,
+        "size": 1656
+      }
+    },
+    {
+      "file": "56577a94bd7a.webp",
+      "rect": {
+        "x": 0,
+        "y": -506,
+        "size": 3000
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "jFmblRnbvJnRgUXYlRnoDj2Q",
+  "ar": "hRWYuF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Fairmont_Le_Ch%C3%A2teau_Frontenac,_Quebec_13.jpg",
+  "photographer": "Fabian Roudra Baroi (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b426a1960ecf.webp",
+      "rect": {
+        "x": 1183,
+        "y": 4625,
+        "size": 427
+      }
+    },
+    {
+      "file": "edc46353540e.webp",
+      "rect": {
+        "x": 1076,
+        "y": 4518,
+        "size": 640
+      }
+    },
+    {
+      "file": "898dfb82ce69.webp",
+      "rect": {
+        "x": 916,
+        "y": 4358,
+        "size": 960
+      }
+    },
+    {
+      "file": "393787f238ca.webp",
+      "rect": {
+        "x": 658,
+        "y": 3899,
+        "size": 1477
+      }
+    },
+    {
+      "file": "1830be38cd2e.webp",
+      "rect": {
+        "x": 267,
+        "y": 3117,
+        "size": 2259
+      }
+    },
+    {
+      "file": "ad88e3aeaf39.webp",
+      "rect": {
+        "x": 0,
+        "y": 2176,
+        "size": 3200
+      }
+    },
+    {
+      "file": "fa9641441614.webp",
+      "rect": {
+        "x": -768,
+        "y": 0,
+        "size": 5376
+      }
+    }
+  ]
+}

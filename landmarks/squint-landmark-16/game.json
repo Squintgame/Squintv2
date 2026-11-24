@@ -1,0 +1,67 @@
+{
+  "a": "=E2YpxWazFmQgM3JyVGdlBFIuQ3U",
+  "ar": "5RXaDBibhNWa0FmV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+  "photographer": "Alvesgaspar (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "2baed4368b93.webp",
+      "rect": {
+        "x": 2887,
+        "y": 712,
+        "size": 223
+      }
+    },
+    {
+      "file": "ecb1c1d91859.webp",
+      "rect": {
+        "x": 2831,
+        "y": 656,
+        "size": 334
+      }
+    },
+    {
+      "file": "d469a7281899.webp",
+      "rect": {
+        "x": 2748,
+        "y": 573,
+        "size": 501
+      }
+    },
+    {
+      "file": "98b93a17fd3c.webp",
+      "rect": {
+        "x": 2613,
+        "y": 438,
+        "size": 771
+      }
+    },
+    {
+      "file": "b3411e175c9e.webp",
+      "rect": {
+        "x": 2409,
+        "y": 233,
+        "size": 1179
+      }
+    },
+    {
+      "file": "8e06c52d8765.webp",
+      "rect": {
+        "x": 2163,
+        "y": 0,
+        "size": 1671
+      }
+    },
+    {
+      "file": "91f841fa7db3.webp",
+      "rect": {
+        "x": 0,
+        "y": -917,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=wWYrlWYCBSZrFGT",
+  "ar": "hl2czVnU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Olkhon_Island_and_Lake_Baikal.jpg",
+  "photographer": "Jason Rogers (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "a6abe22c46d4.webp",
+      "rect": {
+        "x": 1488,
+        "y": 2481,
+        "size": 222
+      }
+    },
+    {
+      "file": "0c6490e6c89b.webp",
+      "rect": {
+        "x": 1432,
+        "y": 2425,
+        "size": 333
+      }
+    },
+    {
+      "file": "416237941342.webp",
+      "rect": {
+        "x": 1349,
+        "y": 2342,
+        "size": 500
+      }
+    },
+    {
+      "file": "654eef9893bd.webp",
+      "rect": {
+        "x": 1214,
+        "y": 2207,
+        "size": 769
+      }
+    },
+    {
+      "file": "ca112d761734.webp",
+      "rect": {
+        "x": 824,
+        "y": 1832,
+        "size": 1176
+      }
+    },
+    {
+      "file": "64ceb5302dfd.webp",
+      "rect": {
+        "x": 333,
+        "y": 1341,
+        "size": 1667
+      }
+    },
+    {
+      "file": "40794cfdc594.webp",
+      "rect": {
+        "x": -504,
+        "y": 0,
+        "size": 3008
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=U2YhxWYQBSbhh2Zul2ajVnQ",
+  "ar": "=02bkdmbptEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace,_London_-_April_2009.jpg",
+  "photographer": "Diliff (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "f962cc217933.webp",
+      "rect": {
+        "x": 283,
+        "y": 1295,
+        "size": 223
+      }
+    },
+    {
+      "file": "8d2cff8c7992.webp",
+      "rect": {
+        "x": 227,
+        "y": 1240,
+        "size": 335
+      }
+    },
+    {
+      "file": "282843707078.webp",
+      "rect": {
+        "x": 143,
+        "y": 1156,
+        "size": 503
+      }
+    },
+    {
+      "file": "3c42c97987cb.webp",
+      "rect": {
+        "x": 8,
+        "y": 1020,
+        "size": 773
+      }
+    },
+    {
+      "file": "f7ba98be5dee.webp",
+      "rect": {
+        "x": 0,
+        "y": 816,
+        "size": 1183
+      }
+    },
+    {
+      "file": "d702dccbc195.webp",
+      "rect": {
+        "x": 0,
+        "y": 335,
+        "size": 1676
+      }
+    },
+    {
+      "file": "b8cc3dd09eaa.webp",
+      "rect": {
+        "x": 0,
+        "y": -530,
+        "size": 3072
+      }
+    }
+  ]
+}

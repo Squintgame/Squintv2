@@ -1,0 +1,67 @@
+{
+  "a": "yVHZ1J2by9mQ",
+  "ar": "hl2cl52bk5WS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg",
+  "photographer": "CEphoto, Uwe Aranas (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "1220ed9ad42b.webp",
+      "rect": {
+        "x": 2603,
+        "y": 2040,
+        "size": 284
+      }
+    },
+    {
+      "file": "5b39ac378491.webp",
+      "rect": {
+        "x": 2532,
+        "y": 1969,
+        "size": 427
+      }
+    },
+    {
+      "file": "7366f87f9f1b.webp",
+      "rect": {
+        "x": 2426,
+        "y": 1862,
+        "size": 640
+      }
+    },
+    {
+      "file": "ff36a254afc1.webp",
+      "rect": {
+        "x": 2253,
+        "y": 1575,
+        "size": 985
+      }
+    },
+    {
+      "file": "559edabb3b23.webp",
+      "rect": {
+        "x": 1993,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "278200f97629.webp",
+      "rect": {
+        "x": 1679,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "34d914b9b00e.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=4WZ19WYoNmZlh2Q",
+  "ar": "==wbjN2by9WT",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Chefcha%27ouen_City_,_Morocco.jpg",
+  "photographer": "Ismailbrk (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "f76d6d21be05.webp",
+      "rect": {
+        "x": 2181,
+        "y": 1759,
+        "size": 284
+      }
+    },
+    {
+      "file": "0082ea7c5d88.webp",
+      "rect": {
+        "x": 2110,
+        "y": 1687,
+        "size": 427
+      }
+    },
+    {
+      "file": "076b359ffe0b.webp",
+      "rect": {
+        "x": 2003,
+        "y": 1581,
+        "size": 640
+      }
+    },
+    {
+      "file": "1447bf25d508.webp",
+      "rect": {
+        "x": 1831,
+        "y": 1408,
+        "size": 985
+      }
+    },
+    {
+      "file": "7f0b54f89450.webp",
+      "rect": {
+        "x": 1570,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "b5f9afc6b46d.webp",
+      "rect": {
+        "x": 1257,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "905d0fc9e89c.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

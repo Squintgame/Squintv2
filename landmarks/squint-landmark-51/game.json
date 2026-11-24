@@ -1,0 +1,67 @@
+{
+  "a": "ldGZpJnQgIXZ39GV",
+  "ar": "=02bkdmbptEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:London_-_London_Tower_Bridge_-_140806_171049.jpg",
+  "photographer": "Barcex (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "d0b1a8bbbc61.webp",
+      "rect": {
+        "x": 546,
+        "y": 1395,
+        "size": 240
+      }
+    },
+    {
+      "file": "bada42ffdf39.webp",
+      "rect": {
+        "x": 486,
+        "y": 1335,
+        "size": 360
+      }
+    },
+    {
+      "file": "e884200ef8c4.webp",
+      "rect": {
+        "x": 396,
+        "y": 1245,
+        "size": 540
+      }
+    },
+    {
+      "file": "a2ad8fc91c14.webp",
+      "rect": {
+        "x": 250,
+        "y": 1099,
+        "size": 831
+      }
+    },
+    {
+      "file": "42553a2070fe.webp",
+      "rect": {
+        "x": 30,
+        "y": 879,
+        "size": 1271
+      }
+    },
+    {
+      "file": "34764f6959c9.webp",
+      "rect": {
+        "x": 0,
+        "y": 360,
+        "size": 1800
+      }
+    },
+    {
+      "file": "a270bf3d0490.webp",
+      "rect": {
+        "x": 0,
+        "y": -840,
+        "size": 3840
+      }
+    }
+  ]
+}

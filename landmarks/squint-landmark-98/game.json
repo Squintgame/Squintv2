@@ -1,0 +1,67 @@
+{
+  "a": "=wWYyRWZoRXYDBSZsxWa2V2U",
+  "ar": "=4WahB3U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:CATEDRAL_DE_SEVILLA.jpg",
+  "photographer": "PEPE GADEIRAS (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "ce7999ddee55.webp",
+      "rect": {
+        "x": 210,
+        "y": 1477,
+        "size": 284
+      }
+    },
+    {
+      "file": "f80e7c3cb9ac.webp",
+      "rect": {
+        "x": 139,
+        "y": 1406,
+        "size": 427
+      }
+    },
+    {
+      "file": "695f81f5b20f.webp",
+      "rect": {
+        "x": 32,
+        "y": 1299,
+        "size": 640
+      }
+    },
+    {
+      "file": "c59ad29b15b2.webp",
+      "rect": {
+        "x": 0,
+        "y": 1127,
+        "size": 985
+      }
+    },
+    {
+      "file": "c46f7f65d830.webp",
+      "rect": {
+        "x": 0,
+        "y": 866,
+        "size": 1506
+      }
+    },
+    {
+      "file": "1dcd7a9987e7.webp",
+      "rect": {
+        "x": 0,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "e2bf4f60fea1.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

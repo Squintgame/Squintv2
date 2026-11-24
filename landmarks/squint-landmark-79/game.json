@@ -1,0 +1,67 @@
+{
+  "a": "==QYy9WZ0VWT",
+  "ar": "lNWZlJ3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:2017-4_%CE%9C%CE%95%CE%A4%CE%95%CE%A9%CE%A1%CE%91_13_%CE%99.%CE%9C.%CE%A1%CE%BF%CF%85%CF%83%CE%AC%CE%BD%CE%BF%CF%85_(%CE%91%CE%B3.%CE%92%CE%B1%CF%81%CE%B2%CE%AC%CF%81%CE%B1%CF%82).jpg",
+  "photographer": "I.Kenanoglou (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "4a16aa27696b.webp",
+      "rect": {
+        "x": 2125,
+        "y": 2465,
+        "size": 344
+      }
+    },
+    {
+      "file": "043c30c017e4.webp",
+      "rect": {
+        "x": 2039,
+        "y": 2379,
+        "size": 516
+      }
+    },
+    {
+      "file": "d239045ad7e0.webp",
+      "rect": {
+        "x": 1910,
+        "y": 2250,
+        "size": 773
+      }
+    },
+    {
+      "file": "f9cc5c00e104.webp",
+      "rect": {
+        "x": 1702,
+        "y": 2042,
+        "size": 1190
+      }
+    },
+    {
+      "file": "0e7ad017c5e2.webp",
+      "rect": {
+        "x": 1274,
+        "y": 1727,
+        "size": 1819
+      }
+    },
+    {
+      "file": "e442918acd36.webp",
+      "rect": {
+        "x": 516,
+        "y": 1348,
+        "size": 2578
+      }
+    },
+    {
+      "file": "751a432deb94.webp",
+      "rect": {
+        "x": -773,
+        "y": 0,
+        "size": 4639
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==wZul2cz9mcDBSY5VnYph2U",
+  "ar": "=4WYwFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Shibuya_scramble_crossing_during_Halloween_2023,_actually_less_crowded_than_usual,_high_police_presence_2.jpg",
+  "photographer": "Syced",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "671216d2b454.webp",
+      "rect": {
+        "x": 2585,
+        "y": 865,
+        "size": 237
+      }
+    },
+    {
+      "file": "b22a46dd5496.webp",
+      "rect": {
+        "x": 2526,
+        "y": 806,
+        "size": 356
+      }
+    },
+    {
+      "file": "f0f5de5e7fae.webp",
+      "rect": {
+        "x": 2437,
+        "y": 717,
+        "size": 533
+      }
+    },
+    {
+      "file": "8f11128355f7.webp",
+      "rect": {
+        "x": 2293,
+        "y": 573,
+        "size": 820
+      }
+    },
+    {
+      "file": "f9e74bd3a13f.webp",
+      "rect": {
+        "x": 2076,
+        "y": 356,
+        "size": 1255
+      }
+    },
+    {
+      "file": "26f7a2cbcd3c.webp",
+      "rect": {
+        "x": 1662,
+        "y": 95,
+        "size": 1778
+      }
+    },
+    {
+      "file": "96b27059aad2.webp",
+      "rect": {
+        "x": 0,
+        "y": -653,
+        "size": 3440
+      }
+    }
+  ]
+}

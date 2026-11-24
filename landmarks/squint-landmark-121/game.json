@@ -1,0 +1,67 @@
+{
+  "a": "=knclR3ch52bNBycv1WauN7wyVmS",
+  "ar": "=wWYnVHdy9GU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:1502_legte_K%C3%B6nig_Manuel_I._den_Grundstein_f%C3%BCr_das_Hieronymus_Kloster_in_Lissabon._06.jpg",
+  "photographer": "Holger Uwe Schmitt (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "4aa129277d20.webp",
+      "rect": {
+        "x": 2752,
+        "y": 1598,
+        "size": 256
+      }
+    },
+    {
+      "file": "28c58d58651d.webp",
+      "rect": {
+        "x": 2688,
+        "y": 1534,
+        "size": 385
+      }
+    },
+    {
+      "file": "cfaa39ef7977.webp",
+      "rect": {
+        "x": 2592,
+        "y": 1438,
+        "size": 577
+      }
+    },
+    {
+      "file": "002b496c327b.webp",
+      "rect": {
+        "x": 2436,
+        "y": 1282,
+        "size": 888
+      }
+    },
+    {
+      "file": "9a8b10727c3e.webp",
+      "rect": {
+        "x": 2201,
+        "y": 950,
+        "size": 1358
+      }
+    },
+    {
+      "file": "a97de2cb921e.webp",
+      "rect": {
+        "x": 1917,
+        "y": 385,
+        "size": 1923
+      }
+    },
+    {
+      "file": "f229c53c57af.webp",
+      "rect": {
+        "x": 0,
+        "y": -766,
+        "size": 3840
+      }
+    }
+  ]
+}

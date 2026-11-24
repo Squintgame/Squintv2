@@ -1,0 +1,67 @@
+{
+  "a": "=wWYyRWZoRXYDBSZud2bs92Q",
+  "ar": "==QeuFWbyV2R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_von_Osten.jpg",
+  "photographer": "Thomas Wolf, www.foto-tw.de (CC BY-SA 3.0 de)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "411a84d55aa1.webp",
+      "rect": {
+        "x": 532,
+        "y": 3492,
+        "size": 427
+      }
+    },
+    {
+      "file": "407b0bf1b928.webp",
+      "rect": {
+        "x": 426,
+        "y": 3386,
+        "size": 640
+      }
+    },
+    {
+      "file": "0cc577de04fe.webp",
+      "rect": {
+        "x": 266,
+        "y": 3226,
+        "size": 960
+      }
+    },
+    {
+      "file": "09fdda9fe0b9.webp",
+      "rect": {
+        "x": 7,
+        "y": 2967,
+        "size": 1477
+      }
+    },
+    {
+      "file": "2d4e57025d10.webp",
+      "rect": {
+        "x": 0,
+        "y": 2576,
+        "size": 2259
+      }
+    },
+    {
+      "file": "e69bc77aff58.webp",
+      "rect": {
+        "x": 0,
+        "y": 2106,
+        "size": 3200
+      }
+    },
+    {
+      "file": "f05472cb9830.webp",
+      "rect": {
+        "x": -1101,
+        "y": 0,
+        "size": 6042
+      }
+    }
+  ]
+}

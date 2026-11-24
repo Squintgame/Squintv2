@@ -1,0 +1,67 @@
+{
+  "a": "=smchBFI5F2duVmR",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:View_of_Fenway_Park_from_the_press_box_in_July_2022.jpg",
+  "photographer": "Gatorfan252525 (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "1b7d43ef36ff.webp",
+      "rect": {
+        "x": 2963,
+        "y": 1523,
+        "size": 320
+      }
+    },
+    {
+      "file": "7168a54b3277.webp",
+      "rect": {
+        "x": 2883,
+        "y": 1443,
+        "size": 480
+      }
+    },
+    {
+      "file": "5dd29404c0b3.webp",
+      "rect": {
+        "x": 2763,
+        "y": 1323,
+        "size": 720
+      }
+    },
+    {
+      "file": "2f38f7dde3bc.webp",
+      "rect": {
+        "x": 2569,
+        "y": 1129,
+        "size": 1108
+      }
+    },
+    {
+      "file": "d938648f6262.webp",
+      "rect": {
+        "x": 2146,
+        "y": 836,
+        "size": 1694
+      }
+    },
+    {
+      "file": "f0228aa4b4d9.webp",
+      "rect": {
+        "x": 1440,
+        "y": 480,
+        "size": 2400
+      }
+    },
+    {
+      "file": "a7221e5cd9d2.webp",
+      "rect": {
+        "x": 0,
+        "y": -480,
+        "size": 3840
+      }
+    }
+  ]
+}

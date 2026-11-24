@@ -1,0 +1,67 @@
+{
+  "a": "zlGUg4WZrVmbuFWT",
+  "ar": "==Qb1l2ZsVmQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Bruxelles_Manneken_Pis.jpg",
+  "photographer": "Myrabella (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "af06edfe5d7b.webp",
+      "rect": {
+        "x": 1160,
+        "y": 1159,
+        "size": 310
+      }
+    },
+    {
+      "file": "2645121053cc.webp",
+      "rect": {
+        "x": 1082,
+        "y": 1081,
+        "size": 465
+      }
+    },
+    {
+      "file": "1fc1e9f27fe8.webp",
+      "rect": {
+        "x": 966,
+        "y": 965,
+        "size": 698
+      }
+    },
+    {
+      "file": "b105298bff97.webp",
+      "rect": {
+        "x": 778,
+        "y": 777,
+        "size": 1073
+      }
+    },
+    {
+      "file": "f701c8134b67.webp",
+      "rect": {
+        "x": 494,
+        "y": 493,
+        "size": 1642
+      }
+    },
+    {
+      "file": "3b07a9b77488.webp",
+      "rect": {
+        "x": 152,
+        "y": 151,
+        "size": 2326
+      }
+    },
+    {
+      "file": "1c0fc7040c2f.webp",
+      "rect": {
+        "x": -712,
+        "y": 0,
+        "size": 4216
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "1h2YjlGUgUHajFWT",
+  "ar": "==QdyVGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+  "photographer": "Draceane (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "726a15eb2d67.webp",
+      "rect": {
+        "x": 2040,
+        "y": 1759,
+        "size": 284
+      }
+    },
+    {
+      "file": "6ed1b3c10bb1.webp",
+      "rect": {
+        "x": 1969,
+        "y": 1687,
+        "size": 427
+      }
+    },
+    {
+      "file": "3005eac3c8e5.webp",
+      "rect": {
+        "x": 1862,
+        "y": 1581,
+        "size": 640
+      }
+    },
+    {
+      "file": "a918b25d8316.webp",
+      "rect": {
+        "x": 1690,
+        "y": 1408,
+        "size": 985
+      }
+    },
+    {
+      "file": "a92b34ee11af.webp",
+      "rect": {
+        "x": 1429,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "def801aeedca.webp",
+      "rect": {
+        "x": 1116,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "77d4afab8d77.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

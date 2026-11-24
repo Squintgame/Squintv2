@@ -1,0 +1,67 @@
+{
+  "a": "zVGb0N3bwFEIlZHbldHV",
+  "ar": "hlGbhJHdzVXQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:The_twelve_apostles_Victoria_Australia_2010.jpg",
+  "photographer": "Richard Mikalsen (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "8446822e876d.webp",
+      "rect": {
+        "x": 1204,
+        "y": 1766,
+        "size": 286
+      }
+    },
+    {
+      "file": "77fc2a4b0c5d.webp",
+      "rect": {
+        "x": 1133,
+        "y": 1695,
+        "size": 428
+      }
+    },
+    {
+      "file": "05274b97bb44.webp",
+      "rect": {
+        "x": 1026,
+        "y": 1588,
+        "size": 643
+      }
+    },
+    {
+      "file": "02c4400a8cc9.webp",
+      "rect": {
+        "x": 853,
+        "y": 1415,
+        "size": 989
+      }
+    },
+    {
+      "file": "f533926f35e0.webp",
+      "rect": {
+        "x": 591,
+        "y": 1059,
+        "size": 1512
+      }
+    },
+    {
+      "file": "b6e642db7730.webp",
+      "rect": {
+        "x": 276,
+        "y": 428,
+        "size": 2142
+      }
+    },
+    {
+      "file": "c54df7540090.webp",
+      "rect": {
+        "x": 0,
+        "y": -634,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "iFmcBBCbBBiayVnQ",
+  "ar": "=MXZ0Fmcp1WRgIWYyFEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Restaurante_del_burj_al_arab-dubai-2011_(8).JPG",
+  "photographer": "Alberto-g-rovi (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b53a8035e8ee.webp",
+      "rect": {
+        "x": 457,
+        "y": 717,
+        "size": 264
+      }
+    },
+    {
+      "file": "8577149a947d.webp",
+      "rect": {
+        "x": 391,
+        "y": 651,
+        "size": 396
+      }
+    },
+    {
+      "file": "62cf556921b0.webp",
+      "rect": {
+        "x": 292,
+        "y": 552,
+        "size": 594
+      }
+    },
+    {
+      "file": "0441eca59dd0.webp",
+      "rect": {
+        "x": 132,
+        "y": 392,
+        "size": 914
+      }
+    },
+    {
+      "file": "0417c9488e9a.webp",
+      "rect": {
+        "x": 0,
+        "y": 151,
+        "size": 1398
+      }
+    },
+    {
+      "file": "63668eb0b8b0.webp",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "size": 1980
+      }
+    },
+    {
+      "file": "8cb6ef5a6496.webp",
+      "rect": {
+        "x": 0,
+        "y": -596,
+        "size": 3568
+      }
+    }
+  ]
+}

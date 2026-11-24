@@ -1,0 +1,67 @@
+{
+  "a": "==QZsR3chNEIodmc1JmbpRWR",
+  "ar": "=02bkdmbptEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_the_Grassmarket.jpg",
+  "photographer": "Stephencdickson (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "a26f53a72ed8.webp",
+      "rect": {
+        "x": 2433,
+        "y": 1416,
+        "size": 228
+      }
+    },
+    {
+      "file": "97165e3b0ac0.webp",
+      "rect": {
+        "x": 2376,
+        "y": 1359,
+        "size": 343
+      }
+    },
+    {
+      "file": "6ed1677d04ee.webp",
+      "rect": {
+        "x": 2291,
+        "y": 1273,
+        "size": 514
+      }
+    },
+    {
+      "file": "1168917db8eb.webp",
+      "rect": {
+        "x": 2152,
+        "y": 1135,
+        "size": 791
+      }
+    },
+    {
+      "file": "f6a9418a1ce4.webp",
+      "rect": {
+        "x": 1879,
+        "y": 847,
+        "size": 1209
+      }
+    },
+    {
+      "file": "766d4c181a18.webp",
+      "rect": {
+        "x": 1375,
+        "y": 343,
+        "size": 1713
+      }
+    },
+    {
+      "file": "284439aa3edc.webp",
+      "rect": {
+        "x": 0,
+        "y": -516,
+        "size": 3088
+      }
+    }
+  ]
+}

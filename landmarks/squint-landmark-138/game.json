@@ -1,0 +1,67 @@
+{
+  "a": "=wGbhhEIlNmblRmblBXZk5WS",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Independence_Hall,_Aug_2019.jpg",
+  "photographer": "Mys 721tx (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b85e396a87fb.webp",
+      "rect": {
+        "x": 632,
+        "y": 1336,
+        "size": 284
+      }
+    },
+    {
+      "file": "fa6d17d11cec.webp",
+      "rect": {
+        "x": 561,
+        "y": 1265,
+        "size": 427
+      }
+    },
+    {
+      "file": "9ead7486f75e.webp",
+      "rect": {
+        "x": 454,
+        "y": 1158,
+        "size": 640
+      }
+    },
+    {
+      "file": "b43364ef0594.webp",
+      "rect": {
+        "x": 282,
+        "y": 986,
+        "size": 985
+      }
+    },
+    {
+      "file": "e01dfce29860.webp",
+      "rect": {
+        "x": 21,
+        "y": 725,
+        "size": 1506
+      }
+    },
+    {
+      "file": "c34c65a89e96.webp",
+      "rect": {
+        "x": 0,
+        "y": 412,
+        "size": 2133
+      }
+    },
+    {
+      "file": "5377c2c45537.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "5VGbsFmVgQnbl1Wdu9WT",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Forrest_Gump_Point_Monument_Valley_November_2018_001.jpg",
+  "photographer": "King of Hearts (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "581d42e154b4.webp",
+      "rect": {
+        "x": 1006,
+        "y": 1543,
+        "size": 267
+      }
+    },
+    {
+      "file": "0e52a2bfc9a0.webp",
+      "rect": {
+        "x": 939,
+        "y": 1477,
+        "size": 400
+      }
+    },
+    {
+      "file": "edf3c12fc350.webp",
+      "rect": {
+        "x": 839,
+        "y": 1377,
+        "size": 600
+      }
+    },
+    {
+      "file": "2a52d7430521.webp",
+      "rect": {
+        "x": 678,
+        "y": 1215,
+        "size": 923
+      }
+    },
+    {
+      "file": "34e76a238405.webp",
+      "rect": {
+        "x": 433,
+        "y": 971,
+        "size": 1412
+      }
+    },
+    {
+      "file": "836df3667658.webp",
+      "rect": {
+        "x": 139,
+        "y": 400,
+        "size": 2000
+      }
+    },
+    {
+      "file": "dea9c50aec46.webp",
+      "rect": {
+        "x": 0,
+        "y": -720,
+        "size": 3840
+      }
+    }
+  ]
+}

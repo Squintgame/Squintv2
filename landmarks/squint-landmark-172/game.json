@@ -1,0 +1,67 @@
+{
+  "a": "==AZsVWaGBSelx2ZpJ3V",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Wrigley_Field_2018_-_42195054760.jpg",
+  "photographer": "Ryan Dickey (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "63c466ddb6f7.webp",
+      "rect": {
+        "x": 1012,
+        "y": 1205,
+        "size": 196
+      }
+    },
+    {
+      "file": "b33ff7930f6a.webp",
+      "rect": {
+        "x": 963,
+        "y": 1156,
+        "size": 294
+      }
+    },
+    {
+      "file": "da1e7ba8325c.webp",
+      "rect": {
+        "x": 890,
+        "y": 1082,
+        "size": 442
+      }
+    },
+    {
+      "file": "2016e6297563.webp",
+      "rect": {
+        "x": 771,
+        "y": 963,
+        "size": 680
+      }
+    },
+    {
+      "file": "c4596e3224ee.webp",
+      "rect": {
+        "x": 591,
+        "y": 728,
+        "size": 1039
+      }
+    },
+    {
+      "file": "25c4da72a672.webp",
+      "rect": {
+        "x": 374,
+        "y": 294,
+        "size": 1472
+      }
+    },
+    {
+      "file": "f40160ed308d.webp",
+      "rect": {
+        "x": 0,
+        "y": -1036,
+        "size": 3840
+      }
+    }
+  ]
+}

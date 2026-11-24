@@ -1,0 +1,67 @@
+{
+  "a": "0RXY0NHbsFGS",
+  "ar": "==QYpJHdzVXQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Hallstatt_-_Zentrum_.JPG",
+  "photographer": "C.Stadler/Bwag (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "0e1633d5f52f.webp",
+      "rect": {
+        "x": 1395,
+        "y": 1690,
+        "size": 294
+      }
+    },
+    {
+      "file": "f4552d6ca1ca.webp",
+      "rect": {
+        "x": 1322,
+        "y": 1616,
+        "size": 442
+      }
+    },
+    {
+      "file": "4a6a18591b7d.webp",
+      "rect": {
+        "x": 1211,
+        "y": 1506,
+        "size": 662
+      }
+    },
+    {
+      "file": "5f7c985bfb83.webp",
+      "rect": {
+        "x": 1033,
+        "y": 1327,
+        "size": 1019
+      }
+    },
+    {
+      "file": "300a8909c8ab.webp",
+      "rect": {
+        "x": 763,
+        "y": 1058,
+        "size": 1559
+      }
+    },
+    {
+      "file": "d2aff0e5a8a2.webp",
+      "rect": {
+        "x": 438,
+        "y": 442,
+        "size": 2208
+      }
+    },
+    {
+      "file": "67d2436dbf4f.webp",
+      "rect": {
+        "x": 0,
+        "y": -595,
+        "size": 3840
+      }
+    }
+  ]
+}

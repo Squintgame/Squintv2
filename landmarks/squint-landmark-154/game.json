@@ -1,0 +1,67 @@
+{
+  "a": "=IXZ2lmUgkGT",
+  "ar": "=Embph2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rzeka_Li.jpg",
+  "photographer": "Halaston (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "c85641b00291.webp",
+      "rect": {
+        "x": 716,
+        "y": 1157,
+        "size": 222
+      }
+    },
+    {
+      "file": "04bc651db099.webp",
+      "rect": {
+        "x": 661,
+        "y": 1102,
+        "size": 333
+      }
+    },
+    {
+      "file": "876724bc9ee3.webp",
+      "rect": {
+        "x": 577,
+        "y": 1018,
+        "size": 500
+      }
+    },
+    {
+      "file": "fb56c4a8c0b0.webp",
+      "rect": {
+        "x": 443,
+        "y": 884,
+        "size": 769
+      }
+    },
+    {
+      "file": "bb062500bbf5.webp",
+      "rect": {
+        "x": 239,
+        "y": 680,
+        "size": 1176
+      }
+    },
+    {
+      "file": "599ae4bf8323.webp",
+      "rect": {
+        "x": 0,
+        "y": 333,
+        "size": 1667
+      }
+    },
+    {
+      "file": "5b603cda5d9e.webp",
+      "rect": {
+        "x": 0,
+        "y": -504,
+        "size": 3008
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==QYpN2bkFGcwF2Q",
+  "ar": "5V2ayVHV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Cappadocia_Aerial_View_(6998755984).jpg",
+  "photographer": "Benh LIEU SONG from Torcy, France (CC BY-SA 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "56abae163110.webp",
+      "rect": {
+        "x": 351,
+        "y": 1336,
+        "size": 284
+      }
+    },
+    {
+      "file": "9746c9bfd5bf.webp",
+      "rect": {
+        "x": 279,
+        "y": 1265,
+        "size": 427
+      }
+    },
+    {
+      "file": "83994ef4dc26.webp",
+      "rect": {
+        "x": 173,
+        "y": 1158,
+        "size": 640
+      }
+    },
+    {
+      "file": "41e8dc2394e5.webp",
+      "rect": {
+        "x": 0,
+        "y": 986,
+        "size": 985
+      }
+    },
+    {
+      "file": "2b63551da0e5.webp",
+      "rect": {
+        "x": 0,
+        "y": 725,
+        "size": 1506
+      }
+    },
+    {
+      "file": "d74c5474e40a.webp",
+      "rect": {
+        "x": 0,
+        "y": 412,
+        "size": 2133
+      }
+    },
+    {
+      "file": "20e0581e5c9e.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

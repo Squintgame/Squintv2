@@ -1,0 +1,67 @@
+{
+  "a": "=EmepdEIm9GI45WaoB3UgQXYlJ3R",
+  "ar": "=QHc5dWR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Great_Sphinx_of_Giza_May_2015.JPG",
+  "photographer": "MusikAnimal (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "cca69f987fe6.webp",
+      "rect": {
+        "x": 3307,
+        "y": 1759,
+        "size": 284
+      }
+    },
+    {
+      "file": "d4fbcf5769bb.webp",
+      "rect": {
+        "x": 3236,
+        "y": 1687,
+        "size": 427
+      }
+    },
+    {
+      "file": "e2f9dfcee8b6.webp",
+      "rect": {
+        "x": 3130,
+        "y": 1581,
+        "size": 640
+      }
+    },
+    {
+      "file": "328f5cd39703.webp",
+      "rect": {
+        "x": 2855,
+        "y": 1408,
+        "size": 985
+      }
+    },
+    {
+      "file": "b874e2fc791b.webp",
+      "rect": {
+        "x": 2334,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "a41be76f6245.webp",
+      "rect": {
+        "x": 1707,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "2cfaa86ad3a3.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

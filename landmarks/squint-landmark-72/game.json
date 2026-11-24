@@ -1,0 +1,67 @@
+{
+  "a": "==QehdXZzVXYDBycnQnbhl2R",
+  "ar": "=02bkdmbptEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Giant%27s_Causeway_(36834542085).jpg",
+  "photographer": "Lindy Buckley from Nanjing, China (CC BY 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "1d7d49cbc5e0.webp",
+      "rect": {
+        "x": 439,
+        "y": 1551,
+        "size": 253
+      }
+    },
+    {
+      "file": "5c5b2ffdbddf.webp",
+      "rect": {
+        "x": 375,
+        "y": 1488,
+        "size": 379
+      }
+    },
+    {
+      "file": "2b0e727b98ee.webp",
+      "rect": {
+        "x": 281,
+        "y": 1393,
+        "size": 569
+      }
+    },
+    {
+      "file": "27abc35ef25c.webp",
+      "rect": {
+        "x": 127,
+        "y": 1240,
+        "size": 875
+      }
+    },
+    {
+      "file": "f73cb6e63489.webp",
+      "rect": {
+        "x": 0,
+        "y": 937,
+        "size": 1339
+      }
+    },
+    {
+      "file": "63cfb6db499f.webp",
+      "rect": {
+        "x": 0,
+        "y": 379,
+        "size": 1897
+      }
+    },
+    {
+      "file": "c44eb4e524e8.webp",
+      "rect": {
+        "x": 0,
+        "y": -549,
+        "size": 3374
+      }
+    }
+  ]
+}

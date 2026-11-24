@@ -1,0 +1,67 @@
+{
+  "a": "=wWZoNXYDBiZvByaj9mU",
+  "ar": "==AZuFGblJXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:%22Ein_bedeutendes_Wahrzeichen_der_irischen_Geschichte%22._02.jpg",
+  "photographer": "Holger Uwe Schmitt (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "dfcd939fd9be.webp",
+      "rect": {
+        "x": 1363,
+        "y": 2163,
+        "size": 326
+      }
+    },
+    {
+      "file": "8abba02af822.webp",
+      "rect": {
+        "x": 1282,
+        "y": 2081,
+        "size": 490
+      }
+    },
+    {
+      "file": "bb2d8b9ca0bf.webp",
+      "rect": {
+        "x": 1159,
+        "y": 1959,
+        "size": 734
+      }
+    },
+    {
+      "file": "c035cfcd8c5c.webp",
+      "rect": {
+        "x": 962,
+        "y": 1761,
+        "size": 1130
+      }
+    },
+    {
+      "file": "ce2acdee4677.webp",
+      "rect": {
+        "x": 663,
+        "y": 1209,
+        "size": 1728
+      }
+    },
+    {
+      "file": "740a717e3137.webp",
+      "rect": {
+        "x": 303,
+        "y": 490,
+        "size": 2448
+      }
+    },
+    {
+      "file": "08d2d236b4e9.webp",
+      "rect": {
+        "x": 0,
+        "y": -451,
+        "size": 3840
+      }
+    }
+  ]
+}

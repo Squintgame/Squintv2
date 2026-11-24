@@ -1,0 +1,67 @@
+{
+  "a": "lNWYsFGUgY2boJXZ0VGU",
+  "ar": "hl2czVnU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Grand_Cascade_in_Peterhof_01.jpg",
+  "photographer": "Florstein (Telegram:WikiPhoto.Space) (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "5f2527923551.webp",
+      "rect": {
+        "x": 2040,
+        "y": 1618,
+        "size": 284
+      }
+    },
+    {
+      "file": "ca07ed92382e.webp",
+      "rect": {
+        "x": 1969,
+        "y": 1547,
+        "size": 427
+      }
+    },
+    {
+      "file": "4dd67111927b.webp",
+      "rect": {
+        "x": 1862,
+        "y": 1440,
+        "size": 640
+      }
+    },
+    {
+      "file": "498e09bbca19.webp",
+      "rect": {
+        "x": 1690,
+        "y": 1268,
+        "size": 985
+      }
+    },
+    {
+      "file": "93b7c466e5ac.webp",
+      "rect": {
+        "x": 1429,
+        "y": 1007,
+        "size": 1506
+      }
+    },
+    {
+      "file": "20ed9dc63dde.webp",
+      "rect": {
+        "x": 1116,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "2ef7a3364d1d.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

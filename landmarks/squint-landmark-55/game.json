@@ -1,0 +1,67 @@
+{
+  "a": "=UGb0NXYDBicvNHZul2V",
+  "ar": "=02bkdmbptEIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Windsor_Castle_at_Sunset_-_Nov_2006.jpg",
+  "photographer": "Diliff (CC BY 2.5)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "5b5d70f61620.webp",
+      "rect": {
+        "x": 2603,
+        "y": 773,
+        "size": 284
+      }
+    },
+    {
+      "file": "26be40111e02.webp",
+      "rect": {
+        "x": 2532,
+        "y": 702,
+        "size": 426
+      }
+    },
+    {
+      "file": "c6211a67bd3a.webp",
+      "rect": {
+        "x": 2426,
+        "y": 595,
+        "size": 640
+      }
+    },
+    {
+      "file": "b93117a340a6.webp",
+      "rect": {
+        "x": 2253,
+        "y": 423,
+        "size": 984
+      }
+    },
+    {
+      "file": "d233d5d71989.webp",
+      "rect": {
+        "x": 1993,
+        "y": 162,
+        "size": 1505
+      }
+    },
+    {
+      "file": "d8f156fb5bfd.webp",
+      "rect": {
+        "x": 1679,
+        "y": 0,
+        "size": 2132
+      }
+    },
+    {
+      "file": "c4d9ab4bf666.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

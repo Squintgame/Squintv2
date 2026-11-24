@@ -1,0 +1,67 @@
+{
+  "a": "yVWajFGbHBybuVmcv1EIvRXayVGU",
+  "ar": "h5Wa05WZnJXQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_2023.jpg",
+  "photographer": "Fernando (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b1dc6978dc8b.webp",
+      "rect": {
+        "x": 673,
+        "y": 943,
+        "size": 183
+      }
+    },
+    {
+      "file": "e08767651f81.webp",
+      "rect": {
+        "x": 628,
+        "y": 897,
+        "size": 274
+      }
+    },
+    {
+      "file": "2ac1771a5842.webp",
+      "rect": {
+        "x": 559,
+        "y": 829,
+        "size": 412
+      }
+    },
+    {
+      "file": "76ec93b6cbd0.webp",
+      "rect": {
+        "x": 448,
+        "y": 718,
+        "size": 633
+      }
+    },
+    {
+      "file": "04efc5627932.webp",
+      "rect": {
+        "x": 281,
+        "y": 550,
+        "size": 968
+      }
+    },
+    {
+      "file": "3413d0ff4a28.webp",
+      "rect": {
+        "x": 79,
+        "y": 274,
+        "size": 1372
+      }
+    },
+    {
+      "file": "c16a03e49567.webp",
+      "rect": {
+        "x": 0,
+        "y": -1097,
+        "size": 3840
+      }
+    }
+  ]
+}

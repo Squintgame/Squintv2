@@ -1,0 +1,67 @@
+{
+  "a": "yVGav1EIm9GIzZmZpx2Q",
+  "ar": "==AZuFGblJXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ireland_Cliffs_of_Moher_BW_2025-09-11_14-27-51.jpg",
+  "photographer": "Berthold Werner (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "ba97d4eadb04.webp",
+      "rect": {
+        "x": 2613,
+        "y": 909,
+        "size": 240
+      }
+    },
+    {
+      "file": "a19d69195982.webp",
+      "rect": {
+        "x": 2553,
+        "y": 849,
+        "size": 360
+      }
+    },
+    {
+      "file": "e7aca9f8cc20.webp",
+      "rect": {
+        "x": 2463,
+        "y": 759,
+        "size": 540
+      }
+    },
+    {
+      "file": "fc244a2b6c71.webp",
+      "rect": {
+        "x": 2317,
+        "y": 613,
+        "size": 831
+      }
+    },
+    {
+      "file": "e9702b6b0918.webp",
+      "rect": {
+        "x": 2098,
+        "y": 394,
+        "size": 1271
+      }
+    },
+    {
+      "file": "af8153f1ad16.webp",
+      "rect": {
+        "x": 1833,
+        "y": 129,
+        "size": 1800
+      }
+    },
+    {
+      "file": "72ea8d9b3abc.webp",
+      "rect": {
+        "x": 0,
+        "y": -840,
+        "size": 3840
+      }
+    }
+  ]
+}

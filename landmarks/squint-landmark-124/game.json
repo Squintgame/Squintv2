@@ -1,0 +1,67 @@
+{
+  "a": "==QZnRWayJEIvRHbhlmU",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Rialto_2025_4.jpg",
+  "photographer": "kallerna (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "94e3677fe019.webp",
+      "rect": {
+        "x": 3026,
+        "y": 1055,
+        "size": 284
+      }
+    },
+    {
+      "file": "48e65ecc82fb.webp",
+      "rect": {
+        "x": 2955,
+        "y": 983,
+        "size": 427
+      }
+    },
+    {
+      "file": "f3f866e31763.webp",
+      "rect": {
+        "x": 2848,
+        "y": 877,
+        "size": 640
+      }
+    },
+    {
+      "file": "6215468fca97.webp",
+      "rect": {
+        "x": 2676,
+        "y": 704,
+        "size": 985
+      }
+    },
+    {
+      "file": "655352218f2d.webp",
+      "rect": {
+        "x": 2334,
+        "y": 444,
+        "size": 1506
+      }
+    },
+    {
+      "file": "3c7dd60669c8.webp",
+      "rect": {
+        "x": 1707,
+        "y": 130,
+        "size": 2133
+      }
+    },
+    {
+      "file": "f80930c8cd9f.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

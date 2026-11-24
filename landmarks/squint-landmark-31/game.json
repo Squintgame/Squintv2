@@ -1,0 +1,67 @@
+{
+  "a": "==wc1NXZoBXR",
+  "ar": "5V2ayVHV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ephesus_Celsus_Library_Fa%C3%A7ade.jpg",
+  "photographer": "Benh LIEU SONG (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "e548c12b6399.webp",
+      "rect": {
+        "x": 1083,
+        "y": 2080,
+        "size": 331
+      }
+    },
+    {
+      "file": "a439b45cd13b.webp",
+      "rect": {
+        "x": 1000,
+        "y": 1998,
+        "size": 496
+      }
+    },
+    {
+      "file": "b7ed2ea81db5.webp",
+      "rect": {
+        "x": 876,
+        "y": 1874,
+        "size": 744
+      }
+    },
+    {
+      "file": "69c59997ec86.webp",
+      "rect": {
+        "x": 676,
+        "y": 1674,
+        "size": 1144
+      }
+    },
+    {
+      "file": "16d33b7a37ac.webp",
+      "rect": {
+        "x": 373,
+        "y": 1225,
+        "size": 1750
+      }
+    },
+    {
+      "file": "71352b5ed4b7.webp",
+      "rect": {
+        "x": 8,
+        "y": 496,
+        "size": 2479
+      }
+    },
+    {
+      "file": "08dd1db1a03c.webp",
+      "rect": {
+        "x": 0,
+        "y": -432,
+        "size": 3840
+      }
+    }
+  ]
+}

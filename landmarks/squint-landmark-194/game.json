@@ -1,0 +1,67 @@
+{
+  "a": "zlGbvB3byNWQ",
+  "ar": "lNWZlJ3R",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Macrolepidoptera01seitz_0065.jpg",
+  "photographer": "Adalbert Seitz",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "92453bbe745b.webp",
+      "rect": {
+        "x": 1282,
+        "y": 608,
+        "size": 275
+      }
+    },
+    {
+      "file": "060f0aafcd10.webp",
+      "rect": {
+        "x": 1213,
+        "y": 539,
+        "size": 413
+      }
+    },
+    {
+      "file": "714d7d99aa45.webp",
+      "rect": {
+        "x": 1110,
+        "y": 436,
+        "size": 619
+      }
+    },
+    {
+      "file": "222c1eaed60a.webp",
+      "rect": {
+        "x": 943,
+        "y": 269,
+        "size": 952
+      }
+    },
+    {
+      "file": "ca32072b284b.webp",
+      "rect": {
+        "x": 691,
+        "y": 17,
+        "size": 1456
+      }
+    },
+    {
+      "file": "104a3ce12ce5.webp",
+      "rect": {
+        "x": 388,
+        "y": 0,
+        "size": 2063
+      }
+    },
+    {
+      "file": "264f3e17b5db.webp",
+      "rect": {
+        "x": -516,
+        "y": 0,
+        "size": 3508
+      }
+    }
+  ]
+}

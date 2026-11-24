@@ -1,0 +1,67 @@
+{
+  "a": "yV2dvRFIsVmZmlWR",
+  "ar": "lNmbhJnR",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg",
+  "photographer": "Benh LIEU SONG",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "2cdf4fc9d94a.webp",
+      "rect": {
+        "x": 1692,
+        "y": 3623,
+        "size": 322
+      }
+    },
+    {
+      "file": "255c455588cb.webp",
+      "rect": {
+        "x": 1611,
+        "y": 3542,
+        "size": 483
+      }
+    },
+    {
+      "file": "d9054ba20bbe.webp",
+      "rect": {
+        "x": 1490,
+        "y": 3421,
+        "size": 725
+      }
+    },
+    {
+      "file": "e1542c7c1a36.webp",
+      "rect": {
+        "x": 1295,
+        "y": 3226,
+        "size": 1115
+      }
+    },
+    {
+      "file": "9f2075253db0.webp",
+      "rect": {
+        "x": 1000,
+        "y": 2931,
+        "size": 1706
+      }
+    },
+    {
+      "file": "49ebe6606796.webp",
+      "rect": {
+        "x": 483,
+        "y": 2575,
+        "size": 2417
+      }
+    },
+    {
+      "file": "d20d3bb0f0ce.webp",
+      "rect": {
+        "x": -1233,
+        "y": 0,
+        "size": 5367
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==Qaq1SdrF2aul2S",
+  "ar": "=4WYwFmS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg",
+  "photographer": "Basile Morin (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "16b9be7f1b09.webp",
+      "rect": {
+        "x": 424,
+        "y": 1030,
+        "size": 240
+      }
+    },
+    {
+      "file": "0a0683b64151.webp",
+      "rect": {
+        "x": 364,
+        "y": 970,
+        "size": 360
+      }
+    },
+    {
+      "file": "588b7cabc25c.webp",
+      "rect": {
+        "x": 274,
+        "y": 880,
+        "size": 540
+      }
+    },
+    {
+      "file": "bae7e4e68711.webp",
+      "rect": {
+        "x": 129,
+        "y": 735,
+        "size": 831
+      }
+    },
+    {
+      "file": "9c73ad70a036.webp",
+      "rect": {
+        "x": 0,
+        "y": 515,
+        "size": 1271
+      }
+    },
+    {
+      "file": "08f873e91a4e.webp",
+      "rect": {
+        "x": 0,
+        "y": 250,
+        "size": 1800
+      }
+    },
+    {
+      "file": "1425cd75160d.webp",
+      "rect": {
+        "x": 0,
+        "y": -840,
+        "size": 3840
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "=U2YhxGUtQmbhJ3R",
+  "ar": "==Qb1l2ZsVmQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Grand-Place,_Brussels_-_panorama,_June_2018.jpg",
+  "photographer": "Celuici (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "e6e8fb02555d.webp",
+      "rect": {
+        "x": 179,
+        "y": 1032,
+        "size": 243
+      }
+    },
+    {
+      "file": "a26cb949d8e0.webp",
+      "rect": {
+        "x": 119,
+        "y": 971,
+        "size": 364
+      }
+    },
+    {
+      "file": "9510fe2114db.webp",
+      "rect": {
+        "x": 28,
+        "y": 880,
+        "size": 546
+      }
+    },
+    {
+      "file": "dba10b14ee47.webp",
+      "rect": {
+        "x": 0,
+        "y": 733,
+        "size": 840
+      }
+    },
+    {
+      "file": "0a9582cc0e2e.webp",
+      "rect": {
+        "x": 0,
+        "y": 510,
+        "size": 1285
+      }
+    },
+    {
+      "file": "8d73dc2a4998.webp",
+      "rect": {
+        "x": 0,
+        "y": 243,
+        "size": 1820
+      }
+    },
+    {
+      "file": "68f7b154de58.webp",
+      "rect": {
+        "x": 0,
+        "y": -828,
+        "size": 3840
+      }
+    }
+  ]
+}

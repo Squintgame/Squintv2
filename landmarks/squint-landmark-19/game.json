@@ -1,0 +1,67 @@
+{
+  "a": "n5WakxWa1JEIlRXY0NFIlJXaw1WR",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_from_Rockefeller_Center_(51197886181)_(cropped).jpg",
+  "photographer": "Domenico Convertini from Zurich, Schweiz (CC BY-SA 2.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b9aacf0fbae1.webp",
+      "rect": {
+        "x": 224,
+        "y": 3968,
+        "size": 300
+      }
+    },
+    {
+      "file": "16a89d4600ef.webp",
+      "rect": {
+        "x": 149,
+        "y": 3893,
+        "size": 450
+      }
+    },
+    {
+      "file": "734fad70161c.webp",
+      "rect": {
+        "x": 36,
+        "y": 3781,
+        "size": 676
+      }
+    },
+    {
+      "file": "b0374e35691b.webp",
+      "rect": {
+        "x": 0,
+        "y": 3599,
+        "size": 1039
+      }
+    },
+    {
+      "file": "fec219865977.webp",
+      "rect": {
+        "x": 0,
+        "y": 3324,
+        "size": 1589
+      }
+    },
+    {
+      "file": "fcc26474c706.webp",
+      "rect": {
+        "x": 0,
+        "y": 2992,
+        "size": 2252
+      }
+    },
+    {
+      "file": "49f99ad89db7.webp",
+      "rect": {
+        "x": -1349,
+        "y": 0,
+        "size": 5401
+      }
+    }
+  ]
+}

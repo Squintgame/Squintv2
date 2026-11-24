@@ -1,0 +1,67 @@
+{
+  "a": "=wGblx7wHByayFGU",
+  "ar": "=4WahB3U",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:G%C3%BCell_BCN_edited.jpg",
+  "photographer": "Canaan (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "60315cf513fe.webp",
+      "rect": {
+        "x": 914,
+        "y": 1055,
+        "size": 284
+      }
+    },
+    {
+      "file": "9e0521f48556.webp",
+      "rect": {
+        "x": 843,
+        "y": 983,
+        "size": 427
+      }
+    },
+    {
+      "file": "83c2cc500699.webp",
+      "rect": {
+        "x": 736,
+        "y": 877,
+        "size": 640
+      }
+    },
+    {
+      "file": "a07bfb8f129f.webp",
+      "rect": {
+        "x": 564,
+        "y": 704,
+        "size": 985
+      }
+    },
+    {
+      "file": "4709d373a8b0.webp",
+      "rect": {
+        "x": 303,
+        "y": 444,
+        "size": 1506
+      }
+    },
+    {
+      "file": "c7b487d94c28.webp",
+      "rect": {
+        "x": 0,
+        "y": 130,
+        "size": 2133
+      }
+    },
+    {
+      "file": "b33aa44ca3e1.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

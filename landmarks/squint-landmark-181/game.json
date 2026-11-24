@@ -1,0 +1,67 @@
+{
+  "a": "sxWaIBCduVWbhlGbyFGU",
+  "ar": "hRWYuF2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Parliament_Hill,_Ottawa.jpg",
+  "photographer": "David Samuel, User:Hellodavey1902 (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "6a1ae01b7477.webp",
+      "rect": {
+        "x": 1683,
+        "y": 473,
+        "size": 269
+      }
+    },
+    {
+      "file": "4f81c51e3f22.webp",
+      "rect": {
+        "x": 1616,
+        "y": 406,
+        "size": 404
+      }
+    },
+    {
+      "file": "3fcad26e6793.webp",
+      "rect": {
+        "x": 1515,
+        "y": 305,
+        "size": 606
+      }
+    },
+    {
+      "file": "22f8bf3b744d.webp",
+      "rect": {
+        "x": 1351,
+        "y": 141,
+        "size": 932
+      }
+    },
+    {
+      "file": "989cb97e1c8a.webp",
+      "rect": {
+        "x": 1105,
+        "y": 0,
+        "size": 1426
+      }
+    },
+    {
+      "file": "622a40f99020.webp",
+      "rect": {
+        "x": 808,
+        "y": 0,
+        "size": 2020
+      }
+    },
+    {
+      "file": "1d19f2440d79.webp",
+      "rect": {
+        "x": 0,
+        "y": -708,
+        "size": 3840
+      }
+    }
+  ]
+}

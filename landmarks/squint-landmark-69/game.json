@@ -1,0 +1,67 @@
+{
+  "a": "==QZyFWdxNFIuVWbuFmbhlGV",
+  "ar": "=Embph2Q",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Tian%27anmen_from_the_square_(20200825114150).jpg",
+  "photographer": "N509FZ (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "2e45fea01e90.webp",
+      "rect": {
+        "x": 2603,
+        "y": 1195,
+        "size": 284
+      }
+    },
+    {
+      "file": "ad1087634051.webp",
+      "rect": {
+        "x": 2532,
+        "y": 1124,
+        "size": 427
+      }
+    },
+    {
+      "file": "02c54b62e7ca.webp",
+      "rect": {
+        "x": 2426,
+        "y": 1018,
+        "size": 640
+      }
+    },
+    {
+      "file": "c5930f932c0c.webp",
+      "rect": {
+        "x": 2253,
+        "y": 845,
+        "size": 985
+      }
+    },
+    {
+      "file": "43fe3d2e5b12.webp",
+      "rect": {
+        "x": 1993,
+        "y": 585,
+        "size": 1506
+      }
+    },
+    {
+      "file": "09b7deb40950.webp",
+      "rect": {
+        "x": 1679,
+        "y": 271,
+        "size": 2133
+      }
+    },
+    {
+      "file": "b9f1f95328cb.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}

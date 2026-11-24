@@ -1,0 +1,67 @@
+{
+  "a": "zVmcpFEIz9mblVnQgUGZg82YzlGblJ2T",
+  "ar": "h5Wa05WZnJXQ",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:ObeliscoBA2015.jpg",
+  "photographer": "Sebastianalmaraz (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "84edbc0e687d.webp",
+      "rect": {
+        "x": 2111,
+        "y": 1703,
+        "size": 272
+      }
+    },
+    {
+      "file": "2f26ad2a03c5.webp",
+      "rect": {
+        "x": 2043,
+        "y": 1635,
+        "size": 408
+      }
+    },
+    {
+      "file": "c38dd45c5f02.webp",
+      "rect": {
+        "x": 1941,
+        "y": 1533,
+        "size": 612
+      }
+    },
+    {
+      "file": "fbeafd2bf0cd.webp",
+      "rect": {
+        "x": 1776,
+        "y": 1368,
+        "size": 942
+      }
+    },
+    {
+      "file": "2a114e514225.webp",
+      "rect": {
+        "x": 1527,
+        "y": 1008,
+        "size": 1440
+      }
+    },
+    {
+      "file": "241385c81204.webp",
+      "rect": {
+        "x": 1224,
+        "y": 408,
+        "size": 2040
+      }
+    },
+    {
+      "file": "98d20cfd93ea.webp",
+      "rect": {
+        "x": 0,
+        "y": -408,
+        "size": 3264
+      }
+    }
+  ]
+}

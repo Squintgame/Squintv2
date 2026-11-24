@@ -1,0 +1,67 @@
+{
+  "a": "==wbph2YjVmVgUGdu9GU",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Ponte_Vecchio_from_Ponte_alle_Grazie.jpg",
+  "photographer": "Ingo Mehling (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "9d627302888f.webp",
+      "rect": {
+        "x": 3059,
+        "y": 985,
+        "size": 238
+      }
+    },
+    {
+      "file": "983b10bbf548.webp",
+      "rect": {
+        "x": 2999,
+        "y": 926,
+        "size": 356
+      }
+    },
+    {
+      "file": "3579ed116d94.webp",
+      "rect": {
+        "x": 2910,
+        "y": 837,
+        "size": 534
+      }
+    },
+    {
+      "file": "af3c4887fcc0.webp",
+      "rect": {
+        "x": 2766,
+        "y": 693,
+        "size": 822
+      }
+    },
+    {
+      "file": "bd37ed11b8ac.webp",
+      "rect": {
+        "x": 2549,
+        "y": 475,
+        "size": 1258
+      }
+    },
+    {
+      "file": "692b10c6e925.webp",
+      "rect": {
+        "x": 2058,
+        "y": 213,
+        "size": 1782
+      }
+    },
+    {
+      "file": "782aff33f668.webp",
+      "rect": {
+        "x": 0,
+        "y": -851,
+        "size": 3840
+      }
+    }
+  ]
+}

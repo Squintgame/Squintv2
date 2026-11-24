@@ -1,0 +1,67 @@
+{
+  "a": "lxGZlVmTgU2YhB3U",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Seattle,_October_6,_2023_-_60.jpg",
+  "photographer": "Another Believer (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "7a1e9e06c34b.webp",
+      "rect": {
+        "x": 909,
+        "y": 375,
+        "size": 213
+      }
+    },
+    {
+      "file": "d77e3c02728f.webp",
+      "rect": {
+        "x": 855,
+        "y": 322,
+        "size": 320
+      }
+    },
+    {
+      "file": "88bb7d9ef069.webp",
+      "rect": {
+        "x": 775,
+        "y": 242,
+        "size": 480
+      }
+    },
+    {
+      "file": "f66041423684.webp",
+      "rect": {
+        "x": 646,
+        "y": 113,
+        "size": 738
+      }
+    },
+    {
+      "file": "24989df6e90c.webp",
+      "rect": {
+        "x": 451,
+        "y": 0,
+        "size": 1129
+      }
+    },
+    {
+      "file": "1322ed29cab3.webp",
+      "rect": {
+        "x": 215,
+        "y": 0,
+        "size": 1600
+      }
+    },
+    {
+      "file": "9f9de04d4b20.webp",
+      "rect": {
+        "x": -320,
+        "y": 0,
+        "size": 2560
+      }
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "a": "==AduVWb152bNBibvR3ZulGazF2V",
+  "ar": "==wclRXY0NFIkVGdp5WV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Washington_250424_Washington_Monument_01.jpg",
+  "photographer": "Oren Rozen (CC BY-SA 4.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "52a0f4bc8ef7.webp",
+      "rect": {
+        "x": 1615,
+        "y": 3155,
+        "size": 311
+      }
+    },
+    {
+      "file": "f233e04fe820.webp",
+      "rect": {
+        "x": 1538,
+        "y": 3078,
+        "size": 467
+      }
+    },
+    {
+      "file": "025abe9d1a12.webp",
+      "rect": {
+        "x": 1421,
+        "y": 2961,
+        "size": 700
+      }
+    },
+    {
+      "file": "c746cd5f2f65.webp",
+      "rect": {
+        "x": 1233,
+        "y": 2773,
+        "size": 1077
+      }
+    },
+    {
+      "file": "11e3261f3b80.webp",
+      "rect": {
+        "x": 947,
+        "y": 2487,
+        "size": 1647
+      }
+    },
+    {
+      "file": "348405abcfc5.webp",
+      "rect": {
+        "x": 467,
+        "y": 1867,
+        "size": 2333
+      }
+    },
+    {
+      "file": "0e6ac91d6f59.webp",
+      "rect": {
+        "x": -700,
+        "y": 0,
+        "size": 4200
+      }
+    }
+  ]
+}

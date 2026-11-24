@@ -1,0 +1,67 @@
+{
+  "a": "=8mchpmbh1Wasl2SgQnb19WT",
+  "ar": "=EWauFmeuFGV",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Mt._Kilimanjaro_12.2006.jpg",
+  "photographer": "Wikimedia Commons contributor (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "f812de4a84f0.webp",
+      "rect": {
+        "x": 1676,
+        "y": 1028,
+        "size": 216
+      }
+    },
+    {
+      "file": "94c3a0b09ab9.webp",
+      "rect": {
+        "x": 1622,
+        "y": 974,
+        "size": 324
+      }
+    },
+    {
+      "file": "afb09d2d57fa.webp",
+      "rect": {
+        "x": 1541,
+        "y": 893,
+        "size": 486
+      }
+    },
+    {
+      "file": "3d80f67af934.webp",
+      "rect": {
+        "x": 1410,
+        "y": 762,
+        "size": 748
+      }
+    },
+    {
+      "file": "ae2ed7ff642b.webp",
+      "rect": {
+        "x": 1212,
+        "y": 564,
+        "size": 1144
+      }
+    },
+    {
+      "file": "acc653015ef6.webp",
+      "rect": {
+        "x": 972,
+        "y": 324,
+        "size": 1620
+      }
+    },
+    {
+      "file": "02326c2a6054.webp",
+      "rect": {
+        "x": 0,
+        "y": -324,
+        "size": 2592
+      }
+    }
+  ]
+}

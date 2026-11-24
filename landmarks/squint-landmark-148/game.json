@@ -1,0 +1,67 @@
+{
+  "a": "zxGbphEIlRXYs92Yvh2Q",
+  "ar": "=MXZulGcwlGbphGU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Chocolate_Hills_overview.JPG",
+  "photographer": "P199 (CC BY-SA 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "3166726d1e7e.webp",
+      "rect": {
+        "x": 812,
+        "y": 1460,
+        "size": 216
+      }
+    },
+    {
+      "file": "002115e69df0.webp",
+      "rect": {
+        "x": 758,
+        "y": 1406,
+        "size": 324
+      }
+    },
+    {
+      "file": "4df5d9b9421d.webp",
+      "rect": {
+        "x": 677,
+        "y": 1325,
+        "size": 486
+      }
+    },
+    {
+      "file": "3f89abdf4102.webp",
+      "rect": {
+        "x": 546,
+        "y": 1194,
+        "size": 748
+      }
+    },
+    {
+      "file": "162a5c7963a0.webp",
+      "rect": {
+        "x": 348,
+        "y": 800,
+        "size": 1144
+      }
+    },
+    {
+      "file": "ae35713904ac.webp",
+      "rect": {
+        "x": 110,
+        "y": 324,
+        "size": 1620
+      }
+    },
+    {
+      "file": "4c39e2f47a5e.webp",
+      "rect": {
+        "x": 0,
+        "y": -324,
+        "size": 2592
+      }
+    }
+  ]
+}

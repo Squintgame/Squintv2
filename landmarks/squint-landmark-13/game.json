@@ -1,0 +1,67 @@
+{
+  "a": "=MXdpZXdzVmVgQnb19WT",
+  "ar": "=kHbhRXS",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Il_cratere_del_Vulcano_-_panoramio.jpg",
+  "photographer": "pietro scerrato (CC BY 3.0)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "b00e0c16adf3.webp",
+      "rect": {
+        "x": 2248,
+        "y": 1591,
+        "size": 228
+      }
+    },
+    {
+      "file": "ff02226584ea.webp",
+      "rect": {
+        "x": 2191,
+        "y": 1534,
+        "size": 341
+      }
+    },
+    {
+      "file": "93327c7ade08.webp",
+      "rect": {
+        "x": 2106,
+        "y": 1449,
+        "size": 512
+      }
+    },
+    {
+      "file": "977f090c281c.webp",
+      "rect": {
+        "x": 1968,
+        "y": 1260,
+        "size": 788
+      }
+    },
+    {
+      "file": "a75f24e874e9.webp",
+      "rect": {
+        "x": 1760,
+        "y": 843,
+        "size": 1205
+      }
+    },
+    {
+      "file": "ef1dd63326c6.webp",
+      "rect": {
+        "x": 1509,
+        "y": 341,
+        "size": 1707
+      }
+    },
+    {
+      "file": "24685f8e727c.webp",
+      "rect": {
+        "x": 0,
+        "y": -800,
+        "size": 3648
+      }
+    }
+  ]
+}

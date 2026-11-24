@@ -1,0 +1,67 @@
+{
+  "a": "lxGdzF2QgwWZ3F2V",
+  "ar": "k5WYs9GU",
+  "hint": "",
+  "category": "",
+  "source": "https://commons.wikimedia.org/wiki/File:Wawel_on_Wisla.JPG",
+  "photographer": "Stanislau 93 (CC BY-SA 3.0 pl)",
+  "creditPrefix": "Photo by",
+  "levels": [
+    {
+      "file": "55cc2cd23287.webp",
+      "rect": {
+        "x": 2463,
+        "y": 2040,
+        "size": 284
+      }
+    },
+    {
+      "file": "f60aa5e206d0.webp",
+      "rect": {
+        "x": 2391,
+        "y": 1969,
+        "size": 427
+      }
+    },
+    {
+      "file": "b979b13db001.webp",
+      "rect": {
+        "x": 2285,
+        "y": 1862,
+        "size": 640
+      }
+    },
+    {
+      "file": "cae193c485cc.webp",
+      "rect": {
+        "x": 2112,
+        "y": 1575,
+        "size": 985
+      }
+    },
+    {
+      "file": "4a10cbc2e571.webp",
+      "rect": {
+        "x": 1852,
+        "y": 1054,
+        "size": 1506
+      }
+    },
+    {
+      "file": "e90b98d8f468.webp",
+      "rect": {
+        "x": 1538,
+        "y": 427,
+        "size": 2133
+      }
+    },
+    {
+      "file": "6fbc17d0e596.webp",
+      "rect": {
+        "x": 0,
+        "y": -640,
+        "size": 3840
+      }
+    }
+  ]
+}
