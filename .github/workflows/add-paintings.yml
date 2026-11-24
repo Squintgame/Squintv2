@@ -1,0 +1,75 @@
+name: Add painting puzzles
+
+# Run it from the Actions tab: choose "Add painting puzzles", then "Run workflow".
+on:
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many paintings to add (try 10 first)"
+        required: true
+        default: "10"
+      max_per_artist:
+        description: "Most puzzles from any one artist"
+        required: true
+        default: "8"
+      min_languages:
+        description: "Only paintings with Wikipedia articles in at least this many languages"
+        required: true
+        default: "12"
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: add-paintings
+  cancel-in-progress: false
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: pip install requests pillow numpy "opencv-python-headless>=4.8,<5"
+
+      - name: Find, check and build the puzzles
+        env:
+          COUNT: ${{ github.event.inputs.count }}
+          MAX_PER_ARTIST: ${{ github.event.inputs.max_per_artist }}
+          MIN_LANGUAGES: ${{ github.event.inputs.min_languages }}
+        run: python scripts/add_paintings.py --count "$COUNT" --max-per-artist "$MAX_PER_ARTIST" --min-languages "$MIN_LANGUAGES"
+
+      - name: Save the puzzles to the repository
+        run: |
+          git config user.name "squint-bot"
+          git config user.email "squint-bot@users.noreply.github.com"
+          git add art paintings.json
+          if git diff --cached --quiet; then
+            echo "Nothing new to save."
+          else
+            git commit -m "Add painting puzzles ($(cat build/private/summary.txt))"
+            git push
+          fi
+
+      # Pushes made by a workflow don't always republish the site, so ask GitHub Pages directly.
+      - name: Republish the website
+        continue-on-error: true
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${{ github.repository }}/pages/builds" || echo "Pages will republish on its own."
+
+      # Record files and the review page contain the answers, so they're a private download, not committed.
+      - name: Offer the review page and record files as a download
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: painting-review-and-records
+          path: build/private/
+          retention-days: 90
