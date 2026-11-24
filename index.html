@@ -134,6 +134,12 @@
     60% { transform: translateX(-3px); } 80% { transform: translateX(2px); }
   }
 
+  .category {
+    display: block; width: fit-content; margin: 12px auto 0; padding: 6px 14px;
+    border-radius: 999px; background: var(--surface); border: 1px solid var(--line);
+    font-weight: 600; font-size: 0.95rem; text-align: center;
+  }
+  .category span { color: var(--muted); font-weight: 500; }
   .pips { list-style: none; display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; padding: 0; margin: 12px 0 0; }
   .pips li { height: 8px; border-radius: 4px; background: var(--line); }
   .pips li.miss { background: var(--miss); }
@@ -249,6 +255,7 @@
       <img id="imgB" alt="" draggable="false" style="z-index:1">
       <div class="loading" id="loading">Loading today's picture…</div>
     </div>
+    <p class="category" id="category" hidden></p>
     <ol class="pips" id="pips" aria-label="Guesses used"></ol>
     <p class="hint" id="hint" hidden></p>
 
@@ -494,6 +501,7 @@ async function start() {
     }
     puzzle = {
       answer: unobscure(g.a), hint: (g.hint || "").trim(), accept: g.accept || [],
+      category: (g.category || "").trim(),
       source: (g.source || "").trim(), photographer: (g.photographer || "").trim(),
       levels: g.levels, base: `puzzles/${folder}/`
     };
@@ -512,6 +520,7 @@ async function start() {
 
     await showLevel(currentLevel(), false);
     $("loading").hidden = true;
+    showCategory();
     revealDone = state.status !== "playing";
     [input, $("guessBtn"), $("skipBtn")].forEach(el => (el.disabled = false));
     render();
@@ -540,6 +549,15 @@ function replayOrder(count, day) {
     if (i !== day) order.push(i);
   }
   return order;
+}
+
+/* "Category: Animals" under the image. Hidden entirely when the puzzle has no category. */
+function showCategory() {
+  const el = $("category"), c = puzzle.category;
+  if (!c) { el.hidden = true; el.innerHTML = ""; return; }
+  const label = c.charAt(0).toUpperCase() + c.slice(1);   // "animals" -> "Animals"
+  el.innerHTML = `<span>Category:</span> ${escapeHTML(label)}`;
+  el.hidden = false;
 }
 
 const currentLevel = () => (state.status === "playing" ? state.guesses.length : FULL);
