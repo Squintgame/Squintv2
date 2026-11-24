@@ -233,8 +233,19 @@ def main():
     for r in ordered:
         rec = {k: v for k, v in r.items() if k not in ("folder", "scheduleNumber")}
         (PRIVATE / "records" / f"{r['folder']}-record.json").write_text(json.dumps(rec, indent=2, ensure_ascii=False), encoding="utf-8")
-    (PRIVATE / "review.html").write_text(common.review_page(ordered, thumbs, noun="landmark", folder_dir="landmarks",
-        who=lambda r: f"in {r['city'] + ', ' if r.get('city') else ''}{' / '.join(r['countries'])}"), encoding="utf-8")
+    # The review page is a convenience: if it can't be made, say so but still save the puzzles.
+    try:
+        page = common.review_page(ordered, thumbs, noun="landmark", folder_dir="landmarks",
+                                  who=lambda r: f"in {r['city'] + ', ' if r.get('city') else ''}{' / '.join(r['countries'])}")
+    except TypeError:
+        print("Note: scripts/add_paintings.py is an older version, so the review page uses the simpler layout.")
+        try:
+            page = common.review_page(ordered, thumbs)
+        except Exception as e:
+            page = f"<p>The review page couldn't be made ({e}). The puzzles were still saved.</p>"
+    except Exception as e:
+        page = f"<p>The review page couldn't be made ({e}). The puzzles were still saved.</p>"
+    (PRIVATE / "review.html").write_text(page, encoding="utf-8")
     (PRIVATE / "skipped.txt").write_text("\n".join(skipped) + "\n", encoding="utf-8")
     cc = sum(1 for r in ordered if not common.license_ok({"license": r["license"]}))
     summary = f"Built {len(ordered)} landmark puzzles ({cc} use CC-licensed photos, credited). Skipped {len(skipped)}."

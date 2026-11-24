@@ -175,6 +175,8 @@ def commons_info(files):
                 "license": strip_tags(meta.get("LicenseShortName", {}).get("value", "")),
                 "copyrighted": meta.get("Copyrighted", {}).get("value", ""),
                 "credit": strip_tags(meta.get("Credit", {}).get("value", "")),
+                "author": strip_tags(meta.get("Artist", {}).get("value", "")),
+                "licenseUrl": meta.get("LicenseUrl", {}).get("value", ""),
             }
         time.sleep(0.5)
     return info
@@ -335,22 +337,22 @@ def order_for_schedule(items, recent_artists):
 
 
 # ----------------------------------------------------------------- 6. review page
-def review_page(records, thumbs):
+def review_page(records, thumbs, noun="painting", folder_dir="art", who=lambda r: f"by {r['artist']}"):
     rows = []
     for r in records:
         imgs = "".join(f'<img src="data:image/jpeg;base64,{t}" alt="">' for t in thumbs[r["folder"]])
-        rows.append(f"""<section><h2>#{r['scheduleNumber']} · {html.escape(r['answer'])} <small>by {html.escape(r['artist'])}{(' (' + r['year'] + ')') if r['year'] else ''}</small></h2>
-<p>Folder <code>art/{r['folder']}</code> · Wikipedia in {r['languages']} languages · License: {html.escape(r['license'])} ·
+        rows.append(f"""<section><h2>#{r['scheduleNumber']} · {html.escape(r['answer'])} <small>{html.escape(who(r))}{(' (' + r['year'] + ')') if r.get('year') else ''}</small></h2>
+<p>Folder <code>{folder_dir}/{r['folder']}</code> · Wikipedia in {r['languages']} languages · License: {html.escape(r['license'])} ·
 <a href="{html.escape(r['source'])}" target="_blank" rel="noopener">image page</a>{' · <b>new to the catalog</b>' if r.get('addedToCatalog') else ''}</p>
 <div class="levels">{imgs}</div></section>""")
     return f"""<!DOCTYPE html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Squint paintings review</title>
+<title>Squint {noun}s review</title>
 <style>body{{font-family:system-ui,sans-serif;max-width:1100px;margin:0 auto;padding:24px;background:#f7f6f2;color:#1c1d1f}}
 section{{background:#fff;border:1px solid #deddd5;border-radius:14px;padding:14px 16px;margin:14px 0}}
 h2{{margin:0 0 4px;font-size:1.1rem}} small{{color:#6b6c70;font-weight:500}} p{{margin:0 0 10px;color:#6b6c70;font-size:.9rem}}
 .levels{{display:grid;grid-template-columns:repeat(7,1fr);gap:6px}} .levels img{{width:100%;border-radius:6px;border:1px solid #ddd}}
 @media(max-width:700px){{.levels{{grid-template-columns:repeat(4,1fr)}}}}</style>
-<h1>{len(records)} new painting puzzles</h1>
+<h1>{len(records)} new {noun} puzzles</h1>
 <p>Each row shows the seven looks, from the first zoom to the full reveal. To fix one, download the image from its
 "image page" at the size listed in its record file, open it in the crop picker, and use "Load a record file".</p>
 {''.join(rows)}</html>"""
@@ -469,7 +471,11 @@ def main():
     for r in ordered:
         rec = {k: v for k, v in r.items() if k not in ("folder", "scheduleNumber", "addedToCatalog")}
         (PRIVATE / "records" / f"{r['folder']}-record.json").write_text(json.dumps(rec, indent=2, ensure_ascii=False), encoding="utf-8")
-    (PRIVATE / "review.html").write_text(review_page(ordered, thumbs), encoding="utf-8")
+    try:
+        page = review_page(ordered, thumbs)
+    except Exception as e:                 # never lose a finished batch over the review page
+        page = f"<p>The review page couldn't be made ({e}). The puzzles were still saved.</p>"
+    (PRIVATE / "review.html").write_text(page, encoding="utf-8")
     (PRIVATE / "skipped.txt").write_text("\n".join(skipped) + "\n", encoding="utf-8")
     added = sum(1 for r in ordered if r["addedToCatalog"])
     summary = f"Built {len(ordered)} puzzles ({added} paintings new to the catalog). Skipped {len(skipped)} candidates."
